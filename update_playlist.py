@@ -297,12 +297,16 @@ def write_readme(path: Path, entries: list[dict], checked: bool,
     ]
     if checked:
         active = sum(1 for e in entries if e.get("active"))
-        dead = len(entries) - active
-        lines += [f"### ✅ Active Streams: {active}", f"❌ Dead Streams: {dead}", ""]
         dead_entries = [e for e in entries if not e.get("active")]
-        if dead_entries:
+        # Live-event links expire when the match ends, so keep them out of the dead log.
+        live_dead = [e for e in dead_entries if e["category"].startswith("Live")]
+        listed_dead = [e for e in dead_entries if not e["category"].startswith("Live")]
+        lines += [f"### ✅ Active Streams: {active}", f"❌ Dead Streams: {len(listed_dead)}", ""]
+        if live_dead:
+            lines += [f"_Skipped {len(live_dead)} dead live-event streams — event links expire when the match ends._", ""]
+        if listed_dead:
             lines += ["| Channel | Category | Error (Code) |", "| --- | --- | --- |"]
-            for e in dead_entries:
+            for e in listed_dead:
                 name = _md_cell(e["name"] or e["title"] or "Unknown")
                 lines.append(f"| {_md_link(name, e['url'])} | {_md_cell(e['category'])} | {_md_cell(e['error'])} |")
             lines.append("")
