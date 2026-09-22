@@ -1,57 +1,137 @@
 #EXTM3U url-tvg="https://s.id/d9sEPG"
-#EXTINF:-1 tvg-chno="123" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[Hockey] Columbus Blue Jackets vs. Buffalo Sabres | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live - Hockey",[Hockey] Columbus Blue Jackets vs. Buffalo Sabres | English (STRMCNTR)
+#EXTINF:-1 tvg-chno="175" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[Hockey] Buffalo Sabres vs Columbus Blue Jackets (DAMITV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live - Hockey",[Hockey] Buffalo Sabres vs Columbus Blue Jackets (DAMITV)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=sd-delta~live_nhl-preseason_sabres-blue-jackets-live-streaming-623913840
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-sd/streamed/delta/live_nhl-preseason_sabres-blue-jackets-live-streaming-623913840/playlist.m3u8?tk=F5SwQLgxOvwUwsLImsxMQg&e=1790159412
+#EXTINF:-1 tvg-chno="176" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[Hockey] Columbus Blue Jackets vs. Buffalo Sabres | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live - Hockey",[Hockey] Columbus Blue Jackets vs. Buffalo Sabres | English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/wxdaztfhd62.m3u8
-#EXTINF:-1 tvg-chno="124" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[Hockey] Detroit Red Wings vs. Pittsburgh Penguins | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live - Hockey",[Hockey] Detroit Red Wings vs. Pittsburgh Penguins | English (STRMCNTR)
+#EXTINF:-1 tvg-chno="177" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[Hockey] Detroit Red Wings vs. Pittsburgh Penguins | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live - Hockey",[Hockey] Detroit Red Wings vs. Pittsburgh Penguins | English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/gfhfgsqda61.m3u8
-#EXTINF:-1 tvg-chno="125" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[Hockey] Edmonton Oilers vs. Winnipeg Jets | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live - Hockey",[Hockey] Edmonton Oilers vs. Winnipeg Jets | English (STRMCNTR)
+#EXTINF:-1 tvg-chno="178" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[Hockey] Edmonton Oilers vs. Winnipeg Jets | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live - Hockey",[Hockey] Edmonton Oilers vs. Winnipeg Jets | English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/mlkijfezag65.m3u8
-#EXTINF:-1 tvg-chno="126" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[Hockey] Florida Panthers vs. Carolina Hurricanes | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live - Hockey",[Hockey] Florida Panthers vs. Carolina Hurricanes | English (STRMCNTR)
+#EXTINF:-1 tvg-chno="179" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[Hockey] Florida Panthers vs. Carolina Hurricanes | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live - Hockey",[Hockey] Florida Panthers vs. Carolina Hurricanes | English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/gfsqdqsjhdaiu64.m3u8
-#EXTINF:-1 tvg-chno="127" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[Hockey] New York Islanders vs. New York Rangers | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live - Hockey",[Hockey] New York Islanders vs. New York Rangers | English (STRMCNTR)
+#EXTINF:-1 tvg-chno="180" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[Hockey] New York Islanders vs. New York Rangers | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live - Hockey",[Hockey] New York Islanders vs. New York Rangers | English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/wxcgfaiiog63.m3u8
-#EXTINF:-1 tvg-chno="128" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[Hockey] Philadelphia Flyers vs. Boston Bruins | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live - Hockey",[Hockey] Philadelphia Flyers vs. Boston Bruins | English (STRMCNTR)
+#EXTINF:-1 tvg-chno="181" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[Hockey] Philadelphia Flyers vs. Boston Bruins | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live - Hockey",[Hockey] Philadelphia Flyers vs. Boston Bruins | English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://edgestream2.pro/hls/cwxvbnfghq60.m3u8
-#EXTINF:-1 tvg-chno="129" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[Hockey] Tampa Bay Lightning vs. Nashville Predators | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live - Hockey",[Hockey] Tampa Bay Lightning vs. Nashville Predators | English (STRMCNTR)
+https://edgestream4.pro/hls/cwxvbnfghq60.m3u8
+#EXTINF:-1 tvg-chno="182" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[Hockey] Tampa Bay Lightning vs. Nashville Predators | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live - Hockey",[Hockey] Tampa Bay Lightning vs. Nashville Predators | English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/wfazgsqtrezu66.m3u8
-#EXTINF:-1 tvg-chno="130" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[Hockey] Utah Mammoth vs. Los Angeles Kings | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live - Hockey",[Hockey] Utah Mammoth vs. Los Angeles Kings | English (STRMCNTR)
+#EXTINF:-1 tvg-chno="183" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[Hockey] Utah Mammoth vs. Los Angeles Kings | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live - Hockey",[Hockey] Utah Mammoth vs. Los Angeles Kings | English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/zayrtezafgvdv68.m3u8
-#EXTINF:-1 tvg-chno="131" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[Hockey] Vancouver Canucks vs. Calgary Flames | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live - Hockey",[Hockey] Vancouver Canucks vs. Calgary Flames | English (STRMCNTR)
+#EXTINF:-1 tvg-chno="184" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[Hockey] Vancouver Canucks vs. Calgary Flames | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live - Hockey",[Hockey] Vancouver Canucks vs. Calgary Flames | English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/hfsdqtaxvb67.m3u8
-#EXTINF:-1 tvg-chno="132" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[Hockey] Vegas Golden Knights vs. San Jose Sharks | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live - Hockey",[Hockey] Vegas Golden Knights vs. San Jose Sharks | English (STRMCNTR)
+#EXTINF:-1 tvg-chno="185" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[Hockey] Vegas Golden Knights vs. San Jose Sharks | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live - Hockey",[Hockey] Vegas Golden Knights vs. San Jose Sharks | English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/zeafwqvhfe69.m3u8
-#EXTINF:-1 tvg-chno="133" tvg-id="Ice.Hockey.Dummy.us" tvg-name="[Sweden Hockey SHL] Linkoping vs Brynas (FAWA)" tvg-logo="https://liquipedia.net/commons/images/thumb/2/2e/Swedish_Hockey_League_lightmode.png/600px-Swedish_Hockey_League_lightmode.png" group-title="Live - Hockey",[Sweden Hockey SHL] Linkoping vs Brynas (FAWA)
+#EXTINF:-1 tvg-chno="186" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[Ice Hockey] Detroit Red Wings vs. Pittsburgh Penguins (EMBEDSPRT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live - Hockey",[Ice Hockey] Detroit Red Wings vs. Pittsburgh Penguins (EMBEDSPRT)
+#EXTVLCOPT:http-referrer=https://embedfootball.site/ppv/?id=Bj9DMAVrHQ4dIVtGFDtaQB41Fi0ZdVRLASNSBSYbNRxcewV2W2ELDEp-FkcVJhlUHiA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://vip.streamapi.cc/vip8/playlist.m3u8?playlist=Bj9DMAVrHQ4dIVtGFDtaQB41Fi0ZdVRLASNSBSYbNRxcewV2W2ELDEp-FkcVJhlUHiA&expires=1790127300&token=2ca2f3fe20adbb2b90233f6943be93b342c35cbbceb7e8969902054ab15fdd3e
+#EXTINF:-1 tvg-chno="187" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[Ice Hockey] Florida Panthers vs. Carolina Hurricanes (EMBEDSPRT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live - Hockey",[Ice Hockey] Florida Panthers vs. Carolina Hurricanes (EMBEDSPRT)
+#EXTVLCOPT:http-referrer=https://embedfootball.site/ppv/?id=Bj9DMAVrHQ4dIVtGFDtaQB41Fi0ZdVRLASNSBSYbNRxcewV2W2ELDEp-FkUcMxlHFiY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://vip.streamapi.cc/vip8/playlist.m3u8?playlist=Bj9DMAVrHQ4dIVtGFDtaQB41Fi0ZdVRLASNSBSYbNRxcewV2W2ELDEp-FkUcMxlHFiY&expires=1790127300&token=b4cbbbb68e98ae83263bbd2533e3182c10cb70936937fcfaaf9a245b012d4cc1
+#EXTINF:-1 tvg-chno="188" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[Ice Hockey] New York Islanders vs. New York Rangers (EMBEDSPRT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live - Hockey",[Ice Hockey] New York Islanders vs. New York Rangers (EMBEDSPRT)
+#EXTVLCOPT:http-referrer=https://embedfootball.site/ppv/?id=Bj9DMAVrHQ4dIVtGFDtaQB41Fi0ZdVRLASNSBSYbNRxcewV2W2ELDEp-Fk0JOxlKDiY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://vip.streamapi.cc/vip8/playlist.m3u8?playlist=Bj9DMAVrHQ4dIVtGFDtaQB41Fi0ZdVRLASNSBSYbNRxcewV2W2ELDEp-Fk0JOxlKDiY&expires=1790127300&token=b3ab96dc9948a28977045041b60550602dc8b4fa59c2e139071089d41308f0bf
+#EXTINF:-1 tvg-chno="189" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[Ice Hockey] Philadelphia Flyers vs. Boston Bruins (EMBEDSPRT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live - Hockey",[Ice Hockey] Philadelphia Flyers vs. Boston Bruins (EMBEDSPRT)
+#EXTVLCOPT:http-referrer=https://embedfootball.site/ppv/?id=Bj9DMAVrHQ4dIVtGFDtaQB41Fi0ZdVRLASNSBSYbNRxcewV2W2ELDEp-FlMYOxlGGCc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://vip.streamapi.cc/vip8/playlist.m3u8?playlist=Bj9DMAVrHQ4dIVtGFDtaQB41Fi0ZdVRLASNSBSYbNRxcewV2W2ELDEp-FlMYOxlGGCc&expires=1790127300&token=65474e92fc2fb493dc381bebe4c89e22b5ab20c57505de0dbc7dbbccbc8e5ac3
+#EXTINF:-1 tvg-chno="190" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Boston Bruins vs Philadelphia Flyers (FLYEMBD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live - Hockey",[NHL] Boston Bruins vs Philadelphia Flyers (FLYEMBD)
+#EXTVLCOPT:http-referrer=https://exmxbxe.cfd/flyemb/kelcwql2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://juxrd.hundxvision.co.uk/main/secure/537cf169ec16f5395ed10c3a673d93b9bf5c385a0519b4bb6f1601e61bc4536e/1790125210/nhlnetwork-usa.m3u8
+#EXTINF:-1 tvg-chno="191" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Buffalo Sabres vs Columbus Blue Jackets (FLYEMBD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live - Hockey",[NHL] Buffalo Sabres vs Columbus Blue Jackets (FLYEMBD)
+#EXTVLCOPT:http-referrer=https://exmxbxe.cfd/flyemb/kelcwql2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://juxrd.hundxvision.co.uk/main/secure/537cf169ec16f5395ed10c3a673d93b9bf5c385a0519b4bb6f1601e61bc4536e/1790125210/nhlnetwork-usa.m3u8
+#EXTINF:-1 tvg-chno="192" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Carolina Hurricanes vs Florida Panthers (FLYEMBD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live - Hockey",[NHL] Carolina Hurricanes vs Florida Panthers (FLYEMBD)
+#EXTVLCOPT:http-referrer=https://exmxbxe.cfd/flyemb/kelcwql2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://juxrd.hundxvision.co.uk/main/secure/9858e1675bdcc17d7cd4f1ce9c8c3366ea445164f572540b9de01b096f2dc204/1790125211/nhlnetwork-usa.m3u8
+#EXTINF:-1 tvg-chno="193" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Columbus Blue Jackets vs Buffalo Sabres | English (STRMGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live - Hockey",[NHL] Columbus Blue Jackets vs Buffalo Sabres | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://instream.click/livetv.php?stream=tv401879454
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://instreams.live/live/tv401879454/index.m3u8?st=LNSamNj-EpCCV_eukuT55w&e=1790127015
+#EXTINF:-1 tvg-chno="194" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Detroit Red Wings vs Pittsburgh Penguins | English (STRMGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live - Hockey",[NHL] Detroit Red Wings vs Pittsburgh Penguins | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://instream.click/livetv.php?stream=tv401879451
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://instreams.pro/live/tv401879451/index.m3u8?st=pJ2KoJrHq2kgnafBSXfzEg&e=1790127014
+#EXTINF:-1 tvg-chno="195" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Detroit Red Wings vs. Pittsburgh Penguins (DAMITV)" tvg-logo="https://static.ppvservices.st/assets/thumb/3d0b70fa4df5105fe2b0a370366c0b39-thumbnail.jpg" group-title="Live - Hockey",[NHL] Detroit Red Wings vs. Pittsburgh Penguins (DAMITV)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=nhl/2026-09-22/det-pit
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/nhl/2026-09-22/det-pit/playlist.m3u8?tk=F5SwQLgxOvwUwsLImsxMQg&e=1790159412
+#EXTINF:-1 tvg-chno="196" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Florida Panthers vs Carolina Hurricanes | English (STRMGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live - Hockey",[NHL] Florida Panthers vs Carolina Hurricanes | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://instream.click/livetv.php?stream=tv401879933
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://instreams.live/live/tv401879933/index.m3u8?st=i-u8FRYakAdlq1zlwQ3gDw&e=1790127016
+#EXTINF:-1 tvg-chno="197" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Florida Panthers vs. Carolina Hurricanes (DAMITV)" tvg-logo="https://static.ppvservices.st/assets/thumb/ee3fbe4a353c5f068d047948c85c02fe-thumbnail.jpg" group-title="Live - Hockey",[NHL] Florida Panthers vs. Carolina Hurricanes (DAMITV)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=nhl/2026-09-22/fla-car
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/nhl/2026-09-22/fla-car/playlist.m3u8?tk=F5SwQLgxOvwUwsLImsxMQg&e=1790159412
+#EXTINF:-1 tvg-chno="198" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] New York Islanders vs New York Rangers | English (STRMGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live - Hockey",[NHL] New York Islanders vs New York Rangers | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://instream.click/livetv.php?stream=tv401879648
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://instreams.pro/live/tv401879648/index.m3u8?st=fNcuB4PnU9TtYfzgPcsBcA&e=1790127015
+#EXTINF:-1 tvg-chno="199" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] New York Islanders vs. New York Rangers (DAMITV)" tvg-logo="https://static.ppvservices.st/assets/thumb/8c600bd85fd275b2a2af480dbe4f940c-thumbnail.jpg" group-title="Live - Hockey",[NHL] New York Islanders vs. New York Rangers (DAMITV)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=nhl/2026-09-22/nyi-nyr
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/nhl/2026-09-22/nyi-nyr/playlist.m3u8?tk=F5SwQLgxOvwUwsLImsxMQg&e=1790159412
+#EXTINF:-1 tvg-chno="200" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] New York Rangers vs New York Islanders (FLYEMBD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live - Hockey",[NHL] New York Rangers vs New York Islanders (FLYEMBD)
+#EXTVLCOPT:http-referrer=https://exmxbxe.cfd/flyemb/kelcwql2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://juxrd.hundxvision.co.uk/main/secure/537cf169ec16f5395ed10c3a673d93b9bf5c385a0519b4bb6f1601e61bc4536e/1790125210/nhlnetwork-usa.m3u8
+#EXTINF:-1 tvg-chno="201" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Philadelphia Flyers vs Boston Bruins | English (STRMGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live - Hockey",[NHL] Philadelphia Flyers vs Boston Bruins | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://instream.click/livetv.php?stream=tv401879362
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://instreams.live/live/tv401879362/index.m3u8?st=E2Ful_fZgcv6rRK69X-b-g&e=1790127014
+#EXTINF:-1 tvg-chno="202" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Philadelphia Flyers vs. Boston Bruins (DAMITV)" tvg-logo="https://static.ppvservices.st/assets/thumb/2f028211506561a0110de3805c435781-thumbnail.jpg" group-title="Live - Hockey",[NHL] Philadelphia Flyers vs. Boston Bruins (DAMITV)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=nhl/2026-09-22/phi-bos
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/nhl/2026-09-22/phi-bos/playlist.m3u8?tk=F5SwQLgxOvwUwsLImsxMQg&e=1790159412
+#EXTINF:-1 tvg-chno="203" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Pittsburgh Penguins vs Detroit Red Wings (FLYEMBD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live - Hockey",[NHL] Pittsburgh Penguins vs Detroit Red Wings (FLYEMBD)
+#EXTVLCOPT:http-referrer=https://exmxbxe.cfd/flyemb/kelcwql2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://juxrd.hundxvision.co.uk/main/secure/537cf169ec16f5395ed10c3a673d93b9bf5c385a0519b4bb6f1601e61bc4536e/1790125210/nhlnetwork-usa.m3u8
+#EXTINF:-1 tvg-chno="204" tvg-id="Ice.Hockey.Dummy.us" tvg-name="[Sweden Hockey SHL] Frolunda vs Farjestad (FAWA)" tvg-logo="https://liquipedia.net/commons/images/thumb/2/2e/Swedish_Hockey_League_lightmode.png/600px-Swedish_Hockey_League_lightmode.png" group-title="Live - Hockey",[Sweden Hockey SHL] Frolunda vs Farjestad (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.59/hls/dvvv.m3u8
+#EXTINF:-1 tvg-chno="205" tvg-id="Ice.Hockey.Dummy.us" tvg-name="[Sweden Hockey SHL] Linkoping vs Brynas (FAWA)" tvg-logo="https://liquipedia.net/commons/images/thumb/2/2e/Swedish_Hockey_League_lightmode.png/600px-Swedish_Hockey_League_lightmode.png" group-title="Live - Hockey",[Sweden Hockey SHL] Linkoping vs Brynas (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 http://193.47.62.59/hls/dvvvA.m3u8
-#EXTINF:-1 tvg-chno="134" tvg-id="Ice.Hockey.Dummy.us" tvg-name="[Sweden Hockey SHL] Rogle vs Djurgarden (FAWA)" tvg-logo="https://liquipedia.net/commons/images/thumb/2/2e/Swedish_Hockey_League_lightmode.png/600px-Swedish_Hockey_League_lightmode.png" group-title="Live - Hockey",[Sweden Hockey SHL] Rogle vs Djurgarden (FAWA)
+#EXTINF:-1 tvg-chno="206" tvg-id="Ice.Hockey.Dummy.us" tvg-name="[Sweden Hockey SHL] Rogle vs Djurgarden (FAWA)" tvg-logo="https://liquipedia.net/commons/images/thumb/2/2e/Swedish_Hockey_League_lightmode.png/600px-Swedish_Hockey_League_lightmode.png" group-title="Live - Hockey",[Sweden Hockey SHL] Rogle vs Djurgarden (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 http://193.47.62.59/hls/dvvvAAAA.m3u8
-#EXTINF:-1 tvg-chno="135" tvg-id="Ice.Hockey.Dummy.us" tvg-name="[Sweden Hockey SHL] Timra vs Orebro (FAWA)" tvg-logo="https://liquipedia.net/commons/images/thumb/2/2e/Swedish_Hockey_League_lightmode.png/600px-Swedish_Hockey_League_lightmode.png" group-title="Live - Hockey",[Sweden Hockey SHL] Timra vs Orebro (FAWA)
+#EXTINF:-1 tvg-chno="207" tvg-id="Ice.Hockey.Dummy.us" tvg-name="[Sweden Hockey SHL] Timra vs Orebro (FAWA)" tvg-logo="https://liquipedia.net/commons/images/thumb/2/2e/Swedish_Hockey_League_lightmode.png/600px-Swedish_Hockey_League_lightmode.png" group-title="Live - Hockey",[Sweden Hockey SHL] Timra vs Orebro (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 http://193.47.62.59/hls/dvvvAA.m3u8
-#EXTINF:-1 tvg-chno="136" tvg-id="Ice.Hockey.Dummy.us" tvg-name="[Sweden Hockey SHL] Vaxjo vs Malmo (FAWA)" tvg-logo="https://liquipedia.net/commons/images/thumb/2/2e/Swedish_Hockey_League_lightmode.png/600px-Swedish_Hockey_League_lightmode.png" group-title="Live - Hockey",[Sweden Hockey SHL] Vaxjo vs Malmo (FAWA)
+#EXTINF:-1 tvg-chno="208" tvg-id="Ice.Hockey.Dummy.us" tvg-name="[Sweden Hockey SHL] Vaxjo vs Malmo (FAWA)" tvg-logo="https://liquipedia.net/commons/images/thumb/2/2e/Swedish_Hockey_League_lightmode.png/600px-Swedish_Hockey_League_lightmode.png" group-title="Live - Hockey",[Sweden Hockey SHL] Vaxjo vs Malmo (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 http://193.47.62.59/hls/dvvvAAA.m3u8
