@@ -1,197 +1,149 @@
 #EXTM3U url-tvg="https://s.id/d9sEPG"
-#EXTINF:-1 tvg-chno="139" tvg-id="Live.Event.us" tvg-name="[Arabian Gulf Cup] Saudi Arabia vs Kuwait 1 (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[Arabian Gulf Cup] Saudi Arabia vs Kuwait 1 (FAWA)
+#EXTINF:-1 tvg-chno="171" tvg-id="Live.Event.us" tvg-name="[Abrierto Hurlingham CLUB] Chapaleufú Vista vs. Don Ercole (Cuartos de Final) | Disney+ (TVF90)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[Abrierto Hurlingham CLUB] Chapaleufú Vista vs. Don Ercole (Cuartos de Final) | Disney+ (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/plus1.php?stream=disney23
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://3.ftlly.com:443/disney23/mono.m3u8?token=92af882c102db3160e84357c8cd76f625bb8d620-ed-1790213194-1790195194
+#EXTINF:-1 tvg-chno="172" tvg-id="Live.Event.us" tvg-name="[CONCACAF CONCACAF Nations League] Bahamas vs Saint Martin (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[CONCACAF CONCACAF Nations League] Bahamas vs Saint Martin (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.50/hls/EEEE.m3u8
-#EXTINF:-1 tvg-chno="140" tvg-id="Live.Event.us" tvg-name="[Arabian Gulf Cup] Saudi Arabia vs Kuwait 2 (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[Arabian Gulf Cup] Saudi Arabia vs Kuwait 2 (FAWA)
+http://193.47.62.44/hls/EMMMA.m3u8
+#EXTINF:-1 tvg-chno="173" tvg-id="Live.Event.us" tvg-name="[CONCACAF Nations League - League C - Group C] Bahamas vs Saint-Martin (WATCHFTY)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[CONCACAF Nations League - League C - Group C] Bahamas vs Saint-Martin (WATCHFTY)
+#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/4789212/bahamas-st-martin/deluxe/1?player=clappr&autoplay=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://lb2.wfty.st/secure/KWmhSyri3KvQG6p2P_u_hA/deluxe/bahamas-st-martin/1/4789212/1790217029/playlist.m3u8
+#EXTINF:-1 tvg-chno="174" tvg-id="Live.Event.us" tvg-name="[CONCACAF Nations League A Championship Playoff] Bahamas vs St. Martin (WATCHFTY)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[CONCACAF Nations League A Championship Playoff] Bahamas vs St. Martin (WATCHFTY)
+#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/401900639/bahamas-st-martin/sigma/1?player=clappr&autoplay=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://lb5.wfty.st/secure/HOvfkZWwZicEIgYS_mH_rg/sigma/bahamas-st-martin/1/401900639/1790217026/playlist.m3u8
+#EXTINF:-1 tvg-chno="175" tvg-id="Live.Event.us" tvg-name="[CONCACAF Nations League] Aruba vs Antigua and Barbuda (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[CONCACAF Nations League] Aruba vs Antigua and Barbuda (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://www.rtmpcdn.com/live/88651221-8f4f-4c9e-8890-7469b91a42c8.m3u8
-#EXTINF:-1 tvg-chno="141" tvg-id="Live.Event.us" tvg-name="[CONCACAF Nations League] Turks and Caicos Islands vs Montserrat (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[CONCACAF Nations League] Turks and Caicos Islands vs Montserrat (FAWA)
+http://193.47.62.59/hls/OAAAQQ.m3u8
+#EXTINF:-1 tvg-chno="176" tvg-id="Live.Event.us" tvg-name="[CONCACAF Nations League] Bahamas vs Saint Martin (WATCHFTY)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[CONCACAF Nations League] Bahamas vs Saint Martin (WATCHFTY)
+#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/5991950/bahamas-st-martin/sigma/1?player=clappr&autoplay=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://lb6.wfty.st/secure/_mkL-npJeghA7yNmToTwiw/sigma/bahamas-st-martin/1/5991950/1790217031/playlist.m3u8
+#EXTINF:-1 tvg-chno="177" tvg-id="Live.Event.us" tvg-name="[CONCACAF Nations League] Turks and Caicos Islands vs Montserrat (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[CONCACAF Nations League] Turks and Caicos Islands vs Montserrat (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 http://193.47.62.59/hls/IQQQEEEEQA.m3u8
-#EXTINF:-1 tvg-chno="142" tvg-id="Soccer.Dummy.us" tvg-name="[Czech MOL Cup] SK Kladno vs Ostrava (FAWA)" tvg-logo="https://www.stes.cz/files/web_article/117-53yk7397b2g40-piag0o.png" group-title="Live - Other Events",[Czech MOL Cup] SK Kladno vs Ostrava (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.50/hls/ssssaAAaa.m3u8
-#EXTINF:-1 tvg-chno="143" tvg-id="Darts.Dummy.us" tvg-name="[Darts] Darts Players Championship 30 (FAWA)" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/013/468/398/small/darts-board-icon-png.png" group-title="Live - Other Events",[Darts] Darts Players Championship 30 (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.59/hls/diii.m3u8
-#EXTINF:-1 tvg-chno="144" tvg-id="Soccer.Dummy.us" tvg-name="[English National League Cup] Boreham Wood vs Everton U21 (FAWA)" tvg-logo="https://gateshead-fc.com/wp-content/uploads/2024/09/nl-cup.png" group-title="Live - Other Events",[English National League Cup] Boreham Wood vs Everton U21 (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.59/hls/IQQQEE.m3u8
-#EXTINF:-1 tvg-chno="145" tvg-id="Live.Event.us" tvg-name="[English Women's League Cup] Brighton W vs Charlton W (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[English Women's League Cup] Brighton W vs Charlton W (FAWA)
+#EXTINF:-1 tvg-chno="178" tvg-id="Live.Event.us" tvg-name="[English Women's League Cup] Brighton W vs Charlton W (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[English Women's League Cup] Brighton W vs Charlton W (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 http://193.47.62.44/hls/WAWAWAAA.m3u8
-#EXTINF:-1 tvg-chno="146" tvg-id="Live.Event.us" tvg-name="[English Women's League Cup] Crystal Palace W vs Watford W (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[English Women's League Cup] Crystal Palace W vs Watford W (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.44/hls/EMMMAAAAQQqQqqq.m3u8
-#EXTINF:-1 tvg-chno="147" tvg-id="Live.Event.us" tvg-name="[English Women's League Cup] Everton W vs Birmingham W (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[English Women's League Cup] Everton W vs Birmingham W (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.44/hls/EMMMAAAAQQqQq.m3u8
-#EXTINF:-1 tvg-chno="148" tvg-id="Live.Event.us" tvg-name="[English Women's League Cup] Leicester W vs London City Lionesses W (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[English Women's League Cup] Leicester W vs London City Lionesses W (FAWA)
+#EXTINF:-1 tvg-chno="179" tvg-id="Live.Event.us" tvg-name="[English Women's League Cup] Leicester W vs London City Lionesses W (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[English Women's League Cup] Leicester W vs London City Lionesses W (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 http://193.47.62.44/hls/WAWAWAA.m3u8
-#EXTINF:-1 tvg-chno="149" tvg-id="Live.Event.us" tvg-name="[English Women's League Cup] Manchester Utd W vs Sheffield Utd W (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[English Women's League Cup] Manchester Utd W vs Sheffield Utd W (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-chno="180" tvg-id="Live.Event.us" tvg-name="[Eurovolley] Italy vs. Finlandia (Quarterfinals) | Disney+ (TVF90)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[Eurovolley] Italy vs. Finlandia (Quarterfinals) | Disney+ (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/plus1.php?stream=disney27
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.44/hls/EMMMAAAAQQq.m3u8
-#EXTINF:-1 tvg-chno="150" tvg-id="Live.Event.us" tvg-name="[English Women's League Cup] Nottingham W vs Aston Villa W (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[English Women's League Cup] Nottingham W vs Aston Villa W (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+https://3.ftlly.com:443/disney27/mono.m3u8?token=e1a171d4eab2f8f33809f75f5e4f6e6c73a0b8fa-47-1790213192-1790195192
+#EXTINF:-1 tvg-chno="181" tvg-id="Racing.Dummy.us" tvg-name="[F1] Azerbaijan Grand Prix - Practice 1 | Main Feed (FUTBOLX)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/06/F1-logo-500x281.png" group-title="Live - Other Events",[F1] Azerbaijan Grand Prix - Practice 1 | Main Feed (FUTBOLX)
+#EXTVLCOPT:http-referrer=https://www.futbol-x.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.44/hls/EMMMAAAAQQqQqq.m3u8
-#EXTINF:-1 tvg-chno="151" tvg-id="Live.Event.us" tvg-name="[English Women's League Cup] Tottenham W vs West Ham W (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[English Women's League Cup] Tottenham W vs West Ham W (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.44/hls/EMMMAAAAQQqQ.m3u8
-#EXTINF:-1 tvg-chno="152" tvg-id="Live.Event.us" tvg-name="[FIFA International Friendly] Azerbaijan vs Tajikistan (WATCHFTY)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[FIFA International Friendly] Azerbaijan vs Tajikistan (WATCHFTY)
-#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/4862381/azerbaijan-tajikistan/sigma/1?player=clappr&autoplay=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://lb4.wfty.st/secure/gWaO4JbFjq1ZfJk_DQMVDQ/sigma/azerbaijan-tajikistan/1/4862381/1790204416/playlist.m3u8
-#EXTINF:-1 tvg-chno="153" tvg-id="Live.Event.us" tvg-name="[FIFA International Friendly] Gibraltar vs Sao Tome (WATCHFTY)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[FIFA International Friendly] Gibraltar vs Sao Tome (WATCHFTY)
-#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/4862380/gibraltar-sao-tome-and-principe/sigma/1?player=clappr&autoplay=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://lb1.wfty.st/secure/yEm9jzHZFvF8K0VIZ5s7gw/sigma/gibraltar-sao-tome-and-principe/1/4862380/1790206237/playlist.m3u8
-#EXTINF:-1 tvg-chno="154" tvg-id="Live.Event.us" tvg-name="[FIFA International Friendly] Gibraltar vs Sao Tome and Principe (WATCHFTY)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[FIFA International Friendly] Gibraltar vs Sao Tome and Principe (WATCHFTY)
-#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/401918083/gibraltar-sao-tome-and-principe/sigma/1?player=clappr&autoplay=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://lb1.wfty.st/secure/k7qj0seWgaltz3wFNVF0NQ/sigma/gibraltar-sao-tome-and-principe/1/401918083/1790208018/playlist.m3u8
-#EXTINF:-1 tvg-chno="155" tvg-id="Soccer.Dummy.us" tvg-name="[Friendly Match] Azerbaijan vs Tajikistan (FAWA)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live - Other Events",[Friendly Match] Azerbaijan vs Tajikistan (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.50/hls/JFFF.m3u8
-#EXTINF:-1 tvg-chno="156" tvg-id="Soccer.Dummy.us" tvg-name="[Friendly Match] Gibraltar vs Sao Tome and Principe (FAWA)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live - Other Events",[Friendly Match] Gibraltar vs Sao Tome and Principe (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.50/hls/JFFFA.m3u8
-#EXTINF:-1 tvg-chno="157" tvg-id="Live.Event.us" tvg-name="[Snooker] Snooker Scottish Opene 1 (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[Snooker] Snooker Scottish Opene 1 (FAWA)
+https://sweden.futbol-x.top/sky/index.m3u8
+#EXTINF:-1 tvg-chno="182" tvg-id="Live.Event.us" tvg-name="[Snooker] Snooker Scottish Opene 1 (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[Snooker] Snooker Scottish Opene 1 (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 http://193.47.62.44/hls/grrrAAA.m3u8
-#EXTINF:-1 tvg-chno="158" tvg-id="Live.Event.us" tvg-name="[Snooker] Snooker Scottish Opene 2 (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[Snooker] Snooker Scottish Opene 2 (FAWA)
+#EXTINF:-1 tvg-chno="183" tvg-id="Live.Event.us" tvg-name="[Snooker] Snooker Scottish Opene 2 (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[Snooker] Snooker Scottish Opene 2 (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 http://193.47.62.44/hls/grrrAA.m3u8
-#EXTINF:-1 tvg-chno="159" tvg-id="Live.Event.us" tvg-name="[Snooker] Snooker Scottish Opene 3 (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[Snooker] Snooker Scottish Opene 3 (FAWA)
+#EXTINF:-1 tvg-chno="184" tvg-id="Live.Event.us" tvg-name="[Snooker] Snooker Scottish Opene 3 (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[Snooker] Snooker Scottish Opene 3 (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 http://193.47.62.44/hls/grrrA.m3u8
-#EXTINF:-1 tvg-chno="160" tvg-id="Live.Event.us" tvg-name="[Snooker] Snooker Scottish Opene 4 (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[Snooker] Snooker Scottish Opene 4 (FAWA)
+#EXTINF:-1 tvg-chno="185" tvg-id="Live.Event.us" tvg-name="[Snooker] Snooker Scottish Opene 4 (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[Snooker] Snooker Scottish Opene 4 (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 http://193.47.62.44/hls/grrr.m3u8
-#EXTINF:-1 tvg-chno="161" tvg-id="Live.Event.us" tvg-name="[UEFA Europa Cup Women] Ajax W vs Aktobe W (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[UEFA Europa Cup Women] Ajax W vs Aktobe W (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-chno="186" tvg-id="Live.Event.us" tvg-name="[Torneo de Reserva] Belgrano  vs Talleres de Córdoba | ESPN 3 (TVF90)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[Torneo de Reserva] Belgrano  vs Talleres de Córdoba | ESPN 3 (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=espn3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.59/hls/IQQQ.m3u8
-#EXTINF:-1 tvg-chno="162" tvg-id="Live.Event.us" tvg-name="[UEFA Europa Cup Women] Breidablik W vs Czarni Sosnowiec W (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[UEFA Europa Cup Women] Breidablik W vs Czarni Sosnowiec W (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+https://3.ftlly.com:443/espn3/mono.m3u8?token=cc353686a04084b36b5ea089648e7491798324b8-40-1790213192-1790195192
+#EXTINF:-1 tvg-chno="187" tvg-id="Live.Event.us" tvg-name="[Torneo de Reserva] Belgrano  vs Talleres de Córdoba | ESPN 3 | HD (TVF90)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[Torneo de Reserva] Belgrano  vs Talleres de Córdoba | ESPN 3 | HD (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/hd.php?stream=espn3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.50/hls/EEEEFAAA.m3u8
-#EXTINF:-1 tvg-chno="163" tvg-id="Live.Event.us" tvg-name="[UEFA Europa Cup Women] Brondby W vs Sporting Lisbon W (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[UEFA Europa Cup Women] Brondby W vs Sporting Lisbon W (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+https://dglvz29s.fubo18.com:443/espn3/mono.m3u8?token=6694caab12a41350831fc0ffea7e61b69ec24a4a-dc-1790213193-1790195193
+#EXTINF:-1 tvg-chno="188" tvg-id="Live.Event.us" tvg-name="[Torneo de Reserva] Belgrano  vs Talleres de Córdoba | ESPN 3 | OP2 (TVF90)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[Torneo de Reserva] Belgrano  vs Talleres de Córdoba | ESPN 3 | OP2 (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/2.php?stream=espn3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.50/hls/EEEEFAAAA.m3u8
-#EXTINF:-1 tvg-chno="164" tvg-id="Live.Event.us" tvg-name="[UEFA Europa Cup Women] Feyenoord W vs Valerenga W (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[UEFA Europa Cup Women] Feyenoord W vs Valerenga W (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+https://2.ftlly.com:443/espn3/mono.m3u8?token=b5103bc2adaffd4b94dd0ed343a2825d8b2eb991-a9-1790213192-1790195192
+#EXTINF:-1 tvg-chno="189" tvg-id="Live.Event.us" tvg-name="[Torneo de Reserva] Belgrano  vs Talleres de Córdoba | ESPN 3 | OP3 (TVF90)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[Torneo de Reserva] Belgrano  vs Talleres de Córdoba | ESPN 3 | OP3 (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/3.php?stream=espn3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.55/hls/UTTTA.m3u8
-#EXTINF:-1 tvg-chno="165" tvg-id="Live.Event.us" tvg-name="[UEFA Europa Cup Women] Hafnarfjordur W vs Eintracht Frankfurt W (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[UEFA Europa Cup Women] Hafnarfjordur W vs Eintracht Frankfurt W (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+https://3.ftlly.com:443/espn3/mono.m3u8?token=181899f18e27609fc1dbd7cd9c1a4df61358234a-80-1790213193-1790195193
+#EXTINF:-1 tvg-chno="190" tvg-id="Live.Event.us" tvg-name="[Torneo de Reserva] Defensa y Justicia  vs Tigre | ESPN 3 (TVF90)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[Torneo de Reserva] Defensa y Justicia  vs Tigre | ESPN 3 (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=espn3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.50/hls/EEEEFAAAAA.m3u8
-#EXTINF:-1 tvg-chno="166" tvg-id="Live.Event.us" tvg-name="[UEFA Europa Cup Women] Hammarby W vs Rangers W (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[UEFA Europa Cup Women] Hammarby W vs Rangers W (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+https://4.ftlly.com:443/espn3/mono.m3u8?token=15a3cca54ba625a491ad7f769e4bee3ba42ad5e7-d3-1790213190-1790195190
+#EXTINF:-1 tvg-chno="191" tvg-id="Live.Event.us" tvg-name="[Torneo de Reserva] Defensa y Justicia  vs Tigre | ESPN 3 | HD (TVF90)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[Torneo de Reserva] Defensa y Justicia  vs Tigre | ESPN 3 | HD (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/hd.php?stream=espn3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.55/hls/UTTTAA.m3u8
-#EXTINF:-1 tvg-chno="167" tvg-id="Live.Event.us" tvg-name="[UEFA Europa Cup Women] Hearts W vs Real Sociedad W (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[UEFA Europa Cup Women] Hearts W vs Real Sociedad W (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+https://y2fzdGxl.fubo18.com:443/espn3/mono.m3u8?token=bd211f944d3a2341be82aadbb0015c58642ff61e-f9-1790213190-1790195190
+#EXTINF:-1 tvg-chno="192" tvg-id="Live.Event.us" tvg-name="[Torneo de Reserva] Defensa y Justicia  vs Tigre | ESPN 3 | OP2 (TVF90)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[Torneo de Reserva] Defensa y Justicia  vs Tigre | ESPN 3 | OP2 (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/2.php?stream=espn3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.59/hls/IQQQE.m3u8
-#EXTINF:-1 tvg-chno="168" tvg-id="Live.Event.us" tvg-name="[UEFA Europa Cup Women] HJK W vs Brann W (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[UEFA Europa Cup Women] HJK W vs Brann W (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+https://8.ftlly.com:443/espn3/mono.m3u8?token=06ffdcdc13164d1ce4296f781a11a0773f8173c9-86-1790213190-1790195190
+#EXTINF:-1 tvg-chno="193" tvg-id="Live.Event.us" tvg-name="[Torneo de Reserva] Defensa y Justicia  vs Tigre | ESPN 3 | OP3 (TVF90)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[Torneo de Reserva] Defensa y Justicia  vs Tigre | ESPN 3 | OP3 (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/3.php?stream=espn3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.50/hls/EEEEFAA.m3u8
-#EXTINF:-1 tvg-chno="169" tvg-id="Live.Event.us" tvg-name="[UEFA Europa Cup Women] Liberec W vs Rosenborg W (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[UEFA Europa Cup Women] Liberec W vs Rosenborg W (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.50/hls/EEEEFA.m3u8
-#EXTINF:-1 tvg-chno="170" tvg-id="Live.Event.us" tvg-name="[UEFA Europa Cup Women] PSV W vs Fortuna Hjorring W (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[UEFA Europa Cup Women] PSV W vs Fortuna Hjorring W (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.55/hls/UTTTAAA.m3u8
-#EXTINF:-1 tvg-chno="171" tvg-id="Live.Event.us" tvg-name="[UEFA Europa Cup Women] Sparta Prague W vs Farul Constanta W (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[UEFA Europa Cup Women] Sparta Prague W vs Farul Constanta W (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.50/hls/EEEEFAAAAAA.m3u8
-#EXTINF:-1 tvg-chno="172" tvg-id="Live.Event.us" tvg-name="[UEFA Europa Cup Women] St Polten W vs Malmo FF W (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[UEFA Europa Cup Women] St Polten W vs Malmo FF W (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.50/hls/JFFFAAA.m3u8
-#EXTINF:-1 tvg-chno="173" tvg-id="Live.Event.us" tvg-name="[UEFA Europa Cup Women] Wolfsburg W vs Sturm Graz W (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[UEFA Europa Cup Women] Wolfsburg W vs Sturm Graz W (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.55/hls/UTTTAAAA.m3u8
-#EXTINF:-1 tvg-chno="174" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Women Champions League] Barcelona W vs Paris FC W (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2408.png" group-title="Live - Other Events",[UEFA Women Champions League] Barcelona W vs Paris FC W (FAWA)
+https://6.ftlly.com:443/espn3/mono.m3u8?token=b1d73af039df7cc6cde1581e5cdaaf0365983f93-d2-1790213190-1790195190
+#EXTINF:-1 tvg-chno="194" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Women Champions League] Barcelona W vs Paris FC W (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2408.png" group-title="Live - Other Events",[UEFA Women Champions League] Barcelona W vs Paris FC W (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 http://193.47.62.59/hls/IQQQEEEEQAA.m3u8
-#EXTINF:-1 tvg-chno="175" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Women Champions League] Chelsea W vs Austria Vienna W (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2408.png" group-title="Live - Other Events",[UEFA Women Champions League] Chelsea W vs Austria Vienna W (FAWA)
+#EXTINF:-1 tvg-chno="195" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Women Champions League] Chelsea W vs Austria Vienna W (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2408.png" group-title="Live - Other Events",[UEFA Women Champions League] Chelsea W vs Austria Vienna W (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 http://193.47.62.59/hls/IQQQEEEEQAAA.m3u8
-#EXTINF:-1 tvg-chno="176" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Women Champions League] Leuven W vs AS Roma W (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2408.png" group-title="Live - Other Events",[UEFA Women Champions League] Leuven W vs AS Roma W (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-chno="196" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Women's Champions League] Barcelona vs Paris FC | Disney+ (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2408.png" group-title="Live - Other Events",[UEFA Women's Champions League] Barcelona vs Paris FC | Disney+ (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/plus1.php?stream=disney26
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.50/hls/JFFFAAAA.m3u8
-#EXTINF:-1 tvg-chno="177" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Women Champions League] Servette Geneve FC W vs OL Lyonnes W (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2408.png" group-title="Live - Other Events",[UEFA Women Champions League] Servette Geneve FC W vs OL Lyonnes W (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+https://5.ftlly.com:443/disney26/mono.m3u8?token=fecfc4952575d6fdd3af1ef628771473bf60486c-b3-1790213195-1790195195
+#EXTINF:-1 tvg-chno="197" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Women's Champions League] Barcelona vs Paris FC | ESPN Deportes  | OP2 (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2408.png" group-title="Live - Other Events",[UEFA Women's Champions League] Barcelona vs Paris FC | ESPN Deportes  | OP2 (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/2.php?stream=espndeportes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.50/hls/JFFFAAAAA.m3u8
-#EXTINF:-1 tvg-chno="178" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Women's Champions League] OH Leuven vs Roma (WATCHFTY)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2408.png" group-title="Live - Other Events",[UEFA Women's Champions League] OH Leuven vs Roma (WATCHFTY)
-#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/401917013/oh-leuven-roma/sigma/1?player=clappr&autoplay=true
+https://8.ftlly.com:443/espndeportes/mono.m3u8?token=49e7f9ecbaa9a92752484f089b31474f673b5f89-61-1790213195-1790195195
+#EXTINF:-1 tvg-chno="198" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Women's Champions League] Barcelona vs Paris FC | ESPN Deportes  | OP3 (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2408.png" group-title="Live - Other Events",[UEFA Women's Champions League] Barcelona vs Paris FC | ESPN Deportes  | OP3 (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/3.php?stream=espndeportes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://lb1.wfty.st/secure/9pFkobbesv9lrpTDZBcN2w/sigma/oh-leuven-roma/1/401917013/1790206228/playlist.m3u8
-#EXTINF:-1 tvg-chno="179" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Women's Champions League] Servette (W) vs Lyon (W) (WATCHFTY)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2408.png" group-title="Live - Other Events",[UEFA Women's Champions League] Servette (W) vs Lyon (W) (WATCHFTY)
-#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/4847202/servette-w-lyon-w/sigma/1?player=clappr&autoplay=true
+https://3.ftlly.com:443/espndeportes/mono.m3u8?token=9497b3f244384b7e54252ad94e5ae6b1cf7250de-44-1790213195-1790195195
+#EXTINF:-1 tvg-chno="199" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Women's Champions League] Barcelona vs Paris FC | ESPN Deportes (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2408.png" group-title="Live - Other Events",[UEFA Women's Champions League] Barcelona vs Paris FC | ESPN Deportes (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/canal.php?stream=espndeportes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://lb6.wfty.st/secure/h3vwaZi0JYQQ4NxZXuqDDQ/sigma/servette-w-lyon-w/1/4847202/1790206231/playlist.m3u8
-#EXTINF:-1 tvg-chno="180" tvg-id="Live.Event.us" tvg-name="[UEFA_WCHAMPIONS] Austria Vienna vs Chelsea | English (STRMGATE)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[UEFA_WCHAMPIONS] Austria Vienna vs Chelsea | English (STRMGATE)
+https://am91cm5leQ.fubo18.com:443/espndeportes/mono.m3u8?token=f680e9c4603e9d13a8e5d318d17babadc0f696d2-fd-1790213195-1790195195
+#EXTINF:-1 tvg-chno="200" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Women's Champions League] Chelsea FC vs Austria Wien | Disney+ (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2408.png" group-title="Live - Other Events",[UEFA Women's Champions League] Chelsea FC vs Austria Wien | Disney+ (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/plus1.php?stream=disney24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://5.ftlly.com:443/disney24/mono.m3u8?token=77d8ed29111994b87e09a39a1268643529a1adc0-25-1790213191-1790195191
+#EXTINF:-1 tvg-chno="201" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Women's Champions League] Chelsea FC vs Austria Wien | ESPN 2 (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2408.png" group-title="Live - Other Events",[UEFA Women's Champions League] Chelsea FC vs Austria Wien | ESPN 2 (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=espn2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://6.ftlly.com:443/espn2/mono.m3u8?token=62e2813ef690a37dbeffdf9618214401577ef855-6a-1790213191-1790195191
+#EXTINF:-1 tvg-chno="202" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Women's Champions League] Chelsea FC vs Austria Wien | ESPN 2 | HD (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2408.png" group-title="Live - Other Events",[UEFA Women's Champions League] Chelsea FC vs Austria Wien | ESPN 2 | HD (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/hd.php?stream=espn2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://b2ZmaWNpYWw.fubo18.com:443/espn2/mono.m3u8?token=a4fbfe741149414a7ce83e441da6c6829896057c-f7-1790213192-1790195192
+#EXTINF:-1 tvg-chno="203" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Women's Champions League] Chelsea FC vs Austria Wien | ESPN 2 | OP2 (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2408.png" group-title="Live - Other Events",[UEFA Women's Champions League] Chelsea FC vs Austria Wien | ESPN 2 | OP2 (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/2.php?stream=espn2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://2.ftlly.com:443/espn2/mono.m3u8?token=2488ad89d65ec3fddfe5cff8be52298a2a28835a-ba-1790213191-1790195191
+#EXTINF:-1 tvg-chno="204" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Women's Champions League] Chelsea FC vs Austria Wien | ESPN 2 | OP3 (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2408.png" group-title="Live - Other Events",[UEFA Women's Champions League] Chelsea FC vs Austria Wien | ESPN 2 | OP3 (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/3.php?stream=espn2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://11.ftlly.com:443/espn2/mono.m3u8?token=a0f5bd9fd288c4b82a1f39493122edea4a3213fd-46-1790213192-1790195192
+#EXTINF:-1 tvg-chno="205" tvg-id="Live.Event.us" tvg-name="[UEFA_WCHAMPIONS] Austria Vienna vs Chelsea | English (STRMGATE)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[UEFA_WCHAMPIONS] Austria Vienna vs Chelsea | English (STRMGATE)
 #EXTVLCOPT:http-referrer=https://instream.click/livetv.php?stream=tv401917011
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://instreams.pro/live/tv401917011/index.m3u8?st=sKZUbH8fQdrxUL39U3fP-Q&e=1790199010
-#EXTINF:-1 tvg-chno="181" tvg-id="Live.Event.us" tvg-name="[UEFA_WCHAMPIONS] OL Lyonnes vs SERVETTE | English (STRMGATE)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[UEFA_WCHAMPIONS] OL Lyonnes vs SERVETTE | English (STRMGATE)
-#EXTVLCOPT:http-referrer=https://instream.click/livetv.php?stream=tv401917012
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://instreams.pro/live/tv401917012/index.m3u8?st=n4H0CJTgfofgqC_HNkXTMw&e=1790193614
-#EXTINF:-1 tvg-chno="182" tvg-id="Live.Event.us" tvg-name="[UEFA_WCHAMPIONS] Paris FC vs Barcelona | English (STRMGATE)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[UEFA_WCHAMPIONS] Paris FC vs Barcelona | English (STRMGATE)
+https://instreams.live/live/tv401917011/index.m3u8?st=MpnKB4TvNQ580SEbmpGOMw&e=1790209814
+#EXTINF:-1 tvg-chno="206" tvg-id="Live.Event.us" tvg-name="[UEFA_WCHAMPIONS] Paris FC vs Barcelona | English (STRMGATE)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[UEFA_WCHAMPIONS] Paris FC vs Barcelona | English (STRMGATE)
 #EXTVLCOPT:http-referrer=https://instream.click/livetv.php?stream=tv401917010
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://instreams.pro/live/tv401917010/index.m3u8?st=NQUazGeB0LMjzl-5cor6Gg&e=1790199008
-#EXTINF:-1 tvg-chno="183" tvg-id="Live.Event.us" tvg-name="[UEFA_WCHAMPIONS] Roma vs OH Leuven | English (STRMGATE)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[UEFA_WCHAMPIONS] Roma vs OH Leuven | English (STRMGATE)
-#EXTVLCOPT:http-referrer=https://instream.click/livetv.php?stream=tv401917013
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://instreams.pro/live/tv401917013/index.m3u8?st=uzFfgwvJMjOAeE52eUL5tQ&e=1790193613
-#EXTINF:-1 tvg-chno="184" tvg-id="Soccer.Dummy.us" tvg-name="[USL Jägermeister Cup] Birmingham Legion FC vs Brooklyn (WATCHFTY)" tvg-logo="https://thumb.wikimedia.org/wikipedia/en/thumb/d/d7/Usl_jc_cup_logo.png/250px-Usl_jc_cup_logo.png" group-title="Live - Other Events",[USL Jägermeister Cup] Birmingham Legion FC vs Brooklyn (WATCHFTY)
-#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/5109960/birmingham-legion-fc-brooklyn-fc/sigma/1?player=clappr&autoplay=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://lb2.wfty.st/secure/P9eHEWFUvV_e4gjSbVCJgg/sigma/birmingham-legion-fc-brooklyn-fc/1/5109960/1790204419/playlist.m3u8
-#EXTINF:-1 tvg-chno="185" tvg-id="Live.Event.us" tvg-name="[Volleyball European Championship] Italy vs Finland (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[Volleyball European Championship] Italy vs Finland (FAWA)
+https://instreams.pro/live/tv401917010/index.m3u8?st=jW9OENON8JO0SMqKdMbUuQ&e=1790209813
+#EXTINF:-1 tvg-chno="207" tvg-id="Live.Event.us" tvg-name="[Volleyball European Championship] Italy vs Finland (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[Volleyball European Championship] Italy vs Finland (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 http://193.47.62.59/hls/IQQQEEEEQAAAA.m3u8
-#EXTINF:-1 tvg-chno="186" tvg-id="Live.Event.us" tvg-name="[Women's League Cup] Manchester United (W) vs Sheffield United (W) (WATCHFTY)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[Women's League Cup] Manchester United (W) vs Sheffield United (W) (WATCHFTY)
-#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/4861770/manchester-united-w-sheffield-united-w/sigma/1?player=clappr&autoplay=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://lb4.wfty.st/secure/sIVSLE3vbMcMrDhaqJQ4HA/sigma/manchester-united-w-sheffield-united-w/1/4861770/1790209812/playlist.m3u8
-#EXTINF:-1 tvg-chno="187" tvg-id="Soccer.Dummy.us" tvg-name="[World Cup Women U20] North Korea U20 W vs Colombia U20 W (FAWA)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live - Other Events",[World Cup Women U20] North Korea U20 W vs Colombia U20 W (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.50/hls/JFFFAA.m3u8
