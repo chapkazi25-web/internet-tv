@@ -1,65 +1,85 @@
 #EXTM3U url-tvg="https://s.id/d9sEPG"
-#EXTINF:-1 tvg-chno="241" tvg-id="Live.Event.us" tvg-name="[Asian Games] China U23 vs United Arab Emirates U23 (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[Asian Games] China U23 vs United Arab Emirates U23 (FAWA)
+#EXTINF:-1 tvg-chno="115" tvg-id="Live.Event.us" tvg-name="[Asian Games Grp. A] Kyrgyzstan U23 vs Hong Kong U23 (WATCHFTY)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[Asian Games Grp. A] Kyrgyzstan U23 vs Hong Kong U23 (WATCHFTY)
+#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/6052480/kyrgyzstan-u23-hong-kong-u23/sigma/1?player=clappr&autoplay=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://lb5.wfty.st/secure/-uyJh3fiPCh3ZYT83X1mnw/sigma/kyrgyzstan-u23-hong-kong-u23/1/6052480/1790186418/playlist.m3u8
+#EXTINF:-1 tvg-chno="116" tvg-id="Live.Event.us" tvg-name="[Asian Games] Japan U23 vs Thailand U23 (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[Asian Games] Japan U23 vs Thailand U23 (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.55/hls/FRRR.m3u8
-#EXTINF:-1 tvg-chno="242" tvg-id="Live.Event.us" tvg-name="[Asian Games] Iran U23 vs North Korea U23 (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[Asian Games] Iran U23 vs North Korea U23 (FAWA)
+http://193.47.62.59/hls/FOOO.m3u8
+#EXTINF:-1 tvg-chno="117" tvg-id="Live.Event.us" tvg-name="[Asian Games] Kyrgyzstan U23 vs Hong Kong U23 (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[Asian Games] Kyrgyzstan U23 vs Hong Kong U23 (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.55/hls/FRRRA.m3u8
-#EXTINF:-1 tvg-chno="243" tvg-id="PPV.EVENTS.Dummy.us" tvg-name="[MMA] Dana White's Contender Series | Main Feed (FUTBOLX)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[MMA] Dana White's Contender Series | Main Feed (FUTBOLX)
-#EXTVLCOPT:http-referrer=https://www.futbol-x.top
+http://193.47.62.59/hls/FOOOQ.m3u8
+#EXTINF:-1 tvg-chno="118" tvg-id="Live.Event.us" tvg-name="[Asian Games] Kyrgyzstan U23 vs Hong Kong U23 (WATCHFTY)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[Asian Games] Kyrgyzstan U23 vs Hong Kong U23 (WATCHFTY)
+#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/4802178/kyrgyzstan-u23-hong-kong-u23/sigma/1?player=clappr&autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://futbol-x.b-cdn.net/ppv/index.m3u8
-#EXTINF:-1 tvg-chno="244" tvg-id="PPV.EVENTS.Dummy.us" tvg-name="[MMA] Dana White's Contender Series: Season 10, Week 7 | English (STRMCNTR)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",Week 7 | English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
+https://lb1.wfty.st/secure/2_KPyE-az8x_7JkK6YJmiA/sigma/kyrgyzstan-u23-hong-kong-u23/1/4802178/1790186421/playlist.m3u8
+#EXTINF:-1 tvg-chno="119" tvg-id="Soccer.Dummy.us" tvg-name="[Czech MOL Cup] SK Kladno vs Ostrava (FAWA)" tvg-logo="https://www.stes.cz/files/web_article/117-53yk7397b2g40-piag0o.png" group-title="Live - Other Events",[Czech MOL Cup] SK Kladno vs Ostrava (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://edgestream2.pro/hls/zeuryuegn48.m3u8
-#EXTINF:-1 tvg-chno="245" tvg-id="Live.Event.us" tvg-name="[UEFA Champions League Femenina] Arsenal vs Køge | Disney + (STRMXHD)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[UEFA Champions League Femenina] Arsenal vs Køge | Disney + (STRMXHD)
+http://193.47.62.50/hls/ssssaAAaa.m3u8
+#EXTINF:-1 tvg-chno="120" tvg-id="Darts.Dummy.us" tvg-name="[Darts] Darts Players Championship 30 (FAWA)" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/013/468/398/small/darts-board-icon-png.png" group-title="Live - Other Events",[Darts] Darts Players Championship 30 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.59/hls/diii.m3u8
+#EXTINF:-1 tvg-chno="121" tvg-id="PPV.EVENTS.Dummy.us" tvg-name="[ESPN Knockout] Kyonosuke Kameda vs Sebastian Hernandez Reyes | ESPN 2 (STRMXHD)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[ESPN Knockout] Kyonosuke Kameda vs Sebastian Hernandez Reyes | ESPN 2 (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espn2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/espn2/index.m3u8?token=ba4cdf7f7ce27fe0133f412e3daa6ca9e5effe90-3c-1790209814-1790155814
+#EXTINF:-1 tvg-chno="122" tvg-id="Golf.Dummy.us" tvg-name="[Golf] Sky Sports Golf (DAMITV)" tvg-logo="https://static.ppvservices.st/assets/thumb/9950e3e6c1a19cad6a216ec1c6b50d71-thumbnail.jpg" group-title="Live - Other Events",[Golf] Sky Sports Golf (DAMITV)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=sky-sports-golf-29059
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/sky-sports-golf-29059/playlist.m3u8?tk=9ap2YkUKFQylexCSE2TJPQ&e=1790208013
+#EXTINF:-1 tvg-chno="123" tvg-id="PPV.EVENTS.Dummy.us" tvg-name="[MMA Fighting] MMA IBC 05 (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[MMA Fighting] MMA IBC 05 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/ssss.m3u8
+#EXTINF:-1 tvg-chno="124" tvg-id="Live.Event.us" tvg-name="[Snooker] Snooker Scottish Opene 1 (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[Snooker] Snooker Scottish Opene 1 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.44/hls/grrrAAA.m3u8
+#EXTINF:-1 tvg-chno="125" tvg-id="Live.Event.us" tvg-name="[Snooker] Snooker Scottish Opene 2 (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[Snooker] Snooker Scottish Opene 2 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.44/hls/grrrAA.m3u8
+#EXTINF:-1 tvg-chno="126" tvg-id="Live.Event.us" tvg-name="[Snooker] Snooker Scottish Opene 3 (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[Snooker] Snooker Scottish Opene 3 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.44/hls/grrrA.m3u8
+#EXTINF:-1 tvg-chno="127" tvg-id="Live.Event.us" tvg-name="[Snooker] Snooker Scottish Opene 4 (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[Snooker] Snooker Scottish Opene 4 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.44/hls/grrr.m3u8
+#EXTINF:-1 tvg-chno="128" tvg-id="Live.Event.us" tvg-name="[UEFA Champions League Femenina] Barcelona vs Paris FC | Disney + (STRMXHD)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[UEFA Champions League Femenina] Barcelona vs Paris FC | Disney + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/disney3/index.m3u8?token=b711cfe4c5d9a3c0b204ffa7557c9f085c80c2a3-6a-1790163011-1790109011
-#EXTINF:-1 tvg-chno="246" tvg-id="Live.Event.us" tvg-name="[UEFA Champions League Femenina] Bayern vs Manchester City | Disney + (STRMXHD)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[UEFA Champions League Femenina] Bayern vs Manchester City | Disney + (STRMXHD)
-#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/disney1/index.m3u8?token=8d0de08eb421fdade3508f9a693552dfc303697c-34-1790163011-1790109011
-#EXTINF:-1 tvg-chno="247" tvg-id="Live.Event.us" tvg-name="[UEFA Champions League Femenina] Bayern vs Manchester City | ESPN 2 (STRMXHD)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[UEFA Champions League Femenina] Bayern vs Manchester City | ESPN 2 (STRMXHD)
-#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espn2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/espn2/index.m3u8?token=083c507250bdc107af30f47be104cd043557ccdf-ff-1790163011-1790109011
-#EXTINF:-1 tvg-chno="248" tvg-id="Live.Event.us" tvg-name="[UEFA Champions League Femenina] Bayern vs Manchester City | ESPN Deportes (STRMXHD)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[UEFA Champions League Femenina] Bayern vs Manchester City | ESPN Deportes (STRMXHD)
-#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espndeportes
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/espndeportes/index.m3u8?token=2ae4018dd492c6c7db8d697566012e821576ddcf-c9-1790163011-1790109011
-#EXTINF:-1 tvg-chno="249" tvg-id="Live.Event.us" tvg-name="[UEFA Champions League Femenina] Inter Milano vs Häcken | Disney + (STRMXHD)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[UEFA Champions League Femenina] Inter Milano vs Häcken | Disney + (STRMXHD)
-#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/disney2/index.m3u8?token=b51b3e8e079db231529bcab705a8b4bb83118444-02-1790163011-1790109011
-#EXTINF:-1 tvg-chno="250" tvg-id="Live.Event.us" tvg-name="[UEFA Champions League Femenina] Juventus vs SL Benfica | Disney + (STRMXHD)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[UEFA Champions League Femenina] Juventus vs SL Benfica | Disney + (STRMXHD)
+https://khala.futlivehd.com/global/disney3/index.m3u8?token=2bd7cc4e40ef1b70fd0ac0d8f749fbbc0a94d948-35-1790209815-1790155815
+#EXTINF:-1 tvg-chno="129" tvg-id="Live.Event.us" tvg-name="[UEFA Champions League Femenina] Chelsea FC vs Austria Wien | Disney + (STRMXHD)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[UEFA Champions League Femenina] Chelsea FC vs Austria Wien | Disney + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/disney4/index.m3u8?token=055efe17c1f75d85fe662aa42e1e232070019a76-d8-1790163012-1790109012
-#EXTINF:-1 tvg-chno="251" tvg-id="Live.Event.us" tvg-name="[UEFA Champions League Femenina] Real Madrid vs PSG | Disney + (STRMXHD)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[UEFA Champions League Femenina] Real Madrid vs PSG | Disney + (STRMXHD)
-#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/disney5/index.m3u8?token=e7f7bbeb13d59fa0ded0430815e0e6869958cac5-12-1790163012-1790109012
-#EXTINF:-1 tvg-chno="252" tvg-id="Live.Event.us" tvg-name="[UEFA Champions League Femenina] Real Madrid vs PSG | ESPN 2 (STRMXHD)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[UEFA Champions League Femenina] Real Madrid vs PSG | ESPN 2 (STRMXHD)
+https://khala.futlivehd.com/global/disney4/index.m3u8?token=a6694334cedbc2f34df410b7a66b0c1cf25a5489-dc-1790209815-1790155815
+#EXTINF:-1 tvg-chno="130" tvg-id="Live.Event.us" tvg-name="[UEFA Champions League Femenina] Chelsea FC vs Austria Wien | ESPN 2 (STRMXHD)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[UEFA Champions League Femenina] Chelsea FC vs Austria Wien | ESPN 2 (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espn2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/espn2/index.m3u8?token=3b3f5ea124729ceb021f957864869df66a65fa33-e1-1790163012-1790109012
-#EXTINF:-1 tvg-chno="253" tvg-id="UFC.247.Dummy.us" tvg-name="[UFC Fight Night] Dana White Contender Series_Week 7 (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2017/06/Logo-UFC-500x313.png" group-title="Live - Other Events",[UFC Fight Night] Dana White Contender Series_Week 7 (FAWA)
+https://khala.futlivehd.com/global/espn2/index.m3u8?token=6c25a87f73bbaa93d35b028f0cfe08a5679d179d-53-1790209815-1790155815
+#EXTINF:-1 tvg-chno="131" tvg-id="Live.Event.us" tvg-name="[UEFA Champions League Femenina] OH Leuven vs Roma | Disney + (STRMXHD)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[UEFA Champions League Femenina] OH Leuven vs Roma | Disney + (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/disney1/index.m3u8?token=99d3317ff01060bf4afbb5db51e6cc51ffdfb195-93-1790209814-1790155814
+#EXTINF:-1 tvg-chno="132" tvg-id="Live.Event.us" tvg-name="[UEFA Champions League Femenina] Servette Chênois Féminin vs OL Lyonnes | Disney + (STRMXHD)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[UEFA Champions League Femenina] Servette Chênois Féminin vs OL Lyonnes | Disney + (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/disney2/index.m3u8?token=3dec5068202bf4241e5280fc40b6e5e7f5bd5a04-2d-1790209814-1790155814
+#EXTINF:-1 tvg-chno="133" tvg-id="Live.Event.us" tvg-name="[UEFA Champions League Femenina] Servette Chênois Féminin vs OL Lyonnes | ESPN 2 (STRMXHD)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[UEFA Champions League Femenina] Servette Chênois Féminin vs OL Lyonnes | ESPN 2 (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espn2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/espn2/index.m3u8?token=a9aca0852ae9b92ca3d6f4cf57212acc18458dd7-e7-1790209814-1790155814
+#EXTINF:-1 tvg-chno="134" tvg-id="Live.Event.us" tvg-name="[UEFA Europa Cup Women] PAOK W vs Myjava W (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[UEFA Europa Cup Women] PAOK W vs Myjava W (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.50/hls/IMMMAAAAAA.m3u8
-#EXTINF:-1 tvg-chno="254" tvg-id="UFC.247.Dummy.us" tvg-name="[UFC] Damian Piwowarczyk vs Emilio Quissua | English (STRMGATE)" tvg-logo="https://1000logos.net/wp-content/uploads/2017/06/Logo-UFC-500x313.png" group-title="Live - Other Events",[UFC] Damian Piwowarczyk vs Emilio Quissua | English (STRMGATE)
-#EXTVLCOPT:http-referrer=https://instream.click/livetv.php?stream=tv600060738
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://instreams.live/live/tv600060738/index.m3u8?st=rKw9bdZ77dhdkn-y1WF6rg&e=1790137813
-#EXTINF:-1 tvg-chno="255" tvg-id="PPV.EVENTS.Dummy.us" tvg-name="[WWE Wrestling] WWE NXT 1 (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[WWE Wrestling] WWE NXT 1 (FAWA)
+http://193.47.62.50/hls/ssssaAAa.m3u8
+#EXTINF:-1 tvg-chno="135" tvg-id="Soccer.Dummy.us" tvg-name="[World Cup Women U20] Italy U20 W vs Spain U20 W (FAWA)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live - Other Events",[World Cup Women U20] Italy U20 W vs Spain U20 W (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.55/hls/FIOOOQQ.m3u8
-#EXTINF:-1 tvg-chno="256" tvg-id="PPV.EVENTS.Dummy.us" tvg-name="[WWE Wrestling] WWE NXT 2 (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[WWE Wrestling] WWE NXT 2 (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://jellyfin.fromthyheart.site/dailymotion/live/playlist/5.m3u8
+http://193.47.62.50/hls/ssssaAA.m3u8
