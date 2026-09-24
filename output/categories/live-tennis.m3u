@@ -1,0 +1,13 @@
+#EXTM3U url-tvg="https://s.id/d9sEPG"
+#EXTINF:-1 tvg-chno="239" tvg-id="Tennis.Dummy.us" tvg-name="[Tennis WTA] Tennis WTA Billie Jean King Cup (FAWA)" tvg-logo="https://files.catbox.moe/q8ljra.png" group-title="Live - Tennis",[Tennis WTA] Tennis WTA Billie Jean King Cup (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.41/hls/XAXAXADDD.m3u8
+#EXTINF:-1 tvg-chno="240" tvg-id="Live.Event.us" tvg-name="[WTA] DOBLES - Singapur, dura - Cuartos de final: Costoulas S. / Gibson T. vs Mladenovic K. / Panova A. | Disney+ (TVF90)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Tennis",dura - Cuartos de final: Costoulas S. / Gibson T. vs Mladenovic K. / Panova A. | Disney+ (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/plus1.php?stream=disney21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://2.ftlly.com:443/disney21/mono.m3u8?token=d4e1d9faf0945fdf131e5242dd97eb27f8d6cdaf-e5-1790268322-1790250322
+#EXTINF:-1 tvg-chno="241" tvg-id="Live.Event.us" tvg-name="[WTA] INDIVIDUALES - Singapur, dura - 1/8 de final: Prozorova T. vs Eala A. | Disney+ (TVF90)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Tennis",dura - 1/8 de final: Prozorova T. vs Eala A. | Disney+ (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/plus1.php?stream=disney22
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://4.ftlly.com:443/disney22/mono.m3u8?token=7a69655a77692571faa42ebf72cba146fe74d315-71-1790268328-1790250328

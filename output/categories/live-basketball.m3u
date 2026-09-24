@@ -1,45 +1,41 @@
 #EXTM3U url-tvg="https://s.id/d9sEPG"
-#EXTINF:-1 tvg-chno="177" tvg-id="Basketball.Dummy.us" tvg-name="[Basketball Asian Games] Chinese Taipei W vs Philippines W (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/04/Basketball-Emoji-1536x864.png" group-title="Live - Basketball",[Basketball Asian Games] Chinese Taipei W vs Philippines W (FAWA)
+#EXTINF:-1 tvg-chno="108" tvg-id="Basketball.Dummy.us" tvg-name="[Basketball Asian Games] Japan W vs Thailand W (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/04/Basketball-Emoji-1536x864.png" group-title="Live - Basketball",[Basketball Asian Games] Japan W vs Thailand W (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.44/hls/ZAAAQ.m3u8
-#EXTINF:-1 tvg-chno="178" tvg-id="Basketball.Dummy.us" tvg-name="[Basketball Asian Games] Mongolia W vs China W (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/04/Basketball-Emoji-1536x864.png" group-title="Live - Basketball",[Basketball Asian Games] Mongolia W vs China W (FAWA)
+http://193.47.62.55/hls/vvvvA.m3u8
+#EXTINF:-1 tvg-chno="109" tvg-id="Live.Event.us" tvg-name="[Basketball Intercontinental Cup] Boca Juniors vs G League United 1 (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Basketball",[Basketball Intercontinental Cup] Boca Juniors vs G League United 1 (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.44/hls/ZAAA.m3u8
-#EXTINF:-1 tvg-chno="179" tvg-id="WNBA.dummy.us" tvg-name="[Basketball] Atlanta Dream vs. New York Liberty | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/wnba.png" group-title="Live - Basketball",[Basketball] Atlanta Dream vs. New York Liberty | English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
+http://193.47.62.55/hls/ELLL.m3u8
+#EXTINF:-1 tvg-chno="110" tvg-id="Live.Event.us" tvg-name="[Basketball Intercontinental Cup] Boca Juniors vs G League United 2 (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Basketball",[Basketball Intercontinental Cup] Boca Juniors vs G League United 2 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://edgestream2.pro/hls/bvnsqdfvgha70.m3u8
-#EXTINF:-1 tvg-chno="180" tvg-id="WNBA.dummy.us" tvg-name="[Basketball] Dallas Wings vs. Seattle Storm | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/wnba.png" group-title="Live - Basketball",[Basketball] Dallas Wings vs. Seattle Storm | English (STRMCNTR)
+https://www.rtmpcdn.com/live/226939b4-59ca-487b-b96b-cae688e67687.m3u8
+#EXTINF:-1 tvg-chno="111" tvg-id="Live.Event.us" tvg-name="[Basketball NBL] Perth vs Adelaide (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Basketball",[Basketball NBL] Perth vs Adelaide (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/FUUUAa.m3u8
+#EXTINF:-1 tvg-chno="112" tvg-id="Live.Event.us" tvg-name="[Basketball NBL] South East Melbourne vs Melbourne United (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Basketball",[Basketball NBL] South East Melbourne vs Melbourne United (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/FUUUAa.m3u8
+#EXTINF:-1 tvg-chno="113" tvg-id="WNBA.dummy.us" tvg-name="[Basketball] Chicago Sky vs. Washington Mystics | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/wnba.png" group-title="Live - Basketball",[Basketball] Chicago Sky vs. Washington Mystics | English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/ztyarueaghj71.m3u8
-#EXTINF:-1 tvg-chno="181" tvg-id="WNBA.dummy.us" tvg-name="[WNBA Basketball] New York Liberty W vs Atlanta Dream W 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/wnba.png" group-title="Live - Basketball",[WNBA Basketball] New York Liberty W vs Atlanta Dream W 1 (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-chno="114" tvg-id="WNBA.dummy.us" tvg-name="[Basketball] Golden State Valkyries vs. Los Angeles Sparks | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/wnba.png" group-title="Live - Basketball",[Basketball] Golden State Valkyries vs. Los Angeles Sparks | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.55/hls/FAFAFAQQQQQ.m3u8
-#EXTINF:-1 tvg-chno="182" tvg-id="WNBA.dummy.us" tvg-name="[WNBA Basketball] Seattle Storm W vs Dallas Wings W 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/wnba.png" group-title="Live - Basketball",[WNBA Basketball] Seattle Storm W vs Dallas Wings W 1 (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+https://edgestream2.pro/hls/fdgsqdfawa73.m3u8
+#EXTINF:-1 tvg-chno="115" tvg-id="WNBA.dummy.us" tvg-name="[Basketball] Indiana Fever vs. Minnesota Lynx | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/wnba.png" group-title="Live - Basketball",[Basketball] Indiana Fever vs. Minnesota Lynx | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.44/hls/RARARADDDDQQ.m3u8
-#EXTINF:-1 tvg-chno="183" tvg-id="WNBA.dummy.us" tvg-name="[WNBA Basketball] Seattle Storm W vs Dallas Wings W 2 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/wnba.png" group-title="Live - Basketball",[WNBA Basketball] Seattle Storm W vs Dallas Wings W 2 (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+https://edgestream2.pro/hls/pllmazjkdzajh72.m3u8
+#EXTINF:-1 tvg-chno="116" tvg-id="WNBA.dummy.us" tvg-name="[Basketball] Las Vegas Aces vs. Phoenix Mercury | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/wnba.png" group-title="Live - Basketball",[Basketball] Las Vegas Aces vs. Phoenix Mercury | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://www.rtmpcdn.com/live/88bfc923-e425-4b7a-8e55-d39e40b566f8.m3u8
-#EXTINF:-1 tvg-chno="184" tvg-id="WNBA.dummy.us" tvg-name="[WNBA] Dallas Wings vs Seattle Storm (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/basketball_dallas-wings-vs-seattle-storm_Dallas_Wings_vs_Seattle_Storm" group-title="Live - Basketball",[WNBA] Dallas Wings vs Seattle Storm (STRMFREE)
-#EXTVLCOPT:http-referrer=https://streamfree.top
+https://edgestream2.pro/hls/yjtzafghvjza74.m3u8
+#EXTINF:-1 tvg-chno="117" tvg-id="WNBA.dummy.us" tvg-name="[Basketball] Toronto Tempo vs. Connecticut Sun | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/wnba.png" group-title="Live - Basketball",[Basketball] Toronto Tempo vs. Connecticut Sun | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://streamfree.top/live-cdn/dallas-wings-vs-seattle-storm1080p3/index.m3u8?_e=1790245826&_n=3a466f3e32a3fdfd&_t=gSRzYsom3YCTGO_6loSi4w
-#EXTINF:-1 tvg-chno="185" tvg-id="WNBA.dummy.us" tvg-name="[WNBA] Seattle Storm vs Dallas Wings (FLYEMBD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/wnba.png" group-title="Live - Basketball",[WNBA] Seattle Storm vs Dallas Wings (FLYEMBD)
-#EXTVLCOPT:http-referrer=https://exmxbxe.cfd/flyemb/nloc37sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://juxrd.hundxvision.co.uk/main/secure/115f50a7a74fce48f7f484355888f326ce432b663bbd33341e816f65c01e947d/1790229611/usanetwork-usa.m3u8
-#EXTINF:-1 tvg-chno="186" tvg-id="WNBA.dummy.us" tvg-name="[WNBA] Seattle Storm vs Dallas Wings (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/wnba.png" group-title="Live - Basketball",[WNBA] Seattle Storm vs Dallas Wings (iSTRMEAST)
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/56988?ad=111
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://chatgpt.hereisman.net/playlist/56988/load-playlist
-#EXTINF:-1 tvg-chno="187" tvg-id="WNBA.dummy.us" tvg-name="[WNBA] Seattle Storm vs Dallas Wings (WATCHFTY)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/wnba.png" group-title="Live - Basketball",[WNBA] Seattle Storm vs Dallas Wings (WATCHFTY)
-#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/4659948/seattle-storm-dallas-wings/pro/3?player=clappr&autoplay=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://lb6.wfty.st/secure/yG8ImFvU5HlSKw0GpEVADg/pro/seattle-storm-dallas-wings/3/4659948/1790238636/playlist.m3u8
+https://edgestream2.pro/hls/bvnsqdfvgha70.m3u8
