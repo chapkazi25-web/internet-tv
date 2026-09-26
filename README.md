@@ -1,48 +1,47 @@
 # 📺 IPTV Playlist
 
-## Playlist Log @ 2026-09-26 13:21 UTC
+## Playlist Log @ 2026-09-26 17:58 UTC
 
-### ✅ Active Streams: 250
-❌ Dead Streams: 34
+### ✅ Active Streams: 368
+❌ Dead Streams: 33
 
-_Skipped 459 dead live-event streams — event links expire when the match ends._
+_Skipped 521 dead live-event streams — event links expire when the match ends._
 
 | Channel | Category | Error (Code) |
 | --- | --- | --- |
-| [INSP](https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb245/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMjQ1OjE3OTA0NDAyNDc2NTM6Y2RubGl2ZXR2LnR2OjU1YTliNmMxMWRiOWRjYWYuN2ZlNTE2NTczYjg1NjdhZTQ4MDAzY2UxNDZhZjY2ZDFmZDg5MWI5Y2FkNjI1NzIwNDA1YzE5YjRhNzFkMzFiMg) | Documentary & Reality | HTTP Error (503) |
-| [Smithsonian Channel](https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb27d/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMjdkOjE3OTA0NDAyNTE0OTM6Y2RubGl2ZXR2LnR2OjUwMWRmYTcwZjY2ZGM4MjEuMDc4MDFhMWRjZTg3ZWZjOWIzYTI0YTFhZmJjODczY2I5OGMwNjI2MTMxODI0OTJkNjJkYzY5M2IzMTRlNmUxYw) | Documentary & Reality | HTTP Error (503) |
-| [TLC](https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cacc6/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNhY2M2OjE3OTA0NDAyNTM4OTc6Y2RubGl2ZXR2LnR2OjgwZGIyYzIwNjMxYjhjYzcuNmVmZGQwZmVlYzllNzUyZWJlMjllODc3NmI4MGFjMDVlMjk3OTUyNTg4MGExYWNkNmY0MDBmZDNkNWI4ZmNjYQ) | Documentary & Reality | HTTP Error (503) |
 | [Unknown](Italia  vs Colombia | Caracol TV (TVF90%29" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live Events",[Copa Mundial Femenina Sub] 20 de la FIFA:) | Entertainment | Missing URL |
-| [BET](https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cae13/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNhZTEzOjE3OTA0NDAyNDUzOTA6Y2RubGl2ZXR2LnR2OmY0MmE3OTE2MzRiYTkwYTEuYjA5NTRhNmVkNTVhZDJjYTNiYzkwNmFhYWVhMjE1YWViODNhMzJkZDNmZmM4ZjY3NzExZjA4MjQzYTIyOGQxMg) | Entertainment | HTTP Error (503) |
-| [Comedy Central](https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb213/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMjEzOjE3OTA0NDAyNDU2ODk6Y2RubGl2ZXR2LnR2Ojk0MTk1YmE2MmUxYWU2MGMuNGUwNzRlNzM1OGYyNzVlYjE5ODJlYTBiODhmYmM3ZjBhNjE1N2U2ZTc0YjQ3MzI2YzY0ZjBmNDRlOGIzZDU2Yw) | Entertainment | HTTP Error (503) |
-| [Grit TV](https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb39c/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzljOjE3OTA0NDAyNDczNjU6Y2RubGl2ZXR2LnR2OjQ4ZTI2ZDdjZmVkMmJkOTIuYzFjMWZlYzk2N2U4YzNlY2RjMzg5OTU2ODhmZTg0MjhhZWRmY2M2ZTE1Y2E1ODc0YjIzNWNmYmExMTc4Yjg5NQ) | Entertainment | HTTP Error (503) |
-| [Pop TV](https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb269/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMjY5OjE3OTA0NDAyNDk0NDY6Y2RubGl2ZXR2LnR2OjQ5M2Q3ZTFiZGM5OTIzY2IuYTFlYzdiNzgyNzNhY2FkYjdiNTE3ZGY1MDYwOWQ5ZTg1NzU1YTQyZGZmNDcyNzA3YjVhNjNhY2FiNTJlZWIzNQ) | Entertainment | HTTP Error (503) |
-| [Travel Channel](https://cdnlivetv.tv/secure/api/v1/6a288d2681d8192bb76cab13/playlist.m3u8?token=NmEyODhkMjY4MWQ4MTkyYmI3NmNhYjEzOjE3OTA0NDAyNTQ2MjA6Y2RubGl2ZXR2LnR2OjJkZWQ5ZTI0NzgzODUxZWEuMDNiMjdlMTEyYzg1Mjk4ZTA3Y2I3YmU3ZDA0M2M4MTc3MzE3MWZlODczOTk1MWNkNWE5NGFjMTA5NWRmOTJjNA) | Entertainment | HTTP Error (503) |
-| [Cozi TV](https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb37f/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzdmOjE3OTA0NDAyNDU4NDk6Y2RubGl2ZXR2LnR2OjI1MTVjNzUyYjk0ZDk1ZTUuNWVkY2UwODc0YzkyNWQzZTNkYmFmMmYzZTM0NDNkNTViYjZlNWRjMmE4NmUyNzZhYmI1OWNhZWY2OTU2OTk5OQ) | Kids & Family | HTTP Error (503) |
-| [FX Movie Channel](https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb22b/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMjJiOjE3OTA0NDAyNDY5MTE6Y2RubGl2ZXR2LnR2OjZmOGE0NzRiZGNjOTdkZWQuZWZhMGY2YjQxODAzMWVhMjI1YWU4NGYzNDViNDA3YzJlODk5ZjZhOTg0YjZiMDcxOGMxY2Q3MDRmMWE5YWEyNQ) | Movies & Premium | HTTP Error (503) |
-| [MGM+](https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb3ce/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiM2NlOjE3OTA0NDAyNDgzODE6Y2RubGl2ZXR2LnR2OjA4YjllYWM5ODY5MjBjMGQuZGI4ZDIyZDc0M2ZlZWUyYmQwODIyNzliMzZkOTFjYzU4YzdjNzcxM2YyZTQwNjZkYTRjYmM5ZjVhZTIxYTZkMA) | Movies & Premium | HTTP Error (503) |
-| [Starz Encore Classic](https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb287/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMjg3OjE3OTA0NDAyNTI5ODA6Y2RubGl2ZXR2LnR2OjAzODVmYjI2NTIzZDU1NTguODIwMzA3NGRhNmExMzE3NTEzYTE2OGZiZjAyZTBjN2M1NTgxYzhhYWY0NWQwOTU2MGE0NTUzNDdiNTQzY2Q1OA) | Movies & Premium | HTTP Error (503) |
-| [Starz Encore Family](https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb288/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMjg4OjE3OTA0NDAyNTMxNDY6Y2RubGl2ZXR2LnR2OmU1ZWZkNDE2NDJlYjcyMDIuN2RmMTA3OTUzOGQ5OGNiZDg3MzZmOTIwMmFjOGEzOTQ0NGFiODRlYzM1ZWY3ZjZmYWJkMmMyZmZjZDEyNTgzMA) | Movies & Premium | HTTP Error (503) |
-| [Starz Encore Westerns](https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb28c/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMjhjOjE3OTA0NDAyNTM0NDU6Y2RubGl2ZXR2LnR2OjhhNzU4NjBjZjM1OWIzOTIuMTQxMzVhZDBkYmRiM2YwNTEzYTVjYWIyYTEzYmNiOThjZjEyMmI3YjYxMmJlMDU0ZjBmZDI3YzFiOGNiZWY0Yg) | Movies & Premium | HTTP Error (503) |
-| [beIN Sports en Español](https://cdnlivetv.tv/secure/api/v1/6a288d2e81d8192bb76ce5d6/playlist.m3u8?token=NmEyODhkMmU4MWQ4MTkyYmI3NmNlNWQ2OjE3OTA0NDAyNDUxMTM6Y2RubGl2ZXR2LnR2OmYxM2M2NDI2ZGY5ZTgyZmEuY2UyYzNiNWUwMGFiZGJmZThkYmFmMjMxNjMzOWRkNDZkM2NjM2I4Yzk0MGZlZWNlYjFmMzAwNDViNjJiMTMxNA) | Sports | HTTP Error (503) |
-| [beIN Sports USA](https://cdnlivetv.tv/secure/api/v1/6a288d2681d8192bb76ca97e/playlist.m3u8?token=NmEyODhkMjY4MWQ4MTkyYmI3NmNhOTdlOjE3OTA0NDAyNDUyNTY6Y2RubGl2ZXR2LnR2OjY4OWMzMDg1YTk4Mzc3YmYuN2M3Yjk0ZmMzZjY4YjA4YzlmZTQyYWZhN2Y4ZTcwYTllYzc2MjgxMjUwYmIzNTQ4NTg2Mzg1YjE5NjVjNGFjNw) | Sports | HTTP Error (503) |
-| [DAZN 1 Germany](https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76ccca0/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjY2EwOjE3OTA0NDAyNDYwMDg6Y2RubGl2ZXR2LnR2OjFhZTcwMzMwMGY0MTU1ZWQuMmM0N2YzYzg4YzRmMWQ4YzQ0N2Q1MzNjOTcwMDJjODFiOWI5YWVjMTdjYWVkMGNmNjFlNDFiZWM3MzIzNjE3OQ) | Sports | HTTP Error (503) |
-| [DAZN 2 Germany](https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76ccca2/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjY2EyOjE3OTA0NDAyNDYxNjQ6Y2RubGl2ZXR2LnR2OjY0ZDg4MmRkMDhjM2I5YjEuM2I4OWE1Nzc0ZWExNjA0MWE5MWRiYWFjYmVmNmY5OWI4ZDE2NWZmYTVmMGI1NmMzYzE2YWE4YjkxODU3NjAxNg) | Sports | HTTP Error (503) |
-| [NBC Sports Philadelphia](https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb518/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiNTE4OjE3OTA0NDAyNDg2OTk6Y2RubGl2ZXR2LnR2OjkxOGEyODYyNGRkZWUzYjMuMDU4YTc2YjczMTBkZjdiYTFjZDBiYjRiYjFlNzJlZjcxNGUzMTZmZmQ2ZTA5MjI2NDcwODA4NjQ4M2EzOTU5YQ) | Sports | HTTP Error (503) |
-| [NESN](https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb25b/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMjViOjE3OTA0NDAyNDg4NDk6Y2RubGl2ZXR2LnR2OmYzZTlmMDFlYTA2YTQzYjMuYmY4MWRlNWMwYzJiOTczNjRiYjU2NDBhYjJhNTc5OGFlNmNmZGQxZDA0ZjY4NzNlYzFiNTIzZDUwZGVmMzRkNQ) | Sports | HTTP Error (503) |
-| [Premier Sports 2](https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc361/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzYxOjE3OTA0NDAyNDk3MzY6Y2RubGl2ZXR2LnR2OjlmOGNlZjlmODE3YTM0ZmEuZmY0MmIyMTNhZWQ0ZDcyZmUyOWYyNjQ1YmRkOGQ3Nzk1Y2JjZjM1MWJjYzIxN2YwZDhmOWNmZDc1NmZmYTQ2Yw) | Sports | HTTP Error (503) |
-| [Sky Sports Mix](https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc32d/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzJkOjE3OTA0NDAyNTA5MjU6Y2RubGl2ZXR2LnR2OjJiZTViZTczNjgzOWQzMzkuYzZkZjNhNTVkOWU5ZDRkZjQzNWZmZTAwOGFhN2UwZTE2NGJmNGNhZjgwMjBhMTkxYTY4MmVlNzRiZWJkMmExMA) | Sports | HTTP Error (503) |
-| [Spectrum SportsNet LA Dodgers](https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb5ea/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWVhOjE3OTA0NDAyNTE2NTA6Y2RubGl2ZXR2LnR2OjkxZjQxNGE2NTJjZmY1YzAuYmZlMjY4MmQwYTM0ZmJkZjVjNGYwYWJjZTk4YmNiNjU0YjhmMTEwYTNlZDk3NTMzZjNiNzFhZjVhMDMxMDFjNg) | Sports | HTTP Error (503) |
-| [Sportsnet 360](https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc2a5/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMmE1OjE3OTA0NDAyNTE4MDM6Y2RubGl2ZXR2LnR2Ojc3ZjM4Y2QwMTUzNGQyMTkuNjM3YWI1ODZjODYwOGE1ZmVjMmVkNzg5N2ZlZDMyMzQ0MGEyNjBkNWMzMzUyNDk5YTU3NWUzNGVhYmQxMDQxMg) | Sports | HTTP Error (503) |
-| [Sportsnet East](https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc168/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTY4OjE3OTA0NDAyNTE5NDg6Y2RubGl2ZXR2LnR2OmRlM2M5NTljMDc4YjViZGQuYjg2YTNmODk2MTYzMDQ0NjI0MTdlNjEwMDlhNThhMzMwMjE1YTIxNDVhNzdiZmRhMjBmYjY4YjY1MmU5NmEzMg) | Sports | HTTP Error (503) |
-| [SportsNet New York](https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb52e/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiNTJlOjE3OTA0NDAyNTIwOTA6Y2RubGl2ZXR2LnR2OjRhMjQ5OTdhMmY2YjkwNzAuOGNmYTgyODllOTA0ZDNkZTQ2Y2IxMzZiN2ZiZDhlMmE2OTRkZTJiOTBjOWJkYmY0MTA5NGVhZWI1MmUzNjJkMA) | Sports | HTTP Error (503) |
-| [Sportsnet One](https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc2b0/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMmIwOjE3OTA0NDAyNTIyMjg6Y2RubGl2ZXR2LnR2OmY4NzlmM2JjMDEzZGJiOWQuZmUwYjc3MWQ0NTM2ZjkwMzc5YTQyOGVlYjQzZmFiY2NkY2ZkYzU0ZTc4OGM1MDQ1ZjJhMWZiNWE0OGVmYWJlZQ) | Sports | HTTP Error (503) |
-| [SportsNet Pittsburgh](https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb582/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNTgyOjE3OTA0NDAyNTIzNzg6Y2RubGl2ZXR2LnR2OjAzMGUxZDU3YThmZTMwM2UuMDVlMDdhNTU4NDRkZGQ1NzFiN2NhNDYzZWU4Mzg2NWRlYTVlZjg2M2ViODdlZDk0MjkxZjRjZGY3ZmZiZTNhZg) | Sports | HTTP Error (503) |
-| [TNT Sports 1](https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc344/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzQ0OjE3OTA0NDAyNTQwMzQ6Y2RubGl2ZXR2LnR2OjBhZTM5ZjIyYzcxNjg1ZTAuNmMzYzdmMjRjMjk3NDEwMzg4MGE0NWFkZGNlYzdiNjIxMjE1YzNlYTk0ZmFhOGQ1ZGViMWQ5YWQxNzI4ZmJjZA) | Sports | HTTP Error (503) |
-| [TNT Sports 2](https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc347/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzQ3OjE3OTA0NDAyNTQxNzk6Y2RubGl2ZXR2LnR2OmJkZDM3Mzk0MGYxYjA2YTEuZTJlNTY5NWZmZTY4M2JjNTQwMDdkNjc0N2UzZDU4YWU2MmVlNzhhMmExODAwOWEzNTM2NGExMDFiMzg3MTlmMg) | Sports | HTTP Error (503) |
-| [TNT Sports 3](https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc34a/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzRhOjE3OTA0NDAyNTQzMTc6Y2RubGl2ZXR2LnR2Ojk4ZmQzNDI0Zjg1MDg2ZmMuNjI0ZmZiNGQzZGViNjA0NzEyOTBhNmIzNmViMjY5Y2M5YjM0YmI5OTgxYTU2NjhkYzAxNjkwZmI4NjY4ZDhlOQ) | Sports | HTTP Error (503) |
-| [TNT Sports 4](https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc34e/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzRlOjE3OTA0NDAyNTQ0NjU6Y2RubGl2ZXR2LnR2OjJjNDljZGIyYjVhZGRiNDguYjNjZDIxY2JiZjNhMTBlZDQwOTcxZjZmYzVhMzU2MWJhNTc4ZWExMDE0NjkyZDZhYzFhMTE5YWQxYjFiYmFhMg) | Sports | HTTP Error (503) |
-| [TSN 2](https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc173/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTczOjE3OTA0NDAyNTQ4ODg6Y2RubGl2ZXR2LnR2OjJmNzJiYjJhZGVmMjdmNWUuMGE0YWI0ODc2OWVkMDk0Yjk2YWVjZTU1NTlkMGM1YTY4NmZhOGE0MGU5ZWM1YWEyYWI2NDI4NjAxNDZiZjRlZQ) | Sports | HTTP Error (503) |
+| [E! Entertainment](https://cache0.wonvt.st/live/15a0cd61f3w7um0229g5g/master.m3u8) | Entertainment | HTTP Error (429) |
+| [FX](https://cache0.wonvt.st/live/00l0xp41smdo1b07fldzv/master.m3u8) | Entertainment | HTTP Error (429) |
+| [Pop TV](https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb269/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMjY5OjE3OTA0NTY0NTE3ODk6Y2RubGl2ZXR2LnR2OmZmNDk5MWNkMDQwODRkNTkuNGM1MGNkNmI5YTc3OWU5NWU3YTZkNDhhY2EwNzc1YmVmNDUxMmNmMTc4OWQ4YzUzMzI1ZjJiMGEzM2ZiMzJlYg) | Entertainment | HTTP Error (503) |
+| [Travel Channel](https://cdnlivetv.tv/secure/api/v1/6a288d2681d8192bb76cab13/playlist.m3u8?token=NmEyODhkMjY4MWQ4MTkyYmI3NmNhYjEzOjE3OTA0NTY0NTg5NDQ6Y2RubGl2ZXR2LnR2OmEyYjNjOTcyZWFjMDZhYzMuMzhmZjQyNzNjYTg2YWE0ZjYzNjlhMWE3NDEzMzU3NTJlNzM3MmY4OGUzMmZhOTdhNDAwMmEwOWFjNTkzNGM5OQ) | Entertainment | HTTP Error (503) |
+| [MGM+](https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb3ce/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiM2NlOjE3OTA0NTY0NTAzNDQ6Y2RubGl2ZXR2LnR2OjE0NmFlZWY0YzY0YzQ4MzkuNTUzYmZiZTc1N2IyZjYzMzA4MDBkMmU2NzE0NTAyNDA4YzBhNTk0MDBlMTU0N2NiNmQyZTU5MzdkOTkzMTExYw) | Movies & Premium | HTTP Error (503) |
+| [Starz Edge](https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb284/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMjg0OjE3OTA0NTY0NTYwOTk6Y2RubGl2ZXR2LnR2OmJlOTdjYzdlMWJiMDNhMDguYzdkYjhiMTc0NjZkNWJiMTZhZWY3MjFkNjg4ODE2YmNjZWM2MTNjZTQ0YjdhZjYyNTViZjBlZDI3NjRhMjA1Ng) | Movies & Premium | HTTP Error (503) |
+| [Starz Encore Action](https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb285/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMjg1OjE3OTA0NTY0NTYzMDk6Y2RubGl2ZXR2LnR2OmQwYTMyNmEwMDg4MTYxZWIuZmUzMTVkZWFhYjYxODNlMWU5NzFmN2MxZjRiMTllYWIxY2Q3NzQxNDJhN2FkMGEyNmQ4ZmE1YjJjMDRiYzBkMw) | Movies & Premium | HTTP Error (503) |
+| [Starz Encore Black](https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb286/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMjg2OjE3OTA0NTY0NTY0ODg6Y2RubGl2ZXR2LnR2OjVhMjQ1MDhiYmRiOTI3YTIuZmYxZTU0Y2NiMmEyNTZlNmQ2N2IzMDdhMzYzNmEzNjRhNmI1MDlhMWJkMTIzZGM0ZTg3NWI5ZGU3YTNjODc2OA) | Movies & Premium | HTTP Error (503) |
+| [Starz Encore Classic](https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb287/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMjg3OjE3OTA0NTY0NTY3MTg6Y2RubGl2ZXR2LnR2OmY1MzVhYTViZTI4ZjE4OGMuZjY0M2ZiZmQ4NjQ0NGIwMTk0MDgxN2JmZTc3ZGYzMTUzNjM1NmY1OWI2ZTc3YzI2Y2QyYWQ0MWMwMDA3ODY0Ng) | Movies & Premium | HTTP Error (503) |
+| [Starz Encore Family](https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb288/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMjg4OjE3OTA0NTY0NTY5MTE6Y2RubGl2ZXR2LnR2Ojg3NDM5ZjVkYzYzMTdmNzguZTRmZmNkYzVlNDY3YzI5ZjYzZjhiZmMwZWFmYzY0N2RmNmM0ZGY4YWE2ZWRjMWRmNDUyNGFjNDhjNTcyZTk0MA) | Movies & Premium | HTTP Error (503) |
+| [Starz Encore Suspense](https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb289/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMjg5OjE3OTA0NTY0NTcwOTM6Y2RubGl2ZXR2LnR2OmI3NjFjNGRjZmFlNGM0NGYuOTk2NDBhMGMxN2NiMDhiYTIyMWY4NGIyNzgwODlhNTE4MWI3NmU3NmI0MjczNzVlY2QyOGFiZTE4MWUxNGU1YQ) | Movies & Premium | HTTP Error (503) |
+| [Fox Business](https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cae6c/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNhZTZjOjE3OTA0NTY0NDc3Nzc6Y2RubGl2ZXR2LnR2OjQ5M2NjZGJmZjRlOWEzN2YuOWRmMmQ5YWIyMWNmMjAwYzg2MjgzY2ExYThiNDZkNDQ5YWMzZDkzNjliYzg4NmUzYTE3YzM4ODdjYzk4Mzg2Zg) | News & Weather | HTTP Error (503) |
+| [beIN Sports en Español](https://cdnlivetv.tv/secure/api/v1/6a288d2e81d8192bb76ce5d6/playlist.m3u8?token=NmEyODhkMmU4MWQ4MTkyYmI3NmNlNWQ2OjE3OTA0NTY0NDU3MzU6Y2RubGl2ZXR2LnR2OmJjYjZhNzUxNDQyYjIyN2YuNzhmYTZiZGY0MDNhNTJmOTc5MzBjMzBlNmFjZDZkOGRlNTNkZTk5NmE2OGNlOTE3ZTJmYzRjMzgwMTRmZTlmNA) | Sports | HTTP Error (503) |
+| [beIN Sports USA](https://cdnlivetv.tv/secure/api/v1/6a288d2681d8192bb76ca97e/playlist.m3u8?token=NmEyODhkMjY4MWQ4MTkyYmI3NmNhOTdlOjE3OTA0NTY0NDU5MzU6Y2RubGl2ZXR2LnR2OmZjNzBmNGYyMzNiZmRiOTEuNzMzMmMxMjA5MzJkNzRlMTI5ZmI0OWRkZTI4OTBiNzMzOTAwOWZkYTIxOGZjZGI3NWNjYmZhMzdjY2Y0NTY4NQ) | Sports | HTTP Error (503) |
+| [DAZN 1 Germany](https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76ccca0/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjY2EwOjE3OTA0NTY0NDY5NTc6Y2RubGl2ZXR2LnR2OjUwMzU3YzIyNGFjZTQ2NTAuZTYzMzNhZjE1ZmE1OGQ2OGIzMWVjZTRjNjg4NWU3YTM2NTNmN2QwOWExNmYxMTllMzE3NjVjOGUyNjNmMzkyZg) | Sports | HTTP Error (503) |
+| [DAZN 2 Germany](https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76ccca2/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjY2EyOjE3OTA0NTY0NDcxNjA6Y2RubGl2ZXR2LnR2OmE0NTZlMzYwZjc3Yjg4NDIuM2JlZThjZWNhYmY4MGQwOTE3OTU3YmY3MTg5NDIyZjBjOTg4MTE3MDE5NWFjNTM3YmYxZDlmNmI0ZDg4NTQ5ZQ) | Sports | HTTP Error (503) |
+| [ESPN](http://stream.bottledesk.net/6500/index.m3u8) | Sports | Timeout |
+| [NBC Sports Philadelphia](https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb518/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiNTE4OjE3OTA0NTY0NTA3NDY6Y2RubGl2ZXR2LnR2OjNjMGY1M2E3Njg1MTUzODguMmM3Yzc3N2Y4NDI3NWNlYjA2OWM3NDBhNWMxNmQ3N2RkMzNhOGE2NmNjZDI5MDIxZDRjYTcwZjYzN2Q3ZDYyMQ) | Sports | HTTP Error (503) |
+| [NESN](https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb25b/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMjViOjE3OTA0NTY0NTA5NzM6Y2RubGl2ZXR2LnR2OjcwNTcyNzY5YmVlMDFjOTQuYzVhMDMwNzY2OWI5YzA5YjE4OTI2ZDk3OGU2MDk3ZTBjZDdlYjNhMDQzNDI2NGY0YmM0NzNkMTdjOGU5YTEzYw) | Sports | HTTP Error (503) |
+| [Premier Sports 2](https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc361/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzYxOjE3OTA0NTY0NTIyODA6Y2RubGl2ZXR2LnR2OjhmN2Y2YzBiOWRjYTFhOGQuYTNlOTExMzkwMjdhNTdjMzk4ODZhMTMzZjIyYmFjNmMxYTc5Y2NmOTViZDk1NGYyNzQ1OGZhMmI5MjQ5YWFlNQ) | Sports | HTTP Error (503) |
+| [Sky Sports Cricket](https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc31a/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzFhOjE3OTA0NTY0NTI4OTM6Y2RubGl2ZXR2LnR2OjAwM2QwY2VlODRkYmE0NWEuYWE2YmYwZWUzZDM0MjBjMGJhYjllMTRiMDc2ZDkzZDhkNmRlYzlmNTljNTdiM2U3NjVmZGM0OGQ5ZjZhYzE4Mg) | Sports | HTTP Error (503) |
+| [Sky Sports Tennis](https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc320/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzIwOjE3OTA0NTY0NTQ0Mjg6Y2RubGl2ZXR2LnR2Ojk5ZWZkZGM3NWJjOGRiYTEuNmViMGM5NDU5MGM0MDQ2OWFmYjZjZWQwN2RkNGI2NGFmYzIyOTExM2JhZTAxYjk2ZDYzODE1OTdmYTE5M2Q1MA) | Sports | HTTP Error (503) |
+| [Space City Home Network](https://cache0.wonvt.st/live/034yveq0x3b43c1q0ycfa/master.m3u8) | Sports | HTTP Error (429) |
+| [Spectrum SportsNet LA Dodgers](https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb5ea/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWVhOjE3OTA0NTY0NTQ4MDU6Y2RubGl2ZXR2LnR2OmE5MDAxZTg0ODNmYzNhMjAuYmMyYzBiN2IxYWM3NTk0MTU5MjQ2YzVjOTM1YWY1OGY3MmQ3MDVlM2IxMWY0ZTI3MjZhZGQxMjM1YmU5NDk3NA) | Sports | HTTP Error (503) |
+| [Sportsnet 360](https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc2a5/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMmE1OjE3OTA0NTY0NTUwNTA6Y2RubGl2ZXR2LnR2OjdkMjg2OTM1OTk2NGRlMTguOWY4ZDI0MzhhYzk4YTgwZWZiNWU3ZGEwNzNkNWEyY2YzNWE1YThmNmQ3OTAxMWU4MjA0YTNiMzQ5YWZhODlhOQ) | Sports | HTTP Error (503) |
+| [Sportsnet East](https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc168/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTY4OjE3OTA0NTY0NTUyNTQ6Y2RubGl2ZXR2LnR2OmVjMGE3ZTFhNTc0NzI0MmUuNTE4YTE3MDg2Y2I4MWE4NzJiZWU0NzEzZDgwYzE1OGZmMjQzNWRlMDk3YzI2MTRjMGYxM2Q4OGYwYzMyYmY5MA) | Sports | HTTP Error (503) |
+| [Sportsnet One](https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc2b0/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMmIwOjE3OTA0NTY0NTU2NTM6Y2RubGl2ZXR2LnR2OjVjMGRkMDAzZTE2OWNjMDguMWM3OWNlM2YwNWNhZGFjYWVlMzQ5OGUzYWQxYzZjMWU2OTE1YmRiYzI4YTM1MThjNjRjMTBmZWYxZGFjNWViNg) | Sports | HTTP Error (503) |
+| [SportsNet Pittsburgh](https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb582/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNTgyOjE3OTA0NTY0NTU4Nzg6Y2RubGl2ZXR2LnR2OmMwZjI4Y2M0MzYzNjE0OTQuZjNjMjgwYjU2NzliZGE1Yjc3NDRkZjU3ODZjM2IzMDU0MTRmN2QxMGZlMzUxNGZhNGNiOTU0MzgzNmNkNzNhMg) | Sports | HTTP Error (503) |
+| [TNT Sports 1](https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc344/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzQ0OjE3OTA0NTY0NTgxMjY6Y2RubGl2ZXR2LnR2Ojg0OGZjOTE2ZjhmZWM1MjAuOWMyNjQwZGMxNjIwNjVmZTc1NWE1ZjBhZDg4YTMyM2UwNGI5MDEyNDc5NmU0ZmM3MDU5MTY1MmU2MjJkNTM0Ng) | Sports | HTTP Error (503) |
+| [TNT Sports 2](https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc347/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzQ3OjE3OTA0NTY0NTgzMjg6Y2RubGl2ZXR2LnR2OmIyZTA2NjAzNjE4MTcwNjcuN2VmMGZiMTZkYWUzZTc4YmRmNDZlYWE4NWRhOTliZmZhMWQ3YjdhM2YyNjM5MGNmYTU0NWU2YzEyNzJmMTg3Ng) | Sports | HTTP Error (503) |
+| [TNT Sports 3](https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc34a/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzRhOjE3OTA0NTY0NTg1MzI6Y2RubGl2ZXR2LnR2OjJjMGQxZDA3ZmI4MWNjNDkuZTE3MzUzOWU2OGYzMjA1ODg5MDA1YjU4ZWI4Y2I1YjAzYzU3YTZkMTU5MTVkNDQ4YTU1YTA4NDBhY2QzNGJhNg) | Sports | HTTP Error (503) |
+| [TSN 2](https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc173/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTczOjE3OTA0NTY0NTk1NjY6Y2RubGl2ZXR2LnR2OjUwNDQ4NmUyOTFkZDAyYzEuZTFhYjE3ZjRjZTlhMmIyMTRhODI2MTc0ZDU2NzFiN2ViMDdmOTNlYmRjZTRjYzQyNTBiOWRlZjc4YjE4YjczZA) | Sports | HTTP Error (503) |
 
 ---
 
@@ -63,13 +62,12 @@ output/categories/<category>.m3u
 | Documentary & Reality | 21 |
 | Entertainment | 46 |
 | Kids & Family | 13 |
-| Live - American Football | 81 |
-| Live - Baseball | 26 |
-| Live - Basketball | 2 |
+| Live - American Football | 127 |
+| Live - Baseball | 47 |
 | Live - Hockey | 33 |
-| Live - Other Events | 178 |
-| Live - Soccer | 197 |
-| Live - Tennis | 2 |
+| Live - Other Events | 278 |
+| Live - Soccer | 212 |
+| Live - Tennis | 1 |
 | Movies & Premium | 33 |
 | Music | 5 |
 | News & Weather | 33 |
