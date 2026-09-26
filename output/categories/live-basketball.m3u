@@ -1,0 +1,9 @@
+#EXTM3U url-tvg="https://s.id/d9sEPG"
+#EXTINF:-1 tvg-chno="188" tvg-id="Basketball.Dummy.us" tvg-name="[Basketball Asian Games] Japan W vs South Korea W (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/04/Basketball-Emoji-1536x864.png" group-title="Live - Basketball",[Basketball Asian Games] Japan W vs South Korea W (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/GNNNAA.m3u8
+#EXTINF:-1 tvg-chno="189" tvg-id="Basketball.Dummy.us" tvg-name="[Basketball NBL] Perth vs New Zealand Breakers (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/04/Basketball-Emoji-1536x864.png" group-title="Live - Basketball",[Basketball NBL] Perth vs New Zealand Breakers (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/FPPPVVAAAAqaa.m3u8
