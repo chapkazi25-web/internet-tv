@@ -1,12 +1,12 @@
 #EXTM3U url-tvg="https://s.id/d9sEPG"
-#EXTINF:-1 tvg-chno="78" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Baseball] Boston Red Sox vs New York Yankees (XYZ)" tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/mlb/500/bos.png&logo2=https://a.espncdn.com/i/teamlogos/mlb/500/nyy.png&logo3=https://content.sportslogos.net/logos/53/5466/full/-al-wild-card-logo-primary-2026-546669342026.png&color1=BD3039&color2=003087&q=65&w=100" group-title="Live - Baseball",[Baseball] Boston Red Sox vs New York Yankees (XYZ)
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/mlb-1.html
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://hlss2.b-cdn.net/nbc/mono.ts.m3u8?token=fb83f190c84dc958ba60be59018418c1
-#EXTINF:-1 tvg-chno="79" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Baseball] Boston Red Sox vs. New York Yankees | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live - Baseball",[Baseball] Boston Red Sox vs. New York Yankees | English (STRMCNTR)
+#EXTINF:-1 tvg-chno="78" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Baseball] Boston Red Sox vs. New York Yankees | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live - Baseball",[Baseball] Boston Red Sox vs. New York Yankees | English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/ihfazugfyjcazich17.m3u8
+#EXTINF:-1 tvg-chno="79" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Baseball] Chicago Cubs vs San Diego Padres (XYZ)" tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/mlb/500/chc.png&logo2=https://a.espncdn.com/i/teamlogos/mlb/500/sd.png&logo3=https://content.sportslogos.net/logos/53/5466/full/-al-wild-card-logo-primary-2026-546669342026.png&color1=0E3386&color2=2F241D&q=65&w=100" group-title="Live - Baseball",[Baseball] Chicago Cubs vs San Diego Padres (XYZ)
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/mlb-2.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://us2-hlss2.b-cdn.net/mlb-pea/mono.ts.m3u8?token=7aa5660d7edb1acd244519094b495463
 #EXTINF:-1 tvg-chno="80" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Baseball] Chicago Cubs vs. San Diego Padres | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live - Baseball",[Baseball] Chicago Cubs vs. San Diego Padres | English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
@@ -39,103 +39,91 @@ https://4.ftlly.com:443/espn3/mono.m3u8?token=59ea87a2f4ba3278d74330f7cc02026998
 #EXTVLCOPT:http-referrer=https://tvf90.com/3.php?stream=espn3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://5.ftlly.com:443/espn3/mono.m3u8?token=2ef95c9c510ee0cfe0d4c39843f1be419a440d3e-5b-1790739941-1790721941
-#EXTINF:-1 tvg-chno="88" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Major League Baseball] Red Sox @ Yankees (TIMSTRM)" tvg-logo="http://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/mlb-401907924.png" group-title="Live - Baseball",[Major League Baseball] Red Sox @ Yankees (TIMSTRM)
-#EXTVLCOPT:http-referrer=https://exmxbxe.cfd/89x9qba2-2133
+#EXTINF:-1 tvg-chno="88" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Major League Baseball] Cubs @ Padres (TIMSTRM)" tvg-logo="http://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/mlb-401907974.png" group-title="Live - Baseball",[Major League Baseball] Cubs @ Padres (TIMSTRM)
+#EXTVLCOPT:http-referrer=https://exmxbxe.cfd/it7aytqh-2132
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://justkidding.junksonus.party/main/secure/3bb69cd528fccac3b9cca4fc7e2bda184ef2821d241167cd5c0c2b61e1d8492b/1790733633/mlb-yankees.m3u8
-#EXTINF:-1 tvg-chno="89" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Major League Baseball] White Sox @ Astros (TIMSTRM)" tvg-logo="http://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/mlb-401907896.png" group-title="Live - Baseball",[Major League Baseball] White Sox @ Astros (TIMSTRM)
-#EXTVLCOPT:http-referrer=https://exmxbxe.cfd/l5j1kkxs-6727
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://justkidding.junksonus.party/main/secure/7c29bfe254edc8954c566fe3334969a61b258c97ef134038966b2433a218abfe/1790728078/mlb-astros.m3u8
-#EXTINF:-1 tvg-chno="90" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB Baseball] Atlanta Braves vs Philadelphia Phillies (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live - Baseball",[MLB Baseball] Atlanta Braves vs Philadelphia Phillies (FAWA)
+https://justkidding.junksonus.party/main/secure/6fd160d4f5890b17a71c6c051dfd9218865ca101295157517ede579706bef93b/1790748035/tntsports2-uk.m3u8
+#EXTINF:-1 tvg-chno="89" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB Baseball] Houston Astros vs Chicago White Sox (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live - Baseball",[MLB Baseball] Houston Astros vs Chicago White Sox (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 http://193.47.62.55/hls/UDDDAAAAAAAA.m3u8
-#EXTINF:-1 tvg-chno="91" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB Baseball] Houston Astros vs Chicago White Sox (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live - Baseball",[MLB Baseball] Houston Astros vs Chicago White Sox (FAWA)
+#EXTINF:-1 tvg-chno="90" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB Baseball] New York Yankees vs Boston Red Sox (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live - Baseball",[MLB Baseball] New York Yankees vs Boston Red Sox (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.55/hls/UDDDAAAAAAAAX.m3u8
+#EXTINF:-1 tvg-chno="91" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB Baseball] San Diego Padres vs Chicago Cubs (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live - Baseball",[MLB Baseball] San Diego Padres vs Chicago Cubs (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 http://193.47.62.55/hls/UDDDAAAAAAAA.m3u8
-#EXTINF:-1 tvg-chno="92" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB Baseball] New York Yankees vs Boston Red Sox (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live - Baseball",[MLB Baseball] New York Yankees vs Boston Red Sox (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-chno="92" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Boston Red Sox at New York Yankees (SPRTSPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live - Baseball",[MLB] Boston Red Sox at New York Yankees (SPRTSPASS)
+#EXTVLCOPT:http-referrer=https://edgesport.cc/mlb/yankees.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.55/hls/UDDDAAAAAAAA.m3u8
-#EXTINF:-1 tvg-chno="93" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB Baseball] San Diego Padres vs Chicago Cubs (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live - Baseball",[MLB Baseball] San Diego Padres vs Chicago Cubs (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+https://hollowsoul.s3.us-east-2.amazonaws.com/yankees.m3u8
+#EXTINF:-1 tvg-chno="93" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Boston Red Sox vs New York Yankees (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/baseball_boston-red-sox-vs-new-york-yankees_Boston_Red_Sox_vs_New_York_Yan" group-title="Live - Baseball",[MLB] Boston Red Sox vs New York Yankees (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.55/hls/UDDDAAAAAAAA.m3u8
+https://streamfree.top/live-origin/boston-red-sox-vs-new-york-yankees1080p3/index.m3u8?_e=1790767834&_n=d09c2420c310b131&_t=Nj0evmj1m7NuVV07vYD-AQ
 #EXTINF:-1 tvg-chno="94" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Boston Red Sox vs New York Yankees | English (STRMGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live - Baseball",[MLB] Boston Red Sox vs New York Yankees | English (STRMGATE)
 #EXTVLCOPT:http-referrer=https://instream.click/livetv.php?stream=tv401907924
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://instreams.live/live/tv401907924/index.m3u8?st=WMJxLUlS9m7teUmPB6gqXg&e=1790735438
+https://instreams.live/live/tv401907924/index.m3u8?st=1OIBXQ-qEF3-7SlC3dLLmg&e=1790746237
 #EXTINF:-1 tvg-chno="95" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Boston Red Sox vs New York Yankees | ESPN 2 (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live - Baseball",[MLB] Boston Red Sox vs New York Yankees | ESPN 2 (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espn2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://khala.futlivehd.com/global/espn2/index.m3u8?token=14b02d28a0df1e249917dc9ac284a680d0d00745-05-1790767835-1790713835
-#EXTINF:-1 tvg-chno="96" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Chicago White Sox at Houston Astros (SPRTSPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live - Baseball",[MLB] Chicago White Sox at Houston Astros (SPRTSPASS)
-#EXTVLCOPT:http-referrer=https://edgesport.cc/mlb/whitesox.html
+#EXTINF:-1 tvg-chno="96" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Chicago Cubs at San Diego Padres (SPRTSPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live - Baseball",[MLB] Chicago Cubs at San Diego Padres (SPRTSPASS)
+#EXTVLCOPT:http-referrer=https://edgesport.cc/mlb/cubs.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://headshothavoc.s3.us-east-2.amazonaws.com/whitesox.m3u8
-#EXTINF:-1 tvg-chno="97" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Chicago White Sox vs Houston Astros (MP66)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live - Baseball",[MLB] Chicago White Sox vs Houston Astros (MP66)
+https://fadeddreams.s3.us-east-2.amazonaws.com/cubs.m3u8
+#EXTINF:-1 tvg-chno="97" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Chicago Cubs vs San Diego Padres (MP66)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live - Baseball",[MLB] Chicago Cubs vs San Diego Padres (MP66)
 #EXTVLCOPT:http-referrer=https://mlb24all.ir
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://node-8bba18be.4587.website/6abc9771.812b7061i5c3b601d.10d88.d2cad59d/free.live.sportsnet/master.m3u8
-#EXTINF:-1 tvg-chno="98" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Chicago White Sox vs Houston Astros (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/baseball_chicago-white-sox-vs-houston-astros_Chicago_White_Sox_vs_Houston_A" group-title="Live - Baseball",[MLB] Chicago White Sox vs Houston Astros (STRMFREE)
+https://node-8bba18be.4587.website/6abcddc2.87382827i5c3b601d.10f12.ec838d19/free.live.sportsnet/master.m3u8
+#EXTINF:-1 tvg-chno="98" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Chicago Cubs vs San Diego Padres (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/baseball_chicago-cubs-vs-san-diego-padres_Chicago_Cubs_vs_San_Diego_Padr" group-title="Live - Baseball",[MLB] Chicago Cubs vs San Diego Padres (STRMFREE)
 #EXTVLCOPT:http-referrer=https://streamfree.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://streamfree.top/live-cdn/chicago-white-sox-vs-houston-astros1080p3/index.m3u8?_e=1790746234&_n=82dc771b7cf1f440&_t=LCL1wuW5VpddqriZu_TVLQ
-#EXTINF:-1 tvg-chno="99" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Chicago White Sox vs Houston Astros | English (STRMGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live - Baseball",[MLB] Chicago White Sox vs Houston Astros | English (STRMGATE)
-#EXTVLCOPT:http-referrer=https://instream.click/livetv.php?stream=tv401907896
+https://streamfree.top/live-cdn/chicago-cubs-vs-san-diego-padres1080p3/index.m3u8?_e=1790764234&_n=691eea2b408f8907&_t=w6qb7K3MxRmbC6MVgEFTgQ
+#EXTINF:-1 tvg-chno="99" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Chicago Cubs vs San Diego Padres | English (STRMGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live - Baseball",[MLB] Chicago Cubs vs San Diego Padres | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://instream.click/livetv.php?stream=tv401907974
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://instreams.live/live/tv401907896/index.m3u8?st=TUqS9PPe37IcN_YSBUIV-g&e=1790735437
+https://instreams.live/live/tv401907974/index.m3u8?st=T4wDw8Ofj3wY2NDYDH_AYg&e=1790742638
 #EXTINF:-1 tvg-chno="100" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Chicago White Sox vs Houston Astros | ESPN 4 (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live - Baseball",[MLB] Chicago White Sox vs Houston Astros | ESPN 4 (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espn4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/espn4/index.m3u8?token=26970e65dbfa9cf5655ce3603b763f0e4401befe-44-1790764235-1790710235
-#EXTINF:-1 tvg-chno="101" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Chicago White Sox vs. Houston Astros (DAMITV)" tvg-logo="https://static.ppvservices.st/assets/thumb/7f5822da98796eb5e97d2dbd2ff99fe4-thumbnail.jpg" group-title="Live - Baseball",[MLB] Chicago White Sox vs. Houston Astros (DAMITV)
-#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=mlb/2026-09-29/chw-hou
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://messi.damitv.st/live-hls/channel/mlb/2026-09-29/chw-hou/playlist.m3u8?tk=LUGUvADZTWm7IZtrKS9CiQ&e=1790757032
-#EXTINF:-1 tvg-chno="102" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Cubs vs Padres (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live - Baseball",[MLB] Cubs vs Padres (WEBCAST)
+https://khala.futlivehd.com/global/espn4/index.m3u8?token=ac2b94e47a2f5005779935e1aa237a8482a72539-6b-1790784036-1790730036
+#EXTINF:-1 tvg-chno="101" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Cubs vs Padres (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live - Baseball",[MLB] Cubs vs Padres (WEBCAST)
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://webcast-origin.b-cdn.net/bcdn_token=f9fMlRLflDY6JEdOUFdWlvY3iYtBSe4I4RlW5y4-Gl0&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHMyUSRQQg3W_cA0TcnRrne%2F&expires=1790722955/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHMyUSRQQg3W_cA0TcnRrne/126.m3u8
-#EXTINF:-1 tvg-chno="103" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Houston Astros vs Chicago White Sox (FLYEMBD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live - Baseball",[MLB] Houston Astros vs Chicago White Sox (FLYEMBD)
-#EXTVLCOPT:http-referrer=https://exmxbxe.cfd/flyemb/e0lyrkhr-1002
+https://webcast-origin.b-cdn.net/bcdn_token=8yNAe8n_ifzPnYoVA_aGXDTItk8U65GXIYR_5g0anv0&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHMyUSRQQg3W_cA0TcnRrne%2F&expires=1790735555/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHMyUSRQQg3W_cA0TcnRrne/126.m3u8
+#EXTINF:-1 tvg-chno="102" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] New York Yankees vs Boston Red Sox (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live - Baseball",[MLB] New York Yankees vs Boston Red Sox (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/57371?ad=111
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://justkidding.junksonus.party/main/secure/de958fb2d3f52e36e1e3d6d21fd8cd972db1fa730a762931c20d883349827c91/1790728047/tntsports1-uk.m3u8
-#EXTINF:-1 tvg-chno="104" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Houston Astros vs Chicago White Sox (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live - Baseball",[MLB] Houston Astros vs Chicago White Sox (iSTRMEAST)
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/57360?ad=111
+https://chatgpt.hereisman.net/playlist/57371/load-playlist
+#EXTINF:-1 tvg-chno="103" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Phillies vs Braves (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live - Baseball",[MLB] Phillies vs Braves (WEBCAST)
+#EXTVLCOPT:http-referrer=https://mlbwebcast.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://chatgpt.hereisman.net/playlist/57360/load-playlist
-#EXTINF:-1 tvg-chno="105" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Houston Astros vs Chicago White Sox (REED)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live - Baseball",[MLB] Houston Astros vs Chicago White Sox (REED)
+https://webcast-origin.b-cdn.net/bcdn_token=lwc4qL4LbDcrd7-2gwNsg3HvNr_bA1udipfQ8abA5r4&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHhPK4eaZswKqByclRPxZJv%2F&expires=1790735554/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHhPK4eaZswKqByclRPxZJv/129.m3u8
+#EXTINF:-1 tvg-chno="104" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Red Sox vs Yankees (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live - Baseball",[MLB] Red Sox vs Yankees (WEBCAST)
+#EXTVLCOPT:http-referrer=https://mlbwebcast.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://webcast-origin.b-cdn.net/bcdn_token=RKsZyLMYqFtrlXtwYhuaEtU9FpPciiMMf1OBcKFfgXE&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFdY_2JwwLMXm_4wld0sOWG%2F&expires=1790735555/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFdY_2JwwLMXm_4wld0sOWG/124.m3u8
+#EXTINF:-1 tvg-chno="105" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] San Diego Padres vs Chicago Cubs (FLYEMBD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live - Baseball",[MLB] San Diego Padres vs Chicago Cubs (FLYEMBD)
+#EXTVLCOPT:http-referrer=https://exmxbxe.cfd/flyemb/it7aytqh-1540
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://justkidding.junksonus.party/main/secure/6fd160d4f5890b17a71c6c051dfd9218865ca101295157517ede579706bef93b/1790748035/tntsports2-uk.m3u8
+#EXTINF:-1 tvg-chno="106" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] San Diego Padres vs Chicago Cubs (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live - Baseball",[MLB] San Diego Padres vs Chicago Cubs (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/57374?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://chatgpt.hereisman.net/playlist/57374/load-playlist
+#EXTINF:-1 tvg-chno="107" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] San Diego Padres vs Chicago Cubs (REED)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live - Baseball",[MLB] San Diego Padres vs Chicago Cubs (REED)
 #EXTVLCOPT:http-referrer=https://reedstreams.link
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://admin.formaturamaxi.com.br/mlb.m3u8
-#EXTINF:-1 tvg-chno="106" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Houston Astros vs Chicago White Sox (WATCHFTY)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live - Baseball",[MLB] Houston Astros vs Chicago White Sox (WATCHFTY)
-#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/401907896/houston-astros-chicago-white-sox/pro/1?player=clappr&autoplay=true
+https://admin2.formaturamaxi.com.br/mlb2.m3u8
+#EXTINF:-1 tvg-chno="108" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] San Diego Padres vs Chicago Cubs (WATCHFTY)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live - Baseball",[MLB] San Diego Padres vs Chicago Cubs (WATCHFTY)
+#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/401907974/san-diego-padres-chicago-cubs/pro/2?player=clappr&autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://lb6.wfty.st/secure/98Kp2u1nNx1xX0m0Je64yw/pro/houston-astros-chicago-white-sox/1/401907896/1790739038/playlist.m3u8
-#EXTINF:-1 tvg-chno="107" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] New York Yankees vs Boston Red Sox (FLYEMBD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live - Baseball",[MLB] New York Yankees vs Boston Red Sox (FLYEMBD)
-#EXTVLCOPT:http-referrer=https://exmxbxe.cfd/flyemb/bdl7my34-1862
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://justkidding.junksonus.party/main/secure/5912baa3824b652a1f86b93ac0851b3f4f681fc40d4879f6e268d27bf767afa9/1790733634/nbc-usa.m3u8
-#EXTINF:-1 tvg-chno="108" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] New York Yankees vs Boston Red Sox (REED)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live - Baseball",[MLB] New York Yankees vs Boston Red Sox (REED)
-#EXTVLCOPT:http-referrer=https://reedstreams.link
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://admin.formaturamaxi.com.br/mlb.m3u8
-#EXTINF:-1 tvg-chno="109" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Philadelphia Phillies at Atlanta Braves (SPRTSPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live - Baseball",[MLB] Philadelphia Phillies at Atlanta Braves (SPRTSPASS)
-#EXTVLCOPT:http-referrer=https://edgesport.cc/mlb/phillies.html
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://headshothavoc.s3.us-east-2.amazonaws.com/phillies.m3u8
-#EXTINF:-1 tvg-chno="110" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Phillies vs Braves (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live - Baseball",[MLB] Phillies vs Braves (WEBCAST)
+https://lb5.wfty.st/secure/fmGcl6ih-aMXDE81w7zfsw/pro/san-diego-padres-chicago-cubs/2/401907974/1790757041/playlist.m3u8
+#EXTINF:-1 tvg-chno="109" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] White Sox vs Astros (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live - Baseball",[MLB] White Sox vs Astros (WEBCAST)
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://webcast-origin.b-cdn.net/bcdn_token=FpfS4VCAzknFbv9SH2n9bXKMqG0l_YCVirKYv75wbL4&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHhPK4eaZswKqByclRPxZJv%2F&expires=1790722954/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHhPK4eaZswKqByclRPxZJv/129.m3u8
-#EXTINF:-1 tvg-chno="111" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Red Sox vs Yankees (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live - Baseball",[MLB] Red Sox vs Yankees (WEBCAST)
-#EXTVLCOPT:http-referrer=https://mlbwebcast.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://webcast-origin.b-cdn.net/bcdn_token=WCj9BU8jJDAdyXMYlz3d9ql7BGWAhVxPdUJ_VDj_pAI&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFdY_2JwwLMXm_4wld0sOWG%2F&expires=1790722955/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFdY_2JwwLMXm_4wld0sOWG/124.m3u8
-#EXTINF:-1 tvg-chno="112" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] White Sox vs Astros (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live - Baseball",[MLB] White Sox vs Astros (WEBCAST)
-#EXTVLCOPT:http-referrer=https://mlbwebcast.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://webcast-origin.b-cdn.net/bcdn_token=CmH59KckiIfWW5R96lLAgQ6riDCsUp9uu-eBZnPo-es&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhF8__eOAS4ona3nPTLH_PcU%2F&expires=1790722954/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhF8__eOAS4ona3nPTLH_PcU/127.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=o7KaafeZBO0oh3SWBKt4yagj4l9vEa1gQK4zstBE3-Y&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhF8__eOAS4ona3nPTLH_PcU%2F&expires=1790735554/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhF8__eOAS4ona3nPTLH_PcU/127.m3u8

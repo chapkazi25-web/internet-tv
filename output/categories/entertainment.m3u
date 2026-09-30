@@ -76,7 +76,7 @@ http://23.237.104.106:8080/USA_IFC/index.m3u8
 #EXTINF:-1 tvg-chno="45" tvg-id="ION.Television.HD.us2" tvg-name="ION TV" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18633_dark_360w_270h.png" group-title="Entertainment",ION TV
 http://23.237.104.106:8080/USA_ION/index.m3u8
 #EXTINF:-1 tvg-chno="46" tvg-id="ITV1.HD.uk" tvg-name="ITV1" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24292_dark_360w_270h.png" group-title="Entertainment",ITV1
-http://176.65.153.4:4004/play/a07n/index.m3u8
+http://176.65.153.4:4004/play/a07k/index.m3u8
 #EXTINF:-1 tvg-chno="47" tvg-id="Me.TV.Network.us2" tvg-name="MeTV" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70436_dark_360w_270h.png" group-title="Entertainment",MeTV
 #EXTVLCOPT:http-referrer=https://tvnow.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
