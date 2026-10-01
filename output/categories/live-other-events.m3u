@@ -1,457 +1,249 @@
 #EXTM3U url-tvg="https://s.id/d9sEPG"
-#EXTINF:-1 tvg-chno="120" tvg-id="Soccer.Dummy.us" tvg-name="[Africa Cup of Nations Qualification] Eritrea vs South Africa (WATCHFTY)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/76.png" group-title="Live - Other Events",[Africa Cup of Nations Qualification] Eritrea vs South Africa (WATCHFTY)
-#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/4847486/eritrea-south-africa/deluxe/2?player=clappr&autoplay=true
+#EXTINF:-1 tvg-chno="140" tvg-id="PPV.EVENTS.Dummy.us" tvg-name="[AEW Wrestling] AEW Dynamite (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[AEW Wrestling] AEW Dynamite (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://lb1.wfty.st/secure/bu9XD6shh5T53qdIrDiqtg/deluxe/eritrea-south-africa/2/4847486/1790809239/playlist.m3u8
-#EXTINF:-1 tvg-chno="121" tvg-id="Soccer.Dummy.us" tvg-name="[Africa Cup of Nations Qualifying] Eritrea vs South Africa (WATCHFTY)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/76.png" group-title="Live - Other Events",[Africa Cup of Nations Qualifying] Eritrea vs South Africa (WATCHFTY)
-#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/401919991/eritrea-south-africa/deluxe/2?player=clappr&autoplay=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://lb1.wfty.st/secure/3d0lBZ2hbLYouID96ImpfQ/deluxe/eritrea-south-africa/2/401919991/1790809241/playlist.m3u8
-#EXTINF:-1 tvg-chno="122" tvg-id="Soccer.Dummy.us" tvg-name="[Amistoso Internacional] Argentina vs Bolivia 1 (STP)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live - Other Events",[Amistoso Internacional] Argentina vs Bolivia 1 (STP)
+http://193.47.62.44/hls/IFFFA.m3u8
+#EXTINF:-1 tvg-chno="141" tvg-id="Soccer.Dummy.us" tvg-name="[Amistoso Internacional] Argentina vs Bolivia 1 (STP)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live - Other Events",[Amistoso Internacional] Argentina vs Bolivia 1 (STP)
 #EXTVLCOPT:http-referrer=https://streamx061.sbs/global1.php?channel=tyc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://s2.envivoslatam99.sbs:443/global/tyc/index.m3u8?token=f0b2630af13db26833ab78a7d58b0248b563d15a-be-1790834434-1790780434
-#EXTINF:-1 tvg-chno="123" tvg-id="Soccer.Dummy.us" tvg-name="[Amistoso Internacional] Argentina vs Bolivia 2 (STP)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live - Other Events",[Amistoso Internacional] Argentina vs Bolivia 2 (STP)
+https://s3.envivoslatam99.sbs:443/global/tyc/index.m3u8?token=ef0ba46c8c9bc512e1db0c6fb49285f2592c09b4-0e-1790854234-1790800234
+#EXTINF:-1 tvg-chno="142" tvg-id="Soccer.Dummy.us" tvg-name="[Amistoso Internacional] Argentina vs Bolivia 2 (STP)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live - Other Events",[Amistoso Internacional] Argentina vs Bolivia 2 (STP)
 #EXTVLCOPT:http-referrer=https://streamx061.sbs/global1.php?channel=dsports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://s2.envivoslatam99.sbs:443/global/dsports/index.m3u8?token=878bc4b5cfb4e79e340cf9abd826016a5a3280ff-b0-1790834434-1790780434
-#EXTINF:-1 tvg-chno="124" tvg-id="Soccer.Dummy.us" tvg-name="[Amistoso Internacional] Argentina vs Bolivia 3 (STP)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live - Other Events",[Amistoso Internacional] Argentina vs Bolivia 3 (STP)
+https://s2.envivoslatam99.sbs:443/global/dsports/index.m3u8?token=13115525b34a3260614c34c0b6a60e4c8246d306-55-1790854234-1790800234
+#EXTINF:-1 tvg-chno="143" tvg-id="Soccer.Dummy.us" tvg-name="[Amistoso Internacional] Argentina vs Bolivia 3 (STP)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live - Other Events",[Amistoso Internacional] Argentina vs Bolivia 3 (STP)
 #EXTVLCOPT:http-referrer=https://streamx061.sbs/global1.php?channel=mligacampeones
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://s2.envivoslatam99.sbs:443/global/mligacampeones/index.m3u8?token=f5d8bfb698c876934afecc2659f7a3e632763982-20-1790834434-1790780434
-#EXTINF:-1 tvg-chno="125" tvg-id="Soccer.Dummy.us" tvg-name="[Amistoso Internacional] Argentina vs Bolivia 4 (STP)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live - Other Events",[Amistoso Internacional] Argentina vs Bolivia 4 (STP)
+https://s3.envivoslatam99.sbs:443/global/mligacampeones/index.m3u8?token=739150e54010fbd2206aa90f2468fc4ebaaead54-e2-1790854234-1790800234
+#EXTINF:-1 tvg-chno="144" tvg-id="Soccer.Dummy.us" tvg-name="[Amistoso Internacional] Argentina vs Bolivia 4 (STP)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live - Other Events",[Amistoso Internacional] Argentina vs Bolivia 4 (STP)
 #EXTVLCOPT:http-referrer=https://streamx305.sbs/global1.php?channel=vix1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://s3.envivoslatam99.sbs:443/global/vix1/index.m3u8?token=1c236be3bd31c20f5a8214dfd3371524a2d06f4d-09-1790834434-1790780434
-#EXTINF:-1 tvg-chno="126" tvg-id="Soccer.Dummy.us" tvg-name="[Amistoso Internacional] Argentina vs Bolivia 5 (STP)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live - Other Events",[Amistoso Internacional] Argentina vs Bolivia 5 (STP)
+https://s3.envivoslatam99.sbs:443/global/vix1/index.m3u8?token=6870c5f5175d75ee49e6814ef217da801561912a-ff-1790854234-1790800234
+#EXTINF:-1 tvg-chno="145" tvg-id="Soccer.Dummy.us" tvg-name="[Amistoso Internacional] Argentina vs Bolivia 5 (STP)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live - Other Events",[Amistoso Internacional] Argentina vs Bolivia 5 (STP)
 #EXTVLCOPT:http-referrer=https://streamx305.sbs/global1.php?channel=sportv1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://s2.envivoslatam99.sbs:443/global/sportv1/index.m3u8?token=d4be9b831c6449fa1d00a4df138b8207783addac-e8-1790834434-1790780434
-#EXTINF:-1 tvg-chno="127" tvg-id="Soccer.Dummy.us" tvg-name="[Amistoso Internacional] Argentina vs Bolivia | Dsports (STRMXHD)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live - Other Events",[Amistoso Internacional] Argentina vs Bolivia | Dsports (STRMXHD)
+https://s2.envivoslatam99.sbs:443/global/sportv1/index.m3u8?token=7523ccf537b950aeef94ca57fc3e09eda5a72e7b-f6-1790854234-1790800234
+#EXTINF:-1 tvg-chno="146" tvg-id="Soccer.Dummy.us" tvg-name="[Amistoso Internacional] Argentina vs Bolivia | Dsports (STRMXHD)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live - Other Events",[Amistoso Internacional] Argentina vs Bolivia | Dsports (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=dsports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/dsports/index.m3u8?token=34534921ba936a96e46dae45cf59a93df1663e3d-9a-1790834434-1790780434
-#EXTINF:-1 tvg-chno="128" tvg-id="Soccer.Dummy.us" tvg-name="[Amistoso Internacional] Argentina vs Bolivia | M Liga Campeones (STRMXHD)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live - Other Events",[Amistoso Internacional] Argentina vs Bolivia | M Liga Campeones (STRMXHD)
+https://khala.futlivehd.com/global/dsports/index.m3u8?token=0cc3cf39fd25de85f4bb8cdaf4ebb06eddbaf691-88-1790854234-1790800234
+#EXTINF:-1 tvg-chno="147" tvg-id="Soccer.Dummy.us" tvg-name="[Amistoso Internacional] Argentina vs Bolivia | M Liga Campeones (STRMXHD)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live - Other Events",[Amistoso Internacional] Argentina vs Bolivia | M Liga Campeones (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=mligacampeones
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/mligacampeones/index.m3u8?token=97c3ea129fe49cb0c114f66db40da4bace2fbc5b-16-1790834434-1790780434
-#EXTINF:-1 tvg-chno="129" tvg-id="Soccer.Dummy.us" tvg-name="[Amistoso Internacional] Argentina vs Bolivia | SporTV 1 (STRMXHD)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live - Other Events",[Amistoso Internacional] Argentina vs Bolivia | SporTV 1 (STRMXHD)
+https://khala.futlivehd.com/global/mligacampeones/index.m3u8?token=b9b02e46456cba50f8415e3062f38c0c456508ba-30-1790854234-1790800234
+#EXTINF:-1 tvg-chno="148" tvg-id="Soccer.Dummy.us" tvg-name="[Amistoso Internacional] Argentina vs Bolivia | SporTV 1 (STRMXHD)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live - Other Events",[Amistoso Internacional] Argentina vs Bolivia | SporTV 1 (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=sporttvbr1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/sporttvbr1/index.m3u8?token=13e430899266fdb6defb62e436ba385076c81163-dd-1790834434-1790780434
-#EXTINF:-1 tvg-chno="130" tvg-id="Soccer.Dummy.us" tvg-name="[Amistoso Internacional] Argentina vs Bolivia | TyC Sports (STRMXHD)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live - Other Events",[Amistoso Internacional] Argentina vs Bolivia | TyC Sports (STRMXHD)
+https://khala.futlivehd.com/global/sporttvbr1/index.m3u8?token=6d0f8b0c941a7d7b429fdd51037f0a3ac85467b0-87-1790854234-1790800234
+#EXTINF:-1 tvg-chno="149" tvg-id="Soccer.Dummy.us" tvg-name="[Amistoso Internacional] Argentina vs Bolivia | TyC Sports (STRMXHD)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live - Other Events",[Amistoso Internacional] Argentina vs Bolivia | TyC Sports (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=tycsports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/tycsports/index.m3u8?token=52a716fb67d120f735ecd71497cc5cbcab767fd4-77-1790834434-1790780434
-#EXTINF:-1 tvg-chno="131" tvg-id="Soccer.Dummy.us" tvg-name="[Amistoso Internacional] Argentina vs Bolivia | Vix + (STRMXHD)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live - Other Events",[Amistoso Internacional] Argentina vs Bolivia | Vix + (STRMXHD)
+https://khala.futlivehd.com/global/tycsports/index.m3u8?token=9502f4e9e1e14ae2d9d82c5a3106b5b54706d1e9-f5-1790854234-1790800234
+#EXTINF:-1 tvg-chno="150" tvg-id="Soccer.Dummy.us" tvg-name="[Amistoso Internacional] Argentina vs Bolivia | Vix + (STRMXHD)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live - Other Events",[Amistoso Internacional] Argentina vs Bolivia | Vix + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=vix1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/vix1/index.m3u8?token=d35c6963eaca36a2a5db0bd170bd3a3b5068444a-51-1790834434-1790780434
-#EXTINF:-1 tvg-chno="132" tvg-id="Soccer.Dummy.us" tvg-name="[Amistoso Internacional] Lituania vs Andorra 1 (STP)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live - Other Events",[Amistoso Internacional] Lituania vs Andorra 1 (STP)
+https://khala.futlivehd.com/global/vix1/index.m3u8?token=03d341f0112170d7c315bf2f7d4e7aed54f066d6-2a-1790854234-1790800234
+#EXTINF:-1 tvg-chno="151" tvg-id="Soccer.Dummy.us" tvg-name="[Amistoso internacional] lianza Lima vs Palestino 1 (PLIBRE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live - Other Events",[Amistoso internacional] lianza Lima vs Palestino 1 (PLIBRE)
+#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=liga1max
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://YXdlc29tZQ.fubo18.com:443/liga1max/mono.m3u8?token=1cd1d6e680efd40305869e4c5f9b39ebe3a70a16-de-1790826334-1790808334
+#EXTINF:-1 tvg-chno="152" tvg-id="Soccer.Dummy.us" tvg-name="[Amistoso Internacional] Lituania vs Andorra 1 (STP)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live - Other Events",[Amistoso Internacional] Lituania vs Andorra 1 (STP)
 #EXTVLCOPT:http-referrer=https://streamx305.sbs/global1.php?channel=disney1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://s3.envivoslatam99.sbs:443/global/disney1/index.m3u8?token=e968da1a2ded31aafeb3658d6e3a0ae284e48c60-4c-1790834433-1790780433
-#EXTINF:-1 tvg-chno="133" tvg-id="Soccer.Dummy.us" tvg-name="[Amistoso Internacional] Lituania vs Andorra | Disney + (STRMXHD)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live - Other Events",[Amistoso Internacional] Lituania vs Andorra | Disney + (STRMXHD)
+https://s3.envivoslatam99.sbs:443/global/disney1/index.m3u8?token=9ab3204ced4c395714301d86dedaa529e5c8d96e-07-1790854233-1790800233
+#EXTINF:-1 tvg-chno="153" tvg-id="Soccer.Dummy.us" tvg-name="[Amistoso Internacional] Lituania vs Andorra | Disney + (STRMXHD)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live - Other Events",[Amistoso Internacional] Lituania vs Andorra | Disney + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/disney1/index.m3u8?token=e4900d8f41cadd4c92a109b3280586d05afff049-e9-1790834434-1790780434
-#EXTINF:-1 tvg-chno="134" tvg-id="Soccer.Dummy.us" tvg-name="[Amistoso] Amistoso | Sportv BR (TVF90)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live - Other Events",[Amistoso] Amistoso | Sportv BR (TVF90)
+https://khala.futlivehd.com/global/disney1/index.m3u8?token=d6f7ce65e81c1667fa0efdc0282e824083a66f9c-1e-1790854234-1790800234
+#EXTINF:-1 tvg-chno="154" tvg-id="Soccer.Dummy.us" tvg-name="[Amistoso] Amistoso | Sportv BR (TVF90)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live - Other Events",[Amistoso] Amistoso | Sportv BR (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=sportv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://am91cm5leQ.fubo18.com:443/sportv/mono.m3u8?token=e112246383fa4673bb8db4959827e7ffb6722616-a9-1790811937-1790793937
-#EXTINF:-1 tvg-chno="135" tvg-id="Soccer.Dummy.us" tvg-name="[Amistoso] Amistoso | Sportv BR HD (TVF90)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live - Other Events",[Amistoso] Amistoso | Sportv BR HD (TVF90)
+#EXTINF:-1 tvg-chno="155" tvg-id="Soccer.Dummy.us" tvg-name="[Amistoso] Amistoso | Sportv BR HD (TVF90)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live - Other Events",[Amistoso] Amistoso | Sportv BR HD (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/hd.php?stream=sportv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://bgvnzw5k.fubo18.com:443/sportv/mono.m3u8?token=bdb0e61a8d4b64f65bb4695231af93edb7bbdcbf-69-1790811937-1790793937
-#EXTINF:-1 tvg-chno="136" tvg-id="Soccer.Dummy.us" tvg-name="[Amistoso] Amistoso | Telefe (TVF90)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live - Other Events",[Amistoso] Amistoso | Telefe (TVF90)
+#EXTINF:-1 tvg-chno="156" tvg-id="Soccer.Dummy.us" tvg-name="[Amistoso] Amistoso | Telefe (TVF90)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live - Other Events",[Amistoso] Amistoso | Telefe (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=telefe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://am91cm5leQ.fubo18.com:443/telefe/mono.m3u8?token=3b2718f68dcc7ef71b17f7d00cde177a2bc3e950-7-1790811937-1790793937
-#EXTINF:-1 tvg-chno="137" tvg-id="Soccer.Dummy.us" tvg-name="[Amistoso] Amistoso | Telefe | HD (TVF90)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live - Other Events",[Amistoso] Amistoso | Telefe | HD (TVF90)
+#EXTINF:-1 tvg-chno="157" tvg-id="Soccer.Dummy.us" tvg-name="[Amistoso] Amistoso | Telefe | HD (TVF90)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live - Other Events",[Amistoso] Amistoso | Telefe | HD (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/hd.php?stream=telefe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://a2lja3m.fubo18.com:443/telefe/mono.m3u8?token=ebffd1a855851bd613cfec472634ede77d183b32-f4-1790811938-1790793938
-#EXTINF:-1 tvg-chno="138" tvg-id="Soccer.Dummy.us" tvg-name="[Amistoso] Amistoso | TYC Sports (TVF90)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live - Other Events",[Amistoso] Amistoso | TYC Sports (TVF90)
+#EXTINF:-1 tvg-chno="158" tvg-id="Soccer.Dummy.us" tvg-name="[Amistoso] Amistoso | TYC Sports (TVF90)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live - Other Events",[Amistoso] Amistoso | TYC Sports (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=tycsports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://y2fzdGxl.fubo18.com:443/tycsports/mono.m3u8?token=7307b33e0a2fedb7259c8aaf9b907ad22c50c68a-2d-1790811936-1790793936
-#EXTINF:-1 tvg-chno="139" tvg-id="Soccer.Dummy.us" tvg-name="[Amistoso] Amistoso | TYC Sports | HD (TVF90)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live - Other Events",[Amistoso] Amistoso | TYC Sports | HD (TVF90)
+#EXTINF:-1 tvg-chno="159" tvg-id="Soccer.Dummy.us" tvg-name="[Amistoso] Amistoso | TYC Sports | HD (TVF90)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live - Other Events",[Amistoso] Amistoso | TYC Sports | HD (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/hd.php?stream=tycsports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://bmF0aw9u.fubo18.com:443/tycsports/mono.m3u8?token=46cb8f28fb2c27c2ba23c806b6dec49b1b3754a3-18-1790811937-1790793937
-#EXTINF:-1 tvg-chno="140" tvg-id="Soccer.Dummy.us" tvg-name="[Amistoso] Amistoso | TyC Sports | OP2 (TVF90)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live - Other Events",[Amistoso] Amistoso | TyC Sports | OP2 (TVF90)
+#EXTINF:-1 tvg-chno="160" tvg-id="Soccer.Dummy.us" tvg-name="[Amistoso] Amistoso | TyC Sports | OP2 (TVF90)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live - Other Events",[Amistoso] Amistoso | TyC Sports | OP2 (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/2.php?stream=tycsports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://9.ftlly.com:443/tycsports/mono.m3u8?token=b2dc858662edc570a5368e48a2dbebf4d0b2870b-3a-1790811936-1790793936
-#EXTINF:-1 tvg-chno="141" tvg-id="Soccer.Dummy.us" tvg-name="[Amistoso] Amistoso | TYC Sports | OP3 (TVF90)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live - Other Events",[Amistoso] Amistoso | TYC Sports | OP3 (TVF90)
+#EXTINF:-1 tvg-chno="161" tvg-id="Soccer.Dummy.us" tvg-name="[Amistoso] Amistoso | TYC Sports | OP3 (TVF90)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live - Other Events",[Amistoso] Amistoso | TYC Sports | OP3 (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/3.php?stream=tycsports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://9.ftlly.com:443/tycsports/mono.m3u8?token=10783255c8c8e27261e1955f474b2ed74adcd789-ae-1790811937-1790793937
-#EXTINF:-1 tvg-chno="142" tvg-id="Soccer.Dummy.us" tvg-name="[Amistoso] Argentina vs Bolivia 1 (PLIBRE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live - Other Events",[Amistoso] Argentina vs Bolivia 1 (PLIBRE)
+#EXTINF:-1 tvg-chno="162" tvg-id="Soccer.Dummy.us" tvg-name="[Amistoso] Argentina vs Bolivia 1 (PLIBRE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live - Other Events",[Amistoso] Argentina vs Bolivia 1 (PLIBRE)
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=tycsports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://Ym9yZQ.fubo18.com:443/tycsports/mono.m3u8?token=73f564424b40ad75ef7212a39f6ad04426e6e836-b2-1790806535-1790788535
-#EXTINF:-1 tvg-chno="143" tvg-id="Soccer.Dummy.us" tvg-name="[Amistoso] Argentina vs Bolivia 2 (PLIBRE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live - Other Events",[Amistoso] Argentina vs Bolivia 2 (PLIBRE)
+https://Ym9yZQ.fubo18.com:443/tycsports/mono.m3u8?token=7b5b8fe9fde178592a1c5cce1d45fbca8e27935f-c3-1790826334-1790808334
+#EXTINF:-1 tvg-chno="163" tvg-id="Soccer.Dummy.us" tvg-name="[Amistoso] Argentina vs Bolivia 2 (PLIBRE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live - Other Events",[Amistoso] Argentina vs Bolivia 2 (PLIBRE)
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=sportv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://a2lja3m.fubo18.com:443/sportv/mono.m3u8?token=7b87daf6babf7e66b042d9fd18ff4f9d6a82c97d-d7-1790806535-1790788535
-#EXTINF:-1 tvg-chno="144" tvg-id="Soccer.Dummy.us" tvg-name="[Amistoso] Lituania vs Andorra 1 (PLIBRE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live - Other Events",[Amistoso] Lituania vs Andorra 1 (PLIBRE)
-#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=disney1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://bmf0aw9u.fubo18.com:443/disney1/mono.m3u8?token=4a559ef7912f2865810d9d0e5e49988f3ea5fec7-3-1790806534-1790788534
-#EXTINF:-1 tvg-chno="145" tvg-id="Soccer.Dummy.us" tvg-name="[Amistoso] Lituania vs Andorra 2 (PLIBRE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live - Other Events",[Amistoso] Lituania vs Andorra 2 (PLIBRE)
-#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=foxsoccerplus
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://Ym9yZQ.fubo18.com:443/foxsoccerplus/mono.m3u8?token=210dbdc6f7e8bb2143e092d86163e33caedf9eb1-0-1790806534-1790788534
-#EXTINF:-1 tvg-chno="146" tvg-id="Soccer.Dummy.us" tvg-name="[Arabian Gulf Cup] Bahrain vs Yemen (FAWA)" tvg-logo="https://thumb.wikimedia.org/wikipedia/en/thumb/0/0e/Khaleeji_Zain_26_logo.png/250px-Khaleeji_Zain_26_logo.png" group-title="Live - Other Events",[Arabian Gulf Cup] Bahrain vs Yemen (FAWA)
+https://c2f2zq.fubo18.com:443/sportv/mono.m3u8?token=c7a7394f93ba002984ae971904c8c6e7bf51daec-ae-1790826334-1790808334
+#EXTINF:-1 tvg-chno="164" tvg-id="Soccer.Dummy.us" tvg-name="[Canada Premier League] Atl Ottawa vs Cavalry (FAWA)" tvg-logo="https://files.catbox.moe/71a287.png" group-title="Live - Other Events",[Canada Premier League] Atl Ottawa vs Cavalry (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.55/hls/JJJJAAAAAAA.m3u8
-#EXTINF:-1 tvg-chno="147" tvg-id="Soccer.Dummy.us" tvg-name="[Arabian Gulf Cup] Bahrain vs Yemen 2 (FAWA)" tvg-logo="https://thumb.wikimedia.org/wikipedia/en/thumb/0/0e/Khaleeji_Zain_26_logo.png/250px-Khaleeji_Zain_26_logo.png" group-title="Live - Other Events",[Arabian Gulf Cup] Bahrain vs Yemen 2 (FAWA)
+http://193.47.62.41/hls/ZOOOAA.m3u8
+#EXTINF:-1 tvg-chno="165" tvg-id="Live.Event.us" tvg-name="[Cricket Asian Games] Pakistan vs Bangladesh (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[Cricket Asian Games] Pakistan vs Bangladesh (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://www.rtmpcdn.com/live/53748f68-2816-45ad-850e-98c10968c7a6.m3u8
-#EXTINF:-1 tvg-chno="148" tvg-id="Soccer.Dummy.us" tvg-name="[Arabian Gulf Cup] United Arab Emirates vs Qatar (FAWA)" tvg-logo="https://thumb.wikimedia.org/wikipedia/en/thumb/0/0e/Khaleeji_Zain_26_logo.png/250px-Khaleeji_Zain_26_logo.png" group-title="Live - Other Events",[Arabian Gulf Cup] United Arab Emirates vs Qatar (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.55/hls/JJJJAAAAAAAA.m3u8
-#EXTINF:-1 tvg-chno="149" tvg-id="Soccer.Dummy.us" tvg-name="[Arabian Gulf Cup] United Arab Emirates vs Qatar 2 (FAWA)" tvg-logo="https://thumb.wikimedia.org/wikipedia/en/thumb/0/0e/Khaleeji_Zain_26_logo.png/250px-Khaleeji_Zain_26_logo.png" group-title="Live - Other Events",[Arabian Gulf Cup] United Arab Emirates vs Qatar 2 (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://www.rtmpcdn.com/live/5a7e7fdf-dc4a-4fa5-8f74-e6a535d10934.m3u8
-#EXTINF:-1 tvg-chno="150" tvg-id="Cricket.Dummy.us" tvg-name="[Cricket] India vs West Indies (FAWA)" tvg-logo="https://files.catbox.moe/rwd8mv.png" group-title="Live - Other Events",[Cricket] India vs West Indies (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.50/hls/ARRRaX.m3u8
-#EXTINF:-1 tvg-chno="151" tvg-id="Cricket.Dummy.us" tvg-name="[Cricket] South Africa vs Australia (FAWA)" tvg-logo="https://files.catbox.moe/rwd8mv.png" group-title="Live - Other Events",[Cricket] South Africa vs Australia (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.41/hls/fafafaAAX.m3u8
-#EXTINF:-1 tvg-chno="152" tvg-id="Darts.Dummy.us" tvg-name="[Darts] 2026 World Grand Prix | Day 3 (DAMITV)" tvg-logo="https://static.ppvservices.st/assets/thumb/47d877cec15c6e8841a0fe15f422225c-thumbnail.jpg" group-title="Live - Other Events",[Darts] 2026 World Grand Prix | Day 3 (DAMITV)
-#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=2026-world-grand-prix--day-3-29598
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://messi.damitv.st/live-hls/channel/2026-world-grand-prix--day-3-29598/playlist.m3u8?tk=KNd0coY3v-SMo5wX_yQLyw&e=1790832634
-#EXTINF:-1 tvg-chno="153" tvg-id="Darts.Dummy.us" tvg-name="[Darts] 2026 World Grand Prix | Day 3 | Main Feed (FUTBOLX)" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/013/468/398/small/darts-board-icon-png.png" group-title="Live - Other Events",[Darts] 2026 World Grand Prix | Day 3 | Main Feed (FUTBOLX)
+http://193.47.62.41/hls/GGGG.m3u8
+#EXTINF:-1 tvg-chno="166" tvg-id="Darts.Dummy.us" tvg-name="[Darts] 2026 World Grand Prix | Day 3 | Main Feed (FUTBOLX)" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/013/468/398/small/darts-board-icon-png.png" group-title="Live - Other Events",[Darts] 2026 World Grand Prix | Day 3 | Main Feed (FUTBOLX)
 #EXTVLCOPT:http-referrer=https://www.futbol-x.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://maniy.b-cdn.net/dart/index.m3u8
-#EXTINF:-1 tvg-chno="154" tvg-id="Darts.Dummy.us" tvg-name="[Darts] Darts World Grand Prix (FAWA)" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/013/468/398/small/darts-board-icon-png.png" group-title="Live - Other Events",[Darts] Darts World Grand Prix (FAWA)
+https://maniy.b-cdn.net/d/index.m3u8
+#EXTINF:-1 tvg-chno="167" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA FRIENDLY] Bolivia vs Argentina | English (STRMGATE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live - Other Events",[FIFA FRIENDLY] Bolivia vs Argentina | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://instream.click/livetv.php?stream=tv401921545
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://instreams.live/live/tv401921545/index.m3u8?st=dLKD0IsOnmtdjaaXeHqnqw&e=1790821834
+#EXTINF:-1 tvg-chno="168" tvg-id="Live.Event.us" tvg-name="[Friendlies] Argentina vs Bolivia | Main Feed (FUTBOLX)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[Friendlies] Argentina vs Bolivia | Main Feed (FUTBOLX)
+#EXTVLCOPT:http-referrer=https://www.futbol-x.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://maniy.b-cdn.net/ar/index.m3u8
+#EXTINF:-1 tvg-chno="169" tvg-id="Soccer.Dummy.us" tvg-name="[Friendly Match] Argentina vs Bolivia (FAWA)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live - Other Events",[Friendly Match] Argentina vs Bolivia (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.55/hls/ZRRRAAAAAx.m3u8
-#EXTINF:-1 tvg-chno="155" tvg-id="Soccer.Dummy.us" tvg-name="[English National League] Eastleigh vs Southend (FAWA)" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/5mq9v01752167973.png" group-title="Live - Other Events",[English National League] Eastleigh vs Southend (FAWA)
+http://193.47.62.50/hls/ZZZZ.m3u8
+#EXTINF:-1 tvg-chno="170" tvg-id="Soccer.Dummy.us" tvg-name="[Friendly Match] Argentina vs Bolivia 2 (FAWA)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live - Other Events",[Friendly Match] Argentina vs Bolivia 2 (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.50/hls/ZPPPAAA.m3u8
-#EXTINF:-1 tvg-chno="156" tvg-id="Soccer.Dummy.us" tvg-name="[English National League] Tamworth vs Sutton (FAWA)" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/5mq9v01752167973.png" group-title="Live - Other Events",[English National League] Tamworth vs Sutton (FAWA)
+https://www.rtmpcdn.com/live/12aaeb3a-6088-4d87-bd3a-aced5688b001.m3u8
+#EXTINF:-1 tvg-chno="171" tvg-id="Soccer.Dummy.us" tvg-name="[Friendly Match] Argentina vs Bolivia 3 (FAWA)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live - Other Events",[Friendly Match] Argentina vs Bolivia 3 (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.50/hls/ZPPPAAAA.m3u8
-#EXTINF:-1 tvg-chno="157" tvg-id="Live.Event.us" tvg-name="[English Women League Cup] Aston Villa W vs Newcastle Utd W (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[English Women League Cup] Aston Villa W vs Newcastle Utd W (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.44/hls/TTTTQQQQ.m3u8
-#EXTINF:-1 tvg-chno="158" tvg-id="Live.Event.us" tvg-name="[English Women League Cup] Birmingham W vs Liverpool W (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[English Women League Cup] Birmingham W vs Liverpool W (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.44/hls/TTTT.m3u8
-#EXTINF:-1 tvg-chno="159" tvg-id="Live.Event.us" tvg-name="[English Women League Cup] Brighton W vs Tottenham W (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[English Women League Cup] Brighton W vs Tottenham W (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.50/hls/ZPPPAA.m3u8
-#EXTINF:-1 tvg-chno="160" tvg-id="Live.Event.us" tvg-name="[English Women League Cup] Crystal Palace W vs Charlton W (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[English Women League Cup] Crystal Palace W vs Charlton W (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.44/hls/TTTTQ.m3u8
-#EXTINF:-1 tvg-chno="161" tvg-id="Live.Event.us" tvg-name="[English Women League Cup] Durham W vs Manchester Utd W (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[English Women League Cup] Durham W vs Manchester Utd W (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.44/hls/TTTTQQ.m3u8
-#EXTINF:-1 tvg-chno="162" tvg-id="Live.Event.us" tvg-name="[English Women League Cup] Ipswich W vs London City Lionesses W (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[English Women League Cup] Ipswich W vs London City Lionesses W (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.50/hls/ZPPP.m3u8
-#EXTINF:-1 tvg-chno="163" tvg-id="Live.Event.us" tvg-name="[English Women League Cup] West Ham W vs Southampton W (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[English Women League Cup] West Ham W vs Southampton W (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.44/hls/TTTTQQQ.m3u8
-#EXTINF:-1 tvg-chno="164" tvg-id="Soccer.Dummy.us" tvg-name="[Euro U21 Qualification] Poland U21 vs Sweden U21 (WATCHFTY)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live - Other Events",[Euro U21 Qualification] Poland U21 vs Sweden U21 (WATCHFTY)
-#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/732437/poland-u21-sweden-u21/prime/1?player=clappr&autoplay=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://lb1.wfty.st/secure/j6HfcAwL_eRB7hp5yH3cCw/prime/poland-u21-sweden-u21/1/732437/1790809244/playlist.m3u8
-#EXTINF:-1 tvg-chno="165" tvg-id="Soccer.Dummy.us" tvg-name="[Euro U21 Qualification] Portugal U21 vs Gibraltar U21 (FAWA)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live - Other Events",[Euro U21 Qualification] Portugal U21 vs Gibraltar U21 (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.50/hls/EHHH.m3u8
-#EXTINF:-1 tvg-chno="166" tvg-id="Soccer.Dummy.us" tvg-name="[Euro U21 Qualification] Portugal U21 vs Gibraltar U21 (WATCHFTY)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live - Other Events",[Euro U21 Qualification] Portugal U21 vs Gibraltar U21 (WATCHFTY)
-#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/732430/portugal-u21-gibraltar-u21/prime/1?player=clappr&autoplay=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://lb6.wfty.st/secure/0iJIKTupc4EI5iP_xwtvig/prime/portugal-u21-gibraltar-u21/1/732430/1790818214/playlist.m3u8
-#EXTINF:-1 tvg-chno="167" tvg-id="Soccer.Dummy.us" tvg-name="[Euro U21 Qualification] Scotland U21 vs Azerbaijan U21 1 (FAWA)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live - Other Events",[Euro U21 Qualification] Scotland U21 vs Azerbaijan U21 1 (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.50/hls/ZPPPA.m3u8
-#EXTINF:-1 tvg-chno="168" tvg-id="Soccer.Dummy.us" tvg-name="[Euro U21 Qualification] Scotland U21 vs Azerbaijan U21 2 (FAWA)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live - Other Events",[Euro U21 Qualification] Scotland U21 vs Azerbaijan U21 2 (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://live1.dyrur1.com/live/58208461_d39d7afce3b7f5ce9a6fc9d2fad211d4_540p.m3u8?auth_key=1790807105-0-0-c60659cb1748e52af24ef1c7561230f2
-#EXTINF:-1 tvg-chno="169" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA FRIENDLY] Andorra vs Lithuania | English (STRMGATE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live - Other Events",[FIFA FRIENDLY] Andorra vs Lithuania | English (STRMGATE)
-#EXTVLCOPT:http-referrer=https://instream.click/livetv.php?stream=tv401899825
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://instreams.live/live/tv401899825/index.m3u8?st=kWVQXty6l9I0p1rBfhdbcQ&e=1790805634
-#EXTINF:-1 tvg-chno="170" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA FRIENDLY] Djibouti vs Mauritius | English (STRMGATE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live - Other Events",[FIFA FRIENDLY] Djibouti vs Mauritius | English (STRMGATE)
-#EXTVLCOPT:http-referrer=https://instream.click/livetv.php?stream=tv401912455
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://instreams.pro/live/tv401912455/index.m3u8?st=K38l6h2SqTrfnkVo9F6ORA&e=1790800235
-#EXTINF:-1 tvg-chno="171" tvg-id="Soccer.Dummy.us" tvg-name="[FIFA FRIENDLY] Mozambique vs Botswana | English (STRMGATE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live - Other Events",[FIFA FRIENDLY] Mozambique vs Botswana | English (STRMGATE)
-#EXTVLCOPT:http-referrer=https://instream.click/livetv.php?stream=tv401922621
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://instreams.pro/live/tv401922621/index.m3u8?st=mCcVbz9NtpRyMXUsaW4QLg&e=1790798434
-#EXTINF:-1 tvg-chno="172" tvg-id="Live.Event.us" tvg-name="[Tanzania Women Cup] Simba W vs Young Africains W (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[Tanzania Women Cup] Simba W vs Young Africains W (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.59/hls/zuuu.m3u8
-#EXTINF:-1 tvg-chno="173" tvg-id="Soccer.Dummy.us" tvg-name="[Torneo de Reserva] Central Córdoba SdE  vs Newell's Old Boys | ESPN 3 (TVF90)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live - Other Events",[Torneo de Reserva] Central Córdoba SdE  vs Newell's Old Boys | ESPN 3 (TVF90)
+https://live.dyrur1.com/live/vrqwni01zova4qn_739ed6e075fa3748d684c07bc383e36f_540p.m3u8?auth_key=1790826905-0-0-2c87a7e9f924a096d9e44256f3adc94e
+#EXTINF:-1 tvg-chno="172" tvg-id="Soccer.Dummy.us" tvg-name="[Torneo de Reserva] Central Córdoba SdE  vs Newell's Old Boys | ESPN 3 (TVF90)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live - Other Events",[Torneo de Reserva] Central Córdoba SdE  vs Newell's Old Boys | ESPN 3 (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=espn3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://Ym9yZQ.fubo18.com:443/espn3/mono.m3u8?token=aec384630c6067d5d92aa083a217a04d25e3b823-43-1790811938-1790793938
-#EXTINF:-1 tvg-chno="174" tvg-id="Soccer.Dummy.us" tvg-name="[Torneo de Reserva] Central Córdoba SdE  vs Newell's Old Boys | ESPN 3 | HD (TVF90)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live - Other Events",[Torneo de Reserva] Central Córdoba SdE  vs Newell's Old Boys | ESPN 3 | HD (TVF90)
+#EXTINF:-1 tvg-chno="173" tvg-id="Soccer.Dummy.us" tvg-name="[Torneo de Reserva] Central Córdoba SdE  vs Newell's Old Boys | ESPN 3 | HD (TVF90)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live - Other Events",[Torneo de Reserva] Central Córdoba SdE  vs Newell's Old Boys | ESPN 3 | HD (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/hd.php?stream=espn3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://bmF0aw9u.fubo18.com:443/espn3/mono.m3u8?token=b3ad137ce814021ce5d0961f7ef776f3d89e3a09-7c-1790811939-1790793939
-#EXTINF:-1 tvg-chno="175" tvg-id="Soccer.Dummy.us" tvg-name="[Torneo de Reserva] Central Córdoba SdE  vs Newell's Old Boys | ESPN 3 | OP2 (TVF90)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live - Other Events",[Torneo de Reserva] Central Córdoba SdE  vs Newell's Old Boys | ESPN 3 | OP2 (TVF90)
+#EXTINF:-1 tvg-chno="174" tvg-id="Soccer.Dummy.us" tvg-name="[Torneo de Reserva] Central Córdoba SdE  vs Newell's Old Boys | ESPN 3 | OP2 (TVF90)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live - Other Events",[Torneo de Reserva] Central Córdoba SdE  vs Newell's Old Boys | ESPN 3 | OP2 (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/2.php?stream=espn3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://3.ftlly.com:443/espn3/mono.m3u8?token=e8fe167251d748d2413a4177657f12aff585b1f1-b7-1790811939-1790793939
-#EXTINF:-1 tvg-chno="176" tvg-id="Soccer.Dummy.us" tvg-name="[Torneo de Reserva] Central Córdoba SdE  vs Newell's Old Boys | ESPN 3 | OP3 (TVF90)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live - Other Events",[Torneo de Reserva] Central Córdoba SdE  vs Newell's Old Boys | ESPN 3 | OP3 (TVF90)
+#EXTINF:-1 tvg-chno="175" tvg-id="Soccer.Dummy.us" tvg-name="[Torneo de Reserva] Central Córdoba SdE  vs Newell's Old Boys | ESPN 3 | OP3 (TVF90)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live - Other Events",[Torneo de Reserva] Central Córdoba SdE  vs Newell's Old Boys | ESPN 3 | OP3 (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/3.php?stream=espn3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://11.ftlly.com:443/espn3/mono.m3u8?token=6423f7d2fbdc4cf2bf980cb36f83bf44540cd2ee-27-1790811939-1790793939
-#EXTINF:-1 tvg-chno="177" tvg-id="Soccer.Dummy.us" tvg-name="[Torneo de Reserva] Central Córdoba SdE vs Newell's Old Boys 1 (PLIBRE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live - Other Events",[Torneo de Reserva] Central Córdoba SdE vs Newell's Old Boys 1 (PLIBRE)
+#EXTINF:-1 tvg-chno="176" tvg-id="Soccer.Dummy.us" tvg-name="[Torneo de Reserva] Central Córdoba SdE vs Newell's Old Boys 1 (PLIBRE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live - Other Events",[Torneo de Reserva] Central Córdoba SdE vs Newell's Old Boys 1 (PLIBRE)
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=espn3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://a2lja3m.fubo18.com:443/espn3/mono.m3u8?token=63151634d707a8d6672bde57caf658553ee66ef1-10-1790806535-1790788535
-#EXTINF:-1 tvg-chno="178" tvg-id="Soccer.Dummy.us" tvg-name="[Torneo de Reserva] Instituto  vs Racing | ESPN 3 (TVF90)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live - Other Events",[Torneo de Reserva] Instituto  vs Racing | ESPN 3 (TVF90)
+https://dglvz29s.fubo18.com:443/espn3/mono.m3u8?token=eb58a7dc714c90906117cf19b0ff536389de15a8-27-1790826333-1790808333
+#EXTINF:-1 tvg-chno="177" tvg-id="Soccer.Dummy.us" tvg-name="[Torneo de Reserva] Instituto  vs Racing | ESPN 3 (TVF90)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live - Other Events",[Torneo de Reserva] Instituto  vs Racing | ESPN 3 (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=espn3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://dglvz29s.fubo18.com:443/espn3/mono.m3u8?token=c24d576b836aabb5b3fa977866803c13bc6d22ab-68-1790811934-1790793934
-#EXTINF:-1 tvg-chno="179" tvg-id="Soccer.Dummy.us" tvg-name="[Torneo de Reserva] Instituto  vs Racing | ESPN 3 | HD (TVF90)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live - Other Events",[Torneo de Reserva] Instituto  vs Racing | ESPN 3 | HD (TVF90)
+#EXTINF:-1 tvg-chno="178" tvg-id="Soccer.Dummy.us" tvg-name="[Torneo de Reserva] Instituto  vs Racing | ESPN 3 | HD (TVF90)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live - Other Events",[Torneo de Reserva] Instituto  vs Racing | ESPN 3 | HD (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/hd.php?stream=espn3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://b2ZmaWNpYWw.fubo18.com:443/espn3/mono.m3u8?token=07a59923493370a5feed5690e4bff701367b0632-63-1790811935-1790793935
-#EXTINF:-1 tvg-chno="180" tvg-id="Soccer.Dummy.us" tvg-name="[Torneo de Reserva] Instituto  vs Racing | ESPN 3 | OP2 (TVF90)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live - Other Events",[Torneo de Reserva] Instituto  vs Racing | ESPN 3 | OP2 (TVF90)
+#EXTINF:-1 tvg-chno="179" tvg-id="Soccer.Dummy.us" tvg-name="[Torneo de Reserva] Instituto  vs Racing | ESPN 3 | OP2 (TVF90)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live - Other Events",[Torneo de Reserva] Instituto  vs Racing | ESPN 3 | OP2 (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/2.php?stream=espn3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://8.ftlly.com:443/espn3/mono.m3u8?token=8c7ff2ab2230e77dbd74c06543d688f1902c2ddf-3d-1790811934-1790793934
-#EXTINF:-1 tvg-chno="181" tvg-id="Soccer.Dummy.us" tvg-name="[Torneo de Reserva] Instituto  vs Racing | ESPN 3 | OP3 (TVF90)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live - Other Events",[Torneo de Reserva] Instituto  vs Racing | ESPN 3 | OP3 (TVF90)
+#EXTINF:-1 tvg-chno="180" tvg-id="Soccer.Dummy.us" tvg-name="[Torneo de Reserva] Instituto  vs Racing | ESPN 3 | OP3 (TVF90)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live - Other Events",[Torneo de Reserva] Instituto  vs Racing | ESPN 3 | OP3 (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/3.php?stream=espn3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://2.ftlly.com:443/espn3/mono.m3u8?token=7d59e084be0f8e3d07b880b6bb50ba29659cd043-6f-1790811935-1790793935
-#EXTINF:-1 tvg-chno="182" tvg-id="Soccer.Dummy.us" tvg-name="[Torneo de Reserva] Instituto vs Racing 1 (PLIBRE)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Live - Other Events",[Torneo de Reserva] Instituto vs Racing 1 (PLIBRE)
-#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=espn3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://YXdlc29tZQ.fubo18.com:443/espn3/mono.m3u8?token=ffdad6192c5f0b187ead3aff63f81672eb8d7718-40-1790806534-1790788534
-#EXTINF:-1 tvg-chno="183" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Champions League Femenina] Häcken vs Juventus | Disney + (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2408.png" group-title="Live - Other Events",[UEFA Champions League Femenina] Häcken vs Juventus | Disney + (STRMXHD)
+#EXTINF:-1 tvg-chno="181" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Champions League Femenina] Häcken vs Juventus | Disney + (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2408.png" group-title="Live - Other Events",[UEFA Champions League Femenina] Häcken vs Juventus | Disney + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/disney3/index.m3u8?token=b220ff5cdd61a6b416b1bd5d6571b94a3c9f0775-25-1790834435-1790780435
-#EXTINF:-1 tvg-chno="184" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Champions League Femenina] OL Lyonnes vs Chelsea FC | Disney + (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2408.png" group-title="Live - Other Events",[UEFA Champions League Femenina] OL Lyonnes vs Chelsea FC | Disney + (STRMXHD)
+https://khala.futlivehd.com/global/disney3/index.m3u8?token=142212a6581399777728b4bfcfe415af69f502cc-d2-1790854234-1790800234
+#EXTINF:-1 tvg-chno="182" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Champions League Femenina] OL Lyonnes vs Chelsea FC | Disney + (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2408.png" group-title="Live - Other Events",[UEFA Champions League Femenina] OL Lyonnes vs Chelsea FC | Disney + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/disney5/index.m3u8?token=095673f7d68b8e88e467a073f4875baeee46cd00-fc-1790834435-1790780435
-#EXTINF:-1 tvg-chno="185" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Champions League Femenina] OL Lyonnes vs Chelsea FC | ESPN 2 (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2408.png" group-title="Live - Other Events",[UEFA Champions League Femenina] OL Lyonnes vs Chelsea FC | ESPN 2 (STRMXHD)
+https://khala.futlivehd.com/global/disney5/index.m3u8?token=f03343dae3275d9905d095feecfb31308cf3626b-e8-1790854235-1790800235
+#EXTINF:-1 tvg-chno="183" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Champions League Femenina] OL Lyonnes vs Chelsea FC | ESPN 2 (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2408.png" group-title="Live - Other Events",[UEFA Champions League Femenina] OL Lyonnes vs Chelsea FC | ESPN 2 (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espn2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/espn2/index.m3u8?token=4c8bc872c7a8ba289cf52a09826f051e173b7672-9f-1790834435-1790780435
-#EXTINF:-1 tvg-chno="186" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Champions League Femenina] Paris FC vs Arsenal | Disney + (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2408.png" group-title="Live - Other Events",[UEFA Champions League Femenina] Paris FC vs Arsenal | Disney + (STRMXHD)
+https://khala.futlivehd.com/global/espn2/index.m3u8?token=816e95afa5379ce7d81e7d299c6f8301fcc0be85-b8-1790854235-1790800235
+#EXTINF:-1 tvg-chno="184" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Champions League Femenina] Paris FC vs Arsenal | Disney + (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2408.png" group-title="Live - Other Events",[UEFA Champions League Femenina] Paris FC vs Arsenal | Disney + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/disney2/index.m3u8?token=cbcad1cbc82b3a3369a464cba78dd7b8293ee0af-b5-1790834435-1790780435
-#EXTINF:-1 tvg-chno="187" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Champions League Femenina] Roma vs Barcelona | Disney + (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2408.png" group-title="Live - Other Events",[UEFA Champions League Femenina] Roma vs Barcelona | Disney + (STRMXHD)
+https://khala.futlivehd.com/global/disney2/index.m3u8?token=c70df644ae4a8ff71d20a14a540be9a70052f9ba-6e-1790854234-1790800234
+#EXTINF:-1 tvg-chno="185" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Champions League Femenina] Roma vs Barcelona | Disney + (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2408.png" group-title="Live - Other Events",[UEFA Champions League Femenina] Roma vs Barcelona | Disney + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/disney4/index.m3u8?token=2294df9690da07ee61413aa923de7e3d9b8c0609-c1-1790834435-1790780435
-#EXTINF:-1 tvg-chno="188" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Champions League Femenina] Roma vs Barcelona | ESPN 2 (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2408.png" group-title="Live - Other Events",[UEFA Champions League Femenina] Roma vs Barcelona | ESPN 2 (STRMXHD)
+https://khala.futlivehd.com/global/disney4/index.m3u8?token=b31af876dce56a5b9fab6ac82058ff5e8012d8b7-45-1790854235-1790800235
+#EXTINF:-1 tvg-chno="186" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Champions League Femenina] Roma vs Barcelona | ESPN 2 (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2408.png" group-title="Live - Other Events",[UEFA Champions League Femenina] Roma vs Barcelona | ESPN 2 (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espn2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/espn2/index.m3u8?token=d905b8a464a304e94ddc68c207e35f9655786172-0c-1790834435-1790780435
-#EXTINF:-1 tvg-chno="189" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Champions League Femenina] SL Benfica vs Bayern | Disney + (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2408.png" group-title="Live - Other Events",[UEFA Champions League Femenina] SL Benfica vs Bayern | Disney + (STRMXHD)
+https://khala.futlivehd.com/global/espn2/index.m3u8?token=215cdaeaebbe92d2e06821cde2b5c635a5339749-08-1790854235-1790800235
+#EXTINF:-1 tvg-chno="187" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Champions League Femenina] SL Benfica vs Bayern | Disney + (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2408.png" group-title="Live - Other Events",[UEFA Champions League Femenina] SL Benfica vs Bayern | Disney + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/disney6/index.m3u8?token=581fbdd0dc861ef0cc092fe646cae43df35cd925-b1-1790834435-1790780435
-#EXTINF:-1 tvg-chno="190" tvg-id="Live.Event.us" tvg-name="[UEFA WCHAMPIONS] Arsenal vs Paris FC | English (STRMGATE)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[UEFA WCHAMPIONS] Arsenal vs Paris FC | English (STRMGATE)
-#EXTVLCOPT:http-referrer=https://instream.click/livetv.php?stream=tv401917007
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://instreams.live/live/tv401917007/index.m3u8?st=DjYqIm96T3vmgZVAAI-xRg&e=1790798436
-#EXTINF:-1 tvg-chno="191" tvg-id="Live.Event.us" tvg-name="[UEFA WCHAMPIONS] Barcelona vs Roma | English (STRMGATE)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[UEFA WCHAMPIONS] Barcelona vs Roma | English (STRMGATE)
-#EXTVLCOPT:http-referrer=https://instream.click/livetv.php?stream=tv401917009
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://instreams.live/live/tv401917009/index.m3u8?st=7lewdXcHK8jNKItwNikbow&e=1790798436
-#EXTINF:-1 tvg-chno="192" tvg-id="Live.Event.us" tvg-name="[UEFA WCHAMPIONS] Bayern Munich vs Benfica | English (STRMGATE)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[UEFA WCHAMPIONS] Bayern Munich vs Benfica | English (STRMGATE)
+https://khala.futlivehd.com/global/disney6/index.m3u8?token=185f08c33999bd9853e49df864022bb23901ad05-43-1790854234-1790800234
+#EXTINF:-1 tvg-chno="188" tvg-id="Live.Event.us" tvg-name="[UEFA WCHAMPIONS] Bayern Munich vs Benfica | English (STRMGATE)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[UEFA WCHAMPIONS] Bayern Munich vs Benfica | English (STRMGATE)
 #EXTVLCOPT:http-referrer=https://instream.click/livetv.php?stream=tv401917005
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://instreams.pro/live/tv401917005/index.m3u8?st=vcspSBoFvJn25UJe_loWkQ&e=1790803834
-#EXTINF:-1 tvg-chno="193" tvg-id="Live.Event.us" tvg-name="[UEFA WCHAMPIONS] Chelsea vs OL Lyonnes | English (STRMGATE)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[UEFA WCHAMPIONS] Chelsea vs OL Lyonnes | English (STRMGATE)
+https://instreams.pro/live/tv401917005/index.m3u8?st=M-rN63Sxg9JRDH5FX1yNqw&e=1790814634
+#EXTINF:-1 tvg-chno="189" tvg-id="Live.Event.us" tvg-name="[UEFA WCHAMPIONS] Chelsea vs OL Lyonnes | English (STRMGATE)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[UEFA WCHAMPIONS] Chelsea vs OL Lyonnes | English (STRMGATE)
 #EXTVLCOPT:http-referrer=https://instream.click/livetv.php?stream=tv401917006
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://instreams.pro/live/tv401917006/index.m3u8?st=tn7NTvelz9b38Ag24ryRlg&e=1790803835
-#EXTINF:-1 tvg-chno="194" tvg-id="Live.Event.us" tvg-name="[UEFA WCHAMPIONS] Juventus vs BK Häcken | English (STRMGATE)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[UEFA WCHAMPIONS] Juventus vs BK Häcken | English (STRMGATE)
-#EXTVLCOPT:http-referrer=https://instream.click/livetv.php?stream=tv401917008
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://instreams.pro/live/tv401917008/index.m3u8?st=ZckkTcsd6xukfT46gqmW4w&e=1790798435
-#EXTINF:-1 tvg-chno="195" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Women Champions League] AS Roma W vs Barcelona W (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2408.png" group-title="Live - Other Events",[UEFA Women Champions League] AS Roma W vs Barcelona W (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://live.dyrur1.com/live/74371800_3e8252da7db40217109f3ad644d32dba_540p.m3u8?auth_key=1790801044-0-0-6cc8eb55ea6468693db9b69dd7481ea4
-#EXTINF:-1 tvg-chno="196" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Women Champions League] AS Roma W vs Barcelona W 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2408.png" group-title="Live - Other Events",[UEFA Women Champions League] AS Roma W vs Barcelona W 1 (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.41/hls/RTTTAAA.m3u8
-#EXTINF:-1 tvg-chno="197" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Women Champions League] Benfica W vs Bayern Munchen W 2 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2408.png" group-title="Live - Other Events",[UEFA Women Champions League] Benfica W vs Bayern Munchen W 2 (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://live1.dyrur1.com/live/74403626_517a58d6e2727804c847d1aab1dba31d_540p.m3u8?auth_key=1790809481-0-0-8ee59ede3ddf01ba0c0ffb7c5b719113
-#EXTINF:-1 tvg-chno="198" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Women Champions League] Hacken W vs Juventus W 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2408.png" group-title="Live - Other Events",[UEFA Women Champions League] Hacken W vs Juventus W 1 (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.41/hls/RTTTAAAA.m3u8
-#EXTINF:-1 tvg-chno="199" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Women Champions League] Hacken W vs Juventus W 2 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2408.png" group-title="Live - Other Events",[UEFA Women Champions League] Hacken W vs Juventus W 2 (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://live1.dyrur1.com/live/74371802_10e9691fe228d4736c16963e39647c3e_540p.m3u8?auth_key=1790801170-0-0-3485eff115c73955ec6312d77a98f71b
-#EXTINF:-1 tvg-chno="200" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Women Champions League] OL Lyonnes W vs Chelsea W (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2408.png" group-title="Live - Other Events",[UEFA Women Champions League] OL Lyonnes W vs Chelsea W (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.50/hls/EHHHA.m3u8
-#EXTINF:-1 tvg-chno="201" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Women Champions League] OL Lyonnes W vs Chelsea W 2 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2408.png" group-title="Live - Other Events",[UEFA Women Champions League] OL Lyonnes W vs Chelsea W 2 (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://live2.dyrur1.com/live/74371806_e06bd9f2036b0f4dfff0293e2681ede4_540p.m3u8?auth_key=1790809169-0-0-91a0532b8a23158b7ce8a77fee8f4055
-#EXTINF:-1 tvg-chno="202" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Women Champions League] Paris FC W vs Arsenal W 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2408.png" group-title="Live - Other Events",[UEFA Women Champions League] Paris FC W vs Arsenal W 1 (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.41/hls/RTTTAAAAA.m3u8
-#EXTINF:-1 tvg-chno="203" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Women Champions League] Paris FC W vs Arsenal W 2 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2408.png" group-title="Live - Other Events",[UEFA Women Champions League] Paris FC W vs Arsenal W 2 (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://live2.dyrur1.com/live/74371804_b2b730c5fe926e8d1bcb87c163c0e44d_540p.m3u8?auth_key=1790801245-0-0-fe9f3b1f0644a434eeacff8317832963
-#EXTINF:-1 tvg-chno="204" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Women Champions League] SL Benfica W vs Bayern Munchen W (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2408.png" group-title="Live - Other Events",[UEFA Women Champions League] SL Benfica W vs Bayern Munchen W (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.50/hls/EHHHAA.m3u8
-#EXTINF:-1 tvg-chno="205" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Women Europa Cup] Czarni Sosnowiec W vs Breidablik W (FAWA)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/46/UEFA_Women%27s_Europa_Cup.svg/960px-UEFA_Women%27s_Europa_Cup.svg.png" group-title="Live - Other Events",[UEFA Women Europa Cup] Czarni Sosnowiec W vs Breidablik W (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.55/hls/SSSSA.m3u8
-#EXTINF:-1 tvg-chno="206" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Women Europa Cup] Eintracht Frankfurt W vs Hafnarfjordur W (FAWA)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/46/UEFA_Women%27s_Europa_Cup.svg/960px-UEFA_Women%27s_Europa_Cup.svg.png" group-title="Live - Other Events",[UEFA Women Europa Cup] Eintracht Frankfurt W vs Hafnarfjordur W (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.41/hls/RTTT.m3u8
-#EXTINF:-1 tvg-chno="207" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Women Europa Cup] Fenerbahce W vs Minsk FK W (FAWA)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/46/UEFA_Women%27s_Europa_Cup.svg/960px-UEFA_Women%27s_Europa_Cup.svg.png" group-title="Live - Other Events",[UEFA Women Europa Cup] Fenerbahce W vs Minsk FK W (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.55/hls/SSSSAA.m3u8
-#EXTINF:-1 tvg-chno="208" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Women Europa Cup] Malmo FF W vs St Polten W (FAWA)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/46/UEFA_Women%27s_Europa_Cup.svg/960px-UEFA_Women%27s_Europa_Cup.svg.png" group-title="Live - Other Events",[UEFA Women Europa Cup] Malmo FF W vs St Polten W (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.55/hls/SSSSAAA.m3u8
-#EXTINF:-1 tvg-chno="209" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Women Europa Cup] Rangers W vs Hammarby W (FAWA)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/46/UEFA_Women%27s_Europa_Cup.svg/960px-UEFA_Women%27s_Europa_Cup.svg.png" group-title="Live - Other Events",[UEFA Women Europa Cup] Rangers W vs Hammarby W (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.50/hls/MMMM.m3u8
-#EXTINF:-1 tvg-chno="210" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Women Europa Cup] Real Sociedad W vs Hearts W (FAWA)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/46/UEFA_Women%27s_Europa_Cup.svg/960px-UEFA_Women%27s_Europa_Cup.svg.png" group-title="Live - Other Events",[UEFA Women Europa Cup] Real Sociedad W vs Hearts W (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.55/hls/SSSSAAAA.m3u8
-#EXTINF:-1 tvg-chno="211" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Women Europa Cup] Sporting Lisbon W vs Brondby W (FAWA)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/46/UEFA_Women%27s_Europa_Cup.svg/960px-UEFA_Women%27s_Europa_Cup.svg.png" group-title="Live - Other Events",[UEFA Women Europa Cup] Sporting Lisbon W vs Brondby W (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.50/hls/ZPPPAAAAA.m3u8
-#EXTINF:-1 tvg-chno="212" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Women Europa Cup] Sturm Graz W vs Wolfsburg W (FAWA)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/46/UEFA_Women%27s_Europa_Cup.svg/960px-UEFA_Women%27s_Europa_Cup.svg.png" group-title="Live - Other Events",[UEFA Women Europa Cup] Sturm Graz W vs Wolfsburg W (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.41/hls/RTTTA.m3u8
-#EXTINF:-1 tvg-chno="213" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Women Europa Cup] Torreense W vs FC Kharkiv W (FAWA)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/46/UEFA_Women%27s_Europa_Cup.svg/960px-UEFA_Women%27s_Europa_Cup.svg.png" group-title="Live - Other Events",[UEFA Women Europa Cup] Torreense W vs FC Kharkiv W (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.50/hls/ZPPPAAAAAA.m3u8
-#EXTINF:-1 tvg-chno="214" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Women's Champions League] Häcken vs Juventus 1 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2408.png" group-title="Live - Other Events",[UEFA Women's Champions League] Häcken vs Juventus 1 (PLIBRE)
-#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=disney3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://y2fzdgxl.fubo18.com:443/disney3/mono.m3u8?token=eeea88358c4d2571303d7ae8176ca4ab21fbf2c2-d2-1790806534-1790788534
-#EXTINF:-1 tvg-chno="215" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Women's Champions League] OL Lyonnes vs Chelsea FC 1 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2408.png" group-title="Live - Other Events",[UEFA Women's Champions League] OL Lyonnes vs Chelsea FC 1 (PLIBRE)
-#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=espn
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://bmf0aw9u.fubo18.com:443/espn/mono.m3u8?token=e00a76b21f801d212402c8b8d688e29bf73b86bb-f4-1790806534-1790788534
-#EXTINF:-1 tvg-chno="216" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Women's Champions League] OL Lyonnes vs Chelsea FC 1 (STP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2408.png" group-title="Live - Other Events",[UEFA Women's Champions League] OL Lyonnes vs Chelsea FC 1 (STP)
+https://instreams.pro/live/tv401917006/index.m3u8?st=2cXpd5eIcCW19E-00exiIA&e=1790814635
+#EXTINF:-1 tvg-chno="190" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Women's Champions League] OL Lyonnes vs Chelsea FC 1 (STP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2408.png" group-title="Live - Other Events",[UEFA Women's Champions League] OL Lyonnes vs Chelsea FC 1 (STP)
 #EXTVLCOPT:http-referrer=https://streamx305.sbs/global1.php?channel=espn
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://s1.envivoslatam99.sbs:443/global/espn/index.m3u8?token=f540618e7f9761db9b58ded0b465d5891eef0c9c-31-1790834433-1790780433
-#EXTINF:-1 tvg-chno="217" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Women's Champions League] OL Lyonnes vs Chelsea FC 2 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2408.png" group-title="Live - Other Events",[UEFA Women's Champions League] OL Lyonnes vs Chelsea FC 2 (PLIBRE)
-#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=disney5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://dglvz29s.fubo18.com:443/disney5/mono.m3u8?token=9d86cb76d87d0b1a76a043acd7b71469213cd89d-d1-1790806534-1790788534
-#EXTINF:-1 tvg-chno="218" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Women's Champions League] OL Lyonnes vs Chelsea FC 2 (STP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2408.png" group-title="Live - Other Events",[UEFA Women's Champions League] OL Lyonnes vs Chelsea FC 2 (STP)
+https://s2.envivoslatam99.sbs:443/global/espn/index.m3u8?token=0edb18a95667d8a2ffbfd69016715aee0579d79e-31-1790854233-1790800233
+#EXTINF:-1 tvg-chno="191" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Women's Champions League] OL Lyonnes vs Chelsea FC 2 (STP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2408.png" group-title="Live - Other Events",[UEFA Women's Champions League] OL Lyonnes vs Chelsea FC 2 (STP)
 #EXTVLCOPT:http-referrer=https://streamx305.sbs/global1.php?channel=espndeportes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://s3.envivoslatam99.sbs:443/global/espndeportes/index.m3u8?token=395eaa13b12a1bae9b10a5f89bc763876f193ede-92-1790834433-1790780433
-#EXTINF:-1 tvg-chno="219" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Women's Champions League] OL Lyonnes vs Chelsea FC 3 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2408.png" group-title="Live - Other Events",[UEFA Women's Champions League] OL Lyonnes vs Chelsea FC 3 (PLIBRE)
-#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=espndeportes
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://dglvz29s.fubo18.com:443/espndeportes/mono.m3u8?token=7aa64d1cbeb6eb4edd91ed79875121511bc57ed2-e-1790806534-1790788534
-#EXTINF:-1 tvg-chno="220" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Women's Champions League] OL Lyonnes vs Chelsea FC | ESPN (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2408.png" group-title="Live - Other Events",[UEFA Women's Champions League] OL Lyonnes vs Chelsea FC | ESPN (TVF90)
+https://s2.envivoslatam99.sbs:443/global/espndeportes/index.m3u8?token=7216d3a63db5fe36f3091c8992613665bc00e703-8e-1790854233-1790800233
+#EXTINF:-1 tvg-chno="192" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Women's Champions League] OL Lyonnes vs Chelsea FC | ESPN (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2408.png" group-title="Live - Other Events",[UEFA Women's Champions League] OL Lyonnes vs Chelsea FC | ESPN (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/canal.php?stream=espn
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://bgvnzw5k.fubo18.com:443/espn/mono.m3u8?token=6ad91a25faf3d11b1fd35e4b4853df5dd5a7da7b-6e-1790811938-1790793938
-#EXTINF:-1 tvg-chno="221" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Women's Champions League] OL Lyonnes vs Chelsea FC | ESPN AR┃OP2 (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2408.png" group-title="Live - Other Events",[UEFA Women's Champions League] OL Lyonnes vs Chelsea FC | ESPN AR┃OP2 (TVF90)
+#EXTINF:-1 tvg-chno="193" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Women's Champions League] OL Lyonnes vs Chelsea FC | ESPN AR┃OP2 (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2408.png" group-title="Live - Other Events",[UEFA Women's Champions League] OL Lyonnes vs Chelsea FC | ESPN AR┃OP2 (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/2.php?stream=espn
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://2.ftlly.com:443/espn/mono.m3u8?token=b3ae0c831bccb24fea6cec3f1dd62efcce9d4bb2-6-1790811938-1790793938
-#EXTINF:-1 tvg-chno="222" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Women's Champions League] OL Lyonnes vs Chelsea FC | ESPN AR┃OP3 (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2408.png" group-title="Live - Other Events",[UEFA Women's Champions League] OL Lyonnes vs Chelsea FC | ESPN AR┃OP3 (TVF90)
+#EXTINF:-1 tvg-chno="194" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Women's Champions League] OL Lyonnes vs Chelsea FC | ESPN AR┃OP3 (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2408.png" group-title="Live - Other Events",[UEFA Women's Champions League] OL Lyonnes vs Chelsea FC | ESPN AR┃OP3 (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/3.php?stream=espn
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://10.ftlly.com:443/espn/mono.m3u8?token=b2d0e9521dc7a3af769fac2d6a4df802067e0bdc-e-1790811938-1790793938
-#EXTINF:-1 tvg-chno="223" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Women's Champions League] Paris FC vs Arsenal 1 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2408.png" group-title="Live - Other Events",[UEFA Women's Champions League] Paris FC vs Arsenal 1 (PLIBRE)
-#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=disney4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://bmf0aw9u.fubo18.com:443/disney4/mono.m3u8?token=9067184b86bc55beb6feff706b802ce739cddcb5-cc-1790806534-1790788534
-#EXTINF:-1 tvg-chno="224" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Women's Champions League] Roma vs Barcelona 1 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2408.png" group-title="Live - Other Events",[UEFA Women's Champions League] Roma vs Barcelona 1 (PLIBRE)
-#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=espn2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://dglvz29s.fubo18.com:443/espn2/mono.m3u8?token=1f15fb4984a6d9effd18c621fb307a91c8ce66c9-20-1790806535-1790788535
-#EXTINF:-1 tvg-chno="225" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Women's Champions League] Roma vs Barcelona 1 (STP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2408.png" group-title="Live - Other Events",[UEFA Women's Champions League] Roma vs Barcelona 1 (STP)
+#EXTINF:-1 tvg-chno="195" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Women's Champions League] Roma vs Barcelona 1 (STP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2408.png" group-title="Live - Other Events",[UEFA Women's Champions League] Roma vs Barcelona 1 (STP)
 #EXTVLCOPT:http-referrer=https://streamx305.sbs/global1.php?channel=espn2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://s2.envivoslatam99.sbs:443/global/espn2/index.m3u8?token=93440fa60bca2cfb903c1b628708dc7f12b19669-10-1790834433-1790780433
-#EXTINF:-1 tvg-chno="226" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Women's Champions League] Roma vs Barcelona 2 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2408.png" group-title="Live - Other Events",[UEFA Women's Champions League] Roma vs Barcelona 2 (PLIBRE)
-#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=disney2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://bgvnzw5k.fubo18.com:443/disney2/mono.m3u8?token=a249c3fb55b0b417ad4d8c9f19cc6f23c20ab717-6e-1790806535-1790788535
-#EXTINF:-1 tvg-chno="227" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Women's Champions League] Roma vs Barcelona 2 (STP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2408.png" group-title="Live - Other Events",[UEFA Women's Champions League] Roma vs Barcelona 2 (STP)
+https://s3.envivoslatam99.sbs:443/global/espn2/index.m3u8?token=7553513f12983bd988d11823e4d547022737ca34-67-1790854233-1790800233
+#EXTINF:-1 tvg-chno="196" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Women's Champions League] Roma vs Barcelona 2 (STP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2408.png" group-title="Live - Other Events",[UEFA Women's Champions League] Roma vs Barcelona 2 (STP)
 #EXTVLCOPT:http-referrer=https://streamx305.sbs/global1.php?channel=espndeportes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://s2.envivoslatam99.sbs:443/global/espndeportes/index.m3u8?token=4e5d3321d17ff864756c425737bf0b43bbd4da2a-66-1790834433-1790780433
-#EXTINF:-1 tvg-chno="228" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Women's Champions League] Roma vs Barcelona 3 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2408.png" group-title="Live - Other Events",[UEFA Women's Champions League] Roma vs Barcelona 3 (PLIBRE)
-#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=espndeportes
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://Ym9yZQ.fubo18.com:443/espndeportes/mono.m3u8?token=0bff481fbf1fd6f1e34ade29dd864c951c128e93-17-1790806536-1790788536
-#EXTINF:-1 tvg-chno="229" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Women's Champions League] Roma vs Barcelona | ESPN 2 (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2408.png" group-title="Live - Other Events",[UEFA Women's Champions League] Roma vs Barcelona | ESPN 2 (TVF90)
+https://s3.envivoslatam99.sbs:443/global/espndeportes/index.m3u8?token=97a3a79bbea15c5ca404acfc1cc6501a8286cde9-a4-1790854233-1790800233
+#EXTINF:-1 tvg-chno="197" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Women's Champions League] Roma vs Barcelona | ESPN 2 (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2408.png" group-title="Live - Other Events",[UEFA Women's Champions League] Roma vs Barcelona | ESPN 2 (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=espn2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://bgvnzw5k.fubo18.com:443/espn2/mono.m3u8?token=e2ce71eec06cdee9c034728ce496506c8a850712-6e-1790811933-1790793933
-#EXTINF:-1 tvg-chno="230" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Women's Champions League] Roma vs Barcelona | ESPN 2 | HD (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2408.png" group-title="Live - Other Events",[UEFA Women's Champions League] Roma vs Barcelona | ESPN 2 | HD (TVF90)
+#EXTINF:-1 tvg-chno="198" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Women's Champions League] Roma vs Barcelona | ESPN 2 | HD (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2408.png" group-title="Live - Other Events",[UEFA Women's Champions League] Roma vs Barcelona | ESPN 2 | HD (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/hd.php?stream=espn2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://YXdlc29tZQ.fubo18.com:443/espn2/mono.m3u8?token=36e997e0ed66c7baeec9bad94191da24aa2551ab-11-1790811934-1790793934
-#EXTINF:-1 tvg-chno="231" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Women's Champions League] Roma vs Barcelona | ESPN 2 | OP2 (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2408.png" group-title="Live - Other Events",[UEFA Women's Champions League] Roma vs Barcelona | ESPN 2 | OP2 (TVF90)
+#EXTINF:-1 tvg-chno="199" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Women's Champions League] Roma vs Barcelona | ESPN 2 | OP2 (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2408.png" group-title="Live - Other Events",[UEFA Women's Champions League] Roma vs Barcelona | ESPN 2 | OP2 (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/2.php?stream=espn2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://8.ftlly.com:443/espn2/mono.m3u8?token=ae56075287e65a7b46d076e063a673c0cae48741-7a-1790811934-1790793934
-#EXTINF:-1 tvg-chno="232" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Women's Champions League] Roma vs Barcelona | ESPN 2 | OP3 (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2408.png" group-title="Live - Other Events",[UEFA Women's Champions League] Roma vs Barcelona | ESPN 2 | OP3 (TVF90)
+#EXTINF:-1 tvg-chno="200" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Women's Champions League] Roma vs Barcelona | ESPN 2 | OP3 (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2408.png" group-title="Live - Other Events",[UEFA Women's Champions League] Roma vs Barcelona | ESPN 2 | OP3 (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/3.php?stream=espn2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://3.ftlly.com:443/espn2/mono.m3u8?token=4e3901c6c06a1d5fb6c801b8e83a7fe70e7404ef-c3-1790811934-1790793934
-#EXTINF:-1 tvg-chno="233" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Women's Champions League] SL Benfica vs Bayern 1 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2408.png" group-title="Live - Other Events",[UEFA Women's Champions League] SL Benfica vs Bayern 1 (PLIBRE)
-#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=disney6
+#EXTINF:-1 tvg-chno="201" tvg-id="PPV.EVENTS.Dummy.us" tvg-name="[WWE Wrestling] WWE Worlds Collide 2026 (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[WWE Wrestling] WWE Worlds Collide 2026 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://Ym9yZQ.fubo18.com:443/disney6/mono.m3u8?token=acc722c7396ae3e20b0c0469df8c60a61406fe31-39-1790806534-1790788534
+http://193.47.62.44/hls/IFFF.m3u8

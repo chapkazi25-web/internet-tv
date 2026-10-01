@@ -1,37 +1,49 @@
 #EXTM3U url-tvg="https://s.id/d9sEPG"
-#EXTINF:-1 tvg-chno="98" tvg-id="Live.Event.us" tvg-name="[Basketball Eurocup] PAOK vs Manresa (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Basketball",[Basketball Eurocup] PAOK vs Manresa (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.41/hls/RTTTAA.m3u8
-#EXTINF:-1 tvg-chno="99" tvg-id="Basketball.Dummy.us" tvg-name="[Basketball Euroleague] Maccabi Tel Aviv vs Besiktas 1 (FAWA)" tvg-logo="https://www.euroleaguebasketball.net/images/logo-default.png" group-title="Live - Basketball",[Basketball Euroleague] Maccabi Tel Aviv vs Besiktas 1 (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.50/hls/MMMMAA.m3u8
-#EXTINF:-1 tvg-chno="100" tvg-id="Basketball.Dummy.us" tvg-name="[Basketball Euroleague] Maccabi Tel Aviv vs Besiktas 2 (FAWA)" tvg-logo="https://www.euroleaguebasketball.net/images/logo-default.png" group-title="Live - Basketball",[Basketball Euroleague] Maccabi Tel Aviv vs Besiktas 2 (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://www.rtmpcdn.com/live/d3ee3132-3cb4-466d-a3a4-af7608445360.m3u8
-#EXTINF:-1 tvg-chno="101" tvg-id="Basketball.Dummy.us" tvg-name="[Basketball Euroleague] Panathinaikos vs Lyon-Villeurbanne 1 (FAWA)" tvg-logo="https://www.euroleaguebasketball.net/images/logo-default.png" group-title="Live - Basketball",[Basketball Euroleague] Panathinaikos vs Lyon-Villeurbanne 1 (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.59/hls/MMMMAAA.m3u8
-#EXTINF:-1 tvg-chno="102" tvg-id="Basketball.Dummy.us" tvg-name="[Basketball Euroleague] Panathinaikos vs Lyon-Villeurbanne 2 (FAWA)" tvg-logo="https://www.euroleaguebasketball.net/images/logo-default.png" group-title="Live - Basketball",[Basketball Euroleague] Panathinaikos vs Lyon-Villeurbanne 2 (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://www.rtmpcdn.com/live/84a9573a-73aa-41f5-8d5d-b43a118bd376.m3u8
-#EXTINF:-1 tvg-chno="103" tvg-id="WNBA.dummy.us" tvg-name="[Basketball] Atlanta Dream vs. Washington Mystics | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/wnba.png" group-title="Live - Basketball",[Basketball] Atlanta Dream vs. Washington Mystics | English (STRMCNTR)
+#EXTINF:-1 tvg-chno="105" tvg-id="WNBA.dummy.us" tvg-name="[Basketball] Atlanta Dream vs. Washington Mystics | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/wnba.png" group-title="Live - Basketball",[Basketball] Atlanta Dream vs. Washington Mystics | English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/cwxvbnfghq60.m3u8
-#EXTINF:-1 tvg-chno="104" tvg-id="WNBA.dummy.us" tvg-name="[Basketball] Golden State Valkyries vs. Dallas Wings | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/wnba.png" group-title="Live - Basketball",[Basketball] Golden State Valkyries vs. Dallas Wings | English (STRMCNTR)
+#EXTINF:-1 tvg-chno="106" tvg-id="WNBA.dummy.us" tvg-name="[Basketball] Golden State Valkyries vs. Dallas Wings | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/wnba.png" group-title="Live - Basketball",[Basketball] Golden State Valkyries vs. Dallas Wings | English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/gfhfgsqda61.m3u8
-#EXTINF:-1 tvg-chno="105" tvg-id="WNBA.dummy.us" tvg-name="[WNBA] Atlanta Dream vs Washington Mystics | ESPN 2 (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/wnba.png" group-title="Live - Basketball",[WNBA] Atlanta Dream vs Washington Mystics | ESPN 2 (STRMXHD)
+#EXTINF:-1 tvg-chno="107" tvg-id="WNBA.dummy.us" tvg-name="[WNBA Basketball] Dallas Wings W vs Golden State Valkyries W (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/wnba.png" group-title="Live - Basketball",[WNBA Basketball] Dallas Wings W vs Golden State Valkyries W (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.44/hls/IFFFAAAA.m3u8
+#EXTINF:-1 tvg-chno="108" tvg-id="WNBA.dummy.us" tvg-name="[WNBA Basketball] Dallas Wings W vs Golden State Valkyries W 2 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/wnba.png" group-title="Live - Basketball",[WNBA Basketball] Dallas Wings W vs Golden State Valkyries W 2 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://www.rtmpcdn.com/live/66daaf59-ae4a-4463-94bb-6f96737b8576.m3u8
+#EXTINF:-1 tvg-chno="109" tvg-id="WNBA.dummy.us" tvg-name="[WNBA Basketball] Washington Mystics W vs Atlanta Dream W 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/wnba.png" group-title="Live - Basketball",[WNBA Basketball] Washington Mystics W vs Atlanta Dream W 1 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.41/hls/ZOOO.m3u8
+#EXTINF:-1 tvg-chno="110" tvg-id="WNBA.dummy.us" tvg-name="[WNBA Basketball] Washington Mystics W vs Atlanta Dream W 2 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/wnba.png" group-title="Live - Basketball",[WNBA Basketball] Washington Mystics W vs Atlanta Dream W 2 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://www.rtmpcdn.com/live/02dbba1e-6550-448d-b7a9-a415ac63464b.m3u8
+#EXTINF:-1 tvg-chno="111" tvg-id="WNBA.dummy.us" tvg-name="[WNBA] Atlanta Dream vs Washington Mystics (FLYEMBD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/wnba.png" group-title="Live - Basketball",[WNBA] Atlanta Dream vs Washington Mystics (FLYEMBD)
+#EXTVLCOPT:http-referrer=https://exmxbxe.cfd/flyemb/o9bl8cai
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://justkidding.junksonus.party/main/secure/e43af2cce147a1c63e2ffc09136d10dbe02cee9a9186ef7b626d2b0730526b1a/1790816434/espn-usa.m3u8
+#EXTINF:-1 tvg-chno="112" tvg-id="WNBA.dummy.us" tvg-name="[WNBA] Atlanta Dream vs Washington Mystics (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/basketball_atlanta-dream-vs-washington-mystics_Atlanta_Dream_vs_Washington_My" group-title="Live - Basketball",[WNBA] Atlanta Dream vs Washington Mystics (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://streamfree.top/live-cdn/atlanta-dream-vs-washington-mystics1080p3/index.m3u8?_e=1790839834&_n=3bcc89f282f71d52&_t=DGydhoTx0YAX4AwC_nCcBQ
+#EXTINF:-1 tvg-chno="113" tvg-id="WNBA.dummy.us" tvg-name="[WNBA] Atlanta Dream vs Washington Mystics | ESPN 2 (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/wnba.png" group-title="Live - Basketball",[WNBA] Atlanta Dream vs Washington Mystics | ESPN 2 (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espn2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/espn2/index.m3u8?token=48edb2756b2c1bfddd87b0d179bd6d2ee4d92dc6-60-1790834436-1790780436
-#EXTINF:-1 tvg-chno="106" tvg-id="WNBA.dummy.us" tvg-name="[WNBA] Golden State Valkyries vs Dallas Wings | ESPN 2 (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/wnba.png" group-title="Live - Basketball",[WNBA] Golden State Valkyries vs Dallas Wings | ESPN 2 (STRMXHD)
+https://khala.futlivehd.com/global/espn2/index.m3u8?token=db1218651dae5093ca3674c49799d079db107bee-12-1790854235-1790800235
+#EXTINF:-1 tvg-chno="114" tvg-id="WNBA.dummy.us" tvg-name="[WNBA] Atlanta Dream vs. Washington Mystics (DAMITV)" tvg-logo="https://static.ppvservices.st/assets/thumb/91f2543c183167329acf8ad0346b0f93-thumbnail.jpg" group-title="Live - Basketball",[WNBA] Atlanta Dream vs. Washington Mystics (DAMITV)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=wnba/2026-09-30/atl-wsh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/wnba/2026-09-30/atl-wsh/playlist.m3u8?tk=aIP0O1-6xzNTZFl3EmhHUw&e=1790850634
+#EXTINF:-1 tvg-chno="115" tvg-id="WNBA.dummy.us" tvg-name="[WNBA] Golden State Valkyries vs Dallas Wings | ESPN 2 (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/wnba.png" group-title="Live - Basketball",[WNBA] Golden State Valkyries vs Dallas Wings | ESPN 2 (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espn2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/espn2/index.m3u8?token=ae58e2a6e1f001dafef172ff3bd88716679e2138-90-1790834436-1790780436
+https://khala.futlivehd.com/global/espn2/index.m3u8?token=88b20ed763bfbf91eecc2e0b12b5b9549743056c-6b-1790854236-1790800236
+#EXTINF:-1 tvg-chno="116" tvg-id="WNBA.dummy.us" tvg-name="[WNBA] Washington Mystics vs Atlanta Dream (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/wnba.png" group-title="Live - Basketball",[WNBA] Washington Mystics vs Atlanta Dream (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/57381?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://chatgpt.hereisman.net/playlist/57381/load-playlist

@@ -1,133 +1,161 @@
 #EXTM3U url-tvg="https://s.id/d9sEPG"
-#EXTINF:-1 tvg-chno="236" tvg-id="Soccer.Dummy.us" tvg-name="[Bolivia Copa] Real Oruro vs Always Ready (FAWA)" tvg-logo="https://copadebolivia.com/wp-content/uploads/2025/11/Copa-de-Bolivia.png" group-title="Live - Soccer",[Bolivia Copa] Real Oruro vs Always Ready (FAWA)
+#EXTINF:-1 tvg-chno="202" tvg-id="Soccer.Dummy.us" tvg-name="[Bolivia Copa] Oriente Petrolero vs The Strongest (FAWA)" tvg-logo="https://copadebolivia.com/wp-content/uploads/2025/11/Copa-de-Bolivia.png" group-title="Live - Soccer",[Bolivia Copa] Oriente Petrolero vs The Strongest (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.50/hls/ZPPPAAAAAAA.m3u8
-#EXTINF:-1 tvg-chno="237" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Chile] Deportes Concepción vs O'Higgins 1 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2331.png" group-title="Live - Soccer",[Copa Chile] Deportes Concepción vs O'Higgins 1 (PLIBRE)
+http://193.47.62.44/hls/IFFFAA.m3u8
+#EXTINF:-1 tvg-chno="203" tvg-id="Soccer.Dummy.us" tvg-name="[Bolivia Copa] Tomayapo vs Nacional Potosi (FAWA)" tvg-logo="https://copadebolivia.com/wp-content/uploads/2025/11/Copa-de-Bolivia.png" group-title="Live - Soccer",[Bolivia Copa] Tomayapo vs Nacional Potosi (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.41/hls/PMMMAA.m3u8
+#EXTINF:-1 tvg-chno="204" tvg-id="Soccer.Dummy.us" tvg-name="[Chile Copa] D Concepcion vs OHiggins (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2331.png" group-title="Live - Soccer",[Chile Copa] D Concepcion vs OHiggins (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.41/hls/ZOOOAAA.m3u8
+#EXTINF:-1 tvg-chno="205" tvg-id="Soccer.Dummy.us" tvg-name="[Colombia Primera A] Atl Nacional vs Junior (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png" group-title="Live - Soccer",[Colombia Primera A] Atl Nacional vs Junior (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.44/hls/IFFFAAA.m3u8
+#EXTINF:-1 tvg-chno="206" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Chile] Deportes Concepción vs O'Higgins 1 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2331.png" group-title="Live - Soccer",[Copa Chile] Deportes Concepción vs O'Higgins 1 (PLIBRE)
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=tntsportschile
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://y2fzdgxl.fubo18.com:443/tntsportschile/mono.m3u8?token=d15735ab140c055c6aff0277a3a9be7a9262da78-aa-1790806535-1790788535
-#EXTINF:-1 tvg-chno="238" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Chile] Deportes Concepción vs O'Higgins 1 (STP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2331.png" group-title="Live - Soccer",[Copa Chile] Deportes Concepción vs O'Higgins 1 (STP)
+https://eWVz.fubo18.com:443/tntsportschile/mono.m3u8?token=dc6b23947f2b651c21a02162bac3c446a9d468c4-7c-1790826333-1790808333
+#EXTINF:-1 tvg-chno="207" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Chile] Deportes Concepción vs O'Higgins 1 (STP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2331.png" group-title="Live - Soccer",[Copa Chile] Deportes Concepción vs O'Higgins 1 (STP)
 #EXTVLCOPT:http-referrer=https://streamx305.sbs/global1.php?channel=tntsportscl
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://s1.envivoslatam99.sbs:443/global/tntsportscl/index.m3u8?token=c00e09e6920fda102bcc61f251917623573f9063-c3-1790834434-1790780434
-#EXTINF:-1 tvg-chno="239" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Chile] Deportes Concepción vs O'Higgins | TNT Sports Chile (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2331.png" group-title="Live - Soccer",[Copa Chile] Deportes Concepción vs O'Higgins | TNT Sports Chile (STRMXHD)
+https://s2.envivoslatam99.sbs:443/global/tntsportscl/index.m3u8?token=b80baed40c7d0ef159d224f226dfe78c2c2a5130-f4-1790854233-1790800233
+#EXTINF:-1 tvg-chno="208" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Chile] Deportes Concepción vs O'Higgins | TNT Sports Chile (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2331.png" group-title="Live - Soccer",[Copa Chile] Deportes Concepción vs O'Higgins | TNT Sports Chile (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=tntsportschile
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/tntsportschile/index.m3u8?token=5aaf6df73269a13b4789fe0a334bd6c6f3c7f71c-e5-1790834434-1790780434
-#EXTINF:-1 tvg-chno="240" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Chile] Deportes Concepción vs O'Higgins | TNT Sports Premiun CL (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2331.png" group-title="Live - Soccer",[Copa Chile] Deportes Concepción vs O'Higgins | TNT Sports Premiun CL (TVF90)
+https://khala.futlivehd.com/global/tntsportschile/index.m3u8?token=f0182fdda9f8955c4eda4220e20cdfc607bc6251-f2-1790854234-1790800234
+#EXTINF:-1 tvg-chno="209" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Chile] Deportes Concepción vs O'Higgins | TNT Sports Premiun CL (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2331.png" group-title="Live - Soccer",[Copa Chile] Deportes Concepción vs O'Higgins | TNT Sports Premiun CL (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=tntsportschile
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://bmF0aw9u.fubo18.com:443/tntsportschile/mono.m3u8?token=6593f8dd2b939268e6a02da80ff892b9ab8784a9-4f-1790811935-1790793935
-#EXTINF:-1 tvg-chno="241" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Chile] Deportes Concepción vs O'Higgins | TNT Sports Premiun CL HD (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2331.png" group-title="Live - Soccer",[Copa Chile] Deportes Concepción vs O'Higgins | TNT Sports Premiun CL HD (TVF90)
+#EXTINF:-1 tvg-chno="210" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Chile] Deportes Concepción vs O'Higgins | TNT Sports Premiun CL HD (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2331.png" group-title="Live - Soccer",[Copa Chile] Deportes Concepción vs O'Higgins | TNT Sports Premiun CL HD (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/hd.php?stream=tntsportschile
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://YXdlc29tZQ.fubo18.com:443/tntsportschile/mono.m3u8?token=18e19cea5419c20ebdb775eed6220c32bedfe930-22-1790811935-1790793935
-#EXTINF:-1 tvg-chno="242" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Chile] Deportes Concepción vs O'Higgins | TNT Sports Premiun CL OP2 (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2331.png" group-title="Live - Soccer",[Copa Chile] Deportes Concepción vs O'Higgins | TNT Sports Premiun CL OP2 (TVF90)
+#EXTINF:-1 tvg-chno="211" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Chile] Deportes Concepción vs O'Higgins | TNT Sports Premiun CL OP2 (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2331.png" group-title="Live - Soccer",[Copa Chile] Deportes Concepción vs O'Higgins | TNT Sports Premiun CL OP2 (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/2.php?stream=tntsportschile
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://10.ftlly.com:443/tntsportschile/mono.m3u8?token=142c6ed8ff6403cea518fe22292656ea86c703e3-c6-1790811935-1790793935
-#EXTINF:-1 tvg-chno="243" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Paraguay] Cerro Porteño vs Rubio Ñú 1 (STP)" tvg-logo="https://files.tips.gg/static/image/tournaments/football-copa-paraguay-2026.png" group-title="Live - Soccer",[Copa Paraguay] Cerro Porteño vs Rubio Ñú 1 (STP)
+#EXTINF:-1 tvg-chno="212" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Paraguay] Cerro Porteño vs Rubio Ñú 1 (STP)" tvg-logo="https://files.tips.gg/static/image/tournaments/football-copa-paraguay-2026.png" group-title="Live - Soccer",[Copa Paraguay] Cerro Porteño vs Rubio Ñú 1 (STP)
 #EXTVLCOPT:http-referrer=https://streamx305.sbs/global1.php?channel=tigopy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://s3.envivoslatam99.sbs:443/global/tigopy/index.m3u8?token=944d6ae52269434f7ccfc1aec84f25ac89fc813c-0b-1790834434-1790780434
-#EXTINF:-1 tvg-chno="244" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Paraguay] Cerro Porteño vs Rubio Ñú | Tigo Sports (STRMXHD)" tvg-logo="https://files.tips.gg/static/image/tournaments/football-copa-paraguay-2026.png" group-title="Live - Soccer",[Copa Paraguay] Cerro Porteño vs Rubio Ñú | Tigo Sports (STRMXHD)
+https://s3.envivoslatam99.sbs:443/global/tigopy/index.m3u8?token=3e304d3414e3918cc34e43c8580dd3d4da657764-3c-1790854233-1790800233
+#EXTINF:-1 tvg-chno="213" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Paraguay] Cerro Porteño vs Rubio Ñú | Tigo Sports (STRMXHD)" tvg-logo="https://files.tips.gg/static/image/tournaments/football-copa-paraguay-2026.png" group-title="Live - Soccer",[Copa Paraguay] Cerro Porteño vs Rubio Ñú | Tigo Sports (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=tigo1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/tigo1/index.m3u8?token=6810fe9b4010b885e28537fed2a5bf6acbc0a53b-c2-1790834435-1790780435
-#EXTINF:-1 tvg-chno="245" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Paraguay] Independiente FBC vs Nacional Asunción 1 (STP)" tvg-logo="https://files.tips.gg/static/image/tournaments/football-copa-paraguay-2026.png" group-title="Live - Soccer",[Copa Paraguay] Independiente FBC vs Nacional Asunción 1 (STP)
+https://khala.futlivehd.com/global/tigo1/index.m3u8?token=2961b8488ec8d85337815ba66fa769e95ce08527-60-1790854235-1790800235
+#EXTINF:-1 tvg-chno="214" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Paraguay] Independiente FBC vs Nacional Asunción 1 (STP)" tvg-logo="https://files.tips.gg/static/image/tournaments/football-copa-paraguay-2026.png" group-title="Live - Soccer",[Copa Paraguay] Independiente FBC vs Nacional Asunción 1 (STP)
 #EXTVLCOPT:http-referrer=https://streamx305.sbs/global1.php?channel=tigopy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://s1.envivoslatam99.sbs:443/global/tigopy/index.m3u8?token=83946ce72a9bb5faccf72c3038d84b59de7c2717-74-1790834434-1790780434
-#EXTINF:-1 tvg-chno="246" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Paraguay] Independiente FBC vs Nacional Asunción | Tigo Sports (STRMXHD)" tvg-logo="https://files.tips.gg/static/image/tournaments/football-copa-paraguay-2026.png" group-title="Live - Soccer",[Copa Paraguay] Independiente FBC vs Nacional Asunción | Tigo Sports (STRMXHD)
+https://s2.envivoslatam99.sbs:443/global/tigopy/index.m3u8?token=1c89d31ecdf4c296509f65d823da63d42b1800e5-b0-1790854233-1790800233
+#EXTINF:-1 tvg-chno="215" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Paraguay] Independiente FBC vs Nacional Asunción | Tigo Sports (STRMXHD)" tvg-logo="https://files.tips.gg/static/image/tournaments/football-copa-paraguay-2026.png" group-title="Live - Soccer",[Copa Paraguay] Independiente FBC vs Nacional Asunción | Tigo Sports (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=tigo1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/tigo1/index.m3u8?token=535b736f98a2b501d471440cf582efb979b45269-1f-1790834435-1790780435
-#EXTINF:-1 tvg-chno="247" tvg-id="Soccer.Dummy.us" tvg-name="[Liga 1] Cienciano vs Los Chankas 1 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1813.png" group-title="Live - Soccer",[Liga 1] Cienciano vs Los Chankas 1 (PLIBRE)
+https://khala.futlivehd.com/global/tigo1/index.m3u8?token=d20fe681e7e5920c680b1348a8dda8b16d68bd5d-f4-1790854235-1790800235
+#EXTINF:-1 tvg-chno="216" tvg-id="Soccer.Dummy.us" tvg-name="[Liga 1] Cienciano vs Los Chankas 1 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1813.png" group-title="Live - Soccer",[Liga 1] Cienciano vs Los Chankas 1 (PLIBRE)
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=liga1max
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://dglvz29s.fubo18.com:443/liga1max/mono.m3u8?token=0c23028153f0b05f2c0f6bb2e05ed858cfb2d7df-25-1790806535-1790788535
-#EXTINF:-1 tvg-chno="248" tvg-id="Soccer.Dummy.us" tvg-name="[Liga 1] Cienciano vs Los Chankas 1 (STP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1813.png" group-title="Live - Soccer",[Liga 1] Cienciano vs Los Chankas 1 (STP)
+https://bgvnzw5k.fubo18.com:443/liga1max/mono.m3u8?token=2512f7efb7526ad04d195b3911bdd27f15671e06-36-1790826334-1790808334
+#EXTINF:-1 tvg-chno="217" tvg-id="Soccer.Dummy.us" tvg-name="[Liga 1] Cienciano vs Los Chankas 1 (STP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1813.png" group-title="Live - Soccer",[Liga 1] Cienciano vs Los Chankas 1 (STP)
 #EXTVLCOPT:http-referrer=https://streamx305.sbs/global1.php?channel=liga1max
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://s3.envivoslatam99.sbs:443/global/liga1max/index.m3u8?token=4a13403ed2147887996435edb700c59602fbb035-e7-1790834434-1790780434
-#EXTINF:-1 tvg-chno="249" tvg-id="Soccer.Dummy.us" tvg-name="[Liga 1] Cienciano vs Los Chankas | L1 Max (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1813.png" group-title="Live - Soccer",[Liga 1] Cienciano vs Los Chankas | L1 Max (STRMXHD)
+https://s3.envivoslatam99.sbs:443/global/liga1max/index.m3u8?token=c4e171046e7e38370b9202f098293698d18f9664-60-1790854233-1790800233
+#EXTINF:-1 tvg-chno="218" tvg-id="Soccer.Dummy.us" tvg-name="[Liga 1] Cienciano vs Los Chankas | L1 Max (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1813.png" group-title="Live - Soccer",[Liga 1] Cienciano vs Los Chankas | L1 Max (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=l1max
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/l1max/index.m3u8?token=44706d5e3c6d816cdbf036b4c72c809beb24c40f-10-1790834435-1790780435
-#EXTINF:-1 tvg-chno="250" tvg-id="Soccer.Dummy.us" tvg-name="[Liga 1] Cienciano vs Los Chankas | Liga1MAX (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1813.png" group-title="Live - Soccer",[Liga 1] Cienciano vs Los Chankas | Liga1MAX (TVF90)
+https://khala.futlivehd.com/global/l1max/index.m3u8?token=124d36170142ed71ff47fc3295d3bffeb77cb91c-ce-1790854235-1790800235
+#EXTINF:-1 tvg-chno="219" tvg-id="Soccer.Dummy.us" tvg-name="[Liga 1] Cienciano vs Los Chankas | Liga1MAX (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1813.png" group-title="Live - Soccer",[Liga 1] Cienciano vs Los Chankas | Liga1MAX (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=liga1max
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://Ym9yZQ.fubo18.com:443/liga1max/mono.m3u8?token=d42745175f3ec3f524a65564609ed86767b2fc20-c4-1790811935-1790793935
-#EXTINF:-1 tvg-chno="251" tvg-id="Soccer.Dummy.us" tvg-name="[Liga 1] Cienciano vs Los Chankas | Liga1MAX | HD (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1813.png" group-title="Live - Soccer",[Liga 1] Cienciano vs Los Chankas | Liga1MAX | HD (TVF90)
+#EXTINF:-1 tvg-chno="220" tvg-id="Soccer.Dummy.us" tvg-name="[Liga 1] Cienciano vs Los Chankas | Liga1MAX | HD (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1813.png" group-title="Live - Soccer",[Liga 1] Cienciano vs Los Chankas | Liga1MAX | HD (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/hd.php?stream=liga1max
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://c2f2zQ.fubo18.com:443/liga1max/mono.m3u8?token=e2a2bacb059ef6481d6539a5f9fcd2044a27727d-60-1790811936-1790793936
-#EXTINF:-1 tvg-chno="252" tvg-id="Soccer.Dummy.us" tvg-name="[Liga 1] Cienciano vs Los Chankas | Liga1Max | OP2 (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1813.png" group-title="Live - Soccer",[Liga 1] Cienciano vs Los Chankas | Liga1Max | OP2 (TVF90)
+#EXTINF:-1 tvg-chno="221" tvg-id="Soccer.Dummy.us" tvg-name="[Liga 1] Cienciano vs Los Chankas | Liga1Max | OP2 (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1813.png" group-title="Live - Soccer",[Liga 1] Cienciano vs Los Chankas | Liga1Max | OP2 (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/2.php?stream=liga1max
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://9.ftlly.com:443/liga1max/mono.m3u8?token=2d884575b39a7cf317dded94541d638920090e15-e4-1790811936-1790793936
-#EXTINF:-1 tvg-chno="253" tvg-id="Soccer.Dummy.us" tvg-name="[Liga 1] Cienciano vs Los Chankas | Liga1Max | OP3 (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1813.png" group-title="Live - Soccer",[Liga 1] Cienciano vs Los Chankas | Liga1Max | OP3 (TVF90)
+#EXTINF:-1 tvg-chno="222" tvg-id="Soccer.Dummy.us" tvg-name="[Liga 1] Cienciano vs Los Chankas | Liga1Max | OP3 (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1813.png" group-title="Live - Soccer",[Liga 1] Cienciano vs Los Chankas | Liga1Max | OP3 (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/3.php?stream=liga1max
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://2.ftlly.com:443/liga1max/mono.m3u8?token=43b46318ccb97c6d92947cee4073c62d8307a0e6-f-1790811936-1790793936
-#EXTINF:-1 tvg-chno="254" tvg-id="Soccer.Dummy.us" tvg-name="[Liga BetPlay] Atlético Nacional vs Junior 1 (STP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png" group-title="Live - Soccer",[Liga BetPlay] Atlético Nacional vs Junior 1 (STP)
+#EXTINF:-1 tvg-chno="223" tvg-id="Soccer.Dummy.us" tvg-name="[Liga BetPlay] Atlético Nacional vs Junior 1 (STP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png" group-title="Live - Soccer",[Liga BetPlay] Atlético Nacional vs Junior 1 (STP)
 #EXTVLCOPT:http-referrer=https://streamx305.sbs/global1.php?channel=winplus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://s2.envivoslatam99.sbs:443/global/winplus/index.m3u8?token=b52ec6e9f0740185a4b1e99e5112c82d14dbe16c-b2-1790834434-1790780434
-#EXTINF:-1 tvg-chno="255" tvg-id="Soccer.Dummy.us" tvg-name="[Liga Colombia] Atlético Nacional vs Junior | Win Sports + (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png" group-title="Live - Soccer",[Liga Colombia] Atlético Nacional vs Junior | Win Sports + (STRMXHD)
+https://s3.envivoslatam99.sbs:443/global/winplus/index.m3u8?token=55463b34aae88b2191bf47b05e563e8c029d663c-1a-1790854234-1790800234
+#EXTINF:-1 tvg-chno="224" tvg-id="Soccer.Dummy.us" tvg-name="[Liga Colombia] Atlético Nacional vs Junior | Win Sports + (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png" group-title="Live - Soccer",[Liga Colombia] Atlético Nacional vs Junior | Win Sports + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=winplus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/winplus/index.m3u8?token=cd10b09ed27b60004c2bd5399301c0081319e61f-8f-1790834434-1790780434
-#EXTINF:-1 tvg-chno="256" tvg-id="Soccer.Dummy.us" tvg-name="[Liga Uruguay] Torque vs Peñarol | Disney + (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1592.png" group-title="Live - Soccer",[Liga Uruguay] Torque vs Peñarol | Disney + (STRMXHD)
+https://khala.futlivehd.com/global/winplus/index.m3u8?token=03c33f00ab6db7fd5731b423b8cc636e350c5453-03-1790854233-1790800233
+#EXTINF:-1 tvg-chno="225" tvg-id="Soccer.Dummy.us" tvg-name="[Liga Uruguay] Torque vs Peñarol | Disney + (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1592.png" group-title="Live - Soccer",[Liga Uruguay] Torque vs Peñarol | Disney + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/disney7/index.m3u8?token=2f4040f23175c88fb2e71b3442536ba52db5e7fe-b9-1790834434-1790780434
-#EXTINF:-1 tvg-chno="257" tvg-id="Soccer.Dummy.us" tvg-name="[MLS] New York RB vs St. Louis City 1 (STP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/19.png" group-title="Live - Soccer",[MLS] New York RB vs St. Louis City 1 (STP)
+https://khala.futlivehd.com/global/disney7/index.m3u8?token=348d152cd7ceddc9dcefb79cf9053280dfc0c56b-ef-1790854233-1790800233
+#EXTINF:-1 tvg-chno="226" tvg-id="Soccer.Dummy.us" tvg-name="[MLS League] New York Red Bulls vs St Louis City (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/19.png" group-title="Live - Soccer",[MLS League] New York Red Bulls vs St Louis City (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.41/hls/ZOOOAAAAA.m3u8
+#EXTINF:-1 tvg-chno="227" tvg-id="Soccer.Dummy.us" tvg-name="[MLS League] New York Red Bulls vs St Louis City 2 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/19.png" group-title="Live - Soccer",[MLS League] New York Red Bulls vs St Louis City 2 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://live.dyrur1.com/live/wv78xivmyl9hokr_0cd17c540b0cece790c9d9c48f2d2d81_540p.m3u8?auth_key=1790825460-0-0-7bf38bd2fa72e61d9b3c457c7e336072
+#EXTINF:-1 tvg-chno="228" tvg-id="Soccer.Dummy.us" tvg-name="[MLS] New York RB vs St. Louis City 1 (STP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/19.png" group-title="Live - Soccer",[MLS] New York RB vs St. Louis City 1 (STP)
 #EXTVLCOPT:http-referrer=https://streamx305.sbs/global1.php?channel=mls1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://s1.envivoslatam99.sbs:443/global/mls1/index.m3u8?token=3d7dae6f23d33baee3dc5912a8d55b8b6d039217-c9-1790834434-1790780434
-#EXTINF:-1 tvg-chno="258" tvg-id="Soccer.Dummy.us" tvg-name="[MLS] New York RB vs St. Louis City | Apple TV Español (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/19.png" group-title="Live - Soccer",[MLS] New York RB vs St. Louis City | Apple TV Español (STRMXHD)
+https://s3.envivoslatam99.sbs:443/global/mls1/index.m3u8?token=82dcc008357e8dadb93e620ba0dbae4c9b1fcb72-28-1790854233-1790800233
+#EXTINF:-1 tvg-chno="229" tvg-id="Soccer.Dummy.us" tvg-name="[MLS] New York RB vs St. Louis City | Apple TV Español (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/19.png" group-title="Live - Soccer",[MLS] New York RB vs St. Louis City | Apple TV Español (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=appletv1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/appletv1/index.m3u8?token=3ae1cd8551bfcb277b8361c34f124eef09171951-64-1790834436-1790780436
-#EXTINF:-1 tvg-chno="259" tvg-id="Soccer.Dummy.us" tvg-name="[Primera A] Atlético Nacional vs Junior 1 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png" group-title="Live - Soccer",[Primera A] Atlético Nacional vs Junior 1 (PLIBRE)
+https://khala.futlivehd.com/global/appletv1/index.m3u8?token=3c3f52dbfbb82b036fb8db74b20572a936f07248-73-1790854235-1790800235
+#EXTINF:-1 tvg-chno="230" tvg-id="Soccer.Dummy.us" tvg-name="[MLS] Red Bull New York vs. St. Louis CITY SC (DAMITV)" tvg-logo="https://static.ppvservices.st/assets/thumb/3a1da5ddf8d686b368a308c8b2e01deb-thumbnail.jpg" group-title="Live - Soccer",[MLS] Red Bull New York vs. St. Louis CITY SC (DAMITV)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=mls/2026-09-30/rbny-stl
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/mls/2026-09-30/rbny-stl/playlist.m3u8?tk=LQC2crx7b94RGP7QAxPwRA&e=1790852433
+#EXTINF:-1 tvg-chno="231" tvg-id="Soccer.Dummy.us" tvg-name="[MLS] St. Louis CITY SC vs Red Bull New York | English (STRMGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/19.png" group-title="Live - Soccer",[MLS] St. Louis CITY SC vs Red Bull New York | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://instream.click/livetv.php?stream=tv761833
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://instreams.pro/live/tv761833/index.m3u8?st=bjHtgruWa_FcF5umUD2SDg&e=1790820034
+#EXTINF:-1 tvg-chno="232" tvg-id="Soccer.Dummy.us" tvg-name="[Paraguay Copa] Cerro Porteno vs Rubio Nu (FAWA)" tvg-logo="https://files.tips.gg/static/image/tournaments/football-copa-paraguay-2026.png" group-title="Live - Soccer",[Paraguay Copa] Cerro Porteno vs Rubio Nu (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.41/hls/PMMMAAA.m3u8
+#EXTINF:-1 tvg-chno="233" tvg-id="Soccer.Dummy.us" tvg-name="[Primera A] Atlético Nacional vs Junior 1 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png" group-title="Live - Soccer",[Primera A] Atlético Nacional vs Junior 1 (PLIBRE)
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=winplus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://eWVz.fubo18.com:443/winplus/mono.m3u8?token=5af9a7828a876804e482d1a05e5af9178f506800-6a-1790806535-1790788535
-#EXTINF:-1 tvg-chno="260" tvg-id="Soccer.Dummy.us" tvg-name="[Primera A] Atlético Nacional vs Junior 2 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png" group-title="Live - Soccer",[Primera A] Atlético Nacional vs Junior 2 (PLIBRE)
+https://a2lja3m.fubo18.com:443/winplus/mono.m3u8?token=e309534f1ce4bb8fab7b91ad437b1d889bea9414-63-1790826334-1790808334
+#EXTINF:-1 tvg-chno="234" tvg-id="Soccer.Dummy.us" tvg-name="[Primera A] Atlético Nacional vs Junior 2 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png" group-title="Live - Soccer",[Primera A] Atlético Nacional vs Junior 2 (PLIBRE)
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=winsportsplus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://am91cm5leQ.fubo18.com:443/winsportsplus/mono.m3u8?token=fdb11aca04682b2ce99bdced112db3c4509766f3-2e-1790806535-1790788535
-#EXTINF:-1 tvg-chno="261" tvg-id="Soccer.Dummy.us" tvg-name="[Primera A] Atlético Nacional vs Junior | Win Sports + (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png" group-title="Live - Soccer",[Primera A] Atlético Nacional vs Junior | Win Sports + (TVF90)
+https://am91cm5leQ.fubo18.com:443/winsportsplus/mono.m3u8?token=d29250daa7fcf2bb0537b5062daf83d0d8ddbfd3-55-1790826334-1790808334
+#EXTINF:-1 tvg-chno="235" tvg-id="Soccer.Dummy.us" tvg-name="[Primera A] Atlético Nacional vs Junior | Win Sports + (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png" group-title="Live - Soccer",[Primera A] Atlético Nacional vs Junior | Win Sports + (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=winsports2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://a2lja3m.fubo18.com:443/winsports2/mono.m3u8?token=a60e65ee88107c8bc5fa920f66c50c763da7da37-7f-1790811939-1790793939
-#EXTINF:-1 tvg-chno="262" tvg-id="Soccer.Dummy.us" tvg-name="[Primera A] Atlético Nacional vs Junior | Win Sports + | HD (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png" group-title="Live - Soccer",[Primera A] Atlético Nacional vs Junior | Win Sports + | HD (TVF90)
+#EXTINF:-1 tvg-chno="236" tvg-id="Soccer.Dummy.us" tvg-name="[Primera A] Atlético Nacional vs Junior | Win Sports + | HD (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png" group-title="Live - Soccer",[Primera A] Atlético Nacional vs Junior | Win Sports + | HD (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/hd.php?stream=winsports2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://bgvnzw5k.fubo18.com:443/winsports2/mono.m3u8?token=8963f073b66853f203ff1f58286f4018d969830e-67-1790811940-1790793940
-#EXTINF:-1 tvg-chno="263" tvg-id="Soccer.Dummy.us" tvg-name="[Primera A] Atlético Nacional vs Junior | Win Sports + | OP2 (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png" group-title="Live - Soccer",[Primera A] Atlético Nacional vs Junior | Win Sports + | OP2 (TVF90)
+#EXTINF:-1 tvg-chno="237" tvg-id="Soccer.Dummy.us" tvg-name="[Primera A] Atlético Nacional vs Junior | Win Sports + | OP2 (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png" group-title="Live - Soccer",[Primera A] Atlético Nacional vs Junior | Win Sports + | OP2 (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/2.php?stream=winsports2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://7.ftlly.com:443/winsports2/mono.m3u8?token=213c775ce39c82af0b5d1447c584c29e336175df-3b-1790811939-1790793939
-#EXTINF:-1 tvg-chno="264" tvg-id="Soccer.Dummy.us" tvg-name="[Primera A] Atlético Nacional vs Junior | Win Sports + | OP3 (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png" group-title="Live - Soccer",[Primera A] Atlético Nacional vs Junior | Win Sports + | OP3 (TVF90)
+#EXTINF:-1 tvg-chno="238" tvg-id="Soccer.Dummy.us" tvg-name="[Primera A] Atlético Nacional vs Junior | Win Sports + | OP3 (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png" group-title="Live - Soccer",[Primera A] Atlético Nacional vs Junior | Win Sports + | OP3 (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/3.php?stream=winsports2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://3.ftlly.com:443/winsports2/mono.m3u8?token=8aea42580f1404613aabeb9a1b839b3373ad7b54-7c-1790811940-1790793940
-#EXTINF:-1 tvg-chno="265" tvg-id="Soccer.Dummy.us" tvg-name="[Primera División] Torque vs Peñarol 1 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" group-title="Live - Soccer",[Primera División] Torque vs Peñarol 1 (PLIBRE)
+#EXTINF:-1 tvg-chno="239" tvg-id="Soccer.Dummy.us" tvg-name="[Primera División] Torque vs Peñarol 1 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" group-title="Live - Soccer",[Primera División] Torque vs Peñarol 1 (PLIBRE)
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=disney7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://y2fzdgxl.fubo18.com:443/disney7/mono.m3u8?token=371de943e22eb1c4a50f9fe096a6aa7e5d141f7e-c7-1790806535-1790788535
-#EXTINF:-1 tvg-chno="266" tvg-id="Soccer.Dummy.us" tvg-name="[Primera División] Torque vs Peñarol 1 (STP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" group-title="Live - Soccer",[Primera División] Torque vs Peñarol 1 (STP)
+https://eWVz.fubo18.com:443/disney7/mono.m3u8?token=d4c8591b417d6b74a46f6296d4f1e6d89906cda2-da-1790826333-1790808333
+#EXTINF:-1 tvg-chno="240" tvg-id="Soccer.Dummy.us" tvg-name="[Primera División] Torque vs Peñarol 1 (STP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" group-title="Live - Soccer",[Primera División] Torque vs Peñarol 1 (STP)
 #EXTVLCOPT:http-referrer=https://streamx305.sbs/global1.php?channel=disney1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://s2.envivoslatam99.sbs:443/global/disney1/index.m3u8?token=9fa23bff420067ac8aef20f176f73ec7afb188c6-7e-1790834434-1790780434
-#EXTINF:-1 tvg-chno="267" tvg-id="Soccer.Dummy.us" tvg-name="[Uruguay Copa] Cerro Largo vs Rentistas (FAWA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/COPA_AUFURUGUAY.png" group-title="Live - Soccer",[Uruguay Copa] Cerro Largo vs Rentistas (FAWA)
+https://s2.envivoslatam99.sbs:443/global/disney1/index.m3u8?token=6d6ba1d842866d7fac3bba43d5da7178d6c92791-3d-1790854233-1790800233
+#EXTINF:-1 tvg-chno="241" tvg-id="Soccer.Dummy.us" tvg-name="[Uruguay Liga AUF] Montevideo City vs Penarol (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1592.png" group-title="Live - Soccer",[Uruguay Liga AUF] Montevideo City vs Penarol (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.50/hls/ZPPPAAAAAAAAA.m3u8
-#EXTINF:-1 tvg-chno="268" tvg-id="Soccer.Dummy.us" tvg-name="[Uruguay Copa] Defensor Sp vs Plaza Colonia (FAWA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/COPA_AUFURUGUAY.png" group-title="Live - Soccer",[Uruguay Copa] Defensor Sp vs Plaza Colonia (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.50/hls/ZPPPAAAAAAAA.m3u8
+http://193.47.62.41/hls/ZOOOAAAA.m3u8
