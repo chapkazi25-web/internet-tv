@@ -1,17 +1,37 @@
 #EXTM3U url-tvg="https://s.id/d9sEPG"
-#EXTINF:-1 tvg-chno="80" tvg-id="Football.Dummy.us" tvg-name="[American Football] Liberty Flames vs. Delaware Blue Hens | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live - American Football",[American Football] Liberty Flames vs. Delaware Blue Hens | English (STRMCNTR)
+#EXTINF:-1 tvg-chno="80" tvg-id="Football.Dummy.us" tvg-name="[American Football] Delaware vs Liberty (DAMITV)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live - American Football",[American Football] Delaware vs Liberty (DAMITV)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=sd-delta~live_cfb_delaware-liberty-flames-live-streaming-663647040
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-sd/streamed/delta/live_cfb_delaware-liberty-flames-live-streaming-663647040/playlist.m3u8?tk=urEDhFpghqRZDFTqqMynuA&e=1791023412
+#EXTINF:-1 tvg-chno="81" tvg-id="Football.Dummy.us" tvg-name="[American Football] Hamilton Tiger-Cats at Ottawa RedBlacks (DAMITV)" tvg-logo="https://static.ppvservices.st/assets/thumb/d0fb76318e73a64980ec6b2fe02bfd23-thumbnail.jpg" group-title="Live - American Football",[American Football] Hamilton Tiger-Cats at Ottawa RedBlacks (DAMITV)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=cfl/2026-10-02/ham-ott
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/cfl/2026-10-02/ham-ott/playlist.m3u8?tk=37CewuiNY-9nSvuvOtGkOQ&e=1791023411
+#EXTINF:-1 tvg-chno="82" tvg-id="Football.Dummy.us" tvg-name="[American Football] Liberty Flames vs. Delaware Blue Hens | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live - American Football",[American Football] Liberty Flames vs. Delaware Blue Hens | English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/sfjnzabacah31.m3u8
-#EXTINF:-1 tvg-chno="81" tvg-id="Football.Dummy.us" tvg-name="[American Football] Penn State Nittany Lions vs. Northwestern Wildcats | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live - American Football",[American Football] Penn State Nittany Lions vs. Northwestern Wildcats | English (STRMCNTR)
+#EXTINF:-1 tvg-chno="83" tvg-id="Football.Dummy.us" tvg-name="[American Football] Penn State Nittany Lions vs. Northwestern Wildcats | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live - American Football",[American Football] Penn State Nittany Lions vs. Northwestern Wildcats | English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/qsdnajbq32.m3u8
-#EXTINF:-1 tvg-chno="82" tvg-id="Football.Dummy.us" tvg-name="[American Football] Pittsburgh Panthers vs. Virginia Tech Hokies | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live - American Football",[American Football] Pittsburgh Panthers vs. Virginia Tech Hokies | English (STRMCNTR)
+#EXTINF:-1 tvg-chno="84" tvg-id="Football.Dummy.us" tvg-name="[American Football] Pittsburgh Panthers vs. Virginia Tech Hokies | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live - American Football",[American Football] Pittsburgh Panthers vs. Virginia Tech Hokies | English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/JHDAJBDnjdna30.m3u8
-#EXTINF:-1 tvg-chno="83" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Steelers vs Browns (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Steelers vs Browns (WEBCAST)
+#EXTINF:-1 tvg-chno="85" tvg-id="Football.Dummy.us" tvg-name="[American Football] Virginia Tech vs Pittsburgh (DAMITV)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rVlPLcQUECG1SQKEIhggSOoyDMoCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="Live - American Football",[American Football] Virginia Tech vs Pittsburgh (DAMITV)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=sd-delta~live_cfb_virginia-tech-pittsburgh-live-streaming-663647472
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-sd/streamed/delta/live_cfb_virginia-tech-pittsburgh-live-streaming-663647472/playlist.m3u8?tk=urEDhFpghqRZDFTqqMynuA&e=1791023412
+#EXTINF:-1 tvg-chno="86" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] Delaware Fightin vs Liberty Flames (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live - American Football",[NCAA American Football] Delaware Fightin vs Liberty Flames (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.41/hls/duuuA.m3u8
+#EXTINF:-1 tvg-chno="87" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] Virginia Tech vs Pittsburgh (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live - American Football",[NCAA American Football] Virginia Tech vs Pittsburgh (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.41/hls/duuuAA.m3u8
+#EXTINF:-1 tvg-chno="88" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Steelers vs Browns (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Steelers vs Browns (WEBCAST)
 #EXTVLCOPT:http-referrer=https://nflwebcast.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://webcast-origin.b-cdn.net/bcdn_token=aKo5Cz07hNxSPYkej6llkTav6wURA7P1BZjIUpYMrT4&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGY9Rc2aFtXHSNWREWFuVLy%2F&expires=1790960556/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGY9Rc2aFtXHSNWREWFuVLy/227.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=aJK-P2Z2YKJ3NBPCPz-wZsG8UNVPP5U8aybkVgI4KdM&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGY9Rc2aFtXHSNWREWFuVLy%2F&expires=1790973169/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGY9Rc2aFtXHSNWREWFuVLy/227.m3u8
