@@ -1,0 +1,13 @@
+#EXTM3U url-tvg="https://s.id/d9sEPG"
+#EXTINF:-1 tvg-chno="585" tvg-id="Tennis.Dummy.us" tvg-name="[Tennis ATP] Tennis ATP Beijing (FAWA)" tvg-logo="https://files.catbox.moe/q8ljra.png" group-title="Live - Tennis",[Tennis ATP] Tennis ATP Beijing (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.55/hls/NUUUQ.m3u8
+#EXTINF:-1 tvg-chno="586" tvg-id="Tennis.Dummy.us" tvg-name="[Tennis ATP] Tennis ATP Tokyo (FAWA)" tvg-logo="https://files.catbox.moe/q8ljra.png" group-title="Live - Tennis",[Tennis ATP] Tennis ATP Tokyo (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.55/hls/NUUUQQ.m3u8
+#EXTINF:-1 tvg-chno="587" tvg-id="Tennis.Dummy.us" tvg-name="[Tennis WTA] Tennis WTA Beijing (FAWA)" tvg-logo="https://files.catbox.moe/q8ljra.png" group-title="Live - Tennis",[Tennis WTA] Tennis WTA Beijing (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.55/hls/JJJJJ.m3u8
