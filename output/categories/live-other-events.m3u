@@ -1,225 +1,485 @@
 #EXTM3U url-tvg="https://s.id/d9sEPG"
-#EXTINF:-1 tvg-chno="144" tvg-id="Soccer.Dummy.us" tvg-name="[Brasileirão] Athletico Paranaense vs Atlético Mineiro | Español 1 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" group-title="Live - Other Events",[Brasileirão] Athletico Paranaense vs Atlético Mineiro | Español 1 (PLIBRE)
+#EXTINF:-1 tvg-chno="270" tvg-id="PPV.EVENTS.Dummy.us" tvg-name="[Boxing] Boxing : Osleys Iglesias vs Oliver Zaren (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[Boxing] Boxing : Osleys Iglesias vs Oliver Zaren (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.41/hls/tttt.m3u8
+#EXTINF:-1 tvg-chno="271" tvg-id="PPV.EVENTS.Dummy.us" tvg-name="[Boxing] Osleys Iglesias vs Oliver Zaren (iSTRMEAST)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[Boxing] Osleys Iglesias vs Oliver Zaren (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/57719?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://chatgpt.hereisman.net/playlist/57719/load-playlist
+#EXTINF:-1 tvg-chno="272" tvg-id="Live.Event.us" tvg-name="[BRA 1] Atlético-MG vs Athletico-PR | English (STRMGATE)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[BRA 1] Atlético-MG vs Athletico-PR | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401841256
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://instreams.live/live3/tv401841256/index.m3u8?st=7QrVSk1NrWwasxs-VTZIfw&e=1791509404
+#EXTINF:-1 tvg-chno="273" tvg-id="Live.Event.us" tvg-name="[BRA 1] Bahia vs Palmeiras | English (STRMGATE)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[BRA 1] Bahia vs Palmeiras | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401841254
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://instreams.pro/live3/tv401841254/index.m3u8?st=t5dEuIzy3IxJOK3lVkEPDw&e=1791514808
+#EXTINF:-1 tvg-chno="274" tvg-id="Live.Event.us" tvg-name="[BRA 1] Coritiba vs Fluminense | English (STRMGATE)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[BRA 1] Coritiba vs Fluminense | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401841248
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://instreams.live/live3/tv401841248/index.m3u8?st=ZVZQdonP9voTxLk_0iB6Xg&e=1791514807
+#EXTINF:-1 tvg-chno="275" tvg-id="Live.Event.us" tvg-name="[BRA 1] Flamengo vs Santos | English (STRMGATE)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[BRA 1] Flamengo vs Santos | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401841251
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://instreams.pro/live3/tv401841251/index.m3u8?st=nBG9D9q-TIRTfh5P9wKPgA&e=1791507605
+#EXTINF:-1 tvg-chno="276" tvg-id="Soccer.Dummy.us" tvg-name="[Brasileirão] Athletico Paranaense vs Atlético Mineiro | Español 1 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" group-title="Live - Other Events",[Brasileirão] Athletico Paranaense vs Atlético Mineiro | Español 1 (PLIBRE)
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=premiere3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://bgvnzw5k.fubo18.com:443/premiere3/mono.m3u8?token=ddb56f73fa32beb19062392d63c040385eeba86f-ae-1791501321-1791483321
-#EXTINF:-1 tvg-chno="145" tvg-id="Soccer.Dummy.us" tvg-name="[Brasileirão] Athletico Paranaense vs Atlético Mineiro | Español 2 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" group-title="Live - Other Events",[Brasileirão] Athletico Paranaense vs Atlético Mineiro | Español 2 (PLIBRE)
+https://Ym9yZQ.fubo18.com:443/premiere3/mono.m3u8?token=bdb29c82df6959895a3d670b614eb95cbf47bdc1-71-1791521106-1791503106
+#EXTINF:-1 tvg-chno="277" tvg-id="Soccer.Dummy.us" tvg-name="[Brasileirão] Athletico Paranaense vs Atlético Mineiro | Español 2 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" group-title="Live - Other Events",[Brasileirão] Athletico Paranaense vs Atlético Mineiro | Español 2 (PLIBRE)
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=liga1max
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://YXdlc29tZQ.fubo18.com:443/liga1max/mono.m3u8?token=24852a9f13dd8c5072fc0ab943bcf5516420d345-2e-1791501321-1791483321
-#EXTINF:-1 tvg-chno="146" tvg-id="Soccer.Dummy.us" tvg-name="[Brasileirão] Athletico-PR vs Atlético Mineiro 1 (STP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" group-title="Live - Other Events",[Brasileirão] Athletico-PR vs Atlético Mineiro 1 (STP)
+https://a2lja3m.fubo18.com:443/liga1max/mono.m3u8?token=7a5ae09348167f4f228b555a3ee46c6993c5f47f-51-1791521106-1791503106
+#EXTINF:-1 tvg-chno="278" tvg-id="Soccer.Dummy.us" tvg-name="[Brasileirão] Athletico-PR vs Atlético Mineiro 1 (STP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" group-title="Live - Other Events",[Brasileirão] Athletico-PR vs Atlético Mineiro 1 (STP)
 #EXTVLCOPT:http-referrer=https://streamx305.sbs/global1.php?channel=premiere3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://s3.envivoslatam99.sbs:443/global/premiere3/index.m3u8?token=fc3bce02d6fc3390841303e935c025820fdd5435-8f-1791525606-1791471606
-#EXTINF:-1 tvg-chno="147" tvg-id="Soccer.Dummy.us" tvg-name="[Brasileirão] Athletico-PR vs Atlético Mineiro 2 (STP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" group-title="Live - Other Events",[Brasileirão] Athletico-PR vs Atlético Mineiro 2 (STP)
+https://s2.envivoslatam99.sbs:443/global/premiere3/index.m3u8?token=5a50b08b7183559a6db7ec574ba9d0ce7fca17b0-1c-1791545414-1791491414
+#EXTINF:-1 tvg-chno="279" tvg-id="Soccer.Dummy.us" tvg-name="[Brasileirão] Athletico-PR vs Atlético Mineiro 2 (STP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" group-title="Live - Other Events",[Brasileirão] Athletico-PR vs Atlético Mineiro 2 (STP)
 #EXTVLCOPT:http-referrer=https://streamx305.sbs/global1.php?channel=premiere4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://s3.envivoslatam99.sbs:443/global/premiere4/index.m3u8?token=cd227226a25236a7ca4ad8713f47713b98532554-c8-1791525606-1791471606
-#EXTINF:-1 tvg-chno="148" tvg-id="Soccer.Dummy.us" tvg-name="[Brasileirão] Athletico-PR vs Atlético Mineiro | L1 Max  (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" group-title="Live - Other Events",[Brasileirão] Athletico-PR vs Atlético Mineiro | L1 Max  (STRMXHD)
+https://s3.envivoslatam99.sbs:443/global/premiere4/index.m3u8?token=824d3be8491268e2e57c58ae91ede9bde46e4f68-28-1791545415-1791491415
+#EXTINF:-1 tvg-chno="280" tvg-id="Soccer.Dummy.us" tvg-name="[Brasileirão] Athletico-PR vs Atlético Mineiro | L1 Max  (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" group-title="Live - Other Events",[Brasileirão] Athletico-PR vs Atlético Mineiro | L1 Max  (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=l1max
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/l1max/index.m3u8?token=057875eb06e3a97afcf86a2e2e39a10cb1b7920b-5b-1791525606-1791471606
-#EXTINF:-1 tvg-chno="149" tvg-id="Soccer.Dummy.us" tvg-name="[Brasileirão] Athletico-PR vs Atlético Mineiro | Premiere 3 (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" group-title="Live - Other Events",[Brasileirão] Athletico-PR vs Atlético Mineiro | Premiere 3 (STRMXHD)
+https://khala.futlivehd.com/global/l1max/index.m3u8?token=1a64a326fa1d4185ce6b30741d837a719afb7620-20-1791545415-1791491415
+#EXTINF:-1 tvg-chno="281" tvg-id="Soccer.Dummy.us" tvg-name="[Brasileirão] Athletico-PR vs Atlético Mineiro | Liga1MAX (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" group-title="Live - Other Events",[Brasileirão] Athletico-PR vs Atlético Mineiro | Liga1MAX (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=liga1max
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://dglvz29s.fubo18.com:443/liga1max/mono.m3u8?token=89c36302f871eb70a327af621570d37e861968f8-3-1791517522-1791499522
+#EXTINF:-1 tvg-chno="282" tvg-id="Soccer.Dummy.us" tvg-name="[Brasileirão] Athletico-PR vs Atlético Mineiro | Liga1MAX | HD (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" group-title="Live - Other Events",[Brasileirão] Athletico-PR vs Atlético Mineiro | Liga1MAX | HD (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/hd.php?stream=liga1max
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://a2lja3m.fubo18.com:443/liga1max/mono.m3u8?token=45276f80dd209fa65f4117629357be3b55dde0c3-2a-1791517523-1791499523
+#EXTINF:-1 tvg-chno="283" tvg-id="Soccer.Dummy.us" tvg-name="[Brasileirão] Athletico-PR vs Atlético Mineiro | Liga1Max | OP2 (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" group-title="Live - Other Events",[Brasileirão] Athletico-PR vs Atlético Mineiro | Liga1Max | OP2 (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/2.php?stream=liga1max
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://2.ftlly.com:443/liga1max/mono.m3u8?token=0e85ddf97d4339acd09366ea0118257b3b432412-ab-1791517522-1791499522
+#EXTINF:-1 tvg-chno="284" tvg-id="Soccer.Dummy.us" tvg-name="[Brasileirão] Athletico-PR vs Atlético Mineiro | Liga1Max | OP3 (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" group-title="Live - Other Events",[Brasileirão] Athletico-PR vs Atlético Mineiro | Liga1Max | OP3 (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/3.php?stream=liga1max
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://5.ftlly.com:443/liga1max/mono.m3u8?token=0b7bf096ec2850853969caf47564d54ec6fbd1ae-3e-1791517522-1791499522
+#EXTINF:-1 tvg-chno="285" tvg-id="Soccer.Dummy.us" tvg-name="[Brasileirão] Athletico-PR vs Atlético Mineiro | Premiere 3 (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" group-title="Live - Other Events",[Brasileirão] Athletico-PR vs Atlético Mineiro | Premiere 3 (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=premiere3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/premiere3/index.m3u8?token=ffd933b4627be4ff5d4b28dc29edf0f4f158c3db-b9-1791525606-1791471606
-#EXTINF:-1 tvg-chno="150" tvg-id="Soccer.Dummy.us" tvg-name="[Brasileirão] Fluminense vs Coritiba 1 (STP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" group-title="Live - Other Events",[Brasileirão] Fluminense vs Coritiba 1 (STP)
+https://khala.futlivehd.com/global/premiere3/index.m3u8?token=1f33203580622d5d3f96173c2216688f48937d31-4f-1791545415-1791491415
+#EXTINF:-1 tvg-chno="286" tvg-id="Soccer.Dummy.us" tvg-name="[Brasileirão] Athletico-PR vs Atlético Mineiro | Premiere 3 BR  (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" group-title="Live - Other Events",[Brasileirão] Athletico-PR vs Atlético Mineiro | Premiere 3 BR  (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=premiere3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://bgvnzw5k.fubo18.com:443/premiere3/mono.m3u8?token=dfb0800a54b6cc2a63f7a9a683204d3a37951321-c5-1791517522-1791499522
+#EXTINF:-1 tvg-chno="287" tvg-id="Soccer.Dummy.us" tvg-name="[Brasileirão] Athletico-PR vs Atlético Mineiro | Premiere 3 BR | HD (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" group-title="Live - Other Events",[Brasileirão] Athletico-PR vs Atlético Mineiro | Premiere 3 BR | HD (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/hd.php?stream=premiere3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://am91cm5leQ.fubo18.com:443/premiere3/mono.m3u8?token=471b223494ed3f3ed3a7ba0274528fc0bf836b17-57-1791517522-1791499522
+#EXTINF:-1 tvg-chno="288" tvg-id="Soccer.Dummy.us" tvg-name="[Brasileirão] Fluminense vs Coritiba 1 (STP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" group-title="Live - Other Events",[Brasileirão] Fluminense vs Coritiba 1 (STP)
 #EXTVLCOPT:http-referrer=https://streamx305.sbs/global1.php?channel=premiere5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://s2.envivoslatam99.sbs:443/global/premiere5/index.m3u8?token=2675a773810a3e862fcfd36a3560f0be5451ba09-ad-1791525606-1791471606
-#EXTINF:-1 tvg-chno="151" tvg-id="Soccer.Dummy.us" tvg-name="[Brasileirão] Fluminense vs Coritiba | Español 1 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" group-title="Live - Other Events",[Brasileirão] Fluminense vs Coritiba | Español 1 (PLIBRE)
+https://s3.envivoslatam99.sbs:443/global/premiere5/index.m3u8?token=aa62a42c388cb8330bcaaabc8b7b6ca912f12fc3-ba-1791545415-1791491415
+#EXTINF:-1 tvg-chno="289" tvg-id="Soccer.Dummy.us" tvg-name="[Brasileirão] Fluminense vs Coritiba | Español 1 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" group-title="Live - Other Events",[Brasileirão] Fluminense vs Coritiba | Español 1 (PLIBRE)
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=premiere5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://am91cm5leQ.fubo18.com:443/premiere5/mono.m3u8?token=15f8a5625b52a433d6a72cdaccdc1513a517b271-56-1791501321-1791483321
-#EXTINF:-1 tvg-chno="152" tvg-id="Soccer.Dummy.us" tvg-name="[Brasileirão] Fluminense vs Coritiba | Premiere 5 (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" group-title="Live - Other Events",[Brasileirão] Fluminense vs Coritiba | Premiere 5 (STRMXHD)
+https://c2f2zq.fubo18.com:443/premiere5/mono.m3u8?token=abcb26a967c62f012c4ab6269782e6b14c695c57-37-1791521108-1791503108
+#EXTINF:-1 tvg-chno="290" tvg-id="Soccer.Dummy.us" tvg-name="[Brasileirão] Fluminense vs Coritiba | Premiere 5 (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" group-title="Live - Other Events",[Brasileirão] Fluminense vs Coritiba | Premiere 5 (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=premiere5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/premiere5/index.m3u8?token=87e1ac4f7b3a06774655c8322efd1e2f21691da9-80-1791525606-1791471606
-#EXTINF:-1 tvg-chno="153" tvg-id="Soccer.Dummy.us" tvg-name="[Brasileirão] Palmeiras vs Bahia 1 (STP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" group-title="Live - Other Events",[Brasileirão] Palmeiras vs Bahia 1 (STP)
+https://khala.futlivehd.com/global/premiere5/index.m3u8?token=f60de4c23975f6a033d3c4f7467f124864aac52a-0d-1791545415-1791491415
+#EXTINF:-1 tvg-chno="291" tvg-id="Soccer.Dummy.us" tvg-name="[Brasileirão] Fluminense vs Coritiba | Premiere 5 BR  (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" group-title="Live - Other Events",[Brasileirão] Fluminense vs Coritiba | Premiere 5 BR  (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=premiere5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://dw5pdGVk.fubo18.com:443/premiere5/mono.m3u8?token=a0281b81bec07b3b46cac09ecdc73a2753847681-12-1791517523-1791499523
+#EXTINF:-1 tvg-chno="292" tvg-id="Soccer.Dummy.us" tvg-name="[Brasileirão] Palmeiras vs Bahia 1 (STP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" group-title="Live - Other Events",[Brasileirão] Palmeiras vs Bahia 1 (STP)
 #EXTVLCOPT:http-referrer=https://streamx305.sbs/global1.php?channel=winsports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://s2.envivoslatam99.sbs:443/global/winsports/index.m3u8?token=d0ad0c1bddf5f463b6427c87d98b634c933b8455-a7-1791525606-1791471606
-#EXTINF:-1 tvg-chno="154" tvg-id="Soccer.Dummy.us" tvg-name="[Brasileirão] Palmeiras vs Bahia 2 (STP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" group-title="Live - Other Events",[Brasileirão] Palmeiras vs Bahia 2 (STP)
+https://s3.envivoslatam99.sbs:443/global/winsports/index.m3u8?token=d59462547a9d63833276946ee278b54734da5fff-13-1791545415-1791491415
+#EXTINF:-1 tvg-chno="293" tvg-id="Soccer.Dummy.us" tvg-name="[Brasileirão] Palmeiras vs Bahia 2 (STP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" group-title="Live - Other Events",[Brasileirão] Palmeiras vs Bahia 2 (STP)
 #EXTVLCOPT:http-referrer=https://streamx305.sbs/global1.php?channel=premiere2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://s3.envivoslatam99.sbs:443/global/premiere2/index.m3u8?token=4a3c572208509a2197afbee61fb4f84e9b971783-a0-1791525606-1791471606
-#EXTINF:-1 tvg-chno="155" tvg-id="Soccer.Dummy.us" tvg-name="[Brasileirão] Palmeiras vs Bahia | Español 1 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" group-title="Live - Other Events",[Brasileirão] Palmeiras vs Bahia | Español 1 (PLIBRE)
+https://s2.envivoslatam99.sbs:443/global/premiere2/index.m3u8?token=c6f4667db95698ffbeb6237d171970ec962f8667-e9-1791545415-1791491415
+#EXTINF:-1 tvg-chno="294" tvg-id="Soccer.Dummy.us" tvg-name="[Brasileirão] Palmeiras vs Bahia | Español 1 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" group-title="Live - Other Events",[Brasileirão] Palmeiras vs Bahia | Español 1 (PLIBRE)
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=winsports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://am91cm5leQ.fubo18.com:443/winsports/mono.m3u8?token=0f12d97246ac10cf4e7ec53d7dc51ccf8e071eb0-4e-1791501321-1791483321
-#EXTINF:-1 tvg-chno="156" tvg-id="Soccer.Dummy.us" tvg-name="[Brasileirão] Palmeiras vs Bahia | Español 2 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" group-title="Live - Other Events",[Brasileirão] Palmeiras vs Bahia | Español 2 (PLIBRE)
+https://dglvz29s.fubo18.com:443/winsports/mono.m3u8?token=dfe12b48c75de5ecc6447f397c5ab041f61356ed-70-1791521108-1791503108
+#EXTINF:-1 tvg-chno="295" tvg-id="Soccer.Dummy.us" tvg-name="[Brasileirão] Palmeiras vs Bahia | Español 2 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" group-title="Live - Other Events",[Brasileirão] Palmeiras vs Bahia | Español 2 (PLIBRE)
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=premiere2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://a2lja3m.fubo18.com:443/premiere2/mono.m3u8?token=60cbe80bfe6091390fee41fa282c288fc56f68a9-4d-1791501322-1791483322
-#EXTINF:-1 tvg-chno="157" tvg-id="Soccer.Dummy.us" tvg-name="[Brasileirão] Palmeiras vs Bahia | Premiere 2 (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" group-title="Live - Other Events",[Brasileirão] Palmeiras vs Bahia | Premiere 2 (STRMXHD)
+https://am91cm5leQ.fubo18.com:443/premiere2/mono.m3u8?token=78778eb76486e5036df7a03cd8d70a13bdc9a33c-82-1791521108-1791503108
+#EXTINF:-1 tvg-chno="296" tvg-id="Soccer.Dummy.us" tvg-name="[Brasileirão] Palmeiras vs Bahia | Premiere 2 (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" group-title="Live - Other Events",[Brasileirão] Palmeiras vs Bahia | Premiere 2 (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=premiere2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/premiere2/index.m3u8?token=ed9f723cc4a7a43fa94f0cdaf8342c5bb2c81733-67-1791525606-1791471606
-#EXTINF:-1 tvg-chno="158" tvg-id="Soccer.Dummy.us" tvg-name="[Brasileirão] Santos vs Flamengo 1 (STP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" group-title="Live - Other Events",[Brasileirão] Santos vs Flamengo 1 (STP)
+https://khala.futlivehd.com/global/premiere2/index.m3u8?token=baec94c3e1e5a20f5b5800ce2c0ed4ed6c59ea48-82-1791545415-1791491415
+#EXTINF:-1 tvg-chno="297" tvg-id="Soccer.Dummy.us" tvg-name="[Brasileirão] Palmeiras vs Bahia | Premiere 2 BR  (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" group-title="Live - Other Events",[Brasileirão] Palmeiras vs Bahia | Premiere 2 BR  (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=premiere2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://y2fzdGxl.fubo18.com:443/premiere2/mono.m3u8?token=e3e303eca693bb145a09baf5c5674b043459420b-49-1791517519-1791499519
+#EXTINF:-1 tvg-chno="298" tvg-id="Soccer.Dummy.us" tvg-name="[Brasileirão] Palmeiras vs Bahia | Premiere 2 BR | HD (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" group-title="Live - Other Events",[Brasileirão] Palmeiras vs Bahia | Premiere 2 BR | HD (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/hd.php?stream=premiere2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://Ym9yZQ.fubo18.com:443/premiere2/mono.m3u8?token=09aebb0ea633ed25f6ca2e6024d7401395959cf7-7d-1791517519-1791499519
+#EXTINF:-1 tvg-chno="299" tvg-id="Soccer.Dummy.us" tvg-name="[Brasileirão] Palmeiras vs Bahia | Win Sports (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" group-title="Live - Other Events",[Brasileirão] Palmeiras vs Bahia | Win Sports (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/3.php?stream=winsports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://7.ftlly.com:443/winsports/mono.m3u8?token=f5dc2b3c89e551bfcba13f81026737f5f3cdc3bf-df-1791517520-1791499520
+#EXTINF:-1 tvg-chno="300" tvg-id="Soccer.Dummy.us" tvg-name="[Brasileirão] Palmeiras vs Bahia | Win Sports | HD (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" group-title="Live - Other Events",[Brasileirão] Palmeiras vs Bahia | Win Sports | HD (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/hd.php?stream=winsports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://dglvz29s.fubo18.com:443/winsports/mono.m3u8?token=e3272d5dce3d7289c822511fe5dbe246286d12f0-f9-1791517520-1791499520
+#EXTINF:-1 tvg-chno="301" tvg-id="Soccer.Dummy.us" tvg-name="[Brasileirão] Palmeiras vs Bahia | Win Sports | OP2 (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" group-title="Live - Other Events",[Brasileirão] Palmeiras vs Bahia | Win Sports | OP2 (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=winsports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://bmF0aw9u.fubo18.com:443/winsports/mono.m3u8?token=b7e6623ba7637d870d30f764b6babab9e07f63bf-3f-1791517520-1791499520
+#EXTINF:-1 tvg-chno="302" tvg-id="Soccer.Dummy.us" tvg-name="[Brasileirão] Palmeiras vs Bahia | Win Sports ┃OP3 (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" group-title="Live - Other Events",[Brasileirão] Palmeiras vs Bahia | Win Sports ┃OP3 (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/2.php?stream=winsports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://3.ftlly.com:443/winsports/mono.m3u8?token=400ce73bff24cddc1efc56f5dc237b656851f436-b7-1791517520-1791499520
+#EXTINF:-1 tvg-chno="303" tvg-id="Soccer.Dummy.us" tvg-name="[Brasileirão] Santos vs Flamengo 1 (STP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" group-title="Live - Other Events",[Brasileirão] Santos vs Flamengo 1 (STP)
 #EXTVLCOPT:http-referrer=https://streamx305.sbs/global1.php?channel=winsports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://s2.envivoslatam99.sbs:443/global/winsports/index.m3u8?token=c59ae24dfe4dfb3912ee232e911eacf2a6294ac1-5c-1791525606-1791471606
-#EXTINF:-1 tvg-chno="159" tvg-id="Soccer.Dummy.us" tvg-name="[Brasileirão] Santos vs Flamengo 2 (STP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" group-title="Live - Other Events",[Brasileirão] Santos vs Flamengo 2 (STP)
+https://s3.envivoslatam99.sbs:443/global/winsports/index.m3u8?token=a570de6a4b951bad30f1c2836e73f78e0b09366f-c9-1791545414-1791491414
+#EXTINF:-1 tvg-chno="304" tvg-id="Soccer.Dummy.us" tvg-name="[Brasileirão] Santos vs Flamengo 2 (STP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" group-title="Live - Other Events",[Brasileirão] Santos vs Flamengo 2 (STP)
 #EXTVLCOPT:http-referrer=https://streamx305.sbs/global1.php?channel=premiere1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://s3.envivoslatam99.sbs:443/global/premiere1/index.m3u8?token=7670066419f20a9b1dd2dd987982e93b9a416fe5-1e-1791525606-1791471606
-#EXTINF:-1 tvg-chno="160" tvg-id="Soccer.Dummy.us" tvg-name="[Brasileirão] Santos vs Flamengo | Español 1 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" group-title="Live - Other Events",[Brasileirão] Santos vs Flamengo | Español 1 (PLIBRE)
+https://s2.envivoslatam99.sbs:443/global/premiere1/index.m3u8?token=95fdbafef70affe1f43a42cfead4fab8b573e5fd-06-1791545414-1791491414
+#EXTINF:-1 tvg-chno="305" tvg-id="Soccer.Dummy.us" tvg-name="[Brasileirão] Santos vs Flamengo | Español 1 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" group-title="Live - Other Events",[Brasileirão] Santos vs Flamengo | Español 1 (PLIBRE)
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=winsports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://b2ZmaWNpYWw.fubo18.com:443/winsports/mono.m3u8?token=96e3a14f26bcdd83a34a26b1f2a40b8aef0b4550-53-1791501321-1791483321
-#EXTINF:-1 tvg-chno="161" tvg-id="Soccer.Dummy.us" tvg-name="[Brasileirão] Santos vs Flamengo | Español 2 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" group-title="Live - Other Events",[Brasileirão] Santos vs Flamengo | Español 2 (PLIBRE)
+https://bmf0aw9u.fubo18.com:443/winsports/mono.m3u8?token=f54137887648ff70004368ccf398fc6df491d8fb-93-1791521106-1791503106
+#EXTINF:-1 tvg-chno="306" tvg-id="Soccer.Dummy.us" tvg-name="[Brasileirão] Santos vs Flamengo | Español 2 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" group-title="Live - Other Events",[Brasileirão] Santos vs Flamengo | Español 2 (PLIBRE)
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=premiere1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://YXdlc29tZQ.fubo18.com:443/premiere1/mono.m3u8?token=7e758233b0b79c58cbd702deab8d5795a771e161-9d-1791501321-1791483321
-#EXTINF:-1 tvg-chno="162" tvg-id="Soccer.Dummy.us" tvg-name="[Brasileirão] Santos vs Flamengo | Premiere 1 (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" group-title="Live - Other Events",[Brasileirão] Santos vs Flamengo | Premiere 1 (STRMXHD)
+https://c2f2zq.fubo18.com:443/premiere1/mono.m3u8?token=ebfa6e587f55032508d8bb7cb2a5c65624a8f801-13-1791521106-1791503106
+#EXTINF:-1 tvg-chno="307" tvg-id="Soccer.Dummy.us" tvg-name="[Brasileirão] Santos vs Flamengo | Premiere 1 (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" group-title="Live - Other Events",[Brasileirão] Santos vs Flamengo | Premiere 1 (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=premiere1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/premiere1/index.m3u8?token=a5608d572fb9e70b9f672c1eb597bda93cf8557e-ad-1791525606-1791471606
-#EXTINF:-1 tvg-chno="163" tvg-id="Racing.Dummy.us" tvg-name="[Dirtvision] 10.8.26 | Oswego Speedway (TIMSTRM)" tvg-logo="https://dirtvision.asset.viewlift.com/images/2026/08/21/SDW_3-1787331866488.png?impolicy=resize&amp;w=1920&amp;h=1080" group-title="Live - Other Events",[Dirtvision] 10.8.26 | Oswego Speedway (TIMSTRM)
-#EXTVLCOPT:http-referrer=https://grandemx.org/rr5wtqz0-6456
+https://khala.futlivehd.com/global/premiere1/index.m3u8?token=5f9f3f5fcb15a3ca7e2ec995929155ec0c615264-28-1791545415-1791491415
+#EXTINF:-1 tvg-chno="308" tvg-id="Soccer.Dummy.us" tvg-name="[Brasileirão] Santos vs Flamengo | Premiere BR  (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" group-title="Live - Other Events",[Brasileirão] Santos vs Flamengo | Premiere BR  (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=premiere1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://justkidding.junksonus.party/main/secure/8f0536388e6f66735bfd9894af5084c2eaab216975e5e59fdacf9c42cb420fdf/1791495003/dirtvision-10-8-26-oswego-speedway.m3u8
-#EXTINF:-1 tvg-chno="164" tvg-id="Soccer.Dummy.us" tvg-name="[Egypt Premier League] Ghazl El Mahallah vs Abu Qir Semad (FAWA)" tvg-logo="https://assets.football-logos.cc/logos/egypt/1500x1500/egyptian-premier-league.9574aa34.png" group-title="Live - Other Events",[Egypt Premier League] Ghazl El Mahallah vs Abu Qir Semad (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+https://am91cm5leQ.fubo18.com:443/premiere1/mono.m3u8?token=0ba4009e389f518b6fd2850f2c5d8d527098636c-ad-1791517517-1791499517
+#EXTINF:-1 tvg-chno="309" tvg-id="Soccer.Dummy.us" tvg-name="[Brasileirão] Santos vs Flamengo | Win Sports (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" group-title="Live - Other Events",[Brasileirão] Santos vs Flamengo | Win Sports (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/3.php?stream=winsports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.41/hls/diiiiq.m3u8
-#EXTINF:-1 tvg-chno="165" tvg-id="Soccer.Dummy.us" tvg-name="[Egypt Premier League] Modern Sport vs National Bank Egypt (FAWA)" tvg-logo="https://assets.football-logos.cc/logos/egypt/1500x1500/egyptian-premier-league.9574aa34.png" group-title="Live - Other Events",[Egypt Premier League] Modern Sport vs National Bank Egypt (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+https://2.ftlly.com:443/winsports/mono.m3u8?token=19d6e639a60b27a1bfb796448685b32af1633696-fd-1791517517-1791499517
+#EXTINF:-1 tvg-chno="310" tvg-id="Soccer.Dummy.us" tvg-name="[Brasileirão] Santos vs Flamengo | Win Sports | HD (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" group-title="Live - Other Events",[Brasileirão] Santos vs Flamengo | Win Sports | HD (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/hd.php?stream=winsports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.41/hls/diiiiqq.m3u8
-#EXTINF:-1 tvg-chno="166" tvg-id="Soccer.Dummy.us" tvg-name="[Finland Veikkausliiga] KuPS vs AC Oulu (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/Veikkausliiga-logo.png" group-title="Live - Other Events",[Finland Veikkausliiga] KuPS vs AC Oulu (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+https://c2f2zQ.fubo18.com:443/winsports/mono.m3u8?token=23d38feafe662e61d3249bafa4b47a46192060cd-b5-1791517518-1791499518
+#EXTINF:-1 tvg-chno="311" tvg-id="Soccer.Dummy.us" tvg-name="[Brasileirão] Santos vs Flamengo | Win Sports | OP2 (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" group-title="Live - Other Events",[Brasileirão] Santos vs Flamengo | Win Sports | OP2 (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=winsports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.41/hls/zooooqqq.m3u8
-#EXTINF:-1 tvg-chno="167" tvg-id="Rugby.Dummy.us" tvg-name="[France Rugby Pro D2] Montauban vs CA Brive (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[France Rugby Pro D2] Montauban vs CA Brive (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+https://dglvz29s.fubo18.com:443/winsports/mono.m3u8?token=a526f5ccaa4e7bc8e5e2bd614b31df7a351b6ff9-5b-1791517517-1791499517
+#EXTINF:-1 tvg-chno="312" tvg-id="Soccer.Dummy.us" tvg-name="[Brasileirão] Santos vs Flamengo | Win Sports ┃OP3 (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" group-title="Live - Other Events",[Brasileirão] Santos vs Flamengo | Win Sports ┃OP3 (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/2.php?stream=winsports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.41/hls/VEEEA.m3u8
-#EXTINF:-1 tvg-chno="168" tvg-id="Golf.Dummy.us" tvg-name="[Golf] Sky Sports Golf (DAMITV)" tvg-logo="https://static.ppvservices.st/assets/thumb/9950e3e6c1a19cad6a216ec1c6b50d71-thumbnail.jpg" group-title="Live - Other Events",[Golf] Sky Sports Golf (DAMITV)
-#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=sky-sports-golf-29059
+https://2.ftlly.com:443/winsports/mono.m3u8?token=bf858008af856d9929ae69e9ab4a612bc81c8b8a-cb-1791517518-1791499518
+#EXTINF:-1 tvg-chno="313" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[CFB] Arkansas State vs South Alabama (iSTRMEAST)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live - Other Events",[CFB] Arkansas State vs South Alabama (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/57737?ad=111
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://messi.damitv.st/live-hls/channel/sky-sports-golf-29059/playlist.m3u8?tk=V9y8AeWRrhQzp_y4cHxOww&e=1791532815
-#EXTINF:-1 tvg-chno="169" tvg-id="Live.Event.us" tvg-name="[Ireland Premier Premier League] Shamrock Rovers vs Drogheda (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[Ireland Premier Premier League] Shamrock Rovers vs Drogheda (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+https://chatgpt.hereisman.net/playlist/57737/load-playlist
+#EXTINF:-1 tvg-chno="314" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[CFB] Liberty Flames vs Sam Houston State (iSTRMEAST)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live - Other Events",[CFB] Liberty Flames vs Sam Houston State (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/57731?ad=111
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.41/hls/VEEEAA.m3u8
-#EXTINF:-1 tvg-chno="170" tvg-id="Soccer.Dummy.us" tvg-name="[Morocco Botola Pro] FAR Rabat vs Widad Temara (FAWA)" tvg-logo="https://assets.footylogos.com/previews/botola-pro-1/botola-pro-1-logo-footylogos-320.webp" group-title="Live - Other Events",[Morocco Botola Pro] FAR Rabat vs Widad Temara (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+https://chatgpt.hereisman.net/playlist/57731/load-playlist
+#EXTINF:-1 tvg-chno="315" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[CFB] UTSA vs South Florida (iSTRMEAST)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live - Other Events",[CFB] UTSA vs South Florida (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/57739?ad=111
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.41/hls/NNNNA.m3u8
-#EXTINF:-1 tvg-chno="171" tvg-id="Soccer.Dummy.us" tvg-name="[Morocco Botola Pro] Maghreb Fez vs Raja Casablanca (FAWA)" tvg-logo="https://assets.footylogos.com/previews/botola-pro-1/botola-pro-1-logo-footylogos-320.webp" group-title="Live - Other Events",[Morocco Botola Pro] Maghreb Fez vs Raja Casablanca (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+https://chatgpt.hereisman.net/playlist/57739/load-playlist
+#EXTINF:-1 tvg-chno="316" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[CFB] Western Kentucky vs Missouri State (iSTRMEAST)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live - Other Events",[CFB] Western Kentucky vs Missouri State (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/57729?ad=111
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.41/hls/BBBB.m3u8
-#EXTINF:-1 tvg-chno="172" tvg-id="Soccer.Dummy.us" tvg-name="[Morocco Botola Pro] Renaissance Zemamra vs Hassania Agadir (FAWA)" tvg-logo="https://assets.footylogos.com/previews/botola-pro-1/botola-pro-1-logo-footylogos-320.webp" group-title="Live - Other Events",[Morocco Botola Pro] Renaissance Zemamra vs Hassania Agadir (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+https://chatgpt.hereisman.net/playlist/57729/load-playlist
+#EXTINF:-1 tvg-chno="317" tvg-id="Live.Event.us" tvg-name="[COL 1] Deportes Tolima vs Atlético Nacional | English (STRMGATE)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[COL 1] Deportes Tolima vs Atlético Nacional | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401877883
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.41/hls/NNNNAA.m3u8
-#EXTINF:-1 tvg-chno="173" tvg-id="Soccer.Dummy.us" tvg-name="[Morocco Botola Pro] Union Touarga vs Berkane (FAWA)" tvg-logo="https://assets.footylogos.com/previews/botola-pro-1/botola-pro-1-logo-footylogos-320.webp" group-title="Live - Other Events",[Morocco Botola Pro] Union Touarga vs Berkane (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+https://instreams.pro/live3/tv401877883/index.m3u8?st=-eGqKSWOyO8pNruhIWhqWw&e=1791511216
+#EXTINF:-1 tvg-chno="318" tvg-id="PPV.EVENTS.Dummy.us" tvg-name="[Combat Sports] Iglesias vs. Zaren (DAMITV)" tvg-logo="https://static.ppvservices.st/assets/thumb/ee72b17b792324040254b325fe0be6ac-thumbnail.jpg" group-title="Live - Other Events",[Combat Sports] Iglesias vs. Zaren (DAMITV)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=iglesias-vs-zaren-30124
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.41/hls/zooooqqqq.m3u8
-#EXTINF:-1 tvg-chno="174" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Pretemporada] Atlanta Hawks vs San Antonio Spurs | NBA League Pass (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Other Events",[NBA Pretemporada] Atlanta Hawks vs San Antonio Spurs | NBA League Pass (STRMXHD)
+https://messi.damitv.st/live-hls/channel/iglesias-vs-zaren-30124/playlist.m3u8?tk=Td77yVdYZHbUh474St4i4A&e=1791540005
+#EXTINF:-1 tvg-chno="319" tvg-id="Racing.Dummy.us" tvg-name="[Dirtvision] 10.8.26 | Millstream Speedway (TIMSTRM)" tvg-logo="https://dirtvision.asset.viewlift.com/images/2025/11/21/10-8-26_SC-1763758564334.png?impolicy=resize&amp;w=1920&amp;h=1080" group-title="Live - Other Events",[Dirtvision] 10.8.26 | Millstream Speedway (TIMSTRM)
+#EXTVLCOPT:http-referrer=https://grandemx.org/2s8ngdbs-7226
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://justkidding.junksonus.party/main/secure/f6c29848f05611c2e03072c3106714ab39b2b4f505c6a5cc24eae5a8fc55ca57/1791513005/dirtvision-10-8-26-millstream-speedway.m3u8
+#EXTINF:-1 tvg-chno="320" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Tampa Bay Buccaneers vs Dallas Cowboys (XYZ)" tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/tb.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/dal.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=D50A0A&color2=003594&q=65&w=100" group-title="Live - Other Events",[Football] Tampa Bay Buccaneers vs Dallas Cowboys (XYZ)
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/nfl-1.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://us2-hlss2.b-cdn.net/tnf/mono.ts.m3u8?token=210b24c27ed46dc786d11010e8525277
+#EXTINF:-1 tvg-chno="321" tvg-id="NFL.Dummy.us" tvg-name="[National Football League] Buccaneers @ Cowboys (TIMSTRM)" tvg-logo="http://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/nfl-401872980.png" group-title="Live - Other Events",[National Football League] Buccaneers @ Cowboys (TIMSTRM)
+#EXTVLCOPT:http-referrer=https://grandemx.org/7mpi31cc-4573
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://justkidding.junksonus.party/main/secure/99b80385b1b4a8d8b5b9c38beadd78daaf8b8c4969fcd19055cab2c59e405d34/1791513005/nfl-401872980.m3u8
+#EXTINF:-1 tvg-chno="322" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Preseason] Brooklyn Nets vs Philadelphia 76ers (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Other Events",[NBA Preseason] Brooklyn Nets vs Philadelphia 76ers (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/57735?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://chatgpt.hereisman.net/playlist/57735/load-playlist
+#EXTINF:-1 tvg-chno="323" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Preseason] Cleveland Cavaliers vs Boston Celtics (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Other Events",[NBA Preseason] Cleveland Cavaliers vs Boston Celtics (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/57725?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://chatgpt.hereisman.net/playlist/57725/load-playlist
+#EXTINF:-1 tvg-chno="324" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Preseason] Miami Heat vs New Orleans Pelicans (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Other Events",[NBA Preseason] Miami Heat vs New Orleans Pelicans (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/57736?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://chatgpt.hereisman.net/playlist/57736/load-playlist
+#EXTINF:-1 tvg-chno="325" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Preseason] New York Knicks vs Washington Wizards (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Other Events",[NBA Preseason] New York Knicks vs Washington Wizards (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/57740?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://chatgpt.hereisman.net/playlist/57740/load-playlist
+#EXTINF:-1 tvg-chno="326" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Preseason] San Antonio Spurs vs Atlanta Hawks (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Other Events",[NBA Preseason] San Antonio Spurs vs Atlanta Hawks (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/57744?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://chatgpt.hereisman.net/playlist/57744/load-playlist
+#EXTINF:-1 tvg-chno="327" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Pretemporada] Atlanta Hawks vs San Antonio Spurs | NBA League Pass (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Other Events",[NBA Pretemporada] Atlanta Hawks vs San Antonio Spurs | NBA League Pass (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=nba5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/nba5/index.m3u8?token=119fbd1e70191e5ab2b3861371d5e42036814c7a-2b-1791525608-1791471608
-#EXTINF:-1 tvg-chno="175" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Pretemporada] Boston Celtics vs Cleveland Cavaliers | NBA League Pass (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Other Events",[NBA Pretemporada] Boston Celtics vs Cleveland Cavaliers | NBA League Pass (STRMXHD)
+https://khala.futlivehd.com/global/nba5/index.m3u8?token=15aa38aa2fd18a26436fb33e3f378c9f2046a2e3-3c-1791545416-1791491416
+#EXTINF:-1 tvg-chno="328" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Pretemporada] Boston Celtics vs Cleveland Cavaliers | NBA League Pass (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Other Events",[NBA Pretemporada] Boston Celtics vs Cleveland Cavaliers | NBA League Pass (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=nba1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/nba1/index.m3u8?token=30dcac7d2228a2d372f88aeedfa061b50cc942f1-d8-1791525607-1791471607
-#EXTINF:-1 tvg-chno="176" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Pretemporada] New Orleans Pelicans vs Miami Heat | NBA League Pass (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Other Events",[NBA Pretemporada] New Orleans Pelicans vs Miami Heat | NBA League Pass (STRMXHD)
+https://khala.futlivehd.com/global/nba1/index.m3u8?token=67134a38daf21bfdd60550b987ed55519474a7f5-f7-1791545416-1791491416
+#EXTINF:-1 tvg-chno="329" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Pretemporada] New Orleans Pelicans vs Miami Heat | NBA League Pass (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Other Events",[NBA Pretemporada] New Orleans Pelicans vs Miami Heat | NBA League Pass (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=nba2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/nba2/index.m3u8?token=13098c924f0e58215b3676149c72499b56610a61-c3-1791525607-1791471607
-#EXTINF:-1 tvg-chno="177" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Pretemporada] Philadelphia 76ers vs Brooklyn Nets | NBA League Pass (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Other Events",[NBA Pretemporada] Philadelphia 76ers vs Brooklyn Nets | NBA League Pass (STRMXHD)
+https://khala.futlivehd.com/global/nba2/index.m3u8?token=3f8373d474556db2c7aacf0ac9b007444fd6ca37-e0-1791545416-1791491416
+#EXTINF:-1 tvg-chno="330" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Pretemporada] Philadelphia 76ers vs Brooklyn Nets | NBA League Pass (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Other Events",[NBA Pretemporada] Philadelphia 76ers vs Brooklyn Nets | NBA League Pass (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=nba3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/nba3/index.m3u8?token=4167b5f926743d0fad61969f0d86bb1141e896de-52-1791525607-1791471607
-#EXTINF:-1 tvg-chno="178" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Pretemporada] Sacramento Kings vs Los Angeles Lakers | ESPN 4 (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Other Events",[NBA Pretemporada] Sacramento Kings vs Los Angeles Lakers | ESPN 4 (STRMXHD)
+https://khala.futlivehd.com/global/nba3/index.m3u8?token=94d984a64834dfbb956558da0ca34d009a4ca259-7c-1791545416-1791491416
+#EXTINF:-1 tvg-chno="331" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Pretemporada] Sacramento Kings vs Los Angeles Lakers | ESPN 4 (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Other Events",[NBA Pretemporada] Sacramento Kings vs Los Angeles Lakers | ESPN 4 (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espn4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/espn4/index.m3u8?token=0039c16359673a9ae01b76a37a51987ce498293a-ee-1791525607-1791471607
-#EXTINF:-1 tvg-chno="179" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Pretemporada] Sacramento Kings vs Los Angeles Lakers | NBA League Pass (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Other Events",[NBA Pretemporada] Sacramento Kings vs Los Angeles Lakers | NBA League Pass (STRMXHD)
+https://khala.futlivehd.com/global/espn4/index.m3u8?token=cba6a465dbf0ffca949a77bf881578744be3a93f-bb-1791545416-1791491416
+#EXTINF:-1 tvg-chno="332" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Pretemporada] Sacramento Kings vs Los Angeles Lakers | NBA League Pass (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Other Events",[NBA Pretemporada] Sacramento Kings vs Los Angeles Lakers | NBA League Pass (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=nba6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/nba6/index.m3u8?token=ae27dac6a66b1f1234795212fb808b2396c5ea72-8e-1791525607-1791471607
-#EXTINF:-1 tvg-chno="180" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Pretemporada] Washington Wizards vs New York Knicks | NBA League Pass (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Other Events",[NBA Pretemporada] Washington Wizards vs New York Knicks | NBA League Pass (STRMXHD)
+https://khala.futlivehd.com/global/nba6/index.m3u8?token=004625aa885b5bf94a4851a2497fa9ac8b8810d2-50-1791545416-1791491416
+#EXTINF:-1 tvg-chno="333" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Pretemporada] Washington Wizards vs New York Knicks | NBA League Pass (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Other Events",[NBA Pretemporada] Washington Wizards vs New York Knicks | NBA League Pass (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=nba4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/nba4/index.m3u8?token=f7bb8d247266f1c897d69936cb6891c94c880591-45-1791525608-1791471608
-#EXTINF:-1 tvg-chno="181" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Los Angeles Lakers vs Sacramento Kings | Español 1 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Other Events",[NBA] Los Angeles Lakers vs Sacramento Kings | Español 1 (PLIBRE)
+https://khala.futlivehd.com/global/nba4/index.m3u8?token=5a89b4bfada737c77017383bdf223cf70a6d2104-36-1791545416-1791491416
+#EXTINF:-1 tvg-chno="334" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Atlanta Hawks at San Antonio Spurs (SPRTSPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Other Events",[NBA] Atlanta Hawks at San Antonio Spurs (SPRTSPASS)
+#EXTVLCOPT:http-referrer=https://sportspass.click/nba/spurs.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://velqorin.s3.us-east-1.amazonaws.com/spurs.m3u8
+#EXTINF:-1 tvg-chno="335" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Atlanta Hawks vs San Antonio Spurs (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/basketball_atlanta-hawks-vs-san-antonio-spurs_Atlanta_Hawks_vs_San_Antonio_S" group-title="Live - Other Events",[NBA] Atlanta Hawks vs San Antonio Spurs (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://streamfree.top/live-cdn/atlanta-hawks-vs-san-antonio-spurs1080p3/index.m3u8?_e=1791534616&_n=6bab867888ec03f5&_t=uO7fJQsxvhzdCg8TdNNAOQ
+#EXTINF:-1 tvg-chno="336" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Atlanta Hawks vs San Antonio Spurs | English (STRMGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Other Events",[NBA] Atlanta Hawks vs San Antonio Spurs | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401898394
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://instreams.pro/live3/tv401898394/index.m3u8?st=5d2grAaju6bp4TlVi04vIw&e=1791513006
+#EXTINF:-1 tvg-chno="337" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Boston Celtics at Cleveland Cavaliers (SPRTSPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Other Events",[NBA] Boston Celtics at Cleveland Cavaliers (SPRTSPASS)
+#EXTVLCOPT:http-referrer=https://sportspass.click/nba/cavaliers.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://velqorin.s3.us-east-1.amazonaws.com/cavaliers.m3u8
+#EXTINF:-1 tvg-chno="338" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Boston Celtics vs Cleveland Cavaliers (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/basketball_boston-celtics-vs-cleveland-cavaliers_Boston_Celtics_vs_Cleveland_Ca" group-title="Live - Other Events",[NBA] Boston Celtics vs Cleveland Cavaliers (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://streamfree.top/live-cdn/boston-celtics-vs-cleveland-cavaliers1080p3/index.m3u8?_e=1791531005&_n=682d94d998b69793&_t=hr-G17oqfrcCq5RMbO-ilA
+#EXTINF:-1 tvg-chno="339" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Boston Celtics vs Cleveland Cavaliers | English (STRMGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Other Events",[NBA] Boston Celtics vs Cleveland Cavaliers | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401898392
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://instreams.pro/live3/tv401898392/index.m3u8?st=U8y6debVjzYUH9Cg4SEtJQ&e=1791509405
+#EXTINF:-1 tvg-chno="340" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Boston Celtics vs. Cleveland Cavaliers (DAMITV)" tvg-logo="https://static.ppvservices.st/assets/thumb/e1f2db131367f05c783bc97a451ea590-thumbnail.jpg" group-title="Live - Other Events",[NBA] Boston Celtics vs. Cleveland Cavaliers (DAMITV)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=nba/2026-10-08/bos-cle
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/nba/2026-10-08/bos-cle/playlist.m3u8?tk=ISEtklkddqqRt0CgvmRGdA&e=1791541804
+#EXTINF:-1 tvg-chno="341" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Brooklyn Nets vs Philadelphia 76ers (FLYEMBD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Other Events",[NBA] Brooklyn Nets vs Philadelphia 76ers (FLYEMBD)
+#EXTVLCOPT:http-referrer=https://exmxbxe.cfd/flyemb/9wiu70sa-6992
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://justkidding.junksonus.party/main/secure/e24fc0959b9ced47ac6b7ffbcdf7fba87b469061d07d2b9236a3775be7595df9/1791509415/nba-401901823.m3u8
+#EXTINF:-1 tvg-chno="342" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Brooklyn Nets vs Philadelphia 76ers (WATCHFTY)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Other Events",[NBA] Brooklyn Nets vs Philadelphia 76ers (WATCHFTY)
+#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/401901823/brooklyn-nets-philadelphia-76ers/pro/1?player=clappr&autoplay=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://lb5.wfty.st/secure/br3fvbg3NUr_M3fKqIhUlw/pro/brooklyn-nets-philadelphia-76ers/1/401901823/1791525611/playlist.m3u8
+#EXTINF:-1 tvg-chno="343" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Cleveland Cavaliers vs Boston Celtics (FLYEMBD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Other Events",[NBA] Cleveland Cavaliers vs Boston Celtics (FLYEMBD)
+#EXTVLCOPT:http-referrer=https://exmxbxe.cfd/flyemb/q178bxxc-3342
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://justkidding.junksonus.party/main/secure/3b6e89f21b04c83c629f2b9870d12b4c4572bee93c32e0dea90f941ddea56196/1791514817/nba-401898392.m3u8
+#EXTINF:-1 tvg-chno="344" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Cleveland Cavaliers vs Boston Celtics (WATCHFTY)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Other Events",[NBA] Cleveland Cavaliers vs Boston Celtics (WATCHFTY)
+#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/401898392/cleveland-cavaliers-boston-celtics/pro/2?player=clappr&autoplay=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://lb1.wfty.st/secure/f-wAHcZ51rgUBgc3hzpiLA/pro/cleveland-cavaliers-boston-celtics/2/401898392/1791523819/playlist.m3u8
+#EXTINF:-1 tvg-chno="345" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Los Angeles Lakers vs Sacramento Kings | Disney+ (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Other Events",[NBA] Los Angeles Lakers vs Sacramento Kings | Disney+ (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=disney3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://y2fzdGxl.fubo18.com:443/disney3/mono.m3u8?token=5e650ec5119f37f146ee801a6f295c578ee8eb1e-24-1791517524-1791499524
+#EXTINF:-1 tvg-chno="346" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Los Angeles Lakers vs Sacramento Kings | Español 1 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Other Events",[NBA] Los Angeles Lakers vs Sacramento Kings | Español 1 (PLIBRE)
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=espn3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://bgvnzw5k.fubo18.com:443/espn3/mono.m3u8?token=9d410aa9a7ec183958edcd110e07571c9305bb7b-94-1791501322-1791483322
-#EXTINF:-1 tvg-chno="182" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Los Angeles Lakers vs Sacramento Kings | Español 2 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Other Events",[NBA] Los Angeles Lakers vs Sacramento Kings | Español 2 (PLIBRE)
+https://dglvz29s.fubo18.com:443/espn3/mono.m3u8?token=92a959fa593db9dd6776ff1e10a2745fa9d58895-73-1791521109-1791503109
+#EXTINF:-1 tvg-chno="347" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Los Angeles Lakers vs Sacramento Kings | Español 2 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Other Events",[NBA] Los Angeles Lakers vs Sacramento Kings | Español 2 (PLIBRE)
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=disney3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://y2fzdgxl.fubo18.com:443/disney3/mono.m3u8?token=c41fb8a1e15c33ab72a33a4f921c6f8c09f9e02d-8b-1791501322-1791483322
-#EXTINF:-1 tvg-chno="183" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Los Angeles Lakers vs Sacramento Kings | Español 3 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Other Events",[NBA] Los Angeles Lakers vs Sacramento Kings | Español 3 (PLIBRE)
+https://Ym9yZQ.fubo18.com:443/disney3/mono.m3u8?token=983cf32bc1c3333e6880a7fbf82d9c81deac737a-3e-1791521109-1791503109
+#EXTINF:-1 tvg-chno="348" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Los Angeles Lakers vs Sacramento Kings | Español 3 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Other Events",[NBA] Los Angeles Lakers vs Sacramento Kings | Español 3 (PLIBRE)
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=espndeportes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://c2f2zq.fubo18.com:443/espndeportes/mono.m3u8?token=e1bfb945da2108b7f379991d1977ade71bc8ffc0-9c-1791501322-1791483322
-#EXTINF:-1 tvg-chno="184" tvg-id="Live.Event.us" tvg-name="[PER 1] Cienciano del Cusco vs Deportivo Moquegua | English (STRMGATE)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[PER 1] Cienciano del Cusco vs Deportivo Moquegua | English (STRMGATE)
-#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401886173
+https://y2fzdgxl.fubo18.com:443/espndeportes/mono.m3u8?token=8d361915f4d4f1437935523e70807635b0dc1064-f9-1791521109-1791503109
+#EXTINF:-1 tvg-chno="349" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Los Angeles Lakers vs Sacramento Kings | ESPN 3 (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Other Events",[NBA] Los Angeles Lakers vs Sacramento Kings | ESPN 3 (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=espn3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://instreams.online/live3/tv401886173/index.m3u8?st=xnfir0J66nJD9a2fqHxs5g&e=1791491406
-#EXTINF:-1 tvg-chno="185" tvg-id="Live.Event.us" tvg-name="[PER 1] Los Chankas vs Atlético Grau | English (STRMGATE)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[PER 1] Los Chankas vs Atlético Grau | English (STRMGATE)
+https://a2lja3m.fubo18.com:443/espn3/mono.m3u8?token=5b366fc3497d2994712b59d1a07500f07212ceda-ee-1791517523-1791499523
+#EXTINF:-1 tvg-chno="350" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Los Angeles Lakers vs Sacramento Kings | ESPN 3 | HD (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Other Events",[NBA] Los Angeles Lakers vs Sacramento Kings | ESPN 3 | HD (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/hd.php?stream=espn3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://am91cm5leQ.fubo18.com:443/espn3/mono.m3u8?token=67b3ad0016df6698fd4e714897a91cbd9cfd7f54-ef-1791517524-1791499524
+#EXTINF:-1 tvg-chno="351" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Los Angeles Lakers vs Sacramento Kings | ESPN 3 | OP2 (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Other Events",[NBA] Los Angeles Lakers vs Sacramento Kings | ESPN 3 | OP2 (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/2.php?stream=espn3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://11.ftlly.com:443/espn3/mono.m3u8?token=c5e67ebc7c6a17d912fce3da117f72d120c867af-12-1791517524-1791499524
+#EXTINF:-1 tvg-chno="352" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Los Angeles Lakers vs Sacramento Kings | ESPN 3 | OP3 (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Other Events",[NBA] Los Angeles Lakers vs Sacramento Kings | ESPN 3 | OP3 (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/3.php?stream=espn3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://9.ftlly.com:443/espn3/mono.m3u8?token=694338ca9cfbf47788b9832c84eb5f035a00081f-c1-1791517524-1791499524
+#EXTINF:-1 tvg-chno="353" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Los Angeles Lakers vs Sacramento Kings | ESPN Deportes  | OP2 (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Other Events",[NBA] Los Angeles Lakers vs Sacramento Kings | ESPN Deportes  | OP2 (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/2.php?stream=espndeportes
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://5.ftlly.com:443/espndeportes/mono.m3u8?token=bd7cd8fda081fddfe8b2d3b978fb52670b697029-a6-1791517525-1791499525
+#EXTINF:-1 tvg-chno="354" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Los Angeles Lakers vs Sacramento Kings | ESPN Deportes  | OP3 (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Other Events",[NBA] Los Angeles Lakers vs Sacramento Kings | ESPN Deportes  | OP3 (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/3.php?stream=espndeportes
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://10.ftlly.com:443/espndeportes/mono.m3u8?token=06b9c85ab558b4c18e84af53e078a96aeba5e57a-6f-1791517525-1791499525
+#EXTINF:-1 tvg-chno="355" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Los Angeles Lakers vs Sacramento Kings | ESPN Deportes (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Other Events",[NBA] Los Angeles Lakers vs Sacramento Kings | ESPN Deportes (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/canal.php?stream=espndeportes
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://c2f2zQ.fubo18.com:443/espndeportes/mono.m3u8?token=e2f3b8331cc96661d7445ad4c8202c2aa939dcfe-7d-1791517525-1791499525
+#EXTINF:-1 tvg-chno="356" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Miami Heat vs New Orleans Pelicans (FLYEMBD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Other Events",[NBA] Miami Heat vs New Orleans Pelicans (FLYEMBD)
+#EXTVLCOPT:http-referrer=https://exmxbxe.cfd/flyemb/92pxs4gz-8414
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://justkidding.junksonus.party/main/secure/1c6426265c102ca02a0a69cff635312b12d5dce51ae332df80acf8c52e244365/1791509415/nba-401898393.m3u8
+#EXTINF:-1 tvg-chno="357" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Miami Heat vs New Orleans Pelicans (WATCHFTY)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Other Events",[NBA] Miami Heat vs New Orleans Pelicans (WATCHFTY)
+#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/401898393/miami-heat-new-orleans-pelicans/pro/1?player=clappr&autoplay=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://lb1.wfty.st/secure/7DfnjBf_Qkl0LxGqxmUVKQ/pro/miami-heat-new-orleans-pelicans/1/401898393/1791525615/playlist.m3u8
+#EXTINF:-1 tvg-chno="358" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] New Orleans Pelicans at Miami Heat (SPRTSPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Other Events",[NBA] New Orleans Pelicans at Miami Heat (SPRTSPASS)
+#EXTVLCOPT:http-referrer=https://sportspass.click/nba/heat.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://velqorin.s3.us-east-1.amazonaws.com/heat.m3u8
+#EXTINF:-1 tvg-chno="359" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] New Orleans Pelicans vs Miami Heat (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/basketball_new-orleans-pelicans-vs-miami-heat_New_Orleans_Pelicans_vs_Miami_" group-title="Live - Other Events",[NBA] New Orleans Pelicans vs Miami Heat (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://streamfree.top/live-origin/new-orleans-pelicans-vs-miami-heat1080p3/index.m3u8?_e=1791532806&_n=761483afdf0c3e10&_t=s7NE8UWMJUwbw0fYBCG-DQ
+#EXTINF:-1 tvg-chno="360" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] New Orleans Pelicans vs Miami Heat | English (STRMGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Other Events",[NBA] New Orleans Pelicans vs Miami Heat | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401898393
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://instreams.pro/live3/tv401898393/index.m3u8?st=r7rIFwWV-LxPfSlvt94b-w&e=1791511216
+#EXTINF:-1 tvg-chno="361" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] New Orleans Pelicans vs. Miami Heat (DAMITV)" tvg-logo="https://static.ppvservices.st/assets/thumb/75c7d1995610a08cd1f424dcf42742f1-thumbnail.jpg" group-title="Live - Other Events",[NBA] New Orleans Pelicans vs. Miami Heat (DAMITV)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=nba/2026-10-08/no-mia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/nba/2026-10-08/no-mia/playlist.m3u8?tk=FE91_2qbbKS1D5Iy5QpRjQ&e=1791543615
+#EXTINF:-1 tvg-chno="362" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] New York Knicks vs Washington Wizards (FLYEMBD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Other Events",[NBA] New York Knicks vs Washington Wizards (FLYEMBD)
+#EXTVLCOPT:http-referrer=https://exmxbxe.cfd/flyemb/37l5ibmf-3743
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://justkidding.junksonus.party/main/secure/84fd8f3d0c1afcd7eb6a55c339d7445a691d4fd08883a72c65826c5bd8d04c72/1791509416/nba-401906508.m3u8
+#EXTINF:-1 tvg-chno="363" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] New York Knicks vs Washington Wizards (WATCHFTY)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Other Events",[NBA] New York Knicks vs Washington Wizards (WATCHFTY)
+#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/401906508/new-york-knicks-washington-wizards/pro/1?player=clappr&autoplay=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://lb2.wfty.st/secure/5gXlcmozPoa-5eKREdeVFQ/pro/new-york-knicks-washington-wizards/1/401906508/1791525613/playlist.m3u8
+#EXTINF:-1 tvg-chno="364" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Philadelphia 76ers at Brooklyn Nets (SPRTSPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Other Events",[NBA] Philadelphia 76ers at Brooklyn Nets (SPRTSPASS)
+#EXTVLCOPT:http-referrer=https://sportspass.click/nba/76ers.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://velqorin.s3.us-east-1.amazonaws.com/76ers.m3u8
+#EXTINF:-1 tvg-chno="365" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Philadelphia 76ers vs Brooklyn Nets (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/basketball_philadelphia-76ers-vs-brooklyn-nets_Philadelphia_76ers_vs_Brooklyn" group-title="Live - Other Events",[NBA] Philadelphia 76ers vs Brooklyn Nets (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://streamfree.top/live-origin/philadelphia-76ers-vs-brooklyn-nets1080p3/index.m3u8?_e=1791532806&_n=8f7dd0f5ae17ae43&_t=i7XzT9vqxyagKYM3ctgojA
+#EXTINF:-1 tvg-chno="366" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Philadelphia 76ers vs Brooklyn Nets | English (STRMGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Other Events",[NBA] Philadelphia 76ers vs Brooklyn Nets | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401901823
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://instreams.pro/live3/tv401901823/index.m3u8?st=g-txYAflYcdYf531ejXBFA&e=1791511217
+#EXTINF:-1 tvg-chno="367" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Philadelphia 76ers vs. Brooklyn Nets (DAMITV)" tvg-logo="https://static.ppvservices.st/assets/thumb/7e3427c9f7a9de5ba308c994665d4a33-thumbnail.jpg" group-title="Live - Other Events",[NBA] Philadelphia 76ers vs. Brooklyn Nets (DAMITV)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=nba/2026-10-08/phi-bkn
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/nba/2026-10-08/phi-bkn/playlist.m3u8?tk=FE91_2qbbKS1D5Iy5QpRjQ&e=1791543615
+#EXTINF:-1 tvg-chno="368" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] San Antonio Spurs vs Atlanta Hawks (FLYEMBD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Other Events",[NBA] San Antonio Spurs vs Atlanta Hawks (FLYEMBD)
+#EXTVLCOPT:http-referrer=https://exmxbxe.cfd/flyemb/9e6ho0hu-6027
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://justkidding.junksonus.party/main/secure/767ca548c97433f741baa589448c861b77483f58bce1f4e56b30fdbeec8bf082/1791511205/nba-401898394.m3u8
+#EXTINF:-1 tvg-chno="369" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] San Antonio Spurs vs Atlanta Hawks (WATCHFTY)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Other Events",[NBA] San Antonio Spurs vs Atlanta Hawks (WATCHFTY)
+#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/401898394/san-antonio-spurs-atlanta-hawks/pro/1?player=clappr&autoplay=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://lb6.wfty.st/secure/ZHxKKOgzrPqchf3fVq_O0w/pro/san-antonio-spurs-atlanta-hawks/1/401898394/1791527421/playlist.m3u8
+#EXTINF:-1 tvg-chno="370" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Washington Wizards at New York Knicks (SPRTSPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Other Events",[NBA] Washington Wizards at New York Knicks (SPRTSPASS)
+#EXTVLCOPT:http-referrer=https://sportspass.click/nba/knicks.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://velqorin.s3.us-east-1.amazonaws.com/knicks.m3u8
+#EXTINF:-1 tvg-chno="371" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Washington Wizards vs New York Knicks (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/basketball_washington-wizards-vs-new-york-knicks_Washington_Wizards_vs_New_York" group-title="Live - Other Events",[NBA] Washington Wizards vs New York Knicks (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://streamfree.top/live-origin/washington-wizards-vs-new-york-knicks1080p3/index.m3u8?_e=1791532806&_n=e1d10377bb7c8d93&_t=pZyuMJnc0cmVdNZ3o1ekBg
+#EXTINF:-1 tvg-chno="372" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Washington Wizards vs New York Knicks | English (STRMGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Other Events",[NBA] Washington Wizards vs New York Knicks | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401906508
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://instreams.pro/live3/tv401906508/index.m3u8?st=VoXj2kFhPZH6_vpas6OReQ&e=1791511218
+#EXTINF:-1 tvg-chno="373" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Washington Wizards vs. New York Knicks (DAMITV)" tvg-logo="https://static.ppvservices.st/assets/thumb/2700acca25b4e7e37c98f46c1a70c47c-thumbnail.jpg" group-title="Live - Other Events",[NBA] Washington Wizards vs. New York Knicks (DAMITV)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=nba/2026-10-08/wsh-ny
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/nba/2026-10-08/wsh-ny/playlist.m3u8?tk=FE91_2qbbKS1D5Iy5QpRjQ&e=1791543615
+#EXTINF:-1 tvg-chno="374" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA - Football] Arkansas State Red Wolves vs South Alabama Jaguars (FLYEMBD)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live - Other Events",[NCAA - Football] Arkansas State Red Wolves vs South Alabama Jaguars (FLYEMBD)
+#EXTVLCOPT:http-referrer=https://exmxbxe.cfd/flyemb/33jhpzfr-6115
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://justkidding.junksonus.party/main/secure/c7943891e4180517d6984e8d947c04118b32d2eed75b5937e296bf7356b44b12/1791509417/espn2-usa.m3u8
+#EXTINF:-1 tvg-chno="375" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA - Football] Liberty Flames vs Sam Houston Bearkats (FLYEMBD)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live - Other Events",[NCAA - Football] Liberty Flames vs Sam Houston Bearkats (FLYEMBD)
+#EXTVLCOPT:http-referrer=https://exmxbxe.cfd/flyemb/wqbwjjhf-7938
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://justkidding.junksonus.party/main/secure/6159a2d3ada06ebefa2b12dc31e445f5e246334ecbe316af307cda433769058b/1791514820/espnu-usa.m3u8
+#EXTINF:-1 tvg-chno="376" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA - Football] UTSA Roadrunners vs South Florida Bulls (FLYEMBD)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live - Other Events",[NCAA - Football] UTSA Roadrunners vs South Florida Bulls (FLYEMBD)
+#EXTVLCOPT:http-referrer=https://exmxbxe.cfd/flyemb/o9bl8cai-9245
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://justkidding.junksonus.party/main/secure/990946f5d78b464a83ae3a4807b7dfe4710e32cf50a146339c950b0c41efd6db/1791509417/espn-usa.m3u8
+#EXTINF:-1 tvg-chno="377" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA - Football] Western Kentucky Hilltoppers vs Missouri State Bears (FLYEMBD)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live - Other Events",[NCAA - Football] Western Kentucky Hilltoppers vs Missouri State Bears (FLYEMBD)
+#EXTVLCOPT:http-referrer=https://exmxbxe.cfd/flyemb/9c2jwr40-1810
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://justkidding.junksonus.party/main/secure/618f917ac09aaedf759d2483de29fb5a9b531c5ea729fc94c6e973840b8b042a/1791514820/cbssn-usa.m3u8
+#EXTINF:-1 tvg-chno="378" tvg-id="Live.Event.us" tvg-name="[NCAA College Football] UTSA vs South Florida (REED)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[NCAA College Football] UTSA vs South Florida (REED)
+#EXTVLCOPT:http-referrer=https://reedstreams.link
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://admin2.formaturamaxi.com.br/ncaa3.m3u8
+#EXTINF:-1 tvg-chno="379" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA Football] Missouri State Bears @ Western Kentucky Hilltoppers (TIMSTRM)" tvg-logo="http://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/cfb-401871052.png" group-title="Live - Other Events",[NCAA Football] Missouri State Bears @ Western Kentucky Hilltoppers (TIMSTRM)
+#EXTVLCOPT:http-referrer=https://grandemx.org/9c2jwr40-7057
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://justkidding.junksonus.party/main/secure/ffcbc9d72cfa591db6ddada7b2625c858033df848ba8e94bbb29b4acd18e2410/1791514816/cbssn-usa.m3u8
+#EXTINF:-1 tvg-chno="380" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA Football] Sam Houston Bearkats @ Liberty Flames (TIMSTRM)" tvg-logo="http://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/cfb-401870766.png" group-title="Live - Other Events",[NCAA Football] Sam Houston Bearkats @ Liberty Flames (TIMSTRM)
+#EXTVLCOPT:http-referrer=https://grandemx.org/wqbwjjhf-9294
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://justkidding.junksonus.party/main/secure/cf3c77612fc629fb61fefa8af9403ea59f38d7fa2e53f6abc4d94865778a6bd5/1791514816/espnu-usa.m3u8
+#EXTINF:-1 tvg-chno="381" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA Football] South Alabama Jaguars @ Arkansas State Red Wolves (TIMSTRM)" tvg-logo="http://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/cfb-401869933.png" group-title="Live - Other Events",[NCAA Football] South Alabama Jaguars @ Arkansas State Red Wolves (TIMSTRM)
+#EXTVLCOPT:http-referrer=https://grandemx.org/33jhpzfr-8317
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://justkidding.junksonus.party/main/secure/156362b0203e7b4254c454a5cc8386c911a3786d0fe796d8c3fd9398ca745c56/1791509416/espn2-usa.m3u8
+#EXTINF:-1 tvg-chno="382" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA Football] South Florida Bulls @ UTSA Roadrunners (TIMSTRM)" tvg-logo="http://cdn.jsdelivr.net/gh/willthequeencome/img-cdn/images/cfb-401862794.png" group-title="Live - Other Events",[NCAA Football] South Florida Bulls @ UTSA Roadrunners (TIMSTRM)
+#EXTVLCOPT:http-referrer=https://grandemx.org/o9bl8cai-8484
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://justkidding.junksonus.party/main/secure/11fd97dfbb5002ac4afeb58ef23926eb1195a972080829e4fec7483ea8b5b080/1791509415/espn-usa.m3u8
+#EXTINF:-1 tvg-chno="383" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAAF (FBS)] Liberty vs Sam Houston (WATCHFTY)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live - Other Events",[NCAAF (FBS)] Liberty vs Sam Houston (WATCHFTY)
+#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/4706552/liberty-sam-houston/pro/1?player=clappr&autoplay=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://lb4.wfty.st/secure/qu34MV2vHYSj3zZe5dpTRA/pro/liberty-sam-houston/1/4706552/1791523825/playlist.m3u8
+#EXTINF:-1 tvg-chno="384" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAAF (FBS)] Western Kentucky vs Missouri State (WATCHFTY)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live - Other Events",[NCAAF (FBS)] Western Kentucky vs Missouri State (WATCHFTY)
+#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/4706441/western-kentucky-missouri-state/pro/1?player=clappr&autoplay=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://lb1.wfty.st/secure/lCiS5BRmpfjJ0-KyLxVIjw/pro/western-kentucky-missouri-state/1/4706441/1791523822/playlist.m3u8
+#EXTINF:-1 tvg-chno="385" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAAF] Missouri State Bears vs Western Kentucky Hilltoppers (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/football_missouri-state-bears-vs-western-kentucky-hilltoppers_Missouri_State_Bears_vs_Wester" group-title="Live - Other Events",[NCAAF] Missouri State Bears vs Western Kentucky Hilltoppers (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://streamfree.top/live-cdn/missouri-state-bears-vs-western-kentucky-hilltoppers1080p/index.m3u8?_e=1791531008&_n=b2ce30677eacf44f&_t=CE4rn351klzArpw7p5rsww
+#EXTINF:-1 tvg-chno="386" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAAF] Sam Houston Bearkats vs Liberty Flames (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/football_sam-houston-bearkats-vs-liberty-flames_Sam_Houston_Bearkats_vs_Libert" group-title="Live - Other Events",[NCAAF] Sam Houston Bearkats vs Liberty Flames (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://streamfree.top/live-cdn/sam-houston-bearkats-vs-liberty-flames1080p/index.m3u8?_e=1791531007&_n=51343ce8ee547cb6&_t=IrdNKs0cpfuGtlQ0WxcMvA
+#EXTINF:-1 tvg-chno="387" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAAF] South Alabama Jaguars vs Arkansas State Red Wolves (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/football_south-alabama-jaguars-vs-arkansas-state-red-wolves_South_Alabama_Jaguars_vs_Arkan" group-title="Live - Other Events",[NCAAF] South Alabama Jaguars vs Arkansas State Red Wolves (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://streamfree.top/live-cdn/south-alabama-jaguars-vs-arkansas-state-red-wolves1080p/index.m3u8?_e=1791532808&_n=46e75cb156a83281&_t=8EUlfw0CZT7q8bE7aiS7qw
+#EXTINF:-1 tvg-chno="388" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAAF] South Florida Bulls vs UTSA Roadrunners (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/football_south-florida-bulls-vs-utsa-roadrunners_South_Florida_Bulls_vs_UTSA_Ro" group-title="Live - Other Events",[NCAAF] South Florida Bulls vs UTSA Roadrunners (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://streamfree.top/live-origin/south-florida-bulls-vs-utsa-roadrunners1080p/index.m3u8?_e=1791532807&_n=59f6e69fb7db8f97&_t=d2LhEFj5w5dLU_dkAMFhEw
+#EXTINF:-1 tvg-chno="389" tvg-id="Live.Event.us" tvg-name="[PER 1] Los Chankas vs Atlético Grau | English (STRMGATE)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Other Events",[PER 1] Los Chankas vs Atlético Grau | English (STRMGATE)
 #EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401886170
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://instreams.live/live3/tv401886170/index.m3u8?st=z4r4jeXfETsSTl0N9Gfmfg&e=1791500415
-#EXTINF:-1 tvg-chno="186" tvg-id="Soccer.Dummy.us" tvg-name="[Qatar QSL] Al Wakrah vs Al Gharafa (FAWA)" tvg-logo="https://www.qsl.qa/sites/default/files/2021-09/QSL_Logo_Port_CMYK3.png" group-title="Live - Other Events",[Qatar QSL] Al Wakrah vs Al Gharafa (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+https://instreams.live/live3/tv401886170/index.m3u8?st=pI6xsV_GMmIx8uViRn2N3w&e=1791511215
+#EXTINF:-1 tvg-chno="390" tvg-id="UFC.247.Dummy.us" tvg-name="[UFC] UFC BJJ 12: Moura vs Fornarino (iSTRMEAST)" tvg-logo="https://1000logos.net/wp-content/uploads/2017/06/Logo-UFC-500x313.png" group-title="Live - Other Events",[UFC] UFC BJJ 12: Moura vs Fornarino (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/57734?ad=111
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.41/hls/diiii.m3u8
-#EXTINF:-1 tvg-chno="187" tvg-id="Soccer.Dummy.us" tvg-name="[Reserve League] Sarmiento Res. vs Vélez Sársfield Res. | Español 1 (PLIBRE)" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18817/image" group-title="Live - Other Events",[Reserve League] Sarmiento Res. vs Vélez Sársfield Res. | Español 1 (PLIBRE)
-#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=tntsports
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://a2lja3m.fubo18.com:443/tntsports/mono.m3u8?token=2e189bee243bdf8c1078b5a8161ba98f098cdfb0-4e-1791501320-1791483320
-#EXTINF:-1 tvg-chno="188" tvg-id="Tennis.Dummy.us" tvg-name="[Tenis] M1000 Shangai – Primera Ronda | ESPN 2 (TVF90)" tvg-logo="https://files.catbox.moe/q8ljra.png" group-title="Live - Other Events",[Tenis] M1000 Shangai – Primera Ronda | ESPN 2 (TVF90)
-#EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=espn2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://c2f2zQ.fubo18.com:443/espn2/mono.m3u8?token=cdc7fb3c8abd6a68e396bb6daa52a6cad154beff-7f-1791497713-1791479713
-#EXTINF:-1 tvg-chno="189" tvg-id="Tennis.Dummy.us" tvg-name="[Tenis] M1000 Shangai – Primera Ronda | ESPN 2 | HD (TVF90)" tvg-logo="https://files.catbox.moe/q8ljra.png" group-title="Live - Other Events",[Tenis] M1000 Shangai – Primera Ronda | ESPN 2 | HD (TVF90)
-#EXTVLCOPT:http-referrer=https://tvf90.com/hd.php?stream=espn2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://c2f2zQ.fubo18.com:443/espn2/mono.m3u8?token=13bee95b0f4faeab6f40e60083a761cce5dcf6fb-62-1791497714-1791479714
-#EXTINF:-1 tvg-chno="190" tvg-id="Tennis.Dummy.us" tvg-name="[Tenis] M1000 Shangai – Primera Ronda | ESPN 2 | OP2 (TVF90)" tvg-logo="https://files.catbox.moe/q8ljra.png" group-title="Live - Other Events",[Tenis] M1000 Shangai – Primera Ronda | ESPN 2 | OP2 (TVF90)
-#EXTVLCOPT:http-referrer=https://tvf90.com/2.php?stream=espn2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://4.ftlly.com:443/espn2/mono.m3u8?token=80f4403a8f278eebaad00c275624b92af1100a64-2c-1791497713-1791479713
-#EXTINF:-1 tvg-chno="191" tvg-id="Tennis.Dummy.us" tvg-name="[Tenis] M1000 Shangai – Primera Ronda | ESPN 2 | OP3 (TVF90)" tvg-logo="https://files.catbox.moe/q8ljra.png" group-title="Live - Other Events",[Tenis] M1000 Shangai – Primera Ronda | ESPN 2 | OP3 (TVF90)
-#EXTVLCOPT:http-referrer=https://tvf90.com/3.php?stream=espn2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://4.ftlly.com:443/espn2/mono.m3u8?token=1136599818b57fc6d4f5374ed9b2ac41d2fc3ac3-5d-1791497713-1791479713
-#EXTINF:-1 tvg-chno="192" tvg-id="Soccer.Dummy.us" tvg-name="[Torneo de Reserva] Atlético Tucumán  vs Talleres de Córdoba | ESPN 2 (TVF90)" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18817/image" group-title="Live - Other Events",[Torneo de Reserva] Atlético Tucumán  vs Talleres de Córdoba | ESPN 2 (TVF90)
-#EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=espn2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://dglvz29s.fubo18.com:443/espn2/mono.m3u8?token=9322310469d9d50db3184e86cbd3f37bda8fd7df-58-1791497709-1791479709
-#EXTINF:-1 tvg-chno="193" tvg-id="Soccer.Dummy.us" tvg-name="[Torneo de Reserva] Atlético Tucumán  vs Talleres de Córdoba | ESPN 2 | HD (TVF90)" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18817/image" group-title="Live - Other Events",[Torneo de Reserva] Atlético Tucumán  vs Talleres de Córdoba | ESPN 2 | HD (TVF90)
-#EXTVLCOPT:http-referrer=https://tvf90.com/hd.php?stream=espn2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://c2f2zQ.fubo18.com:443/espn2/mono.m3u8?token=c6ad36faa1aa5646e4d3bc82372774c96b27ee6f-84-1791497709-1791479709
-#EXTINF:-1 tvg-chno="194" tvg-id="Soccer.Dummy.us" tvg-name="[Torneo de Reserva] Atlético Tucumán  vs Talleres de Córdoba | ESPN 2 | OP2 (TVF90)" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18817/image" group-title="Live - Other Events",[Torneo de Reserva] Atlético Tucumán  vs Talleres de Córdoba | ESPN 2 | OP2 (TVF90)
-#EXTVLCOPT:http-referrer=https://tvf90.com/2.php?stream=espn2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://10.ftlly.com:443/espn2/mono.m3u8?token=d9cf6c0918302eaf5176cc3757a580224197aa5e-fe-1791497709-1791479709
-#EXTINF:-1 tvg-chno="195" tvg-id="Soccer.Dummy.us" tvg-name="[Torneo de Reserva] Atlético Tucumán  vs Talleres de Córdoba | ESPN 2 | OP3 (TVF90)" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18817/image" group-title="Live - Other Events",[Torneo de Reserva] Atlético Tucumán  vs Talleres de Córdoba | ESPN 2 | OP3 (TVF90)
-#EXTVLCOPT:http-referrer=https://tvf90.com/3.php?stream=espn2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://2.ftlly.com:443/espn2/mono.m3u8?token=0609a7ef076a566840337fe8c983e38e2c81ef80-4b-1791497709-1791479709
-#EXTINF:-1 tvg-chno="196" tvg-id="Soccer.Dummy.us" tvg-name="[Torneo de Reserva] Sarmiento vs Vélez Sársfield | TNT Sports (TVF90)" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18817/image" group-title="Live - Other Events",[Torneo de Reserva] Sarmiento vs Vélez Sársfield | TNT Sports (TVF90)
-#EXTVLCOPT:http-referrer=https://tvf90.com/3.php?stream=tntsports
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://3.ftlly.com:443/tntsports/mono.m3u8?token=0a9de08ec8e6747d1122804914eb218c30486010-eb-1791497712-1791479712
-#EXTINF:-1 tvg-chno="197" tvg-id="Soccer.Dummy.us" tvg-name="[Torneo de Reserva] Sarmiento vs Vélez Sársfield | TNT Sports | OP2 (TVF90)" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18817/image" group-title="Live - Other Events",[Torneo de Reserva] Sarmiento vs Vélez Sársfield | TNT Sports | OP2 (TVF90)
-#EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=tntsports
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://am91cm5leQ.fubo18.com:443/tntsports/mono.m3u8?token=98c02a10253d8faff41ccfdf9af30c80ceab3e8f-82-1791497712-1791479712
-#EXTINF:-1 tvg-chno="198" tvg-id="Soccer.Dummy.us" tvg-name="[Torneo de Reserva] Sarmiento vs Vélez Sársfield | TNT Sports | OP3 (TVF90)" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18817/image" group-title="Live - Other Events",[Torneo de Reserva] Sarmiento vs Vélez Sársfield | TNT Sports | OP3 (TVF90)
-#EXTVLCOPT:http-referrer=https://tvf90.com/2.php?stream=tntsports
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://6.ftlly.com:443/tntsports/mono.m3u8?token=a4cf5996e04573c8a832e7b413d3d88f77b34cd3-30-1791497713-1791479713
-#EXTINF:-1 tvg-chno="199" tvg-id="Soccer.Dummy.us" tvg-name="[Turkey Cup] Orduspor 1967 vs Karadeniz Eregli (FAWA)" tvg-logo="https://assets.football-logos.cc/logos/turkey/1500x1500/turkish-cup.42a3a6ff.png" group-title="Live - Other Events",[Turkey Cup] Orduspor 1967 vs Karadeniz Eregli (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.44/hls/NVVV.m3u8
+https://chatgpt.hereisman.net/playlist/57734/load-playlist
