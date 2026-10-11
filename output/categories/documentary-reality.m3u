@@ -9,7 +9,7 @@ http://23.237.104.106:8080/USA_COOKING/index.m3u8
 http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/index.m3u8
 #EXTINF:-1 tvg-chno="5" tvg-id="Destination.America.HD.us2" tvg-name="Destination America" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16617_dark_360w_270h.png" group-title="Documentary & Reality",Destination America
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb219/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMjE5OjE3OTE3MjAwMDMxNjQ6Y2RubGl2ZXR2LnR2OmUxOTdiNDNlOWJjYjdkN2UuM2ZmNWU3NzgzZjg1OWJiOWIyYjVlNGJlYmRkZWI2MDM1MjBjNDk4NGNjZTI0MWViNTAyY2M5ODA3Y2VkM2EzYg
+https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb219/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMjE5OjE3OTE3NDcwMDMzNDc6Y2RubGl2ZXR2LnR2OmJjMzdiOTI2Mjc2ZDVhOGMuZjIwNmUzZGJiZjQ0N2IwNjkwNmI4NTQxM2VhNGUwZGE2ZmFmZDk4MTY4NzViMDZlNmYzMDUxN2I2OTc3NTE3NQ
 #EXTINF:-1 tvg-chno="6" tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11150_dark_360w_270h.png" group-title="Documentary & Reality",Discovery Channel
 #EXTVLCOPT:http-referrer=https://tvnow.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
@@ -24,7 +24,7 @@ https://cache0.wonvt.st/live/04jtyrz0krzod10e5j0fe/master.m3u8
 https://cache0.wonvt.st/live/0xbky8p1wnu9o60r5rdi3/master.m3u8
 #EXTINF:-1 tvg-chno="9" tvg-id="FYI.Channel.HD.us2" tvg-name="FYI TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16834_dark_360w_270h.png" group-title="Documentary & Reality",FYI TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb22d/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMjJkOjE3OTE3MjAwMDM5NjM6Y2RubGl2ZXR2LnR2OjhlMGRiMjFmMGJiMTI4ZmQuOTJhZjA2ZmJmY2Q1NDJlYjI3NWI1M2EyMjAxMTBhZjkzZWM2YjMxM2M5NTc2YzkyNjhiMWI1NjljMTMzYzZhNw
+https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb22d/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMjJkOjE3OTE3NDcwMDQxNzU6Y2RubGl2ZXR2LnR2OjI0NmM2N2QwOTY5OGFlMmEuY2QxYTZmMzQ5ZTMwODk0OGYzYWI4ZDlkNzQ3NDg0YWJkZDZjMDk5MmMwNTc4NWZhMmUyYTUzYmQ0ZTIyNmY3ZQ
 #EXTINF:-1 tvg-chno="10" tvg-id="KRPC-LD.us_locals1" tvg-name="Heartland" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s78584_dark_360w_270h.png" group-title="Documentary & Reality",Heartland
 https://2-fss-2.streamhoster.com/pl_120/201950-2724904-1/playlist.m3u8
 #EXTINF:-1 tvg-chno="11" tvg-id="History.HD.us2" tvg-name="History Channel" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87679_dark_360w_270h.png" group-title="Documentary & Reality",History Channel
@@ -35,10 +35,10 @@ http://212.5.144.156:8080/history/index.m3u8
 https://cache0.wonvt.st/live/00l9cyk0hoy9rx0kp05s0/master.m3u8
 #EXTINF:-1 tvg-chno="13" tvg-id="INSP.HD.us2" tvg-name="INSP" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11066_dark_360w_270h.png" group-title="Documentary & Reality",INSP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb245/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMjQ1OjE3OTE3MjAwMDQ1MDI6Y2RubGl2ZXR2LnR2OjQ2YjY4NTcwZDg1YTgwZGEuOTFkZTU2YTFlZTVjMWViZjlkOWY1MDNhNDA5ZDdiNDBmNWY1NTRiNWE3ZTkzZTM3YTgwZWQ1ZDg1OGM3MmRhNw
+https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb245/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMjQ1OjE3OTE3NDcwMDQ3NjY6Y2RubGl2ZXR2LnR2OjIwYWEzNGIzZDg5YWJlM2UuNTQ0MTI3ZTJiODA3OTY0MDM4MmFlZjk1MjY1NjU4MDdjM2Q4OTg2YjljMjBjMGUzZjhiMmU0YTI5ZTA4MjljYg
 #EXTINF:-1 tvg-chno="14" tvg-id="Investigation.Discovery.HD.us2" tvg-name="Investigation Discovery" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16615_dark_360w_270h.png" group-title="Documentary & Reality",Investigation Discovery
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb6bb/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNmJiOjE3OTE3MjAwMDQ2NDY6Y2RubGl2ZXR2LnR2Ojc0ODZiMjdkN2Y4NmI4MmUuOWRhM2UzYzQ4ZTA4MWM2Mzk2MzYwMDNiMmZhNTZhYTg5MzEwNjg3MzVhYmQzOWNmYmU2ZWU0NzllZDEyMzBmZQ
+https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb6bb/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNmJiOjE3OTE3NDcwMDQ5MDY6Y2RubGl2ZXR2LnR2OjYwNGNmYTMzZjcwNDNmNmUuZTAyNjA5NTkyZGI4YTk1OWE1YjY5NmEwYzRhMDcwMmMwY2EyZWJlMjUwZGQzYjk1OWY2Njc2ZmUxMjg2MDU1Ng
 #EXTINF:-1 tvg-chno="15" tvg-id="National.Geographic.HD.us2" tvg-name="Nat Geo" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" group-title="Documentary & Reality",Nat Geo
 http://198.58.104.90:8989/natgeo/index.m3u8
 #EXTINF:-1 tvg-chno="16" tvg-id="National.Geographic.HD.us2" tvg-name="Nat Geo (Alt)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" group-title="Documentary & Reality",Nat Geo (Alt)
@@ -49,12 +49,12 @@ https://cache0.wonvt.st/live/18r794415ngppi12qwiqy/master.m3u8
 http://23.237.104.106:8080/USA_NAT_GEO_WILD/index.m3u8
 #EXTINF:-1 tvg-chno="18" tvg-id="Oxygen.True.Crime.HD.us2" tvg-name="Oxygen True Crime" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70522_dark_360w_270h.png" group-title="Documentary & Reality",Oxygen True Crime
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb266/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMjY2OjE3OTE3MjAwMDU5OTU6Y2RubGl2ZXR2LnR2OjYyN2ZiZWJlYjQwMDYyNmYuYzBhNjk1OGJhODEyNGNkOWE3YjMwMmQ3NWU0MzViMjliZWYzMWNlODcxZTFkYzFiOTYzOWU4ZWNjN2M1ZWY5MA
+https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb266/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMjY2OjE3OTE3NDcwMDYzNTM6Y2RubGl2ZXR2LnR2OmJhODYxZTA0NTcwNDc4MjQuMjQwNGE3YTU1Yzk2YzIzZjExY2NjY2U4NDk4NmQ2YmQ1MWExYTcyMTczYzUyNjIwMTcxZmJiZDBlNzQ5ZGQxYw
 #EXTINF:-1 tvg-chno="19" tvg-id="Science.Channel.HD.us2" tvg-name="Science Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24282_dark_360w_270h.png" group-title="Documentary & Reality",Science Channel
 http://23.237.104.106:8080/USA_SCIENCE/index.m3u8
 #EXTINF:-1 tvg-chno="20" tvg-id="Smithsonian.HD.Network.us2" tvg-name="Smithsonian Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58532_dark_360w_270h.png" group-title="Documentary & Reality",Smithsonian Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb27d/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMjdkOjE3OTE3MjAwMDc4Njc6Y2RubGl2ZXR2LnR2OjFiOTQ0MWE0NmI3ODMyNWMuZDc2OTM5ZGM3MWQ0Y2I5ZDBiMGRhODI0YWVmMzJkMDQyNDIxOWVmNGRmNDNmMDM5NWRmNWI1ZTgyMjU5NWRjOA
+https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb27d/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMjdkOjE3OTE3NDcwMDgzNjg6Y2RubGl2ZXR2LnR2OjU2YjU2YzgzOWZjMzE5MDUuZTJmMDZhM2RjMTE3NjZjMTg3MTU5OThkZWEwZmQ5ODc3MzgwYjNhMDFkMjc5YTk5ODU4MGMzYjBjN2U1NmQ2ZQ
 #EXTINF:-1 tvg-chno="21" tvg-id="TLC.HD.(US).us2" tvg-name="TLC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png" group-title="Documentary & Reality",TLC
 #EXTVLCOPT:http-referrer=https://tvnow.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
