@@ -10,92 +10,112 @@ https://fingersoon.st/scripts/application1
 #EXTINF:-1 tvg-chno="73" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Bills vs Rams (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Bills vs Rams (WEBCAST)
 #EXTVLCOPT:http-referrer=https://nflwebcast.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://webcast-origin.b-cdn.net/bcdn_token=NSyQ3Q3tsz3jMY2DVGcK0IQ-K7WhwK8fc1_dx9ARKd4&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGpUxEISKzryIOuVpSJQREE%2F&expires=1791833525/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGpUxEISKzryIOuVpSJQREE/177.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=sD4YqrMiR5613Tg7Q6DQHYgVl50Rq6RhvH8RpoQb5p0&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGpUxEISKzryIOuVpSJQREE%2F&expires=1791858738/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGpUxEISKzryIOuVpSJQREE/177.m3u8
 #EXTINF:-1 tvg-chno="74" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Bills vs Rams 1 (STP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Bills vs Rams 1 (STP)
 #EXTVLCOPT:http-referrer=https://streamx305.sbs/global1.php?channel=espn2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://s2.envivoslatam99.sbs:443/global/espn2/index.m3u8?token=2cbb9ab2a4574992278b327de17f81f357187ce3-1c-1791871219-1791817219
+https://s3.envivoslatam99.sbs:443/global/espn2/index.m3u8?token=4852dc1a21454a0697f98723a3b07fa6ddfb5379-ed-1791891004-1791837004
 #EXTINF:-1 tvg-chno="75" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Bills vs Rams 2 (STP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Bills vs Rams 2 (STP)
 #EXTVLCOPT:http-referrer=https://streamx305.sbs/global1.php?channel=espndeportes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://s2.envivoslatam99.sbs:443/global/espndeportes/index.m3u8?token=147f6b02de80ca06f0492a6c9a0c468eedba940d-65-1791871219-1791817219
-#EXTINF:-1 tvg-chno="76" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Chicago Bears vs Green Bay Packers (OVO)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Chicago Bears vs Green Bay Packers (OVO)
+https://s3.envivoslatam99.sbs:443/global/espndeportes/index.m3u8?token=b7a994cda18b177f5736975f544596fb8d652f76-95-1791891005-1791837005
+#EXTINF:-1 tvg-chno="76" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Buffalo Bills vs Los Angeles Rams (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/football_buffalo-bills-vs-los-angeles-rams_Buffalo_Bills_vs_Los_Angeles_R" group-title="Live - American Football",[NFL] Buffalo Bills vs Los Angeles Rams (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://streamfree.top/live-cdn/buffalo-bills-vs-los-angeles-rams1080p/index.m3u8?_e=1791882017&_n=83347d0066aad6e9&_t=TZya2-VklO0w6W5qBAoUdw
+#EXTINF:-1 tvg-chno="77" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Buffalo Bills vs Los Angeles Rams | English (STRMGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Buffalo Bills vs Los Angeles Rams | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401872994
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://instreams.pro/live3/tv401872994/index.m3u8?st=z4uz3iBGBMBPJO0vZZhM9A&e=1791871204
+#EXTINF:-1 tvg-chno="78" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Buffalo Bills vs Los Angeles Rams | ESPN 2 (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Buffalo Bills vs Los Angeles Rams | ESPN 2 (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espn2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/espn2/index.m3u8?token=2250724f5caab4f95e15466d652de33ccafeab20-3e-1791891010-1791837010
+#EXTINF:-1 tvg-chno="79" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Chicago Bears vs Green Bay Packers (OVO)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Chicago Bears vs Green Bay Packers (OVO)
 #EXTVLCOPT:http-referrer=https://otaghera.site/updatesnfl/chicago-bears-vs-green-bay-packers/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://fingersoon.st/scripts/application1
-#EXTINF:-1 tvg-chno="77" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Cincinnati Bengals vs Miami Dolphins (OVO)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Cincinnati Bengals vs Miami Dolphins (OVO)
+#EXTINF:-1 tvg-chno="80" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Cincinnati Bengals vs Miami Dolphins (OVO)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Cincinnati Bengals vs Miami Dolphins (OVO)
 #EXTVLCOPT:http-referrer=https://otaghera.site/updatesnfl/cincinnati-bengals-vs-miami-dolphins/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://fingersoon.st/scripts/application3
-#EXTINF:-1 tvg-chno="78" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Cleveland Browns vs New York Jets (OVO)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Cleveland Browns vs New York Jets (OVO)
+#EXTINF:-1 tvg-chno="81" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Cleveland Browns vs New York Jets (OVO)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Cleveland Browns vs New York Jets (OVO)
 #EXTVLCOPT:http-referrer=https://otaghera.site/updatesnfl/cleveland-browns-vs-new-york-jets/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://fingersoon.st/scripts/application6
-#EXTINF:-1 tvg-chno="79" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Denver Broncos vs Los Angeles Chargers (OVO)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Denver Broncos vs Los Angeles Chargers (OVO)
+#EXTINF:-1 tvg-chno="82" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Denver Broncos vs Los Angeles Chargers (OVO)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Denver Broncos vs Los Angeles Chargers (OVO)
 #EXTVLCOPT:http-referrer=https://otaghera.site/updatesnfl/denver-broncos-vs-los-angeles-chargers/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://fingersoon.st/scripts/application9
-#EXTINF:-1 tvg-chno="80" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Detroit Lions vs Arizona Cardinals (OVO)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Detroit Lions vs Arizona Cardinals (OVO)
+#EXTINF:-1 tvg-chno="83" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Detroit Lions vs Arizona Cardinals (OVO)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Detroit Lions vs Arizona Cardinals (OVO)
 #EXTVLCOPT:http-referrer=https://otaghera.site/updatesnfl/detroit-lions-vs-arizona-cardinals/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://fingersoon.st/scripts/application1
-#EXTINF:-1 tvg-chno="81" tvg-id="Football.Dummy.us" tvg-name="[NFL] Detroit Pistons vs Washington Wizards (OVO)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live - American Football",[NFL] Detroit Pistons vs Washington Wizards (OVO)
+#EXTINF:-1 tvg-chno="84" tvg-id="Football.Dummy.us" tvg-name="[NFL] Detroit Pistons vs Washington Wizards (OVO)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live - American Football",[NFL] Detroit Pistons vs Washington Wizards (OVO)
 #EXTVLCOPT:http-referrer=https://otaghera.site/updates/nba-games3/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://fingersoon.st/scripts/application3
-#EXTINF:-1 tvg-chno="82" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Houston Texans vs Tennessee Titans (OVO)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Houston Texans vs Tennessee Titans (OVO)
+#EXTINF:-1 tvg-chno="85" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Houston Texans vs Tennessee Titans (OVO)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Houston Texans vs Tennessee Titans (OVO)
 #EXTVLCOPT:http-referrer=https://otaghera.site/updatesnfl/houston-texans-vs-tennessee-titans/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://fingersoon.st/scripts/application2
-#EXTINF:-1 tvg-chno="83" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Indianapolis Colts vs Pittsburgh Steelers (OVO)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Indianapolis Colts vs Pittsburgh Steelers (OVO)
+#EXTINF:-1 tvg-chno="86" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Indianapolis Colts vs Pittsburgh Steelers (OVO)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Indianapolis Colts vs Pittsburgh Steelers (OVO)
 #EXTVLCOPT:http-referrer=https://otaghera.site/updatesnfl/indianapolis-colts-vs-pittsburgh-steelers/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://fingersoon.st/scripts/application7
-#EXTINF:-1 tvg-chno="84" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Las Vegas Raiders vs New England Patriots (OVO)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Las Vegas Raiders vs New England Patriots (OVO)
+#EXTINF:-1 tvg-chno="87" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Las Vegas Raiders vs New England Patriots (OVO)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Las Vegas Raiders vs New England Patriots (OVO)
 #EXTVLCOPT:http-referrer=https://otaghera.site/updatesnfl/las-vegas-raiders-vs-new-england-patriots/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://fingersoon.st/scripts/application4
-#EXTINF:-1 tvg-chno="85" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Los Angeles Rams vs Buffalo Bills | Español 1 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Los Angeles Rams vs Buffalo Bills | Español 1 (PLIBRE)
+#EXTINF:-1 tvg-chno="88" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Los Angeles Rams vs Buffalo Bills (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Los Angeles Rams vs Buffalo Bills (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/57980?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://chatgpt.hereisman.net/playlist/57980/load-playlist
+#EXTINF:-1 tvg-chno="89" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Los Angeles Rams vs Buffalo Bills | Español 1 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Los Angeles Rams vs Buffalo Bills | Español 1 (PLIBRE)
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=espn2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://dw5pdgvk.fubo18.com:443/espn2/mono.m3u8?token=281d6c7f6f4057d96f0ec09eb9eb2819178378de-ce-1791846913-1791828913
-#EXTINF:-1 tvg-chno="86" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Los Angeles Rams vs Buffalo Bills | Español 2 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Los Angeles Rams vs Buffalo Bills | Español 2 (PLIBRE)
+https://Ym9yZQ.fubo18.com:443/espn2/mono.m3u8?token=303b3a5ee6eeff2ac0253f8d950b0deeb2cc073d-2c-1791866705-1791848705
+#EXTINF:-1 tvg-chno="90" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Los Angeles Rams vs Buffalo Bills | Español 2 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Los Angeles Rams vs Buffalo Bills | Español 2 (PLIBRE)
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=disney9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://c2f2zq.fubo18.com:443/disney9/mono.m3u8?token=f532cd7a7261da87c7812b30ab58ab93bd34c259-d1-1791846913-1791828913
-#EXTINF:-1 tvg-chno="87" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Los Angeles Rams vs. Buffalo Bills | ESPN 2 (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Los Angeles Rams vs. Buffalo Bills | ESPN 2 (TVF90)
+https://dw5pdgvk.fubo18.com:443/disney9/mono.m3u8?token=ca1145d36cdc32fa47c048e35d5e4ec78283bba3-a9-1791866706-1791848706
+#EXTINF:-1 tvg-chno="91" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Los Angeles Rams vs. Buffalo Bills | Disney+ (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Los Angeles Rams vs. Buffalo Bills | Disney+ (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=disney9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://c2f2zQ.fubo18.com:443/disney9/mono.m3u8?token=1e078c21059fe57eb407dabeeacefe4736dde134-9a-1791863111-1791845111
+#EXTINF:-1 tvg-chno="92" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Los Angeles Rams vs. Buffalo Bills | ESPN 2 (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Los Angeles Rams vs. Buffalo Bills | ESPN 2 (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=espn2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://b2ZmaWNpYWw.fubo18.com:443/espn2/mono.m3u8?token=887f9dd2ed197c23e678b76de099e089526e1db0-c6-1791843329-1791825329
-#EXTINF:-1 tvg-chno="88" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Los Angeles Rams vs. Buffalo Bills | ESPN 2 | HD (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Los Angeles Rams vs. Buffalo Bills | ESPN 2 | HD (TVF90)
+https://bgvnzw5k.fubo18.com:443/espn2/mono.m3u8?token=689d92fd58b563bb635b848292ae775f2d4cc05d-86-1791863110-1791845110
+#EXTINF:-1 tvg-chno="93" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Los Angeles Rams vs. Buffalo Bills | ESPN 2 | HD (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Los Angeles Rams vs. Buffalo Bills | ESPN 2 | HD (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/hd.php?stream=espn2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://bgvnzw5k.fubo18.com:443/espn2/mono.m3u8?token=765e73db71de947ee79c48b9ddc22ec7eecbae36-dc-1791843329-1791825329
-#EXTINF:-1 tvg-chno="89" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Los Angeles Rams vs. Buffalo Bills | ESPN 2 | OP2 (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Los Angeles Rams vs. Buffalo Bills | ESPN 2 | OP2 (TVF90)
+https://b2ZmaWNpYWw.fubo18.com:443/espn2/mono.m3u8?token=2646b5c4e86f917ef367eeae2aa51e462052dec4-f-1791863111-1791845111
+#EXTINF:-1 tvg-chno="94" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Los Angeles Rams vs. Buffalo Bills | ESPN 2 | OP2 (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Los Angeles Rams vs. Buffalo Bills | ESPN 2 | OP2 (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/2.php?stream=espn2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://11.ftlly.com:443/espn2/mono.m3u8?token=2f62161dcb85061009a16f6f11abf2ab16444660-93-1791843329-1791825329
-#EXTINF:-1 tvg-chno="90" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Los Angeles Rams vs. Buffalo Bills | ESPN 2 | OP3 (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Los Angeles Rams vs. Buffalo Bills | ESPN 2 | OP3 (TVF90)
+https://3.ftlly.com:443/espn2/mono.m3u8?token=73c348ea86f02d471c8d88a5d9c590c7ba36dc2d-d6-1791863110-1791845110
+#EXTINF:-1 tvg-chno="95" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Los Angeles Rams vs. Buffalo Bills | ESPN 2 | OP3 (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Los Angeles Rams vs. Buffalo Bills | ESPN 2 | OP3 (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/3.php?stream=espn2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://9.ftlly.com:443/espn2/mono.m3u8?token=9cddd298c0edc68ff08c0a7a4353d4515f491c58-30-1791843329-1791825329
-#EXTINF:-1 tvg-chno="91" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Minnesota Vikings vs New Orleans Saints (OVO)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Minnesota Vikings vs New Orleans Saints (OVO)
+https://10.ftlly.com:443/espn2/mono.m3u8?token=f11ac56f7454bb3480528571ceb88a1cf420b96b-b6-1791863111-1791845111
+#EXTINF:-1 tvg-chno="96" tvg-id="Football.Dummy.us" tvg-name="[NFL] ManningCast (iSTRMEAST)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live - American Football",[NFL] ManningCast (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/57982?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://chatgpt.hereisman.net/playlist/57982/load-playlist
+#EXTINF:-1 tvg-chno="97" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Minnesota Vikings vs New Orleans Saints (OVO)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Minnesota Vikings vs New Orleans Saints (OVO)
 #EXTVLCOPT:http-referrer=https://otaghera.site/updatesnfl/minnesota-vikings-vs-new-orleans-saints/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://fingersoon.st/scripts/application5
-#EXTINF:-1 tvg-chno="92" tvg-id="NFL.Dummy.us" tvg-name="[NFL] New York Giants vs Washington Commanders (OVO)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] New York Giants vs Washington Commanders (OVO)
+#EXTINF:-1 tvg-chno="98" tvg-id="NFL.Dummy.us" tvg-name="[NFL] New York Giants vs Washington Commanders (OVO)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] New York Giants vs Washington Commanders (OVO)
 #EXTVLCOPT:http-referrer=https://otaghera.site/updatesnfl/new-york-giants-vs-washington-commanders/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://fingersoon.st/scripts/application8
-#EXTINF:-1 tvg-chno="93" tvg-id="Football.Dummy.us" tvg-name="[NFL] NFL Network (DAMITV)" tvg-logo="https://static.ppvservices.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg" group-title="Live - American Football",[NFL] NFL Network (DAMITV)
-#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=nfl-network
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://messi.damitv.st/live-sd/streamed/admin/ppv-nfl-network/2/playlist.m3u8?tk=Ob3ycuoHYlew72MijlZr0Q&e=1791878408
-#EXTINF:-1 tvg-chno="94" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Philadelphia Eagles vs Jacksonville Jaguars (OVO)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Philadelphia Eagles vs Jacksonville Jaguars (OVO)
+#EXTINF:-1 tvg-chno="99" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Philadelphia Eagles vs Jacksonville Jaguars (OVO)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Philadelphia Eagles vs Jacksonville Jaguars (OVO)
 #EXTVLCOPT:http-referrer=https://otaghera.site/updatesnfl/philadelphia-eagles-vs-jacksonville-jaguars/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://fingersoon.st/scripts/application15
-#EXTINF:-1 tvg-chno="95" tvg-id="NFL.Dummy.us" tvg-name="[NFL] San Francisco 49ers vs Seattle Seahawks (OVO)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] San Francisco 49ers vs Seattle Seahawks (OVO)
+#EXTINF:-1 tvg-chno="100" tvg-id="NFL.Dummy.us" tvg-name="[NFL] San Francisco 49ers vs Seattle Seahawks (OVO)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] San Francisco 49ers vs Seattle Seahawks (OVO)
 #EXTVLCOPT:http-referrer=https://otaghera.site/updatesnfl/san-francisco-49ers-vs-seattle-seahawks/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://fingersoon.st/scripts/application2
