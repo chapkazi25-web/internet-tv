@@ -1,81 +1,73 @@
 #EXTM3U url-tvg="https://s.id/d9sEPG"
-#EXTINF:-1 tvg-chno="80" tvg-id="Live.Event.us" tvg-name="[Basketball Eurocup] Lietkabelis vs PAOK (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Basketball",[Basketball Eurocup] Lietkabelis vs PAOK (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.50/hls/y555.m3u8
-#EXTINF:-1 tvg-chno="81" tvg-id="Basketball.Dummy.us" tvg-name="[Basketball Euroleague] Barcelona vs Maccabi Tel Aviv 1 (FAWA)" tvg-logo="https://www.euroleaguebasketball.net/images/logo-default.png" group-title="Live - Basketball",[Basketball Euroleague] Barcelona vs Maccabi Tel Aviv 1 (FAWA)
+#EXTINF:-1 tvg-chno="84" tvg-id="Basketball.Dummy.us" tvg-name="[Basketball Euroleague] Barcelona vs Maccabi Tel Aviv (FAWA)" tvg-logo="https://www.euroleaguebasketball.net/images/logo-default.png" group-title="Live - Basketball",[Basketball Euroleague] Barcelona vs Maccabi Tel Aviv (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 http://193.47.62.50/hls/D777A.m3u8
-#EXTINF:-1 tvg-chno="82" tvg-id="Basketball.Dummy.us" tvg-name="[Basketball Euroleague] Barcelona vs Maccabi Tel Aviv 2 (FAWA)" tvg-logo="https://www.euroleaguebasketball.net/images/logo-default.png" group-title="Live - Basketball",[Basketball Euroleague] Barcelona vs Maccabi Tel Aviv 2 (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://www.rtmpcdn.com/live/d43c70b6-cb2d-43a2-8eba-f4f1da57a510.m3u8
-#EXTINF:-1 tvg-chno="83" tvg-id="Basketball.Dummy.us" tvg-name="[Basketball Euroleague] Baskonia vs Dubai 1 (FAWA)" tvg-logo="https://www.euroleaguebasketball.net/images/logo-default.png" group-title="Live - Basketball",[Basketball Euroleague] Baskonia vs Dubai 1 (FAWA)
+#EXTINF:-1 tvg-chno="85" tvg-id="Basketball.Dummy.us" tvg-name="[Basketball Euroleague] Baskonia vs Dubai (FAWA)" tvg-logo="https://www.euroleaguebasketball.net/images/logo-default.png" group-title="Live - Basketball",[Basketball Euroleague] Baskonia vs Dubai (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 http://193.47.62.50/hls/D777AA.m3u8
-#EXTINF:-1 tvg-chno="84" tvg-id="Basketball.Dummy.us" tvg-name="[Basketball Euroleague] Baskonia vs Dubai 2 (FAWA)" tvg-logo="https://www.euroleaguebasketball.net/images/logo-default.png" group-title="Live - Basketball",[Basketball Euroleague] Baskonia vs Dubai 2 (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://www.rtmpcdn.com/live/527f296f-2dc3-49b2-a3e4-f22b0e0719b1.m3u8
-#EXTINF:-1 tvg-chno="85" tvg-id="Basketball.Dummy.us" tvg-name="[Basketball Euroleague] Fenerbahce vs Zalgiris Kaunas 1 (FAWA)" tvg-logo="https://www.euroleaguebasketball.net/images/logo-default.png" group-title="Live - Basketball",[Basketball Euroleague] Fenerbahce vs Zalgiris Kaunas 1 (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.50/hls/YY666A.m3u8
-#EXTINF:-1 tvg-chno="86" tvg-id="Basketball.Dummy.us" tvg-name="[Basketball Euroleague] Fenerbahce vs Zalgiris Kaunas 2 (FAWA)" tvg-logo="https://www.euroleaguebasketball.net/images/logo-default.png" group-title="Live - Basketball",[Basketball Euroleague] Fenerbahce vs Zalgiris Kaunas 2 (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://www.rtmpcdn.com/live/36d0764e-7561-4b10-a846-1eb5f7c0f3ee.m3u8
-#EXTINF:-1 tvg-chno="87" tvg-id="Basketball.Dummy.us" tvg-name="[Basketball Euroleague] Lyon-Villeurbanne vs Crvena Zvezda 1 (FAWA)" tvg-logo="https://www.euroleaguebasketball.net/images/logo-default.png" group-title="Live - Basketball",[Basketball Euroleague] Lyon-Villeurbanne vs Crvena Zvezda 1 (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.50/hls/YY666AA.m3u8
-#EXTINF:-1 tvg-chno="88" tvg-id="Basketball.Dummy.us" tvg-name="[Basketball Euroleague] Lyon-Villeurbanne vs Crvena Zvezda 2 (FAWA)" tvg-logo="https://www.euroleaguebasketball.net/images/logo-default.png" group-title="Live - Basketball",[Basketball Euroleague] Lyon-Villeurbanne vs Crvena Zvezda 2 (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://www.rtmpcdn.com/live/2444365f-2e99-48d5-b448-720821104278.m3u8
-#EXTINF:-1 tvg-chno="89" tvg-id="Basketball.Dummy.us" tvg-name="[Basketball Euroleague] Olimpia Milano vs Real Madrid 1 (FAWA)" tvg-logo="https://www.euroleaguebasketball.net/images/logo-default.png" group-title="Live - Basketball",[Basketball Euroleague] Olimpia Milano vs Real Madrid 1 (FAWA)
+#EXTINF:-1 tvg-chno="86" tvg-id="Basketball.Dummy.us" tvg-name="[Basketball Euroleague] Olimpia Milano vs Real Madrid (FAWA)" tvg-logo="https://www.euroleaguebasketball.net/images/logo-default.png" group-title="Live - Basketball",[Basketball Euroleague] Olimpia Milano vs Real Madrid (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 http://193.47.62.50/hls/D777AAA.m3u8
-#EXTINF:-1 tvg-chno="90" tvg-id="Basketball.Dummy.us" tvg-name="[Basketball Euroleague] Olimpia Milano vs Real Madrid 2 (FAWA)" tvg-logo="https://www.euroleaguebasketball.net/images/logo-default.png" group-title="Live - Basketball",[Basketball Euroleague] Olimpia Milano vs Real Madrid 2 (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-chno="87" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[Basketball] Cleveland Cavaliers vs Orlando Magic (XYZ)" tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nba/500/cle.png&logo2=https://a.espncdn.com/i/teamlogos/nba/500/orl.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png&color1=860038&color2=0077C0&q=65&w=100" group-title="Live - Basketball",[Basketball] Cleveland Cavaliers vs Orlando Magic (XYZ)
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/nba-1.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://www.rtmpcdn.com/live/9a2ba706-5686-4f59-9a34-8c9260014099.m3u8
-#EXTINF:-1 tvg-chno="91" tvg-id="Basketball.Dummy.us" tvg-name="[Basketball Euroleague] Partizan vs Panathinaikos 1 (FAWA)" tvg-logo="https://www.euroleaguebasketball.net/images/logo-default.png" group-title="Live - Basketball",[Basketball Euroleague] Partizan vs Panathinaikos 1 (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.50/hls/D777AAAA.m3u8
-#EXTINF:-1 tvg-chno="92" tvg-id="Basketball.Dummy.us" tvg-name="[Basketball Euroleague] Partizan vs Panathinaikos 2 (FAWA)" tvg-logo="https://www.euroleaguebasketball.net/images/logo-default.png" group-title="Live - Basketball",[Basketball Euroleague] Partizan vs Panathinaikos 2 (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://www.rtmpcdn.com/live/724a9be7-2dad-46e9-9f8f-d3f90f5297b5.m3u8
-#EXTINF:-1 tvg-chno="93" tvg-id="Basketball.Dummy.us" tvg-name="[Basketball Euroleague] Valencia vs Olympiacos 1 (FAWA)" tvg-logo="https://www.euroleaguebasketball.net/images/logo-default.png" group-title="Live - Basketball",[Basketball Euroleague] Valencia vs Olympiacos 1 (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.50/hls/G7777.m3u8
-#EXTINF:-1 tvg-chno="94" tvg-id="Basketball.Dummy.us" tvg-name="[Basketball Euroleague] Valencia vs Olympiacos 2 (FAWA)" tvg-logo="https://www.euroleaguebasketball.net/images/logo-default.png" group-title="Live - Basketball",[Basketball Euroleague] Valencia vs Olympiacos 2 (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://www.rtmpcdn.com/live/bd9906d0-b623-4fee-bce9-a28a08d2dbe0.m3u8
-#EXTINF:-1 tvg-chno="95" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[Basketball] Cleveland Cavaliers vs. Orlando Magic | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Basketball",[Basketball] Cleveland Cavaliers vs. Orlando Magic | English (STRMCNTR)
+https://xyzstreams.space/nba1h/mono.ts.m3u8?token=11be261501a66b9820b4e9195a428d12
+#EXTINF:-1 tvg-chno="88" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[Basketball] Cleveland Cavaliers vs. Orlando Magic | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Basketball",[Basketball] Cleveland Cavaliers vs. Orlando Magic | English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream5.pro/hls/mlkijfezag65.m3u8
-#EXTINF:-1 tvg-chno="96" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[Basketball] Golden State Warriors vs. Los Angeles Lakers | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Basketball",[Basketball] Golden State Warriors vs. Los Angeles Lakers | English (STRMCNTR)
+#EXTINF:-1 tvg-chno="89" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[Basketball] Golden State Warriors vs. Los Angeles Lakers | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Basketball",[Basketball] Golden State Warriors vs. Los Angeles Lakers | English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream1.pro/hls/zayrtezafgvdv68.m3u8
-#EXTINF:-1 tvg-chno="97" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[Basketball] Indiana Pacers vs. Oklahoma City Thunder | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Basketball",[Basketball] Indiana Pacers vs. Oklahoma City Thunder | English (STRMCNTR)
+#EXTINF:-1 tvg-chno="90" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[Basketball] Indiana Pacers vs Oklahoma City Thunder (XYZ)" tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nba/500/ind.png&logo2=https://a.espncdn.com/i/teamlogos/nba/500/okc.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png&color1=002D62&color2=007AC1&q=65&w=100" group-title="Live - Basketball",[Basketball] Indiana Pacers vs Oklahoma City Thunder (XYZ)
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/nba-3.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://xyzstreams.space/nba3h/mono.ts.m3u8?token=a76ae14ed268bc26b166dec9489d821e
+#EXTINF:-1 tvg-chno="91" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[Basketball] Indiana Pacers vs. Oklahoma City Thunder | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Basketball",[Basketball] Indiana Pacers vs. Oklahoma City Thunder | English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/hfsdqtaxvb67.m3u8
-#EXTINF:-1 tvg-chno="98" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[Basketball] New York Knicks vs. Toronto Raptors | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Basketball",[Basketball] New York Knicks vs. Toronto Raptors | English (STRMCNTR)
+#EXTINF:-1 tvg-chno="92" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[Basketball] New York Knicks vs Toronto Raptors (XYZ)" tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nba/500/ny.png&logo2=https://a.espncdn.com/i/teamlogos/nba/500/tor.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png&color1=F58426&color2=CE1141&q=65&w=100" group-title="Live - Basketball",[Basketball] New York Knicks vs Toronto Raptors (XYZ)
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/nba-2.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://hls.fancy-shark151.workers.dev/nba2h/mono.ts.m3u8?token=5180fb0a289082314ca3c054d02402e5
+#EXTINF:-1 tvg-chno="93" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[Basketball] New York Knicks vs. Toronto Raptors | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Basketball",[Basketball] New York Knicks vs. Toronto Raptors | English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream6.pro/hls/wfazgsqtrezu66.m3u8
-#EXTINF:-1 tvg-chno="99" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[Basketball] Portland Trail Blazers vs. Sacramento Kings | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Basketball",[Basketball] Portland Trail Blazers vs. Sacramento Kings | English (STRMCNTR)
+#EXTINF:-1 tvg-chno="94" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[Basketball] Portland Trail Blazers vs. Sacramento Kings | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Basketball",[Basketball] Portland Trail Blazers vs. Sacramento Kings | English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/zeafwqvhfe69.m3u8
+#EXTINF:-1 tvg-chno="95" tvg-id="Live.Event.us" tvg-name="[National Basketball League] Cleveland Cavaliers @ Orlando Magic (TIMSTRM)" tvg-logo="https://4b452900.cxc-pwo.pages.dev/nba-401898403.png" group-title="Live - Basketball",[National Basketball League] Cleveland Cavaliers @ Orlando Magic (TIMSTRM)
+#EXTVLCOPT:http-referrer=https://ehgembxe.cfd/kmibk7y6-4970
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://judiaslevels.embeds.gay/main/secure/7548b2a61400980bf4c4e9933bf3d9882b6b4adae291d0136f1ef6e279ea9c0a/1791939605/nba-401898403.m3u8
+#EXTINF:-1 tvg-chno="96" tvg-id="Live.Event.us" tvg-name="[National Basketball League] Indiana Pacers @ Oklahoma City Thunder (TIMSTRM)" tvg-logo="https://4b452900.cxc-pwo.pages.dev/nba-401908621.png" group-title="Live - Basketball",[National Basketball League] Indiana Pacers @ Oklahoma City Thunder (TIMSTRM)
+#EXTVLCOPT:http-referrer=https://ehgembxe.cfd/547hbqee-6602
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://judiaslevels.embeds.gay/main/secure/4c50ff8be6472e3eaab6adea567a546163b554cbf084fc91a88552d714afd946/1791943226/nba-401908621.m3u8
+#EXTINF:-1 tvg-chno="97" tvg-id="Live.Event.us" tvg-name="[National Basketball League] New York Knicks @ Toronto Raptors (TIMSTRM)" tvg-logo="https://4b452900.cxc-pwo.pages.dev/nba-401908944.png" group-title="Live - Basketball",[National Basketball League] New York Knicks @ Toronto Raptors (TIMSTRM)
+#EXTVLCOPT:http-referrer=https://ehgembxe.cfd/kff2ppaj-3226
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://judiaslevels.embeds.gay/main/secure/fda4ae8ef835dfba6db4585fb71ab0bc4e3b2ea236c46afce374cf3ebce513f9/1791939606/nba-401908944.m3u8
+#EXTINF:-1 tvg-chno="98" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Basketball] Orlando Magic vs Cleveland Cavaliers (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Basketball",[NBA Basketball] Orlando Magic vs Cleveland Cavaliers (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.41/hls/KVVVQQ.m3u8
+#EXTINF:-1 tvg-chno="99" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Basketball] Orlando Magic vs Cleveland Cavaliers 2 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Basketball",[NBA Basketball] Orlando Magic vs Cleveland Cavaliers 2 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://live1.dyrur1.com/live/14208456_78ee98249703d7d060310790a33abbd1_720p.m3u8
+#EXTINF:-1 tvg-chno="100" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Basketball] Toronto Raptors vs New York Knicks (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Basketball",[NBA Basketball] Toronto Raptors vs New York Knicks (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.41/hls/KVVVQQQ.m3u8
+#EXTINF:-1 tvg-chno="101" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Basketball] Toronto Raptors vs New York Knicks 2 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Basketball",[NBA Basketball] Toronto Raptors vs New York Knicks 2 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://live1.dyrur1.com/live/14302451_b09b6e099783d4cd2f3bfc201984f526_720p.m3u8
