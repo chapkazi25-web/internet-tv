@@ -7,7 +7,7 @@ http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
 http://23.237.104.106:8080/USA_BUZZR/index.m3u8
 #EXTINF:-1 tvg-chno="67" tvg-id="COZI.TV.us2" tvg-name="Cozi TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s78851_dark_360w_270h.png" group-title="Kids & Family",Cozi TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb37f/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzdmOjE3OTE4OTQ2MDMxOTY6Y2RubGl2ZXR2LnR2OmQwY2JjYmRhMTI2NzMwNTEuZGY3MjQ4NGFlMzNlZWIwMjgwMDcyNGU2YjE0ZTcxYTRiZTYyZTMyMzg2OWM4ZTkzNDNiNGYzNTdmMDAxMGUyNw
+https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb37f/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzdmOjE3OTE5MzI0MDU1NzY6Y2RubGl2ZXR2LnR2OmEyYWVhMTc4ZjU1MzljYTAuOWM2ODkzZDYzZWRjNTQwMzdlNzk5NGNlODhiNWEzNzI5YzUyOTczNTM3N2JjMjM1YTU1NzBlNmY3MGU2MWNlNg
 #EXTINF:-1 tvg-chno="68" tvg-id="Disney.Channel.HD.us2" tvg-name="Disney Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png" group-title="Kids & Family",Disney Channel
 http://212.5.144.156:8080/disney/index.m3u8
 #EXTINF:-1 tvg-chno="69" tvg-id="Nick.Jr.HD.us2" tvg-name="Nick Jr" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19211_dark_360w_270h.png" group-title="Kids & Family",Nick Jr
