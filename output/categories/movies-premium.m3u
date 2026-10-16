@@ -1,89 +1,55 @@
 #EXTM3U url-tvg="https://s.id/d9sEPG"
-#EXTINF:-1 tvg-chno="344" tvg-id="AMC.HD.us2" tvg-name="AMC" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" group-title="Movies & Premium",AMC
+#EXTINF:-1 tvg-chno="421" tvg-id="AMC.HD.us2" tvg-name="AMC" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" group-title="Movies & Premium",AMC
 http://23.239.31.26:8989/amc/index.m3u8
-#EXTINF:-1 tvg-chno="345" tvg-id="Cinemax.HD.us2" tvg-name="Cinemax" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cinemax-us.png" group-title="Movies & Premium",Cinemax
+#EXTINF:-1 tvg-chno="422" tvg-id="Cinemax.HD.us2" tvg-name="Cinemax" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cinemax-us.png" group-title="Movies & Premium",Cinemax
 #EXTVLCOPT:http-referrer=https://tvnow.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://cache0.wonvt.st/live/0m0yysq155l4ml0wmil1i/master.m3u8
-#EXTINF:-1 tvg-chno="346" tvg-id="Cinemax.Classics.us2" tvg-name="Cinemax Classics" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cinemax-classics-us.png" group-title="Movies & Premium",Cinemax Classics
+#EXTINF:-1 tvg-chno="423" tvg-id="Cinemax.Classics.us2" tvg-name="Cinemax Classics" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cinemax-classics-us.png" group-title="Movies & Premium",Cinemax Classics
 http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
-#EXTINF:-1 tvg-chno="347" tvg-id="Cinemax.Hits.us2" tvg-name="Cinemax Hits" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cinemax-hits-us.png" group-title="Movies & Premium",Cinemax Hits
+#EXTINF:-1 tvg-chno="424" tvg-id="Cinemax.Hits.us2" tvg-name="Cinemax Hits" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cinemax-hits-us.png" group-title="Movies & Premium",Cinemax Hits
 http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
-#EXTINF:-1 tvg-chno="348" tvg-id="FX.Movie.Channel.HD.us2" tvg-name="FX Movie Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70253_dark_360w_270h.png" group-title="Movies & Premium",FX Movie Channel
+#EXTINF:-1 tvg-chno="425" tvg-id="FX.Movie.Channel.HD.us2" tvg-name="FX Movie Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70253_dark_360w_270h.png" group-title="Movies & Premium",FX Movie Channel
+#EXTVLCOPT:http-referrer=https://tvnow.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb22b/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMjJiOjE3OTIxNDQ4MDYwNTg6Y2RubGl2ZXR2LnR2OmU4MjY3NzRiMWMwMTU4NmYuYzhlMDg3YjQ0ZmNmMmRkNjQ4YjE5NTBiMjhlZTA2YzRlZjk0ODVkYzlmN2JkMTZhM2QyMjQ3OTkyYWU4NjIxNw
-#EXTINF:-1 tvg-chno="349" tvg-id="Hallmark.Channel.HD.us2" tvg-name="Hallmark Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11221_dark_360w_270h.png" group-title="Movies & Premium",Hallmark Channel
+https://cache0.wonvt.st/live/0ci3u9o0q5y25d0b0p7rp/master.m3u8
+#EXTINF:-1 tvg-chno="426" tvg-id="Hallmark.Channel.HD.us2" tvg-name="Hallmark Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11221_dark_360w_270h.png" group-title="Movies & Premium",Hallmark Channel
+#EXTVLCOPT:http-referrer=https://tvnow.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb232/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMjMyOjE3OTIxNDQ4MDY4NzM6Y2RubGl2ZXR2LnR2OjEyZTgzY2YzMmQzNjZlNmQuMjhkY2YxNWQyNGIwZGI1ZWRiZDAyMmJhMjVjNjU4ZDQ2NjJhNDU3ZDUwYjdlNGI1MDhhOTRmNTM4M2MyZDYyOA
-#EXTINF:-1 tvg-chno="350" tvg-id="Hallmark.Mystery.HD.us2" tvg-name="Hallmark Mystery" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61522_dark_360w_270h.png" group-title="Movies & Premium",Hallmark Mystery
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb3a1/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiM2ExOjE3OTIxNDQ4MDcwODI6Y2RubGl2ZXR2LnR2OjIzMjRmNjRlMDE3Mjg5YmIuZjgzNDEzY2ZlZDQyYjk0NzU0YzE1ZGE5NzRkOGI2ZjU0MDI0YTIxNmU2ODEzNDhmNzNlZWI4NjM2MGEwZDM2NA
-#EXTINF:-1 tvg-chno="351" tvg-id="HBO.East.us2" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" group-title="Movies & Premium",HBO
+https://cache0.wonvt.st/live/01azwpa0kuthhd0dqgs1l/master.m3u8
+#EXTINF:-1 tvg-chno="427" tvg-id="HBO.East.us2" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" group-title="Movies & Premium",HBO
 #EXTVLCOPT:http-referrer=https://tvnow.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://cache0.wonvt.st/live/0vyvl7y1gwwplb0m12enw/master.m3u8
-#EXTINF:-1 tvg-chno="352" tvg-id="HBO.Comedy.HD.us2" tvg-name="HBO Comedy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59839_dark_360w_270h.png" group-title="Movies & Premium",HBO Comedy
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb234/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMjM0OjE3OTIxNDQ4MDcyODc6Y2RubGl2ZXR2LnR2OjljMDJiZmMzYjc0ZTNlMjYuZmRkYTFiZGE1YmU3MDdjY2VkZGNlMjA5NDIzM2NhNzdhNDJjOWM2YzM3N2E3NThjMjYwNzE2MmFiMjUyNmFlYQ
-#EXTINF:-1 tvg-chno="353" tvg-id="HBO.Hits.us2" tvg-name="HBO Hits" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0029BBSR.png?w=360&h=270" group-title="Movies & Premium",HBO Hits
+#EXTINF:-1 tvg-chno="428" tvg-id="HBO.Hits.us2" tvg-name="HBO Hits" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0029BBSR.png?w=360&h=270" group-title="Movies & Premium",HBO Hits
 https://tvsen3.aynaott.com/u3NjUrny/index.m3u8
-#EXTINF:-1 tvg-chno="354" tvg-id="Lifetime.HD.us2" tvg-name="Lifetime" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10918_dark_360w_270h.png" group-title="Movies & Premium",Lifetime
+#EXTINF:-1 tvg-chno="429" tvg-id="Lifetime.HD.us2" tvg-name="Lifetime" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10918_dark_360w_270h.png" group-title="Movies & Premium",Lifetime
+#EXTVLCOPT:http-referrer=https://tvnow.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb247/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMjQ3OjE3OTIxNDQ4MDc5MDE6Y2RubGl2ZXR2LnR2OjU4ZTNiZjY1NmIxZWQ0NWMuNWQ1OWJjZjZiMjg4YWNiNDZmZDUzNjBkY2E5NDRiMjE3NTJmZTJmZGNmYzc2NTFlMjNkNDNjOGExOTYwYzcxYw
-#EXTINF:-1 tvg-chno="355" tvg-id="LMN.HD.us2" tvg-name="Lifetime Movie Network" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18480_dark_360w_270h.png" group-title="Movies & Premium",Lifetime Movie Network
+https://cache0.wonvt.st/live/1088tkt05pl6j00dxxvfn/master.m3u8
+#EXTINF:-1 tvg-chno="430" tvg-id="LMN.HD.us2" tvg-name="Lifetime Movie Network" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18480_dark_360w_270h.png" group-title="Movies & Premium",Lifetime Movie Network
+#EXTVLCOPT:http-referrer=https://tvnow.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb3bf/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiM2JmOjE3OTIxNDQ4MDgxMDU6Y2RubGl2ZXR2LnR2OjYxN2ZiMzk3ZWJkMTU5Y2UuNDhlNzVlZjE0ZjM4ZWRiMmExNjUxNWZhNGM4ZTQ0MDM5NTNkNGQ1YWZjYTgyZDFjMWU3MjYyZDIwNDAyYTBmNA
-#EXTINF:-1 tvg-chno="356" tvg-id="MGM+.HD.us2" tvg-name="MGM+" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65669_dark_360w_270h.png" group-title="Movies & Premium",MGM+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb3ce/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiM2NlOjE3OTIxNDQ4MDg2Nzc6Y2RubGl2ZXR2LnR2Ojk0NDdjOTRmOWU1ODFhMDkuM2NkNzUzYTcyNTUwM2Q2ZGFmMDc3NjM3OGFjY2EyMTBjYTA1ZTJlZDEyYWU2NTVmZGVlMmY2NTJlOGU2ZjhiMw
-#EXTINF:-1 tvg-chno="357" tvg-id="Paramount.Network.HD.us2" tvg-name="Paramount Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11163_dark_360w_270h.png" group-title="Movies & Premium",Paramount Network
+https://cache0.wonvt.st/live/1t9dc2w00br9sx13nldbm/master.m3u8
+#EXTINF:-1 tvg-chno="431" tvg-id="Paramount.Network.HD.us2" tvg-name="Paramount Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11163_dark_360w_270h.png" group-title="Movies & Premium",Paramount Network
 http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
-#EXTINF:-1 tvg-chno="358" tvg-id="ReelzChannel.HD.us2" tvg-name="Reelz Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68385_dark_360w_270h.png" group-title="Movies & Premium",Reelz Channel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb3e4/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiM2U0OjE3OTIxNDQ4MTA2Njk6Y2RubGl2ZXR2LnR2Ojc2MjI0ZDMzYjI2MTQ3NzUuNTVjZGM3MDZhMzFhZmM4OGFmYmY0NDY4NTllNzkwYTkxZTllZTc3MTE3NWVkMzJlNzlmMTA4ZDg3MjkwOWViNg
-#EXTINF:-1 tvg-chno="359" tvg-id="Paramount+.with.Showtime.HD.us2" tvg-name="Showtime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/showtime-us.png" group-title="Movies & Premium",Showtime
+#EXTINF:-1 tvg-chno="432" tvg-id="Paramount+.with.Showtime.HD.us2" tvg-name="Showtime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/showtime-us.png" group-title="Movies & Premium",Showtime
 #EXTVLCOPT:http-referrer=https://tvnow.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://cache0.wonvt.st/live/1az2pv01wqk8zi11yns1c/master.m3u8
-#EXTINF:-1 tvg-chno="360" tvg-id="Showtime.2.HD.us2" tvg-name="Showtime 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/showtime-2-us.png" group-title="Movies & Premium",Showtime 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb275/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMjc1OjE3OTIxNDQ4MTEwODA6Y2RubGl2ZXR2LnR2OjcxNDYzYjNmNTRhNzNlMzAuNjhiNTgxMmY0ODQ0ZWY3N2ZjZDc3YjNhMjQ2NjdjMzhjYWQ0NmI0ZjkwYzlmNWE0OWE5ZTFjYTM2NDBhN2M2NQ
-#EXTINF:-1 tvg-chno="361" tvg-id="Showtime.Extreme.HD.us2" tvg-name="Showtime Extreme" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18086_dark_360w_270h.png" group-title="Movies & Premium",Showtime Extreme
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb275/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMjc1OjE3OTIxNDQ4MTA4ODE6Y2RubGl2ZXR2LnR2OjY4YzRiYWQ0OWU5NmYwOWMuYjRjZmFiZmUxNTA2NGIyNTU4Mjc5NzUyMjNkZGUyNzkyZjY2Mjk0NzQ5Y2RiMTc2OGU1NjYwMmM1N2YzY2ZmMw
-#EXTINF:-1 tvg-chno="362" tvg-id="Showtime.Familyzone.HD.us2" tvg-name="Showtime Family Zone" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25274_dark_360w_270h.png" group-title="Movies & Premium",Showtime Family Zone
+#EXTINF:-1 tvg-chno="433" tvg-id="Showtime.Familyzone.HD.us2" tvg-name="Showtime Family Zone" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25274_dark_360w_270h.png" group-title="Movies & Premium",Showtime Family Zone
 http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8
-#EXTINF:-1 tvg-chno="363" tvg-id="Starz.HD.us2" tvg-name="Starz" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12719_dark_360w_270h.png" group-title="Movies & Premium",Starz
+#EXTINF:-1 tvg-chno="434" tvg-id="Starz.HD.us2" tvg-name="Starz" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12719_dark_360w_270h.png" group-title="Movies & Premium",Starz
 #EXTVLCOPT:http-referrer=https://tvnow.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://cache0.wonvt.st/live/16fgsju1pnic1t0n4pa9a/master.m3u8
-#EXTINF:-1 tvg-chno="364" tvg-id="Starz.Comedy.HD.us2" tvg-name="Starz Comedy" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34901_dark_360w_270h.png" group-title="Movies & Premium",Starz Comedy
+#EXTINF:-1 tvg-chno="435" tvg-id="Starz.Comedy.HD.us2" tvg-name="Starz Comedy" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34901_dark_360w_270h.png" group-title="Movies & Premium",Starz Comedy
 http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
-#EXTINF:-1 tvg-chno="365" tvg-id="Starz.Edge.HD.us2" tvg-name="Starz Edge" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16311_dark_360w_270h.png" group-title="Movies & Premium",Starz Edge
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb284/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMjg0OjE3OTIxNDQ4MTQ3NzI6Y2RubGl2ZXR2LnR2OmIwY2JhM2FmMTE3ODkzNjQuYTczN2EyOTgxNTczZTk0ZTMwNjFlYWMxYjNkYTQwMWJiMzlhYWUyZGEyNDJjOTA4NTc4MTkxNzM3YjZmNWQzZQ
-#EXTINF:-1 tvg-chno="366" tvg-id="Starz.Encore.Action.HD.us2" tvg-name="Starz Encore Action" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/starz-encore-action-us.png" group-title="Movies & Premium",Starz Encore Action
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb285/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMjg1OjE3OTIxNDQ4MTQ5NzY6Y2RubGl2ZXR2LnR2Ojg4Yjc5NDUwY2YyYzFmN2QuNzFjZDU1MTM5NDg3NmM2OGQwY2ViMWYwYTc1MjYxMDI3NzJkMzMzNDFlNWNiZWJhY2QwNjg4N2RjNzhiOTY5MA
-#EXTINF:-1 tvg-chno="367" tvg-id="Starz.Encore.Black.us2" tvg-name="Starz Encore Black" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/starz-encore-black-us.png" group-title="Movies & Premium",Starz Encore Black
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb286/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMjg2OjE3OTIxNDQ4MTUxNjY6Y2RubGl2ZXR2LnR2OjVkNGI0M2VjNDM1YTQ4N2MuZWI5Y2UxOTAwM2RkODBiYzc2MzcyMGZlNTZjODE2NTM4NmJlZjE3MTk5MTMwMzZlZjAwZmVjNjliNjlmNDEzNA
-#EXTINF:-1 tvg-chno="368" tvg-id="Starz.Encore.Classic.us2" tvg-name="Starz Encore Classic" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/starz-encore-classic-us.png" group-title="Movies & Premium",Starz Encore Classic
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb287/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMjg3OjE3OTIxNDQ4MTUzNzE6Y2RubGl2ZXR2LnR2OjlmOTU3MDQ4NWFjMmI1Y2YuZDY2ZWJiNzBlYTcxZGQ3MWNhMmY2MzVlNDI3Y2EyOTdiYjE5ZTE0M2M1NjU3MzU5NGE3YTU4Nzk0ZWI3NDA1OA
-#EXTINF:-1 tvg-chno="369" tvg-id="Starz.Encore.Suspense.us2" tvg-name="Starz Encore Suspense" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/starz-encore-suspense-us.png" group-title="Movies & Premium",Starz Encore Suspense
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb289/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMjg5OjE3OTIxNDQ4MTU1ODI6Y2RubGl2ZXR2LnR2OjI5MjU0ZTM3OGI5NTExYzEuMmU2MWU1ODA2MzlmNDQ3MTQ1ZDMyNjEwZDI5MTIzMDkyMjk1OGE1OTRlMzNkYmI1M2I5MTQwZTIwMTM1ODI0ZQ
-#EXTINF:-1 tvg-chno="370" tvg-id="Starz.Encore.Westerns.SD.us2" tvg-name="Starz Encore Westerns" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14765_dark_360w_270h.png" group-title="Movies & Premium",Starz Encore Westerns
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb28c/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMjhjOjE3OTIxNDQ4MTU3ODY6Y2RubGl2ZXR2LnR2OjE1M2FhOWYwMDM4Y2U0ODkuNzM0ZTA5NGJlYWNiMzFjYTk4ODQ2YzQwZmQ1ZTQwNzM3NDEwN2YxNWJlMDZlZDNjNzhhZGY2YjhhMDU4MjUwMg
-#EXTINF:-1 tvg-chno="371" tvg-id="Starz.in.Black.HD.us2" tvg-name="Starz In Black" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s67235_dark_360w_270h.png" group-title="Movies & Premium",Starz In Black
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb28d/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMjhkOjE3OTIxNDQ4MTU5ODY6Y2RubGl2ZXR2LnR2OjhjZjBmNzNlNDM4MThkODkuZGFhZDhiNzM0Y2MxMTI1MzZhNWI1ZWE3OWY5NDk5MWM0NjhmNjAyZWZmZWU4NTYyZDMxZTliYjdjYTgzZjc3YQ
-#EXTINF:-1 tvg-chno="372" tvg-id="Starz.Kids.HD.us2" tvg-name="Starz Kids & Family" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19635_dark_360w_270h.png" group-title="Movies & Premium",Starz Kids & Family
+#EXTINF:-1 tvg-chno="436" tvg-id="Starz.Kids.HD.us2" tvg-name="Starz Kids & Family" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19635_dark_360w_270h.png" group-title="Movies & Premium",Starz Kids & Family
 http://23.237.104.106:8080/USA_STARZ_FAMILY/index.m3u8
-#EXTINF:-1 tvg-chno="373" tvg-id="SundanceTV.HD.us2" tvg-name="Sundance" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16108_dark_360w_270h.png" group-title="Movies & Premium",Sundance
+#EXTINF:-1 tvg-chno="437" tvg-id="SundanceTV.HD.us2" tvg-name="Sundance" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16108_dark_360w_270h.png" group-title="Movies & Premium",Sundance
+#EXTVLCOPT:http-referrer=https://tvnow.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb292/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMjkyOjE3OTIxNDQ4MTYyMDU6Y2RubGl2ZXR2LnR2OjdmMTQyMmU5Mzg3MzlhZjMuZWMwN2M2ZTNmZjMyZjFjYTFkYjA3YzRmZTA5ODcxNDUxNzE2ODQ3NjU2ODQyMmM0MmFkMWEzODNiMjkxYThhYQ
-#EXTINF:-1 tvg-chno="374" tvg-id="Turner.Classic.Movies.HD.us2" tvg-name="Turner Classic Movies" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12852_dark_360w_270h.png" group-title="Movies & Premium",Turner Classic Movies
+https://cache0.wonvt.st/live/0b7wui00zw4twq0p1cobf/master.m3u8
+#EXTINF:-1 tvg-chno="438" tvg-id="Turner.Classic.Movies.HD.us2" tvg-name="Turner Classic Movies" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12852_dark_360w_270h.png" group-title="Movies & Premium",Turner Classic Movies
 https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
