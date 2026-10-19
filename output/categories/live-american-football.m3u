@@ -1,41 +1,77 @@
 #EXTM3U url-tvg="https://s.id/d9sEPG"
-#EXTINF:-1 tvg-chno="76" tvg-id="NFL.Dummy.us" tvg-name="[American Football] Washington Commanders vs. San Francisco 49ers | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[American Football] Washington Commanders vs. San Francisco 49ers | English (STRMCNTR)
+#EXTINF:-1 tvg-chno="77" tvg-id="NFL.Dummy.us" tvg-name="[American Football] Washington Commanders vs. San Francisco 49ers | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[American Football] Washington Commanders vs. San Francisco 49ers | English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream6.pro/hls/JHDAJBDnjdna30.m3u8
-#EXTINF:-1 tvg-chno="77" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Commanders @ 49ers | Main Feed (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Commanders @ 49ers | Main Feed (FUTBOLX)
+#EXTINF:-1 tvg-chno="78" tvg-id="NFL.Dummy.us" tvg-name="[NFL American Football] San Francisco 49ers vs Washington Commanders 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL American Football] San Francisco 49ers vs Washington Commanders 1 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.59/hls/AMMM.m3u8
+#EXTINF:-1 tvg-chno="79" tvg-id="NFL.Dummy.us" tvg-name="[NFL American Football] San Francisco 49ers vs Washington Commanders 2 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL American Football] San Francisco 49ers vs Washington Commanders 2 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.44/hls/AMMMAA.m3u8
+#EXTINF:-1 tvg-chno="80" tvg-id="NFL.Dummy.us" tvg-name="[NFL American Football] San Francisco 49ers vs Washington Commanders 3 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL American Football] San Francisco 49ers vs Washington Commanders 3 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.59/hls/AMMMA.m3u8
+#EXTINF:-1 tvg-chno="81" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Commanders @ 49ers | Main Feed (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Commanders @ 49ers | Main Feed (FUTBOLX)
 #EXTVLCOPT:http-referrer=https://www.futbol-x.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://g.futbolx.ryzn.pro/cw/index.m3u8
-#EXTINF:-1 tvg-chno="78" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Commanders vs 49ers (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Commanders vs 49ers (WEBCAST)
+#EXTINF:-1 tvg-chno="82" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Commanders vs 49ers (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Commanders vs 49ers (WEBCAST)
 #EXTVLCOPT:http-referrer=https://nflwebcast.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://webcast-origin.b-cdn.net/bcdn_token=O5h9slTOUYlBwGyL5oPLBrmlfCRKwlUPDpo2AEJkLNY&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGqE5IBzNUZpxTtQcb5SKE7%2F&expires=1792411329/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGqE5IBzNUZpxTtQcb5SKE7/176.m3u8
-#EXTINF:-1 tvg-chno="79" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Commanders vs 49ers 1 (STP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Commanders vs 49ers 1 (STP)
+https://webcast-origin.b-cdn.net/bcdn_token=Z9sP9nIO5zb52Rh04Y9tf8vRk5XVXuWIReURnc0LiIk&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGqE5IBzNUZpxTtQcb5SKE7%2F&expires=1792450927/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGqE5IBzNUZpxTtQcb5SKE7/176.m3u8
+#EXTINF:-1 tvg-chno="83" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Commanders vs 49ers 1 (STP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Commanders vs 49ers 1 (STP)
 #EXTVLCOPT:http-referrer=https://streamx723.sbs/global1.php?channel=espn2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://98.envivosenhd.beer:443/global/espn2/index.m3u8?token=f471e627605564648bf8605b70effae031193fde-b3-1792459808-1792405808
-#EXTINF:-1 tvg-chno="80" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Commanders vs 49ers 2 (STP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Commanders vs 49ers 2 (STP)
+https://99.envivosenhd.beer:443/global/espn2/index.m3u8?token=21644ac9d6e9763f9b70bcb74c64c33f2c8833d3-02-1792479607-1792425607
+#EXTINF:-1 tvg-chno="84" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Commanders vs 49ers 2 (STP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Commanders vs 49ers 2 (STP)
 #EXTVLCOPT:http-referrer=https://streamx723.sbs/global1.php?channel=espndeportes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://98.envivosenhd.beer:443/global/espndeportes/index.m3u8?token=ff7b2a0a8a2b5d23bf22ddb2b9a87ba4b9f9e068-02-1792459808-1792405808
-#EXTINF:-1 tvg-chno="81" tvg-id="NFL.Dummy.us" tvg-name="[NFL] San Francisco 49ers vs Washington Commanders | ESPN 2 (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] San Francisco 49ers vs Washington Commanders | ESPN 2 (STRMXHD)
+https://99.envivosenhd.beer:443/global/espndeportes/index.m3u8?token=18b9b136546d125ec18c589988bd491cad6a0ea6-b6-1792479607-1792425607
+#EXTINF:-1 tvg-chno="85" tvg-id="Football.Dummy.us" tvg-name="[NFL] NFL Network (DAMITV)" tvg-logo="https://static.ppvservices.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg" group-title="Live - American Football",[NFL] NFL Network (DAMITV)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=nfl-network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-sd/streamed/admin/ppv-nfl-network/2/playlist.m3u8?tk=hw1N32zkFjOthyVkZWupow&e=1792494006
+#EXTINF:-1 tvg-chno="86" tvg-id="NFL.Dummy.us" tvg-name="[NFL] San Francisco 49ers vs Washington Commanders | Español 1 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] San Francisco 49ers vs Washington Commanders | Español 1 (PLIBRE)
+#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=espn2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://a2lja3m.fubo18.com:443/espn2/mono.m3u8?token=7d9bb8a90ad69dfeb176987493c86edbf2b07c4d-5c-1792467909-1792449909
+#EXTINF:-1 tvg-chno="87" tvg-id="NFL.Dummy.us" tvg-name="[NFL] San Francisco 49ers vs Washington Commanders | Español 2 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] San Francisco 49ers vs Washington Commanders | Español 2 (PLIBRE)
+#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=disney7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://Ym9yZQ.fubo18.com:443/disney7/mono.m3u8?token=9c9e96f45c019e1868318b8daf006bb779ce68ee-3-1792467909-1792449909
+#EXTINF:-1 tvg-chno="88" tvg-id="NFL.Dummy.us" tvg-name="[NFL] San Francisco 49ers vs Washington Commanders | Español 3 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] San Francisco 49ers vs Washington Commanders | Español 3 (PLIBRE)
+#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=espndeportes
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://dw5pdgvk.fubo18.com:443/espndeportes/mono.m3u8?token=610525c8399a5770c0641f9df550bb5dca11ef11-83-1792467910-1792449910
+#EXTINF:-1 tvg-chno="89" tvg-id="NFL.Dummy.us" tvg-name="[NFL] San Francisco 49ers vs Washington Commanders | ESPN 2 (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] San Francisco 49ers vs Washington Commanders | ESPN 2 (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espn2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/espn2/index.m3u8?token=d4b23b7153d0b37616a6807018cf10aed590d012-2b-1792456213-1792402213
-#EXTINF:-1 tvg-chno="82" tvg-id="NFL.Dummy.us" tvg-name="[NFL] San Francisco 49ers vs. Washington Commanders | ESPN 2 (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] San Francisco 49ers vs. Washington Commanders | ESPN 2 (TVF90)
+https://khala.futlivehd.com/global/espn2/index.m3u8?token=a2083c9388b478e3caf71849027fd87708eee1e3-c4-1792495808-1792441808
+#EXTINF:-1 tvg-chno="90" tvg-id="NFL.Dummy.us" tvg-name="[NFL] San Francisco 49ers vs. Washington Commanders | Disney+ (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] San Francisco 49ers vs. Washington Commanders | Disney+ (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=disney7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://11.ftlly.com:443/disney7/mono.m3u8?token=e6961f05c3fdea2df763f97c45ab5cbbded40aa1-c6-1792467912-1792449912
+#EXTINF:-1 tvg-chno="91" tvg-id="NFL.Dummy.us" tvg-name="[NFL] San Francisco 49ers vs. Washington Commanders | ESPN 2 (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] San Francisco 49ers vs. Washington Commanders | ESPN 2 (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=espn2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://2.ftlly.com:443/espn2/mono.m3u8?token=269269a158326dc5fca9d87721359c7d0e869dff-24-1792428316-1792410316
-#EXTINF:-1 tvg-chno="83" tvg-id="NFL.Dummy.us" tvg-name="[NFL] San Francisco 49ers vs. Washington Commanders | ESPN 2 | HD (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] San Francisco 49ers vs. Washington Commanders | ESPN 2 | HD (TVF90)
+https://9.ftlly.com:443/espn2/mono.m3u8?token=1c186ea2426da4527b255a520efbfb7a696f21e6-e9-1792467911-1792449911
+#EXTINF:-1 tvg-chno="92" tvg-id="NFL.Dummy.us" tvg-name="[NFL] San Francisco 49ers vs. Washington Commanders | ESPN 2 | HD (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] San Francisco 49ers vs. Washington Commanders | ESPN 2 | HD (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/hd.php?stream=espn2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://11.ftlly.com:443/espn2/mono.m3u8?token=19fbac19d1ff971bb8e41174630ab37d63738ae9-e2-1792428316-1792410316
-#EXTINF:-1 tvg-chno="84" tvg-id="NFL.Dummy.us" tvg-name="[NFL] San Francisco 49ers vs. Washington Commanders | ESPN 2 | OP2 (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] San Francisco 49ers vs. Washington Commanders | ESPN 2 | OP2 (TVF90)
+https://7.ftlly.com:443/espn2/mono.m3u8?token=43a384fd76a93cf5ee84b51c1de16e436f45d35c-5b-1792467912-1792449912
+#EXTINF:-1 tvg-chno="93" tvg-id="NFL.Dummy.us" tvg-name="[NFL] San Francisco 49ers vs. Washington Commanders | ESPN 2 | OP2 (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] San Francisco 49ers vs. Washington Commanders | ESPN 2 | OP2 (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/2.php?stream=espn2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://3.ftlly.com:443/espn2/mono.m3u8?token=a9d3b97b9f16fc39fb25c244ef4c6a6fb0085eb6-1-1792428316-1792410316
-#EXTINF:-1 tvg-chno="85" tvg-id="NFL.Dummy.us" tvg-name="[NFL] San Francisco 49ers vs. Washington Commanders | ESPN 2 | OP3 (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] San Francisco 49ers vs. Washington Commanders | ESPN 2 | OP3 (TVF90)
+https://10.ftlly.com:443/espn2/mono.m3u8?token=d557be6a7b234f207f125303f7966f37bdb90543-e4-1792467912-1792449912
+#EXTINF:-1 tvg-chno="94" tvg-id="NFL.Dummy.us" tvg-name="[NFL] San Francisco 49ers vs. Washington Commanders | ESPN 2 | OP3 (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] San Francisco 49ers vs. Washington Commanders | ESPN 2 | OP3 (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/3.php?stream=espn2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://3.ftlly.com:443/espn2/mono.m3u8?token=1c9c951b4fef662648de4cb9ccc0d4db52b1b822-2d-1792428316-1792410316
+https://4.ftlly.com:443/espn2/mono.m3u8?token=3d428d2e8d6a591deda4fa344309108bfcde9bad-32-1792467912-1792449912
+#EXTINF:-1 tvg-chno="95" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Washington Commanders vs San Francisco 49ers (GSPORTS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Washington Commanders vs San Francisco 49ers (GSPORTS)
+#EXTVLCOPT:http-referrer=https://gsports.lat/event/washington-commanders-vs-san-francisco-49ers/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://karimianian.store/folder2/1
