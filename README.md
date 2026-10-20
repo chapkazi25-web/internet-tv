@@ -1,14 +1,16 @@
 # 📺 IPTV Playlist
 
-## Playlist Log @ 2026-10-19 23:54 UTC
+## Playlist Log @ 2026-10-20 07:54 UTC
 
-### ✅ Active Streams: 245
-❌ Dead Streams: 1
+### ✅ Active Streams: 196
+❌ Dead Streams: 3
 
-_Skipped 154 dead live-event streams — event links expire when the match ends._
+_Skipped 247 dead live-event streams — event links expire when the match ends._
 
 | Channel | Category | Error (Code) |
 | --- | --- | --- |
+| [TLC](http://41.205.93.154/TLC/index.m3u8) | Documentary & Reality | URL Error (timed out) |
+| [Nicktoons](http://41.205.93.154/NICKTOONS/index.m3u8) | Kids & Family | URL Error (timed out) |
 | [ESPN Deportes](http://186.33.0.101:4430/play/espnhd/index.m3u8) | Sports | HTTP Error (404) |
 
 ---
@@ -30,13 +32,12 @@ output/categories/<category>.m3u
 | Documentary & Reality | 18 |
 | Entertainment | 48 |
 | Kids & Family | 10 |
-| Live - American Football | 19 |
-| Live - Baseball | 18 |
-| Live - Basketball | 4 |
-| Live - Hockey | 46 |
-| Live - Other Events | 40 |
-| Live - Soccer | 83 |
-| Live - Tennis | 1 |
+| Live - American Football | 21 |
+| Live - Baseball | 16 |
+| Live - Basketball | 3 |
+| Live - Hockey | 35 |
+| Live - Other Events | 75 |
+| Live - Soccer | 107 |
 | Movies & Premium | 24 |
 | Music | 5 |
 | News & Weather | 31 |
