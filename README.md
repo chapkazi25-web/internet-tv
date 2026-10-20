@@ -1,19 +1,14 @@
 # 📺 IPTV Playlist
 
-## Playlist Log @ 2026-10-20 18:41 UTC
+## Playlist Log @ 2026-10-20 23:21 UTC
 
-### ✅ Active Streams: 248
-❌ Dead Streams: 6
+### ✅ Active Streams: 245
+❌ Dead Streams: 1
 
-_Skipped 398 dead live-event streams — event links expire when the match ends._
+_Skipped 319 dead live-event streams — event links expire when the match ends._
 
 | Channel | Category | Error (Code) |
 | --- | --- | --- |
-| [Discovery Channel](http://212.5.144.156:8080/discovery/index.m3u8) | Documentary & Reality | HTTP Error (403) |
-| [History Channel](http://212.5.144.156:8080/history/index.m3u8) | Documentary & Reality | HTTP Error (403) |
-| [Investigation Discovery](http://212.5.144.156:8080/id/index.m3u8) | Documentary & Reality | HTTP Error (403) |
-| [Disney Channel](http://212.5.144.156:8080/disney/index.m3u8) | Kids & Family | HTTP Error (403) |
-| [Nick Jr](http://212.5.144.156:8080/nickjr/index.m3u8) | Kids & Family | HTTP Error (403) |
 | [ESPN Deportes](http://186.33.0.101:4430/play/espnhd/index.m3u8) | Sports | HTTP Error (404) |
 
 ---
@@ -35,14 +30,12 @@ output/categories/<category>.m3u
 | Documentary & Reality | 18 |
 | Entertainment | 48 |
 | Kids & Family | 10 |
-| Live - American Football | 6 |
+| Live - American Football | 7 |
 | Live - Baseball | 1 |
-| Live - Basketball | 6 |
-| Live - Hockey | 25 |
-| Live - Other Events | 301 |
-| Live - Racing | 2 |
+| Live - Basketball | 8 |
+| Live - Hockey | 49 |
+| Live - Other Events | 190 |
 | Live - Soccer | 121 |
-| Live - Tennis | 1 |
 | Movies & Premium | 24 |
 | Music | 5 |
 | News & Weather | 31 |
