@@ -1,11 +1,17 @@
 # 📺 IPTV Playlist
 
-## Playlist Log @ 2026-10-21 14:05 UTC
+## Playlist Log @ 2026-10-21 18:52 UTC
 
-### ✅ Active Streams: 211
-❌ Dead Streams: 0
+### ✅ Active Streams: 253
+❌ Dead Streams: 3
 
-_Skipped 347 dead live-event streams — event links expire when the match ends._
+_Skipped 394 dead live-event streams — event links expire when the match ends._
+
+| Channel | Category | Error (Code) |
+| --- | --- | --- |
+| [Investigation Discovery](http://212.5.144.156:8080/id/index.m3u8) | Documentary & Reality | HTTP Error (404) |
+| [Nick Jr](http://212.5.144.156:8080/nickjr/index.m3u8) | Kids & Family | HTTP Error (404) |
+| [ESPN Deportes](http://186.33.0.101:4430/play/espnhd/index.m3u8) | Sports | HTTP Error (404) |
 
 ---
 
@@ -24,14 +30,15 @@ output/categories/<category>.m3u
 | Category | Channels |
 | --- | ---: |
 | Documentary & Reality | 21 |
-| Entertainment | 48 |
+| Entertainment | 47 |
 | Kids & Family | 12 |
-| Live - American Football | 1 |
-| Live - Basketball | 12 |
-| Live - Hockey | 4 |
-| Live - Other Events | 192 |
+| Live - American Football | 2 |
+| Live - Baseball | 1 |
+| Live - Basketball | 20 |
+| Live - Hockey | 13 |
+| Live - Other Events | 250 |
 | Live - Racing | 2 |
-| Live - Soccer | 153 |
+| Live - Soccer | 169 |
 | Movies & Premium | 24 |
 | Music | 5 |
 | News & Weather | 31 |
