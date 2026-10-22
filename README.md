@@ -1,11 +1,17 @@
 # 📺 IPTV Playlist
 
-## Playlist Log @ 2026-10-22 07:54 UTC
+## Playlist Log @ 2026-10-22 14:03 UTC
 
-### ✅ Active Streams: 224
-❌ Dead Streams: 0
+### ✅ Active Streams: 208
+❌ Dead Streams: 3
 
-_Skipped 350 dead live-event streams — event links expire when the match ends._
+_Skipped 285 dead live-event streams — event links expire when the match ends._
+
+| Channel | Category | Error (Code) |
+| --- | --- | --- |
+| [Discovery Channel](http://212.5.144.156:8080/discovery/index.m3u8) | Documentary & Reality | HTTP Error (403) |
+| [History Channel](http://212.5.144.156:8080/history/index.m3u8) | Documentary & Reality | HTTP Error (403) |
+| [Disney Channel](http://212.5.144.156:8080/disney/index.m3u8) | Kids & Family | HTTP Error (403) |
 
 ---
 
@@ -26,13 +32,14 @@ output/categories/<category>.m3u
 | Documentary & Reality | 20 |
 | Entertainment | 47 |
 | Kids & Family | 11 |
-| Live - American Football | 4 |
-| Live - Baseball | 2 |
-| Live - Basketball | 37 |
-| Live - Hockey | 13 |
-| Live - Other Events | 184 |
-| Live - Soccer | 141 |
-| Live - Tennis | 2 |
+| Live - American Football | 12 |
+| Live - Baseball | 1 |
+| Live - Basketball | 2 |
+| Live - Hockey | 30 |
+| Live - Other Events | 200 |
+| Live - Racing | 3 |
+| Live - Soccer | 54 |
+| Live - Tennis | 3 |
 | Movies & Premium | 24 |
 | Music | 5 |
 | News & Weather | 31 |
