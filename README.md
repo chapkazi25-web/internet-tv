@@ -1,11 +1,11 @@
 # 📺 IPTV Playlist
 
-## Playlist Log @ 2026-10-21 23:35 UTC
+## Playlist Log @ 2026-10-22 07:54 UTC
 
-### ✅ Active Streams: 258
+### ✅ Active Streams: 224
 ❌ Dead Streams: 0
 
-_Skipped 428 dead live-event streams — event links expire when the match ends._
+_Skipped 350 dead live-event streams — event links expire when the match ends._
 
 ---
 
@@ -27,12 +27,12 @@ output/categories/<category>.m3u
 | Entertainment | 47 |
 | Kids & Family | 11 |
 | Live - American Football | 4 |
-| Live - Baseball | 1 |
-| Live - Basketball | 34 |
-| Live - Hockey | 20 |
-| Live - Other Events | 265 |
-| Live - Soccer | 170 |
-| Live - Tennis | 1 |
+| Live - Baseball | 2 |
+| Live - Basketball | 37 |
+| Live - Hockey | 13 |
+| Live - Other Events | 184 |
+| Live - Soccer | 141 |
+| Live - Tennis | 2 |
 | Movies & Premium | 24 |
 | Music | 5 |
 | News & Weather | 31 |
