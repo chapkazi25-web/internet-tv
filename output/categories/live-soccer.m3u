@@ -1,213 +1,277 @@
 #EXTM3U url-tvg="https://s.id/d9sEPG"
-#EXTINF:-1 tvg-chno="576" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Centroamericana de CONCACAF] Motagua vs Alajuelense 1 (STP)" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/CONCACAFCentralAmericanCup.png" group-title="Live - Soccer",[Copa Centroamericana de CONCACAF] Motagua vs Alajuelense 1 (STP)
+#EXTINF:-1 tvg-chno="404" tvg-id="Soccer.Dummy.us" tvg-name="[Bolivia Copa] Always Ready vs The Strongest (FAWA)" tvg-logo="https://copadebolivia.com/wp-content/uploads/2025/11/Copa-de-Bolivia.png" group-title="Live - Soccer",[Bolivia Copa] Always Ready vs The Strongest (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.55/hls/CDDDA.m3u8
+#EXTINF:-1 tvg-chno="405" tvg-id="Soccer.Dummy.us" tvg-name="[Bundesliga 2] Bochum vs Wolfsburg | FOX Sports 2 AR (STRMXHD)" tvg-logo="https://thumb.wikimedia.org/wikipedia/en/thumb/7/7b/2._Bundesliga_logo.svg/1280px-2._Bundesliga_logo.svg.png" group-title="Live - Soccer",[Bundesliga 2] Bochum vs Wolfsburg | FOX Sports 2 AR (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.sbs/live1.php?stream=fox2ar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/fox2ar/index.m3u8?token=71705f01bc663f1c8053cf221a3efe177c3b9543-9a-1792755029-1792701029
+#EXTINF:-1 tvg-chno="406" tvg-id="Soccer.Dummy.us" tvg-name="[Bundesliga] Stuttgart vs Borussia M'gladbach | Disney + (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/10.png" group-title="Live - Soccer",[Bundesliga] Stuttgart vs Borussia M'gladbach | Disney + (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.sbs/live1.php?stream=disney4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/disney4/index.m3u8?token=d2bdf6fa343558b8aa58d152454611c2903aa7e1-e4-1792755030-1792701030
+#EXTINF:-1 tvg-chno="407" tvg-id="Soccer.Dummy.us" tvg-name="[Bundesliga] Stuttgart vs Borussia M'gladbach | Universo (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/10.png" group-title="Live - Soccer",[Bundesliga] Stuttgart vs Borussia M'gladbach | Universo (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.sbs/live1.php?stream=universo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/universo/index.m3u8?token=c13af4b76bcf24f9baa16c4bc69ed48ef7ef69a4-1e-1792755030-1792701030
+#EXTINF:-1 tvg-chno="408" tvg-id="Soccer.Dummy.us" tvg-name="[Colombia Primera A] Atl Nacional vs Dep Pasto (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png" group-title="Live - Soccer",[Colombia Primera A] Atl Nacional vs Dep Pasto (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.55/hls/CDDDAAA.m3u8
+#EXTINF:-1 tvg-chno="409" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Centroamericana de CONCACAF] Motagua vs Alajuelense 1 (STP)" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/CONCACAFCentralAmericanCup.png" group-title="Live - Soccer",[Copa Centroamericana de CONCACAF] Motagua vs Alajuelense 1 (STP)
 #EXTVLCOPT:http-referrer=https://streamx723.sbs/global1.php?channel=disney2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://98.envivosenhd.beer:443/global/disney2/index.m3u8?token=ffc17d5378dbe0331c17d13146999c8e9a8675ac-14-1792735211-1792681211
-#EXTINF:-1 tvg-chno="577" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Centroamericana de CONCACAF] Motagua vs Alajuelense 2 (STP)" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/CONCACAFCentralAmericanCup.png" group-title="Live - Soccer",[Copa Centroamericana de CONCACAF] Motagua vs Alajuelense 2 (STP)
+https://98.envivosenhd.beer:443/global/disney2/index.m3u8?token=d248aefb9f047a4159beef7b5e0157320c6a3f03-e0-1792755029-1792701029
+#EXTINF:-1 tvg-chno="410" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Centroamericana de CONCACAF] Motagua vs Alajuelense 2 (STP)" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/CONCACAFCentralAmericanCup.png" group-title="Live - Soccer",[Copa Centroamericana de CONCACAF] Motagua vs Alajuelense 2 (STP)
 #EXTVLCOPT:http-referrer=https://streamx723.sbs/global1.php?channel=foxone2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://99.envivosenhd.beer:443/global/foxone2/index.m3u8?token=77a2f4c8fbabfafd4007e1ffa08542d8031a115f-e5-1792735211-1792681211
-#EXTINF:-1 tvg-chno="578" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Centroamericana de CONCACAF] Motagua vs Alajuelense | Disney + (STRMXHD)" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/CONCACAFCentralAmericanCup.png" group-title="Live - Soccer",[Copa Centroamericana de CONCACAF] Motagua vs Alajuelense | Disney + (STRMXHD)
+https://99.envivosenhd.beer:443/global/foxone2/index.m3u8?token=5c53bc241f6d88c9f45ab6e26a5c01782d1129d5-c9-1792755029-1792701029
+#EXTINF:-1 tvg-chno="411" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Centroamericana de CONCACAF] Motagua vs Alajuelense | Disney + (STRMXHD)" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/CONCACAFCentralAmericanCup.png" group-title="Live - Soccer",[Copa Centroamericana de CONCACAF] Motagua vs Alajuelense | Disney + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.sbs/live1.php?stream=disney8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/disney8/index.m3u8?token=f5f48efc46b5fc7c4dfe86100b335b361df38ae9-90-1792735209-1792681209
-#EXTINF:-1 tvg-chno="579" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Libertadores Femenina] LibertAD Asuncion  vs Club Nacional De Football | TYC Sports (TVF90)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/69/Conmebol_libertadores_femenina_logo.png" group-title="Live - Soccer",[Copa Libertadores Femenina] LibertAD Asuncion  vs Club Nacional De Football | TYC Sports (TVF90)
-#EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=tycsports
+https://khala.futlivehd.com/global/disney8/index.m3u8?token=0f48aa7a05db5ab50b5f87432f526e1dc632c496-bd-1792755026-1792701026
+#EXTINF:-1 tvg-chno="412" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Centroamericana de CONCACAF] Motagua vs Alajuelense | Disney+ (TVF90)" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/CONCACAFCentralAmericanCup.png" group-title="Live - Soccer",[Copa Centroamericana de CONCACAF] Motagua vs Alajuelense | Disney+ (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=disney1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://6.ftlly.com:443/tycsports/mono.m3u8?token=af397b1dab5bae81730ef88c093c237656302e4c-8b-1792707327-1792689327
-#EXTINF:-1 tvg-chno="580" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Libertadores Femenina] Olimpia Asuncion vs Cruzeiro | Sportv BR (TVF90)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/69/Conmebol_libertadores_femenina_logo.png" group-title="Live - Soccer",[Copa Libertadores Femenina] Olimpia Asuncion vs Cruzeiro | Sportv BR (TVF90)
+https://4.ftlly.com:443/disney1/mono.m3u8?token=cda149def6ce658c2598fa7999d39c0955a4c700-58-1792727134-1792709134
+#EXTINF:-1 tvg-chno="413" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Libertadores Femenina] Olimpia Asuncion vs Cruzeiro | Sportv BR (TVF90)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/69/Conmebol_libertadores_femenina_logo.png" group-title="Live - Soccer",[Copa Libertadores Femenina] Olimpia Asuncion vs Cruzeiro | Sportv BR (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=sportv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://10.ftlly.com:443/sportv/mono.m3u8?token=a009885b2a9fa9f66b78bad1d86f8650bbcdc2c1-28-1792707317-1792689317
-#EXTINF:-1 tvg-chno="581" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Libertadores Femenina] Olimpia Asuncion vs Cruzeiro | Sportv BR HD (TVF90)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/69/Conmebol_libertadores_femenina_logo.png" group-title="Live - Soccer",[Copa Libertadores Femenina] Olimpia Asuncion vs Cruzeiro | Sportv BR HD (TVF90)
+https://2.ftlly.com:443/sportv/mono.m3u8?token=d3b0beb97d2b1bc7dba6401623b2dfcf2a2fed87-dd-1792727125-1792709125
+#EXTINF:-1 tvg-chno="414" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Libertadores Femenina] Olimpia Asuncion vs Cruzeiro | Sportv BR HD (TVF90)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/69/Conmebol_libertadores_femenina_logo.png" group-title="Live - Soccer",[Copa Libertadores Femenina] Olimpia Asuncion vs Cruzeiro | Sportv BR HD (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/hd.php?stream=sportv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://3.ftlly.com:443/sportv/mono.m3u8?token=37c99151c31ac99ffe6a3c9855a359654f39849b-f2-1792707317-1792689317
-#EXTINF:-1 tvg-chno="582" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Libertadores Femenina] Olimpia Asunción vs Cruzeiro | SporTV 1 (STRMXHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/69/Conmebol_libertadores_femenina_logo.png" group-title="Live - Soccer",[Copa Libertadores Femenina] Olimpia Asunción vs Cruzeiro | SporTV 1 (STRMXHD)
+https://6.ftlly.com:443/sportv/mono.m3u8?token=52ded70f8e49d1e8c7541d9f26bb9ea1e081f71e-d3-1792727125-1792709125
+#EXTINF:-1 tvg-chno="415" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Libertadores Femenina] Olimpia Asunción vs Cruzeiro | SporTV 1 (STRMXHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/69/Conmebol_libertadores_femenina_logo.png" group-title="Live - Soccer",[Copa Libertadores Femenina] Olimpia Asunción vs Cruzeiro | SporTV 1 (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.sbs/live1.php?stream=sporttvbr1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/sporttvbr1/index.m3u8?token=7b9ed912bdf9fb0075d551b8eb6175ef5c7c496f-b5-1792735209-1792681209
-#EXTINF:-1 tvg-chno="583" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Libertadores Femenina] Olimpia Asunción vs Cruzeiro | Win Sports (STRMXHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/69/Conmebol_libertadores_femenina_logo.png" group-title="Live - Soccer",[Copa Libertadores Femenina] Olimpia Asunción vs Cruzeiro | Win Sports (STRMXHD)
+https://khala.futlivehd.com/global/sporttvbr1/index.m3u8?token=53c3fe0869168a05284ae3af5644f87ba0acd1b7-49-1792755026-1792701026
+#EXTINF:-1 tvg-chno="416" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Libertadores Femenina] Olimpia Asunción vs Cruzeiro | Win Sports (STRMXHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/69/Conmebol_libertadores_femenina_logo.png" group-title="Live - Soccer",[Copa Libertadores Femenina] Olimpia Asunción vs Cruzeiro | Win Sports (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.sbs/live1.php?stream=winsports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/winsports/index.m3u8?token=d7855c55b4a76e409f5c844c39ad113bd5a05bd6-4a-1792735209-1792681209
-#EXTINF:-1 tvg-chno="584" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Libertadores Femenina] U. de Chile vs Deportivo Cali | Win Sports (STRMXHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/69/Conmebol_libertadores_femenina_logo.png" group-title="Live - Soccer",[Copa Libertadores Femenina] U. de Chile vs Deportivo Cali | Win Sports (STRMXHD)
-#EXTVLCOPT:http-referrer=https://streamxhd.sbs/live1.php?stream=winsports
+https://khala.futlivehd.com/global/winsports/index.m3u8?token=84c682b1a3919d5d2bcbb685e0c74906f55f9cfd-72-1792755026-1792701026
+#EXTINF:-1 tvg-chno="417" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Libertadores] Flamengo RJ vs Estudiantes LP (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/58.png" group-title="Live - Soccer",[Copa Libertadores] Flamengo RJ vs Estudiantes LP (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/winsports/index.m3u8?token=62a2ab15d36093712e48566d29f88d66b7618d7f-07-1792735210-1792681210
-#EXTINF:-1 tvg-chno="585" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Libertadores Femenina] U. de Chile vs Deportivo Cali | Win Sports + (STRMXHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/69/Conmebol_libertadores_femenina_logo.png" group-title="Live - Soccer",[Copa Libertadores Femenina] U. de Chile vs Deportivo Cali | Win Sports + (STRMXHD)
-#EXTVLCOPT:http-referrer=https://streamxhd.sbs/live1.php?stream=winplus
+http://193.47.62.55/hls/CDDDAA.m3u8
+#EXTINF:-1 tvg-chno="418" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Libertadores] Flamengo vs Estudiantes de La Plata | Español 1 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/58.png" group-title="Live - Soccer",[Copa Libertadores] Flamengo vs Estudiantes de La Plata | Español 1 (PLIBRE)
+#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=espn
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/winplus/index.m3u8?token=eafbf3476d01b527d6f85525779dd550c8b0ba38-1c-1792735210-1792681210
-#EXTINF:-1 tvg-chno="586" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Libertadores] Flamengo vs Estudiantes LP 1 (STP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/58.png" group-title="Live - Soccer",[Copa Libertadores] Flamengo vs Estudiantes LP 1 (STP)
+https://am91cm5leQ.fubo18.com:443/espn/mono.m3u8?token=0af14f7ecd0f34b3d2b4a5316229985511a8bc63-fd-1792727123-1792709123
+#EXTINF:-1 tvg-chno="419" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Libertadores] Flamengo vs Estudiantes de La Plata | Español 2 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/58.png" group-title="Live - Soccer",[Copa Libertadores] Flamengo vs Estudiantes de La Plata | Español 2 (PLIBRE)
+#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=disney20
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://y2fzdgxl.fubo18.com:443/disney20/mono.m3u8?token=f4eca9699457e31e29920f1aec5b39b3cb36bf91-8f-1792727123-1792709123
+#EXTINF:-1 tvg-chno="420" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Libertadores] Flamengo vs Estudiantes de La Plata | Español 3 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/58.png" group-title="Live - Soccer",[Copa Libertadores] Flamengo vs Estudiantes de La Plata | Español 3 (PLIBRE)
+#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=telefe
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://bmf0aw9u.fubo18.com:443/telefe/mono.m3u8?token=a27e760eda4fe19cb516faed8baab1737f648261-71-1792727123-1792709123
+#EXTINF:-1 tvg-chno="421" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Libertadores] Flamengo vs Estudiantes de La Plata | Español 4 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/58.png" group-title="Live - Soccer",[Copa Libertadores] Flamengo vs Estudiantes de La Plata | Español 4 (PLIBRE)
+#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=espn3mx
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://bmf0aw9u.fubo18.com:443/espn3mx/mono.m3u8?token=06ec417ad82c43f8796100cf5c989a277fc99044-dd-1792727123-1792709123
+#EXTINF:-1 tvg-chno="422" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Libertadores] Flamengo vs Estudiantes de La Plata | Español 5 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/58.png" group-title="Live - Soccer",[Copa Libertadores] Flamengo vs Estudiantes de La Plata | Español 5 (PLIBRE)
+#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=beinsportes
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://bmf0aw9u.fubo18.com:443/beinsportes/mono.m3u8?token=590d9ed9fc409a2fd736a1f0cdcadaf8d0d6da3d-3a-1792727124-1792709124
+#EXTINF:-1 tvg-chno="423" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Libertadores] Flamengo vs Estudiantes LP 1 (STP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/58.png" group-title="Live - Soccer",[Copa Libertadores] Flamengo vs Estudiantes LP 1 (STP)
 #EXTVLCOPT:http-referrer=https://streamx723.sbs/global1.php?channel=disney1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://98.envivosenhd.beer:443/global/disney1/index.m3u8?token=9699ffe2f6dc69f7293d8d949d9028ca8b682259-1d-1792735211-1792681211
-#EXTINF:-1 tvg-chno="587" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Libertadores] Flamengo vs Estudiantes LP 2 (STP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/58.png" group-title="Live - Soccer",[Copa Libertadores] Flamengo vs Estudiantes LP 2 (STP)
+https://98.envivosenhd.beer:443/global/disney1/index.m3u8?token=c4bbacda7199ff059fea01cba3f96f80eea33ff2-56-1792755028-1792701028
+#EXTINF:-1 tvg-chno="424" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Libertadores] Flamengo vs Estudiantes LP 2 (STP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/58.png" group-title="Live - Soccer",[Copa Libertadores] Flamengo vs Estudiantes LP 2 (STP)
 #EXTVLCOPT:http-referrer=https://streamx723.sbs/global1.php?channel=espn
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://98.envivosenhd.beer:443/global/espn/index.m3u8?token=f52f80ae643582acccdf293dd545fdbe3909ac5f-c0-1792735211-1792681211
-#EXTINF:-1 tvg-chno="588" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Libertadores] Flamengo vs Estudiantes LP 3 (STP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/58.png" group-title="Live - Soccer",[Copa Libertadores] Flamengo vs Estudiantes LP 3 (STP)
+https://98.envivosenhd.beer:443/global/espn/index.m3u8?token=807689210d67542404bf0e8e1d9648d290c530a5-be-1792755028-1792701028
+#EXTINF:-1 tvg-chno="425" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Libertadores] Flamengo vs Estudiantes LP 3 (STP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/58.png" group-title="Live - Soccer",[Copa Libertadores] Flamengo vs Estudiantes LP 3 (STP)
 #EXTVLCOPT:http-referrer=https://streamx723.sbs/global1.php?channel=fox1ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://99.envivosenhd.beer:443/global/fox1ar/index.m3u8?token=36e066adc685f5fe6d74babd4ce26a24af6afa1b-a3-1792735211-1792681211
-#EXTINF:-1 tvg-chno="589" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Libertadores] Flamengo vs Estudiantes | BeIN Sports Ñ (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/58.png" group-title="Live - Soccer",[Copa Libertadores] Flamengo vs Estudiantes | BeIN Sports Ñ (TVF90)
+https://98.envivosenhd.beer:443/global/fox1ar/index.m3u8?token=0a29d2131fae7d2cc1c1f401eeb71d1673f4363b-55-1792755029-1792701029
+#EXTINF:-1 tvg-chno="426" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Libertadores] Flamengo vs Estudiantes | BeIN Sports Ñ (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/58.png" group-title="Live - Soccer",[Copa Libertadores] Flamengo vs Estudiantes | BeIN Sports Ñ (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=beinsportes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://11.ftlly.com:443/beinsportes/mono.m3u8?token=b07cf836dd4f32227d92d7a6b8f751b61fe3727a-15-1792707322-1792689322
-#EXTINF:-1 tvg-chno="590" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Libertadores] Flamengo vs Estudiantes | Disney + (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/58.png" group-title="Live - Soccer",[Copa Libertadores] Flamengo vs Estudiantes | Disney + (STRMXHD)
+https://3.ftlly.com:443/beinsportes/mono.m3u8?token=4ec892e9f4f4544c622d72253f35d7092518c452-c5-1792727133-1792709133
+#EXTINF:-1 tvg-chno="427" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Libertadores] Flamengo vs Estudiantes | Disney + (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/58.png" group-title="Live - Soccer",[Copa Libertadores] Flamengo vs Estudiantes | Disney + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.sbs/live1.php?stream=disney7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/disney7/index.m3u8?token=6a5fd2adcd8ba00bee1a820bad0ad67762988a89-7d-1792735210-1792681210
-#EXTINF:-1 tvg-chno="591" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Libertadores] Flamengo vs Estudiantes | ESPN (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/58.png" group-title="Live - Soccer",[Copa Libertadores] Flamengo vs Estudiantes | ESPN (STRMXHD)
+https://khala.futlivehd.com/global/disney7/index.m3u8?token=ba1411702ae06198b188a23a370adbcb4b85ccdc-ec-1792755026-1792701026
+#EXTINF:-1 tvg-chno="428" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Libertadores] Flamengo vs Estudiantes | Disney+ (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/58.png" group-title="Live - Soccer",[Copa Libertadores] Flamengo vs Estudiantes | Disney+ (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=disney20
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://4.ftlly.com:443/disney20/mono.m3u8?token=676206b32f81c96ddfe3462da5298d78e7572751-23-1792727131-1792709131
+#EXTINF:-1 tvg-chno="429" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Libertadores] Flamengo vs Estudiantes | ESPN (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/58.png" group-title="Live - Soccer",[Copa Libertadores] Flamengo vs Estudiantes | ESPN (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.sbs/live1.php?stream=espn
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/espn/index.m3u8?token=2597a57ab75a1a6642dc09c21ea18d48c3cde055-91-1792735210-1792681210
-#EXTINF:-1 tvg-chno="592" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Libertadores] Flamengo vs Estudiantes | ESPN (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/58.png" group-title="Live - Soccer",[Copa Libertadores] Flamengo vs Estudiantes | ESPN (TVF90)
+https://khala.futlivehd.com/global/espn/index.m3u8?token=62fd1bf3f078e97d285dae4d0aa3b35b8e0b4762-49-1792755027-1792701027
+#EXTINF:-1 tvg-chno="430" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Libertadores] Flamengo vs Estudiantes | ESPN (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/58.png" group-title="Live - Soccer",[Copa Libertadores] Flamengo vs Estudiantes | ESPN (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/canal.php?stream=espn
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://6.ftlly.com:443/espn/mono.m3u8?token=01fcfa6bf5b0cf34de011829f7179d8844545486-95-1792707320-1792689320
-#EXTINF:-1 tvg-chno="593" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Libertadores] Flamengo vs Estudiantes | ESPN 3 MX (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/58.png" group-title="Live - Soccer",[Copa Libertadores] Flamengo vs Estudiantes | ESPN 3 MX (TVF90)
+https://9.ftlly.com:443/espn/mono.m3u8?token=bbb22c53b7d83d6d5a246cdbe028699b88d1e8cd-60-1792727129-1792709129
+#EXTINF:-1 tvg-chno="431" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Libertadores] Flamengo vs Estudiantes | ESPN 3 MX (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/58.png" group-title="Live - Soccer",[Copa Libertadores] Flamengo vs Estudiantes | ESPN 3 MX (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=espn3mx
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://8.ftlly.com:443/espn3mx/mono.m3u8?token=45eef5486a8fd3bd2fccac075eb185e30df94dfb-aa-1792707321-1792689321
-#EXTINF:-1 tvg-chno="594" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Libertadores] Flamengo vs Estudiantes | ESPN AR┃OP2 (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/58.png" group-title="Live - Soccer",[Copa Libertadores] Flamengo vs Estudiantes | ESPN AR┃OP2 (TVF90)
+https://5.ftlly.com:443/espn3mx/mono.m3u8?token=8f04c9394eb7f1cace0eff02a41d5078735bbfe5-7c-1792727132-1792709132
+#EXTINF:-1 tvg-chno="432" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Libertadores] Flamengo vs Estudiantes | ESPN AR┃OP2 (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/58.png" group-title="Live - Soccer",[Copa Libertadores] Flamengo vs Estudiantes | ESPN AR┃OP2 (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/2.php?stream=espn
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://6.ftlly.com:443/espn/mono.m3u8?token=e5353b49db0f3e540e1fea5d0b1d53371879f27e-79-1792707320-1792689320
-#EXTINF:-1 tvg-chno="595" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Libertadores] Flamengo vs Estudiantes | ESPN AR┃OP3 (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/58.png" group-title="Live - Soccer",[Copa Libertadores] Flamengo vs Estudiantes | ESPN AR┃OP3 (TVF90)
+https://2.ftlly.com:443/espn/mono.m3u8?token=38fdc15e9e18f4631daaba33baafc1f072bb940a-65-1792727129-1792709129
+#EXTINF:-1 tvg-chno="433" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Libertadores] Flamengo vs Estudiantes | ESPN AR┃OP3 (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/58.png" group-title="Live - Soccer",[Copa Libertadores] Flamengo vs Estudiantes | ESPN AR┃OP3 (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/3.php?stream=espn
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://3.ftlly.com:443/espn/mono.m3u8?token=16ddeed6e2e58f299da976ebb317662edb6f5f44-ca-1792707320-1792689320
-#EXTINF:-1 tvg-chno="596" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Libertadores] Flamengo vs Estudiantes | ESPN NL  (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/58.png" group-title="Live - Soccer",[Copa Libertadores] Flamengo vs Estudiantes | ESPN NL  (TVF90)
+https://8.ftlly.com:443/espn/mono.m3u8?token=37c33c70a8aba7ee3a0f216899ad4ec517423bc8-1d-1792727130-1792709130
+#EXTINF:-1 tvg-chno="434" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Libertadores] Flamengo vs Estudiantes | ESPN NL  (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/58.png" group-title="Live - Soccer",[Copa Libertadores] Flamengo vs Estudiantes | ESPN NL  (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=espn1_nl
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://5.ftlly.com:443/espn1_nl/mono.m3u8?token=857025858e99c134022494b87aad594695e57125-c-1792707322-1792689322
-#EXTINF:-1 tvg-chno="597" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Libertadores] Flamengo vs Estudiantes | ESPN NL | OP2 (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/58.png" group-title="Live - Soccer",[Copa Libertadores] Flamengo vs Estudiantes | ESPN NL | OP2 (TVF90)
+https://4.ftlly.com:443/espn1_nl/mono.m3u8?token=8aa7c2c6c6b6944ac0ba48f465494ab03be0f2b7-c2-1792727132-1792709132
+#EXTINF:-1 tvg-chno="435" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Libertadores] Flamengo vs Estudiantes | ESPN NL | OP2 (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/58.png" group-title="Live - Soccer",[Copa Libertadores] Flamengo vs Estudiantes | ESPN NL | OP2 (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/2.php?stream=espn1_nl
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://6.ftlly.com:443/espn1_nl/mono.m3u8?token=c8186d64970f306a12061a1352b6ecbed39e4ad7-1d-1792707322-1792689322
-#EXTINF:-1 tvg-chno="598" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Libertadores] Flamengo vs Estudiantes | ESPN NL | OP3 (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/58.png" group-title="Live - Soccer",[Copa Libertadores] Flamengo vs Estudiantes | ESPN NL | OP3 (TVF90)
+https://10.ftlly.com:443/espn1_nl/mono.m3u8?token=6559787c4244125af72a781e0e6d11c6f1f8390e-9d-1792727133-1792709133
+#EXTINF:-1 tvg-chno="436" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Libertadores] Flamengo vs Estudiantes | ESPN NL | OP3 (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/58.png" group-title="Live - Soccer",[Copa Libertadores] Flamengo vs Estudiantes | ESPN NL | OP3 (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/3.php?stream=espn1_nl
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://10.ftlly.com:443/espn1_nl/mono.m3u8?token=062433133b211908878c968e8224b1f0f4365fa5-f6-1792707322-1792689322
-#EXTINF:-1 tvg-chno="599" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Libertadores] Flamengo vs Estudiantes | Fox Sports (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/58.png" group-title="Live - Soccer",[Copa Libertadores] Flamengo vs Estudiantes | Fox Sports (TVF90)
+https://5.ftlly.com:443/espn1_nl/mono.m3u8?token=c5b8a32e7268d95bb87a72f529e3d036fba72ce6-6d-1792727133-1792709133
+#EXTINF:-1 tvg-chno="437" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Libertadores] Flamengo vs Estudiantes | Fox Sports (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/58.png" group-title="Live - Soccer",[Copa Libertadores] Flamengo vs Estudiantes | Fox Sports (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=foxsports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://2.ftlly.com:443/foxsports/mono.m3u8?token=4b5deb2c1b7f39fbe1db0bfe8738c722649aac76-71-1792707321-1792689321
-#EXTINF:-1 tvg-chno="600" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Libertadores] Flamengo vs Estudiantes | FOX Sports 1 AR (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/58.png" group-title="Live - Soccer",[Copa Libertadores] Flamengo vs Estudiantes | FOX Sports 1 AR (STRMXHD)
+https://11.ftlly.com:443/foxsports/mono.m3u8?token=5e67103c97d5235e4856d03156bc31ed559a7699-50-1792727131-1792709131
+#EXTINF:-1 tvg-chno="438" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Libertadores] Flamengo vs Estudiantes | FOX Sports 1 AR (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/58.png" group-title="Live - Soccer",[Copa Libertadores] Flamengo vs Estudiantes | FOX Sports 1 AR (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.sbs/live1.php?stream=fox1ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/fox1ar/index.m3u8?token=a83f1aeb9dbd3fcf8cc70478413fa52d3c6d6d84-7d-1792735210-1792681210
-#EXTINF:-1 tvg-chno="601" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Libertadores] Flamengo vs Estudiantes | Fox Sports | OP2 (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/58.png" group-title="Live - Soccer",[Copa Libertadores] Flamengo vs Estudiantes | Fox Sports | OP2 (TVF90)
+https://khala.futlivehd.com/global/fox1ar/index.m3u8?token=7542a7e03d138253437890210a01c322669215ea-43-1792755027-1792701027
+#EXTINF:-1 tvg-chno="439" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Libertadores] Flamengo vs Estudiantes | Fox Sports | OP2 (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/58.png" group-title="Live - Soccer",[Copa Libertadores] Flamengo vs Estudiantes | Fox Sports | OP2 (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/2.php?stream=foxsports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://11.ftlly.com:443/foxsports/mono.m3u8?token=52813eb57512a30fb96b5b628dceb6e1a152c435-44-1792707321-1792689321
-#EXTINF:-1 tvg-chno="602" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Libertadores] Flamengo vs Estudiantes | Telefe (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/58.png" group-title="Live - Soccer",[Copa Libertadores] Flamengo vs Estudiantes | Telefe (TVF90)
+https://4.ftlly.com:443/foxsports/mono.m3u8?token=48e097805d465477ea47067e5d0c0d490853e5ec-1d-1792727132-1792709132
+#EXTINF:-1 tvg-chno="440" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Libertadores] Flamengo vs Estudiantes | Telefe (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/58.png" group-title="Live - Soccer",[Copa Libertadores] Flamengo vs Estudiantes | Telefe (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=telefe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://11.ftlly.com:443/telefe/mono.m3u8?token=62e404189e4535de6c4241f5338aa7179cab277e-6f-1792707321-1792689321
-#EXTINF:-1 tvg-chno="603" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Libertadores] Flamengo vs Estudiantes | Telefe | HD (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/58.png" group-title="Live - Soccer",[Copa Libertadores] Flamengo vs Estudiantes | Telefe | HD (TVF90)
+https://8.ftlly.com:443/telefe/mono.m3u8?token=334cfb957b81c44d9c0736d0015d94d1e063f839-71-1792727130-1792709130
+#EXTINF:-1 tvg-chno="441" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Libertadores] Flamengo vs Estudiantes | Telefe | HD (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/58.png" group-title="Live - Soccer",[Copa Libertadores] Flamengo vs Estudiantes | Telefe | HD (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/hd.php?stream=telefe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://8.ftlly.com:443/telefe/mono.m3u8?token=d157452ae1a1014fb89a6e25b84010ec76b80d0f-e0-1792707321-1792689321
-#EXTINF:-1 tvg-chno="604" tvg-id="Live.Event.us" tvg-name="[Copa Mundial Femenina Sub-17] Chile vs México | Canal 9 MX (STRMXHD)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Soccer",[Copa Mundial Femenina Sub-17] Chile vs México | Canal 9 MX (STRMXHD)
-#EXTVLCOPT:http-referrer=https://streamxhd.sbs/live1.php?stream=canal9mx
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/canal9mx/index.m3u8?token=f6f0e683bec6dd575a58782d555fca1ec41d8203-12-1792735213-1792681213
-#EXTINF:-1 tvg-chno="605" tvg-id="Live.Event.us" tvg-name="[Copa Mundial Femenina Sub-17] Chile vs México | DSports Plus (STRMXHD)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Soccer",[Copa Mundial Femenina Sub-17] Chile vs México | DSports Plus (STRMXHD)
-#EXTVLCOPT:http-referrer=https://streamxhd.sbs/live1.php?stream=dsportsplus
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/dsportsplus/index.m3u8?token=82b71a555ccbaff86e9bcb824ef65c4364a812ab-f7-1792735213-1792681213
-#EXTINF:-1 tvg-chno="606" tvg-id="Live.Event.us" tvg-name="[Copa Mundial Femenina Sub-17] Chile vs México | TUDN MX (STRMXHD)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Soccer",[Copa Mundial Femenina Sub-17] Chile vs México | TUDN MX (STRMXHD)
-#EXTVLCOPT:http-referrer=https://streamxhd.sbs/live1.php?stream=tudnmx
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/tudnmx/index.m3u8?token=1ea7ce0ae01efa5e76b6de8bb58e8b69bde9e1a5-65-1792735213-1792681213
-#EXTINF:-1 tvg-chno="607" tvg-id="Live.Event.us" tvg-name="[Copa Mundial Femenina Sub-17] España vs Australia | DSports 2 (STRMXHD)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Soccer",[Copa Mundial Femenina Sub-17] España vs Australia | DSports 2 (STRMXHD)
+https://5.ftlly.com:443/telefe/mono.m3u8?token=ea765de5f70db88f6f43be0bf25bc8f5380e112c-3d-1792727131-1792709131
+#EXTINF:-1 tvg-chno="442" tvg-id="Live.Event.us" tvg-name="[Copa Mundial Femenina Sub-17] Argentina vs Marruecos | DSports 2 (STRMXHD)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Soccer",[Copa Mundial Femenina Sub-17] Argentina vs Marruecos | DSports 2 (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.sbs/live1.php?stream=dsports2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/dsports2/index.m3u8?token=6eca34c7e31a68728d6fb48750ab76d0df2ca0b0-3e-1792735212-1792681212
-#EXTINF:-1 tvg-chno="608" tvg-id="Live.Event.us" tvg-name="[Copa Mundial Femenina Sub-17] España vs Australia | TUDN MX (STRMXHD)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Soccer",[Copa Mundial Femenina Sub-17] España vs Australia | TUDN MX (STRMXHD)
-#EXTVLCOPT:http-referrer=https://streamxhd.sbs/live1.php?stream=tudnmx
+https://khala.futlivehd.com/global/dsports2/index.m3u8?token=11e283ed4c2d0296d216e75b30230d555ddc5080-06-1792755029-1792701029
+#EXTINF:-1 tvg-chno="443" tvg-id="Soccer.Dummy.us" tvg-name="[LaLiga SmartBank] Granada vs Real Valladolid | LaLiga Hypermotion (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/107.png" group-title="Live - Soccer",[LaLiga SmartBank] Granada vs Real Valladolid | LaLiga Hypermotion (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.sbs/live1.php?stream=laligahypermotion
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/tudnmx/index.m3u8?token=c3239ca5ed752e01ff65966c190f8ed56c7d4f8e-3b-1792735212-1792681212
-#EXTINF:-1 tvg-chno="609" tvg-id="Live.Event.us" tvg-name="[Copa Mundial Femenina Sub] 17 de la FIFA: Chile  vs México | Fox Soccer Plus (TVF90)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Soccer",[Copa Mundial Femenina Sub] 17 de la FIFA: Chile  vs México | Fox Soccer Plus (TVF90)
-#EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=foxsoccerplus
+https://khala.futlivehd.com/global/laligahypermotion/index.m3u8?token=34f348d02acb31193adf5f8d6b4fb6e688677972-43-1792755030-1792701030
+#EXTINF:-1 tvg-chno="444" tvg-id="Soccer.Dummy.us" tvg-name="[LaLiga] Deportivo Alavés vs Málaga | DAZN LaLiga (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" group-title="Live - Soccer",[LaLiga] Deportivo Alavés vs Málaga | DAZN LaLiga (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.sbs/live1.php?stream=daznlaliga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://11.ftlly.com:443/foxsoccerplus/mono.m3u8?token=d30b66c6a36c7d99b19d1630f8644d9e0bba16e3-3-1792707316-1792689316
-#EXTINF:-1 tvg-chno="610" tvg-id="Live.Event.us" tvg-name="[Copa Mundial Femenina Sub] 17 de la FIFA: Chile  vs México | Universo (TVF90)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Soccer",[Copa Mundial Femenina Sub] 17 de la FIFA: Chile  vs México | Universo (TVF90)
-#EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=universo
+https://khala.futlivehd.com/global/daznlaliga/index.m3u8?token=022178525a9aa3354fd2495cf9c893c115b2beb1-9e-1792755032-1792701032
+#EXTINF:-1 tvg-chno="445" tvg-id="Soccer.Dummy.us" tvg-name="[LaLiga] Deportivo Alavés vs Málaga | Disney + (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" group-title="Live - Soccer",[LaLiga] Deportivo Alavés vs Málaga | Disney + (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.sbs/live1.php?stream=disney7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://9.ftlly.com:443/universo/mono.m3u8?token=9580c87221647518b7ea330e93617891a20d6772-8f-1792707316-1792689316
-#EXTINF:-1 tvg-chno="611" tvg-id="Live.Event.us" tvg-name="[Copa Mundial Femenina Sub] 17 de la FIFA: Chile  vs México | Universo | HD (TVF90)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Soccer",[Copa Mundial Femenina Sub] 17 de la FIFA: Chile  vs México | Universo | HD (TVF90)
-#EXTVLCOPT:http-referrer=https://tvf90.com/hd.php?stream=universo
+https://khala.futlivehd.com/global/disney7/index.m3u8?token=c01f2e2fd702b04e0c97063288bc0f022850a866-19-1792755031-1792701031
+#EXTINF:-1 tvg-chno="446" tvg-id="Soccer.Dummy.us" tvg-name="[LaLiga] Deportivo Alavés vs Málaga | ESPN + (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" group-title="Live - Soccer",[LaLiga] Deportivo Alavés vs Málaga | ESPN + (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.sbs/live1.php?stream=espnplus1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://8.ftlly.com:443/universo/mono.m3u8?token=1d5ef2e5d14e0d369a4e42a104c6c910d758f805-ad-1792707316-1792689316
-#EXTINF:-1 tvg-chno="612" tvg-id="Live.Event.us" tvg-name="[Copa Mundial Femenina Sub] 17 de la FIFA: China PR  vs Samoa | Fox Soccer Plus (TVF90)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Soccer",[Copa Mundial Femenina Sub] 17 de la FIFA: China PR  vs Samoa | Fox Soccer Plus (TVF90)
-#EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=foxsoccerplus
+https://khala.futlivehd.com/global/espnplus1/index.m3u8?token=72a062ee04f82ccce8e115856accd18d0674e146-d2-1792755031-1792701031
+#EXTINF:-1 tvg-chno="447" tvg-id="Soccer.Dummy.us" tvg-name="[LaLiga] Deportivo Alavés vs Málaga | ESPN 3 (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" group-title="Live - Soccer",[LaLiga] Deportivo Alavés vs Málaga | ESPN 3 (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.sbs/live1.php?stream=espn3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://5.ftlly.com:443/foxsoccerplus/mono.m3u8?token=0ed756844424ef62947337de28c0a5bbbc16707b-b4-1792707322-1792689322
-#EXTINF:-1 tvg-chno="613" tvg-id="Live.Event.us" tvg-name="[Copa Mundial Femenina Sub] 17 de la FIFA: España  vs Australia | Fox Sports 2 USA (TVF90)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Soccer",[Copa Mundial Femenina Sub] 17 de la FIFA: España  vs Australia | Fox Sports 2 USA (TVF90)
-#EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=foxsports2_usa
+https://khala.futlivehd.com/global/espn3/index.m3u8?token=cdd8afe46a3ade4cfcfdc2d674080ac9e6bda650-17-1792755031-1792701031
+#EXTINF:-1 tvg-chno="448" tvg-id="Soccer.Dummy.us" tvg-name="[LaLiga] Deportivo Alavés vs Málaga | ESPN Deportes (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" group-title="Live - Soccer",[LaLiga] Deportivo Alavés vs Málaga | ESPN Deportes (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.sbs/live1.php?stream=espndeportes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://8.ftlly.com:443/foxsports2_usa/mono.m3u8?token=acbf913c09f66160ab7e55510a35bce4e2087d1b-78-1792707310-1792689310
-#EXTINF:-1 tvg-chno="614" tvg-id="Live.Event.us" tvg-name="[Copa Mundial Femenina Sub] 17 de la FIFA: España  vs Australia | Fox Sports 2 USA | OP2 (TVF90)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Soccer",[Copa Mundial Femenina Sub] 17 de la FIFA: España  vs Australia | Fox Sports 2 USA | OP2 (TVF90)
-#EXTVLCOPT:http-referrer=https://tvf90.com/2.php?stream=foxsports2_usa
+https://khala.futlivehd.com/global/espndeportes/index.m3u8?token=b758c01aaa0b11e79c535f667a6a7bca56ad2ee3-aa-1792755031-1792701031
+#EXTINF:-1 tvg-chno="449" tvg-id="Soccer.Dummy.us" tvg-name="[Liga 1] Atlético Grau vs ADT | L1 Max (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1813.png" group-title="Live - Soccer",[Liga 1] Atlético Grau vs ADT | L1 Max (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.sbs/live1.php?stream=l1max
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://4.ftlly.com:443/foxsports2_usa/mono.m3u8?token=a6338c63c64d113bc12442b45f41e2ce77b4bc04-c4-1792707310-1792689310
-#EXTINF:-1 tvg-chno="615" tvg-id="Live.Event.us" tvg-name="[Copa Mundial Femenina Sub] 17 de la FIFA: España  vs Australia | TUDN MX (TVF90)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Soccer",[Copa Mundial Femenina Sub] 17 de la FIFA: España  vs Australia | TUDN MX (TVF90)
-#EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=tudn_mx
+https://khala.futlivehd.com/global/l1max/index.m3u8?token=c552a9d8a92d97e041f36ab87915865c00fce031-8b-1792755029-1792701029
+#EXTINF:-1 tvg-chno="450" tvg-id="Soccer.Dummy.us" tvg-name="[Liga 1] UTC Cajamarca vs Melgar | L1 Max (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1813.png" group-title="Live - Soccer",[Liga 1] UTC Cajamarca vs Melgar | L1 Max (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.sbs/live1.php?stream=l1max
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://3.ftlly.com:443/tudn_mx/mono.m3u8?token=1730f2552796bbfc6bdd20e48bd9f940c97bc971-aa-1792707310-1792689310
-#EXTINF:-1 tvg-chno="616" tvg-id="Live.Event.us" tvg-name="[Copa Mundial Femenina Sub] 17 de la FIFA: Estados Unidos  vs Kenia | Fox Sports 2 USA (TVF90)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Soccer",[Copa Mundial Femenina Sub] 17 de la FIFA: Estados Unidos  vs Kenia | Fox Sports 2 USA (TVF90)
-#EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=foxsports2_usa
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://6.ftlly.com:443/foxsports2_usa/mono.m3u8?token=f701699762202c1c400e61653ae6671fe42d0604-9e-1792707312-1792689312
-#EXTINF:-1 tvg-chno="617" tvg-id="Live.Event.us" tvg-name="[Copa Mundial Femenina Sub] 17 de la FIFA: Estados Unidos  vs Kenia | Fox Sports 2 USA | OP2 (TVF90)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Soccer",[Copa Mundial Femenina Sub] 17 de la FIFA: Estados Unidos  vs Kenia | Fox Sports 2 USA | OP2 (TVF90)
-#EXTVLCOPT:http-referrer=https://tvf90.com/2.php?stream=foxsports2_usa
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://3.ftlly.com:443/foxsports2_usa/mono.m3u8?token=759348598aebcb007d5a47c3d2836a3c9f6861a1-f-1792707312-1792689312
-#EXTINF:-1 tvg-chno="618" tvg-id="Soccer.Dummy.us" tvg-name="[Liga BetPlay] Atlético Nacional vs Deportivo Pasto 1 (STP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png" group-title="Live - Soccer",[Liga BetPlay] Atlético Nacional vs Deportivo Pasto 1 (STP)
+https://khala.futlivehd.com/global/l1max/index.m3u8?token=0f28f0859f1af007275925644b0bd70727ae4803-99-1792755029-1792701029
+#EXTINF:-1 tvg-chno="451" tvg-id="Soccer.Dummy.us" tvg-name="[Liga BetPlay] Atlético Nacional vs Deportivo Pasto 1 (STP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png" group-title="Live - Soccer",[Liga BetPlay] Atlético Nacional vs Deportivo Pasto 1 (STP)
 #EXTVLCOPT:http-referrer=https://streamx723.sbs/global1.php?channel=winplus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://99.envivosenhd.beer:443/global/winplus/index.m3u8?token=97529a97253efb879322f74e63ad47689ced52a4-e3-1792735211-1792681211
-#EXTINF:-1 tvg-chno="619" tvg-id="Soccer.Dummy.us" tvg-name="[Liga Colombia] Atlético Nacional vs Deportivo Pasto | Win Sports + (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png" group-title="Live - Soccer",[Liga Colombia] Atlético Nacional vs Deportivo Pasto | Win Sports + (STRMXHD)
+https://99.envivosenhd.beer:443/global/winplus/index.m3u8?token=7ef03ece44e7095c91c39178cc07316059d290de-e4-1792755029-1792701029
+#EXTINF:-1 tvg-chno="452" tvg-id="Soccer.Dummy.us" tvg-name="[Liga BetPlay] Atlético Nacional vs Deportivo Pasto | Español 1 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png" group-title="Live - Soccer",[Liga BetPlay] Atlético Nacional vs Deportivo Pasto | Español 1 (PLIBRE)
+#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=winplus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://y2fzdgxl.fubo18.com:443/winplus/mono.m3u8?token=044b62d7eaf358601d8f8a16ca87d6cfd96e09c9-98-1792727124-1792709124
+#EXTINF:-1 tvg-chno="453" tvg-id="Soccer.Dummy.us" tvg-name="[Liga Colombia] Atlético Nacional vs Deportivo Pasto | Win Sports + (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png" group-title="Live - Soccer",[Liga Colombia] Atlético Nacional vs Deportivo Pasto | Win Sports + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.sbs/live1.php?stream=winplus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/winplus/index.m3u8?token=c85cd74a710bbbe095be337f2603979e948c1e82-b4-1792735209-1792681209
-#EXTINF:-1 tvg-chno="620" tvg-id="Soccer.Dummy.us" tvg-name="[Liga de Expansión MX] Alebrijes de Oaxaca vs Cruz Azul Hidalgo | Disney + (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2306.png" group-title="Live - Soccer",[Liga de Expansión MX] Alebrijes de Oaxaca vs Cruz Azul Hidalgo | Disney + (STRMXHD)
+https://khala.futlivehd.com/global/winplus/index.m3u8?token=e80ca7157e4af0cbfd93cf396f39874f8f65252a-98-1792755025-1792701025
+#EXTINF:-1 tvg-chno="454" tvg-id="Soccer.Dummy.us" tvg-name="[Liga Colombia] Boyacá Chicó vs Atlético Bucaramanga | Win Sports + (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png" group-title="Live - Soccer",[Liga Colombia] Boyacá Chicó vs Atlético Bucaramanga | Win Sports + (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.sbs/live1.php?stream=winplus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/winplus/index.m3u8?token=d25c03510ca5324a2bdbbd6a855aaa25151e8c8d-27-1792755025-1792701025
+#EXTINF:-1 tvg-chno="455" tvg-id="Soccer.Dummy.us" tvg-name="[Liga Colombia] Junior vs Rionegro Águilas | Win Sports (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png" group-title="Live - Soccer",[Liga Colombia] Junior vs Rionegro Águilas | Win Sports (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.sbs/live1.php?stream=winsports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/winsports/index.m3u8?token=da1bc207bbe8bcbe212795a23dd818313e0dc487-49-1792755025-1792701025
+#EXTINF:-1 tvg-chno="456" tvg-id="Soccer.Dummy.us" tvg-name="[Liga Colombia] Junior vs Rionegro Águilas | Win Sports + (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png" group-title="Live - Soccer",[Liga Colombia] Junior vs Rionegro Águilas | Win Sports + (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.sbs/live1.php?stream=winplus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/winplus/index.m3u8?token=0d839d313bf984346cdd51a765f80d19c4d3fb86-c5-1792755025-1792701025
+#EXTINF:-1 tvg-chno="457" tvg-id="Soccer.Dummy.us" tvg-name="[Liga de Expansión MX] Alebrijes de Oaxaca vs Cruz Azul Hidalgo | Disney + (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2306.png" group-title="Live - Soccer",[Liga de Expansión MX] Alebrijes de Oaxaca vs Cruz Azul Hidalgo | Disney + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.sbs/live1.php?stream=disney9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/disney9/index.m3u8?token=b9eff2f689f31ea386395237a675aa1d40fc4a96-4f-1792735217-1792681217
-#EXTINF:-1 tvg-chno="621" tvg-id="Soccer.Dummy.us" tvg-name="[Liga de Expansión MX] Alebrijes de Oaxaca vs Cruz Azul Hidalgo | ESPN 2 MX (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2306.png" group-title="Live - Soccer",[Liga de Expansión MX] Alebrijes de Oaxaca vs Cruz Azul Hidalgo | ESPN 2 MX (TVF90)
+https://khala.futlivehd.com/global/disney9/index.m3u8?token=4b2408a30c125cf1575f41592012691309748df6-29-1792755027-1792701027
+#EXTINF:-1 tvg-chno="458" tvg-id="Soccer.Dummy.us" tvg-name="[Liga de Expansión MX] Alebrijes de Oaxaca vs Cruz Azul Hidalgo | Español 1 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2306.png" group-title="Live - Soccer",[Liga de Expansión MX] Alebrijes de Oaxaca vs Cruz Azul Hidalgo | Español 1 (PLIBRE)
+#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=espn2mx
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://eWVz.fubo18.com:443/espn2mx/mono.m3u8?token=809b717a7908b1f953326a861a0a169aa83fa0f7-93-1792727124-1792709124
+#EXTINF:-1 tvg-chno="459" tvg-id="Soccer.Dummy.us" tvg-name="[Liga de Expansión MX] Alebrijes de Oaxaca vs Cruz Azul Hidalgo | ESPN 2 MX (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2306.png" group-title="Live - Soccer",[Liga de Expansión MX] Alebrijes de Oaxaca vs Cruz Azul Hidalgo | ESPN 2 MX (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=espn2mx
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://7.ftlly.com:443/espn2mx/mono.m3u8?token=135972f1848a2adb7c910a5720ce2f70415ea6ed-75-1792707316-1792689316
-#EXTINF:-1 tvg-chno="622" tvg-id="Soccer.Dummy.us" tvg-name="[Liga Profesional Saudí] Al-Ahli vs Al Khaleej 1 (STP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2488.png" group-title="Live - Soccer",[Liga Profesional Saudí] Al-Ahli vs Al Khaleej 1 (STP)
+https://9.ftlly.com:443/espn2mx/mono.m3u8?token=184eac7d3a50e9153f19abccfc2015fb34ad2a69-f3-1792727124-1792709124
+#EXTINF:-1 tvg-chno="460" tvg-id="Soccer.Dummy.us" tvg-name="[Liga Ecuador] Independiente del Valle vs Universidad Católica | Zapping EC (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1944.png" group-title="Live - Soccer",[Liga Ecuador] Independiente del Valle vs Universidad Católica | Zapping EC (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.sbs/live1.php?stream=zapping_ec
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/zapping_ec/index.m3u8?token=3536aba674fe451048c6d26cf610893588c49f5a-ab-1792755032-1792701032
+#EXTINF:-1 tvg-chno="461" tvg-id="Soccer.Dummy.us" tvg-name="[Liga MX] Necaxa vs Juárez | FOX One (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/22.png" group-title="Live - Soccer",[Liga MX] Necaxa vs Juárez | FOX One (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.sbs/live1.php?stream=foxone
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/foxone/index.m3u8?token=d7e386e605e7a09dbc7895862ff2b06451b4c202-aa-1792755034-1792701034
+#EXTINF:-1 tvg-chno="462" tvg-id="Soccer.Dummy.us" tvg-name="[Liga Paraguay] Libertad vs Sportivo Luqueño | Tigo Sports (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1892.png" group-title="Live - Soccer",[Liga Paraguay] Libertad vs Sportivo Luqueño | Tigo Sports (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.sbs/live1.php?stream=tigo1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/tigo1/index.m3u8?token=3e63481d7fe012ebae0c52db02d521e431e599b6-53-1792755032-1792701032
+#EXTINF:-1 tvg-chno="463" tvg-id="Soccer.Dummy.us" tvg-name="[Liga Paraguay] Rubio Ñú vs Guaraní | Tigo Sports (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1892.png" group-title="Live - Soccer",[Liga Paraguay] Rubio Ñú vs Guaraní | Tigo Sports (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.sbs/live1.php?stream=tigo1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/tigo1/index.m3u8?token=98f92b83863712a9b39cc4c75459bec5c7c0b48a-10-1792755032-1792701032
+#EXTINF:-1 tvg-chno="464" tvg-id="Soccer.Dummy.us" tvg-name="[Liga Profesional Saudí] Al-Ahli vs Al Khaleej 1 (STP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2488.png" group-title="Live - Soccer",[Liga Profesional Saudí] Al-Ahli vs Al Khaleej 1 (STP)
 #EXTVLCOPT:http-referrer=https://streamx723.sbs/global1.php?channel=sportv3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://99.envivosenhd.beer:443/global/sportv3/index.m3u8?token=7a3c755b88cfd8c538907c34f476200ac7048cdd-e0-1792735210-1792681210
-#EXTINF:-1 tvg-chno="623" tvg-id="Soccer.Dummy.us" tvg-name="[Primera A] Atlético Nacional vs Deportivo Pasto | Win Sports + (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png" group-title="Live - Soccer",[Primera A] Atlético Nacional vs Deportivo Pasto | Win Sports + (TVF90)
+https://99.envivosenhd.beer:443/global/sportv3/index.m3u8?token=c89f776b388e6b537e40f33ff0e4387a057c3474-00-1792755025-1792701025
+#EXTINF:-1 tvg-chno="465" tvg-id="Soccer.Dummy.us" tvg-name="[Liga Profesional] Gimnasia La Plata vs Sarmiento | Disney + (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1.png" group-title="Live - Soccer",[Liga Profesional] Gimnasia La Plata vs Sarmiento | Disney + (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.sbs/live1.php?stream=disney8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/disney8/index.m3u8?token=02bf4d556dee4e7a400ae5857f8b592caa066606-b7-1792755033-1792701033
+#EXTINF:-1 tvg-chno="466" tvg-id="Soccer.Dummy.us" tvg-name="[Liga Profesional] Gimnasia La Plata vs Sarmiento | ESPN Premium (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1.png" group-title="Live - Soccer",[Liga Profesional] Gimnasia La Plata vs Sarmiento | ESPN Premium (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.sbs/live1.php?stream=espnpremium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/espnpremium/index.m3u8?token=be798f78f5e9851c2502e8adf3a7f1eb406c31fe-0d-1792755033-1792701033
+#EXTINF:-1 tvg-chno="467" tvg-id="Soccer.Dummy.us" tvg-name="[Liga Profesional] Gimnasia Mendoza vs Platense | TNT Sports (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1.png" group-title="Live - Soccer",[Liga Profesional] Gimnasia Mendoza vs Platense | TNT Sports (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.sbs/live1.php?stream=tntsports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/tntsports/index.m3u8?token=510383cbf7bc70300dc9604c0e4f48f7bc960889-e7-1792755033-1792701033
+#EXTINF:-1 tvg-chno="468" tvg-id="Soccer.Dummy.us" tvg-name="[Liga Profesional] Tigre vs Atlético Tucumán | TNT Sports (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1.png" group-title="Live - Soccer",[Liga Profesional] Tigre vs Atlético Tucumán | TNT Sports (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.sbs/live1.php?stream=tntsports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/tntsports/index.m3u8?token=ed355b500a52f0fb274e08d05d6ba31100936988-b9-1792755033-1792701033
+#EXTINF:-1 tvg-chno="469" tvg-id="Soccer.Dummy.us" tvg-name="[Primera A] Atlético Nacional vs Deportivo Pasto | Win Sports + (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png" group-title="Live - Soccer",[Primera A] Atlético Nacional vs Deportivo Pasto | Win Sports + (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=winsports2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://6.ftlly.com:443/winsports2/mono.m3u8?token=38adcab4888904ad635ce1ffaf4cc77136b6dcaa-16-1792707309-1792689309
-#EXTINF:-1 tvg-chno="624" tvg-id="Soccer.Dummy.us" tvg-name="[Primera A] Atlético Nacional vs Deportivo Pasto | Win Sports + | HD (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png" group-title="Live - Soccer",[Primera A] Atlético Nacional vs Deportivo Pasto | Win Sports + | HD (TVF90)
+https://9.ftlly.com:443/winsports2/mono.m3u8?token=6c13d6712195e25cd84e7f68d169c5c9e3131ab4-74-1792727123-1792709123
+#EXTINF:-1 tvg-chno="470" tvg-id="Soccer.Dummy.us" tvg-name="[Primera A] Atlético Nacional vs Deportivo Pasto | Win Sports + | HD (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png" group-title="Live - Soccer",[Primera A] Atlético Nacional vs Deportivo Pasto | Win Sports + | HD (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/hd.php?stream=winsports2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://3.ftlly.com:443/winsports2/mono.m3u8?token=a0c0268faf57ae765c7c8e1d4fb515f1b5eeeb6c-90-1792707309-1792689309
-#EXTINF:-1 tvg-chno="625" tvg-id="Soccer.Dummy.us" tvg-name="[Primera A] Atlético Nacional vs Deportivo Pasto | Win Sports + | OP2 (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png" group-title="Live - Soccer",[Primera A] Atlético Nacional vs Deportivo Pasto | Win Sports + | OP2 (TVF90)
+https://8.ftlly.com:443/winsports2/mono.m3u8?token=786330a30101a0b18bd9392ba62d7fb24e1ad685-88-1792727124-1792709124
+#EXTINF:-1 tvg-chno="471" tvg-id="Soccer.Dummy.us" tvg-name="[Primera A] Atlético Nacional vs Deportivo Pasto | Win Sports + | OP2 (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png" group-title="Live - Soccer",[Primera A] Atlético Nacional vs Deportivo Pasto | Win Sports + | OP2 (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/2.php?stream=winsports2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://8.ftlly.com:443/winsports2/mono.m3u8?token=6e5f405704fc46954557740d3f782fa2f8dc1794-1b-1792707309-1792689309
-#EXTINF:-1 tvg-chno="626" tvg-id="Soccer.Dummy.us" tvg-name="[Primera A] Atlético Nacional vs Deportivo Pasto | Win Sports + | OP3 (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png" group-title="Live - Soccer",[Primera A] Atlético Nacional vs Deportivo Pasto | Win Sports + | OP3 (TVF90)
+https://7.ftlly.com:443/winsports2/mono.m3u8?token=66ad8742919ac44dbeedd9a2bd4f20e0545b14b2-5-1792727123-1792709123
+#EXTINF:-1 tvg-chno="472" tvg-id="Soccer.Dummy.us" tvg-name="[Primera A] Atlético Nacional vs Deportivo Pasto | Win Sports + | OP3 (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png" group-title="Live - Soccer",[Primera A] Atlético Nacional vs Deportivo Pasto | Win Sports + | OP3 (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/3.php?stream=winsports2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://3.ftlly.com:443/winsports2/mono.m3u8?token=ce7f90510cdd5ba26ebb19909fd8e83c51ad430c-b0-1792707309-1792689309
-#EXTINF:-1 tvg-chno="627" tvg-id="Soccer.Dummy.us" tvg-name="[Romania Liga 2] FC Bihor vs CSM Resita (FAWA)" tvg-logo="https://images.fotmob.com/image_resources/logo/leaguelogo/9113.png" group-title="Live - Soccer",[Romania Liga 2] FC Bihor vs CSM Resita (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.44/hls/CIII.m3u8
-#EXTINF:-1 tvg-chno="628" tvg-id="Soccer.Dummy.us" tvg-name="[Uzbekistan Super League] Bunyodkor vs Mashal Muborak (FAWA)" tvg-logo="https://assets.football-logos.cc/logos/uzbekistan/1500x1500/uzbekistan-super-league.d56222d2.png" group-title="Live - Soccer",[Uzbekistan Super League] Bunyodkor vs Mashal Muborak (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.44/hls/CIIIAAA.m3u8
+https://8.ftlly.com:443/winsports2/mono.m3u8?token=da1f5e5808b525ff3706d38c20e272d82978a05c-c7-1792727124-1792709124
