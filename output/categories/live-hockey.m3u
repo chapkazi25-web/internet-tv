@@ -1,65 +1,25 @@
 #EXTM3U url-tvg="https://s.id/d9sEPG"
-#EXTINF:-1 tvg-chno="128" tvg-id="Soccer.Dummy.us" tvg-name="[Allsvenskan] IF Elfsborg vs. Malmö FF (DAMITV)" tvg-logo="https://ondemand.st/img/cards/swe.1/401842851.jpg?v=3" group-title="Live - Hockey",[Allsvenskan] IF Elfsborg vs. Malmö FF (DAMITV)
-#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=allsvenskan/2026-10-23/elf-mal
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://messi.damitv.st/live-sd/s/admin/p-if-elfsborg-vs-malm-ff/2/playlist.m3u8?tk=isX17HOGQ8roT_RSWyydTQ&e=1792818019
-#EXTINF:-1 tvg-chno="129" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[Hockey] Montreal Canadiens vs. Chicago Blackhawks | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live - Hockey",[Hockey] Montreal Canadiens vs. Chicago Blackhawks | English (STRMCNTR)
+#EXTINF:-1 tvg-chno="141" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[Hockey] Montreal Canadiens vs. Chicago Blackhawks | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live - Hockey",[Hockey] Montreal Canadiens vs. Chicago Blackhawks | English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream7.pro/hls/uyopzarf50.m3u8
-#EXTINF:-1 tvg-chno="130" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[Hockey] Tampa Bay Lightning vs. Colorado Avalanche | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live - Hockey",[Hockey] Tampa Bay Lightning vs. Colorado Avalanche | English (STRMCNTR)
+#EXTINF:-1 tvg-chno="142" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[Hockey] Tampa Bay Lightning vs. Colorado Avalanche | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live - Hockey",[Hockey] Tampa Bay Lightning vs. Colorado Avalanche | English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream5.pro/hls/hjksgdfauzy51.m3u8
-#EXTINF:-1 tvg-chno="131" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Canadiens vs Blackhawks (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live - Hockey",[NHL] Canadiens vs Blackhawks (WEBCAST)
+#EXTINF:-1 tvg-chno="143" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Canadiens vs Blackhawks (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live - Hockey",[NHL] Canadiens vs Blackhawks (WEBCAST)
 #EXTVLCOPT:http-referrer=https://slapstreams.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://webcast-origin.b-cdn.net/bcdn_token=pYYm5umAsxYN9aBtKIv1o9Kp6oNHa_tEoPI68h2mkSk&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFBWOC94dzb7i-NE7xWFx2d%2F&expires=1792771330/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFBWOC94dzb7i-NE7xWFx2d/87.m3u8
-#EXTINF:-1 tvg-chno="132" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Lightning vs Avalanche (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live - Hockey",[NHL] Lightning vs Avalanche (WEBCAST)
+https://webcast-origin.b-cdn.net/bcdn_token=I7HyNQraYyiSrZ9K2av26FnTfg1Y9sES5TabDOcoHmg&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFBWOC94dzb7i-NE7xWFx2d%2F&expires=1792796546/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFBWOC94dzb7i-NE7xWFx2d/87.m3u8
+#EXTINF:-1 tvg-chno="144" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Lightning vs Avalanche (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live - Hockey",[NHL] Lightning vs Avalanche (WEBCAST)
 #EXTVLCOPT:http-referrer=https://slapstreams.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://webcast-origin.b-cdn.net/bcdn_token=4ki7lM-BnSgivLcWC8wKbJlWNAwAhUXCQCOfbry8pws&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhG1otfhCu0gmJFhRJqIdhEH%2F&expires=1792771330/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhG1otfhCu0gmJFhRJqIdhEH/84.m3u8
-#EXTINF:-1 tvg-chno="133" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] NHL Network (DAMITV)" tvg-logo="https://ondemand.st/img/x/assets/thumb/4a70bb8cf331b8ab0299fd836b56e2ed-thumbnail.jpg" group-title="Live - Hockey",[NHL] NHL Network (DAMITV)
+https://webcast-origin.b-cdn.net/bcdn_token=-KfY0uf-LW1NECqTOgSVGN-9iOGn-ipgOe2KpaOXCyY&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhG1otfhCu0gmJFhRJqIdhEH%2F&expires=1792796546/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhG1otfhCu0gmJFhRJqIdhEH/84.m3u8
+#EXTINF:-1 tvg-chno="145" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] NHL Network (DAMITV)" tvg-logo="https://ondemand.st/img/x/assets/thumb/4a70bb8cf331b8ab0299fd836b56e2ed-thumbnail.jpg" group-title="Live - Hockey",[NHL] NHL Network (DAMITV)
 #EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=nhl-network-29780
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://messi.damitv.st/live-sd/s/admin/p-nhl-network/2/playlist.m3u8?tk=5UL_KMBtUSVjXMXuZqoWiw&e=1792819806
-#EXTINF:-1 tvg-chno="134" tvg-id="Soccer.Dummy.us" tvg-name="[Sweden Allsvenskan] Elfsborg vs Malmo FF (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/16.png" group-title="Live - Hockey",[Sweden Allsvenskan] Elfsborg vs Malmo FF (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.44/hls/OOOOAAA.m3u8
-#EXTINF:-1 tvg-chno="135" tvg-id="Soccer.Dummy.us" tvg-name="[Sweden Allsvenskan] Vasteras SK vs Halmstad (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/16.png" group-title="Live - Hockey",[Sweden Allsvenskan] Vasteras SK vs Halmstad (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.44/hls/OOOOAAAA.m3u8
-#EXTINF:-1 tvg-chno="136" tvg-id="Ice.Hockey.Dummy.us" tvg-name="[Sweden HockeyAllsvenskan] Almtuna vs Vimmerby (FAWA)" tvg-logo="https://thumb.wikimedia.org/wikipedia/en/thumb/2/29/HockeyAllsvenskan_logo.svg/960px-HockeyAllsvenskan_logo.svg.png" group-title="Live - Hockey",[Sweden HockeyAllsvenskan] Almtuna vs Vimmerby (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.44/hls/rrrr.m3u8
-#EXTINF:-1 tvg-chno="137" tvg-id="Ice.Hockey.Dummy.us" tvg-name="[Sweden HockeyAllsvenskan] BIK Karlskoga vs Visby Roma (FAWA)" tvg-logo="https://thumb.wikimedia.org/wikipedia/en/thumb/2/29/HockeyAllsvenskan_logo.svg/960px-HockeyAllsvenskan_logo.svg.png" group-title="Live - Hockey",[Sweden HockeyAllsvenskan] BIK Karlskoga vs Visby Roma (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.44/hls/rrrrQ.m3u8
-#EXTINF:-1 tvg-chno="138" tvg-id="Ice.Hockey.Dummy.us" tvg-name="[Sweden HockeyAllsvenskan] Kalmar vs Leksand (FAWA)" tvg-logo="https://thumb.wikimedia.org/wikipedia/en/thumb/2/29/HockeyAllsvenskan_logo.svg/960px-HockeyAllsvenskan_logo.svg.png" group-title="Live - Hockey",[Sweden HockeyAllsvenskan] Kalmar vs Leksand (FAWA)
+https://messi.damitv.st/live-sd/s/admin/p-nhl-network/2/playlist.m3u8?tk=M-FvkFBYrHX83SYZpcsFzw&e=1792839619
+#EXTINF:-1 tvg-chno="146" tvg-id="Ice.Hockey.Dummy.us" tvg-name="[Sweden HockeyAllsvenskan] Kalmar vs Leksand (FAWA)" tvg-logo="https://thumb.wikimedia.org/wikipedia/en/thumb/2/29/HockeyAllsvenskan_logo.svg/960px-HockeyAllsvenskan_logo.svg.png" group-title="Live - Hockey",[Sweden HockeyAllsvenskan] Kalmar vs Leksand (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 http://193.47.62.44/hls/QMMMAA.m3u8
-#EXTINF:-1 tvg-chno="139" tvg-id="Ice.Hockey.Dummy.us" tvg-name="[Sweden HockeyAllsvenskan] Modo vs AIK (FAWA)" tvg-logo="https://thumb.wikimedia.org/wikipedia/en/thumb/2/29/HockeyAllsvenskan_logo.svg/960px-HockeyAllsvenskan_logo.svg.png" group-title="Live - Hockey",[Sweden HockeyAllsvenskan] Modo vs AIK (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.44/hls/UUU7AAAAA.m3u8
-#EXTINF:-1 tvg-chno="140" tvg-id="Ice.Hockey.Dummy.us" tvg-name="[Sweden HockeyAllsvenskan] Nybro vs Sodertalje (FAWA)" tvg-logo="https://thumb.wikimedia.org/wikipedia/en/thumb/2/29/HockeyAllsvenskan_logo.svg/960px-HockeyAllsvenskan_logo.svg.png" group-title="Live - Hockey",[Sweden HockeyAllsvenskan] Nybro vs Sodertalje (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.44/hls/rrrrQQ.m3u8
-#EXTINF:-1 tvg-chno="141" tvg-id="Ice.Hockey.Dummy.us" tvg-name="[Sweden HockeyAllsvenskan] Oskarshamn vs Mora (FAWA)" tvg-logo="https://thumb.wikimedia.org/wikipedia/en/thumb/2/29/HockeyAllsvenskan_logo.svg/960px-HockeyAllsvenskan_logo.svg.png" group-title="Live - Hockey",[Sweden HockeyAllsvenskan] Oskarshamn vs Mora (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.44/hls/rrrrQQQ.m3u8
-#EXTINF:-1 tvg-chno="142" tvg-id="Ice.Hockey.Dummy.us" tvg-name="[Sweden HockeyAllsvenskan] Ostersund vs Vasteras (FAWA)" tvg-logo="https://thumb.wikimedia.org/wikipedia/en/thumb/2/29/HockeyAllsvenskan_logo.svg/960px-HockeyAllsvenskan_logo.svg.png" group-title="Live - Hockey",[Sweden HockeyAllsvenskan] Ostersund vs Vasteras (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.44/hls/rrrrQQQQ.m3u8
-#EXTINF:-1 tvg-chno="143" tvg-id="Soccer.Dummy.us" tvg-name="[Sweden Women Allsvenskan] Vaxjo DFF W vs Hacken W (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/16.png" group-title="Live - Hockey",[Sweden Women Allsvenskan] Vaxjo DFF W vs Hacken W (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.44/hls/OOOOA.m3u8

@@ -1,27 +1,27 @@
 #EXTM3U url-tvg="https://s.id/d9sEPG"
-#EXTINF:-1 tvg-chno="71" tvg-id="AdultSwim.com.Cartoon.Network.us2" tvg-name="Adult Swim" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16496_dark_360w_270h.png" group-title="Kids & Family",Adult Swim
+#EXTINF:-1 tvg-chno="74" tvg-id="AdultSwim.com.Cartoon.Network.us2" tvg-name="Adult Swim" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16496_dark_360w_270h.png" group-title="Kids & Family",Adult Swim
 https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
-#EXTINF:-1 tvg-chno="72" tvg-id="Boomerang.us2" tvg-name="Boomerang" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png" group-title="Kids & Family",Boomerang
+#EXTINF:-1 tvg-chno="75" tvg-id="Boomerang.us2" tvg-name="Boomerang" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png" group-title="Kids & Family",Boomerang
 http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
-#EXTINF:-1 tvg-chno="73" tvg-id="BUZZR.Stream.us2" tvg-name="Buzzr" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s93430_dark_360w_270h.png" group-title="Kids & Family",Buzzr
+#EXTINF:-1 tvg-chno="76" tvg-id="BUZZR.Stream.us2" tvg-name="Buzzr" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s93430_dark_360w_270h.png" group-title="Kids & Family",Buzzr
 https://buzzrota-ono.amagi.tv/playlist720p.m3u8
-#EXTINF:-1 tvg-chno="74" tvg-id="COZI.TV.us2" tvg-name="Cozi TV" tvg-logo="https://dtil.tmsimg.com/assets/s78851_ll_h15_ab.png?w=360&h=270" group-title="Kids & Family",Cozi TV
+#EXTINF:-1 tvg-chno="77" tvg-id="COZI.TV.us2" tvg-name="Cozi TV" tvg-logo="https://dtil.tmsimg.com/assets/s78851_ll_h15_ab.png?w=360&h=270" group-title="Kids & Family",Cozi TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb37f/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzdmOjE3OTI3OTQ2MDMyMTQ6Y2RubGl2ZXR2LnR2OmFmNDI1YmEzNjVjMDRkNjcuMGMzMDFlZjQwNTdmYTgwNzNiZGJjNWU4YTM4Y2I5MWRjMjhmNzM5NTEwNDYwMDUwZjZjMjhjMWYxODFlYTQxMg
-#EXTINF:-1 tvg-chno="75" tvg-id="Disney.Channel.HD.us2" tvg-name="Disney Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png" group-title="Kids & Family",Disney Channel
+https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb37f/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzdmOjE3OTI4MTA4MDM1ODY6Y2RubGl2ZXR2LnR2OjgwMDgwNmM4NmU5YzMxNzYuM2MyY2UyNjE5MmRhNTk4N2ViMmM1MTU2ZTgxYzdkMzdmNjE4ZTMyYTFmOTZiOWY2ODJhN2Q2ZGFiYjQ4MzMyZQ
+#EXTINF:-1 tvg-chno="78" tvg-id="Disney.Channel.HD.us2" tvg-name="Disney Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png" group-title="Kids & Family",Disney Channel
 http://212.5.144.156:8080/disney/index.m3u8
-#EXTINF:-1 tvg-chno="76" tvg-id="Disney.Channel.HD.us2" tvg-name="Disney Channel (Alt)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png" group-title="Kids & Family",Disney Channel (Alt)
+#EXTINF:-1 tvg-chno="79" tvg-id="Disney.Channel.HD.us2" tvg-name="Disney Channel (Alt)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png" group-title="Kids & Family",Disney Channel (Alt)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb415/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiNDE1OjE3OTI3OTQ2MDM2Mjk6Y2RubGl2ZXR2LnR2OjBhMGQyNzZhMzdkNGYwMjkuMzY0M2M2OTRhYzgzZjEwNDYwNmJjNjFkMzhmY2UxNWUxOGIzNTBhZWMyMzczM2FkYzJmNjYxMTk1NDRhYjM0Yg
-#EXTINF:-1 tvg-chno="77" tvg-id="Disney.Junior.HD.us2" tvg-name="Disney Jr" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60506_dark_360w_270h.png" group-title="Kids & Family",Disney Jr
+https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb415/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiNDE1OjE3OTI4MTA4MDM5OTE6Y2RubGl2ZXR2LnR2OjQ4YTdjY2E2ODYyYjhjZWEuYzlmY2EwZDJhOGZkZGJlYTczNTI5YjUyMTE0NDQyNDA5NGVkOGUxZjZjMjkxZjYxNjUyOGMzZTcxNTZhYjkwMw
+#EXTINF:-1 tvg-chno="80" tvg-id="Disney.Junior.HD.us2" tvg-name="Disney Jr" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60506_dark_360w_270h.png" group-title="Kids & Family",Disney Jr
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb21c/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMjFjOjE3OTI3OTQ2MDM4NDk6Y2RubGl2ZXR2LnR2OjQ0YjcxNDEzZDNmOTMwM2IuN2MzZGM2YzI3YTg5OTQ0NWU5ZWY2NDk1NTgzM2I5Yjk3MmQ4YjFmZGRhNWZkMTVmZmFhZmY5OTc2NGFlOTJjNQ
-#EXTINF:-1 tvg-chno="78" tvg-id="Disney.XD.HD.us2" tvg-name="Disney XD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png" group-title="Kids & Family",Disney XD
+https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb21c/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMjFjOjE3OTI4MTA4MDQyMTQ6Y2RubGl2ZXR2LnR2OmFlYzEzMDgyMTIwMjQ1ZDMuNGVjMWM5OWMyZTkwNzJhNjYxYTBjZWQ3Njk0MDVhOTcyNzEwZTBlYTNkYTNiOGEwZGQ1MTk2NzIxMzU1ZGJmMg
+#EXTINF:-1 tvg-chno="81" tvg-id="Disney.XD.HD.us2" tvg-name="Disney XD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png" group-title="Kids & Family",Disney XD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76caeae/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNhZWFlOjE3OTI3OTQ2MDQwNDE6Y2RubGl2ZXR2LnR2OmZlNWQ0YmFiMWRkNTkwNzkuNmM1MDk4NjczMGM5N2YzZjQzNDNjZWE4NDU1Mjk1NmQxYzRkOTBjMTcxN2RjYzJkOTE2ZTY1NThmYmVhMTI0NA
-#EXTINF:-1 tvg-chno="79" tvg-id="Nick.Jr.HD.us2" tvg-name="Nick Jr" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19211_dark_360w_270h.png" group-title="Kids & Family",Nick Jr
+https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76caeae/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNhZWFlOjE3OTI4MTA4MDQ0MTI6Y2RubGl2ZXR2LnR2OjEyNTljY2I4MDM1NzM4ZmEuYjRhNGE3YjQ5MDRiMThmMTJkZmM2MzM0MjE5ZDRjMGIxY2IyNzQ5NjQwMjZhNzkxZjcxNTE3Y2MzMzFjZmI5Mg
+#EXTINF:-1 tvg-chno="82" tvg-id="Nick.Jr.HD.us2" tvg-name="Nick Jr" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19211_dark_360w_270h.png" group-title="Kids & Family",Nick Jr
 http://212.5.144.156:8080/nickjr/index.m3u8
-#EXTINF:-1 tvg-chno="80" tvg-id="Nickelodeon.HD.us2" tvg-name="Nickelodeon" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" group-title="Kids & Family",Nickelodeon
+#EXTINF:-1 tvg-chno="83" tvg-id="Nickelodeon.HD.us2" tvg-name="Nickelodeon" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" group-title="Kids & Family",Nickelodeon
 http://198.58.104.90:8989/nickelodeon/index.m3u8
-#EXTINF:-1 tvg-chno="81" tvg-id="Nicktoons.us2" tvg-name="Nicktoons" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30420_dark_360w_270h.png" group-title="Kids & Family",Nicktoons
+#EXTINF:-1 tvg-chno="84" tvg-id="Nicktoons.us2" tvg-name="Nicktoons" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30420_dark_360w_270h.png" group-title="Kids & Family",Nicktoons
 http://41.205.93.154/NICKTOONS/index.m3u8
