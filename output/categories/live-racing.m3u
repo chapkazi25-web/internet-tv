@@ -1,5 +1,17 @@
 #EXTM3U url-tvg="https://s.id/d9sEPG"
-#EXTINF:-1 tvg-chno="336" tvg-id="Racing.Dummy.us" tvg-name="[Racing] MotoGP Australian Grand Prix | English (STRMCNTR)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Racing",[Racing] MotoGP Australian Grand Prix | English (STRMCNTR)
+#EXTINF:-1 tvg-chno="278" tvg-id="Live.Event.us" tvg-name="[Horse Racing] Horse Racing 1 (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Racing",[Horse Racing] Horse Racing 1 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.55/hls/vavavava.m3u8
+#EXTINF:-1 tvg-chno="279" tvg-id="Live.Event.us" tvg-name="[Horse Racing] Horse Racing 2 (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Racing",[Horse Racing] Horse Racing 2 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.55/hls/vavavavaq.m3u8
+#EXTINF:-1 tvg-chno="280" tvg-id="Racing.Dummy.us" tvg-name="[Racing] MSC Cruises United States Grand Prix — FP1 | English (STRMCNTR)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Racing",[Racing] MSC Cruises United States Grand Prix — FP1 | English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://edgestream7.pro/hls/oeenzgezcz47.m3u8
+https://edgestream3.pro/hls/hbfkazbkaznc49.m3u8
+#EXTINF:-1 tvg-chno="281" tvg-id="Racing.Dummy.us" tvg-name="[Racing] MSC Cruises United States Grand Prix — FP2 | English (STRMCNTR)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Racing",[Racing] MSC Cruises United States Grand Prix — FP2 | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream2.pro/hls/hbfkazbkaznc49.m3u8

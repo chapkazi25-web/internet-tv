@@ -1,25 +1,53 @@
 #EXTM3U url-tvg="https://s.id/d9sEPG"
-#EXTINF:-1 tvg-chno="104" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[Basketball] Cleveland Cavaliers vs. Philadelphia 76ers | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Basketball",[Basketball] Cleveland Cavaliers vs. Philadelphia 76ers | English (STRMCNTR)
+#EXTINF:-1 tvg-chno="109" tvg-id="Basketball.Dummy.us" tvg-name="[Basketball NBL] Perth vs Melbourne United (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/04/Basketball-Emoji-1536x864.png" group-title="Live - Basketball",[Basketball NBL] Perth vs Melbourne United (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.41/hls/ifff.m3u8
+#EXTINF:-1 tvg-chno="110" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[Basketball] Atlanta Hawks vs. Charlotte Hornets | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Basketball",[Basketball] Atlanta Hawks vs. Charlotte Hornets | English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://edgestream7.pro/hls/mlkijfezag65.m3u8
-#EXTINF:-1 tvg-chno="105" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[Basketball] Denver Nuggets vs Oklahoma City Thunder (XYZ)" tvg-logo="https://images.grassy-level770.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nba/500/den.png&logo2=https://a.espncdn.com/i/teamlogos/nba/500/okc.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png&color1=0e2240&color2=007ac1&q=65&w=100" group-title="Live - Basketball",[Basketball] Denver Nuggets vs Oklahoma City Thunder (XYZ)
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/nba-2.html
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://xyzstream.duckdns.org/nba2h/mono.ts.m3u8?token=3932f0daa4f82381c15c18dc4d7b7812
-#EXTINF:-1 tvg-chno="106" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[Basketball] Denver Nuggets vs. Oklahoma City Thunder | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Basketball",[Basketball] Denver Nuggets vs. Oklahoma City Thunder | English (STRMCNTR)
+https://edgestream2.pro/hls/hfsdqtaxvb67.m3u8
+#EXTINF:-1 tvg-chno="111" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[Basketball] Chicago Bulls vs. Milwaukee Bucks | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Basketball",[Basketball] Chicago Bulls vs. Milwaukee Bucks | English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://edgestream5.pro/hls/wfazgsqtrezu66.m3u8
-#EXTINF:-1 tvg-chno="107" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Basketball] Oklahoma City Thunder vs Denver Nuggets 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Basketball",[NBA Basketball] Oklahoma City Thunder vs Denver Nuggets 1 (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+https://edgestream1.pro/hls/mlkijfezag65.m3u8
+#EXTINF:-1 tvg-chno="112" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[Basketball] Dallas Mavericks vs. Indiana Pacers | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Basketball",[Basketball] Dallas Mavericks vs. Indiana Pacers | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.55/hls/CDDDAAAAA.m3u8
-#EXTINF:-1 tvg-chno="108" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Basketball] Oklahoma City Thunder vs Denver Nuggets 2 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Basketball",[NBA Basketball] Oklahoma City Thunder vs Denver Nuggets 2 (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+https://edgestream1.pro/hls/zayrtezafgvdv68.m3u8
+#EXTINF:-1 tvg-chno="113" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[Basketball] Detroit Pistons vs. Miami Heat | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Basketball",[Basketball] Detroit Pistons vs. Miami Heat | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://www.rtmpcdn.com/live/8880ac57-3f3c-4035-b264-4a8b403f895a.m3u8
-#EXTINF:-1 tvg-chno="109" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Basketball] Oklahoma City Thunder vs Denver Nuggets 3 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Basketball",[NBA Basketball] Oklahoma City Thunder vs Denver Nuggets 3 (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+https://edgestream1.pro/hls/ztyarueaghj71.m3u8
+#EXTINF:-1 tvg-chno="114" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[Basketball] Houston Rockets vs. San Antonio Spurs | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Basketball",[Basketball] Houston Rockets vs. San Antonio Spurs | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://admin2.formaturamaxi.com.br/nba.m3u8
+https://edgestream6.pro/hls/pllmazjkdzajh72.m3u8
+#EXTINF:-1 tvg-chno="115" tvg-id="Basketball.Dummy.us" tvg-name="[Basketball] LA Clippers vs. Los Angeles Lakers | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/04/Basketball-Emoji-1536x864.png" group-title="Live - Basketball",[Basketball] LA Clippers vs. Los Angeles Lakers | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream1.pro/hls/sqhdghzavbxu75.m3u8
+#EXTINF:-1 tvg-chno="116" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[Basketball] Memphis Grizzlies vs. Golden State Warriors | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Basketball",[Basketball] Memphis Grizzlies vs. Golden State Warriors | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream3.pro/hls/yjtzafghvjza74.m3u8
+#EXTINF:-1 tvg-chno="117" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[Basketball] Minnesota Timberwolves vs. Orlando Magic | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Basketball",[Basketball] Minnesota Timberwolves vs. Orlando Magic | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream6.pro/hls/zeafwqvhfe69.m3u8
+#EXTINF:-1 tvg-chno="118" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[Basketball] New Orleans Pelicans vs. Utah Jazz | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Basketball",[Basketball] New Orleans Pelicans vs. Utah Jazz | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream4.pro/hls/fdgsqdfawa73.m3u8
+#EXTINF:-1 tvg-chno="119" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[Basketball] New York Knicks vs. Boston Celtics | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Basketball",[Basketball] New York Knicks vs. Boston Celtics | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream4.pro/hls/wfazgsqtrezu66.m3u8
+#EXTINF:-1 tvg-chno="120" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[Basketball] Portland Trail Blazers vs. Sacramento Kings | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Basketball",[Basketball] Portland Trail Blazers vs. Sacramento Kings | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream1.pro/hls/xcsfadafgzfg76.m3u8
+#EXTINF:-1 tvg-chno="121" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[Basketball] Toronto Raptors vs. Washington Wizards | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Basketball",[Basketball] Toronto Raptors vs. Washington Wizards | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream2.pro/hls/bvnsqdfvgha70.m3u8
