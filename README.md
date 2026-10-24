@@ -1,16 +1,22 @@
 # 📺 IPTV Playlist
 
-## Playlist Log @ 2026-10-24 17:33 UTC
+## Playlist Log @ 2026-10-24 22:42 UTC
 
-### ✅ Active Streams: 268
-❌ Dead Streams: 2
+### ✅ Active Streams: 271
+❌ Dead Streams: 8
 
-_Skipped 847 dead live-event streams — event links expire when the match ends._
+_Skipped 749 dead live-event streams — event links expire when the match ends._
 
 | Channel | Category | Error (Code) |
 | --- | --- | --- |
+| [Discovery Channel](http://212.5.144.156:8080/discovery/index.m3u8) | Documentary & Reality | HTTP Error (403) |
+| [History Channel](http://212.5.144.156:8080/history/index.m3u8) | Documentary & Reality | HTTP Error (403) |
+| [Investigation Discovery](http://212.5.144.156:8080/id/index.m3u8) | Documentary & Reality | HTTP Error (403) |
 | [TLC](http://41.205.93.154/TLC/index.m3u8) | Documentary & Reality | HTTP Error (404) |
-| [Sky Sports F1](http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8) | Sports | HTTP Error (504) |
+| [HGTV](http://tvsen7.aynascope.net/hgtv/index.m3u8) | Entertainment | URL Error (timed out) |
+| [Disney Channel](http://212.5.144.156:8080/disney/index.m3u8) | Kids & Family | HTTP Error (403) |
+| [Nick Jr](http://212.5.144.156:8080/nickjr/index.m3u8) | Kids & Family | HTTP Error (403) |
+| [HBO](http://tvsen7.aynascope.net/hbo/index.m3u8) | Movies & Premium | URL Error (timed out) |
 
 ---
 
@@ -31,13 +37,13 @@ output/categories/<category>.m3u
 | Documentary & Reality | 15 |
 | Entertainment | 40 |
 | Kids & Family | 7 |
-| Live - American Football | 59 |
+| Live - American Football | 70 |
 | Live - Baseball | 8 |
-| Live - Basketball | 12 |
-| Live - Hockey | 44 |
-| Live - Other Events | 432 |
+| Live - Basketball | 14 |
+| Live - Hockey | 73 |
+| Live - Other Events | 332 |
 | Live - Racing | 2 |
-| Live - Soccer | 426 |
+| Live - Soccer | 395 |
 | Movies & Premium | 11 |
 | Music | 5 |
 | News & Weather | 29 |
