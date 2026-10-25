@@ -1,22 +1,21 @@
 # 📺 IPTV Playlist
 
-## Playlist Log @ 2026-10-24 22:42 UTC
+## Playlist Log @ 2026-10-25 07:47 UTC
 
-### ✅ Active Streams: 271
-❌ Dead Streams: 8
+### ✅ Active Streams: 211
+❌ Dead Streams: 7
 
-_Skipped 749 dead live-event streams — event links expire when the match ends._
+_Skipped 708 dead live-event streams — event links expire when the match ends._
 
 | Channel | Category | Error (Code) |
 | --- | --- | --- |
-| [Discovery Channel](http://212.5.144.156:8080/discovery/index.m3u8) | Documentary & Reality | HTTP Error (403) |
-| [History Channel](http://212.5.144.156:8080/history/index.m3u8) | Documentary & Reality | HTTP Error (403) |
-| [Investigation Discovery](http://212.5.144.156:8080/id/index.m3u8) | Documentary & Reality | HTTP Error (403) |
-| [TLC](http://41.205.93.154/TLC/index.m3u8) | Documentary & Reality | HTTP Error (404) |
-| [HGTV](http://tvsen7.aynascope.net/hgtv/index.m3u8) | Entertainment | URL Error (timed out) |
-| [Disney Channel](http://212.5.144.156:8080/disney/index.m3u8) | Kids & Family | HTTP Error (403) |
-| [Nick Jr](http://212.5.144.156:8080/nickjr/index.m3u8) | Kids & Family | HTTP Error (403) |
-| [HBO](http://tvsen7.aynascope.net/hbo/index.m3u8) | Movies & Premium | URL Error (timed out) |
+| [NHL Network](https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf44/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZjQ0OjE3OTI5Mjc4MDU0Mzk6Y2RubGl2ZXR2LnR2OjI5NWE2NWVmZjZmMDQwNGIuYmMzMGRiNGNlN2Q4ZDA2OGYyMDg0YzQ2MzQ2MGJiMGU0YjdhZGM1YmM2MmY5MTMwYWM0YWQ0YjA5YWNlMmU4NQ) | Sports | Timeout |
+| [Sky Sports Racing](https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c87b/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODdiOjE3OTI5Mjc4MDY4MTk6Y2RubGl2ZXR2LnR2OjdkNTlmYTJjYzIwYzRlOGMuZGEwMmVhNzk1NDY2ODMzYmM2YjFkZmJhNWQ1NDljMGY4MGFmNzcyMGEyZGRlYWJhMmYyODNmZWY0MDIyZjc4NQ) | Sports | HTTP Error (503) |
+| [Space City Home Network](https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363d4b1/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNkNGIxOjE3OTI5Mjc4MDcyMjk6Y2RubGl2ZXR2LnR2OjllYTVmOWZjZTE0OWZhZDYuYTc3YjhiMWRhN2RlZTk1ZGNjOTdjNGI5M2UxMjc3ODczMjcyZWM0N2M3MjZmM2RiNTAwYTdiYTkxYjUzMTk1Zg) | Sports | HTTP Error (503) |
+| [TNT Sports 1](https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c88f/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODhmOjE3OTI5Mjc4MDc3NDU6Y2RubGl2ZXR2LnR2OjAxZGMyZjhmMjE2ZmQ3YjYuMGYwNDQ0M2I4ZTI5MTY0Y2IwYzVjZmQ4MjNlNzBlOTE2YWJkNThiZWFhZGY5Y2FjN2RlZmQzNTFlMDU5ODM3Ng) | Sports | HTTP Error (503) |
+| [TNT Sports 3](https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c897/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODk3OjE3OTI5Mjc4MDgxNDk6Y2RubGl2ZXR2LnR2OmFmNjEzZjI4MGY0Y2Q4YTIuYjFmZjM5ZDEyOWJjZjU3Nzg1MzRkZGQyNGNhYTg5NTQ4ZmE5N2NiNDQ1YTA3ZDZjYzIxM2VlNDQxNjA0ZDMzYg) | Sports | HTTP Error (503) |
+| [TSN 4](https://cdnlivetv.tv/secure/api/v1/6add40b12d4a99e07363ed3f/playlist.m3u8?token=NmFkZDQwYjEyZDRhOTllMDczNjNlZDNmOjE3OTI5Mjc4MDg5Nzc6Y2RubGl2ZXR2LnR2OjdhNWU1NWFlZDlkMGEwZTkuMDE1MTk0YzIwZjIyYWU2ZDg5NmJlMjQ5MjUzNjIyNzhkYTRkNDNkNmNiNjFjYjMyOWE5ZWMzZTRmZjIwMzNiNQ) | Sports | HTTP Error (503) |
+| [TSN 5](https://cdnlivetv.tv/secure/api/v1/6add40b12d4a99e07363ed42/playlist.m3u8?token=NmFkZDQwYjEyZDRhOTllMDczNjNlZDQyOjE3OTI5Mjc4MDkxODE6Y2RubGl2ZXR2LnR2OjI2MGJlYWExMGQ2YzkyMzQuNzAxYzE4N2VlZGY2NjEwOTI0MDI4YTNmNWQ2YjFlODc2MThkYWVhYzQyYzkwNmU5ODRmNjkzYzMyYTUyM2NiNQ) | Sports | HTTP Error (503) |
 
 ---
 
@@ -34,20 +33,21 @@ output/categories/<category>.m3u
 
 | Category | Channels |
 | --- | ---: |
-| Documentary & Reality | 15 |
-| Entertainment | 40 |
-| Kids & Family | 7 |
-| Live - American Football | 70 |
-| Live - Baseball | 8 |
-| Live - Basketball | 14 |
-| Live - Hockey | 73 |
-| Live - Other Events | 332 |
+| Documentary & Reality | 16 |
+| Entertainment | 46 |
+| Kids & Family | 8 |
+| Live - American Football | 73 |
+| Live - Baseball | 16 |
+| Live - Basketball | 25 |
+| Live - Hockey | 62 |
+| Live - Other Events | 240 |
 | Live - Racing | 2 |
-| Live - Soccer | 395 |
-| Movies & Premium | 11 |
+| Live - Soccer | 338 |
+| Live - Tennis | 1 |
+| Movies & Premium | 13 |
 | Music | 5 |
-| News & Weather | 29 |
-| Sports | 27 |
+| News & Weather | 30 |
+| Sports | 51 |
 
 ### Sources
 
