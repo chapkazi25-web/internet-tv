@@ -1,13 +1,17 @@
 #EXTM3U url-tvg="https://s.id/d9sEPG"
-#EXTINF:-1 tvg-chno="826" tvg-id="Tennis.Dummy.us" tvg-name="[Tennis ATP] Tennis ATP Almaty (FAWA)" tvg-logo="https://files.catbox.moe/q8ljra.png" group-title="Live - Tennis",[Tennis ATP] Tennis ATP Almaty (FAWA)
+#EXTINF:-1 tvg-chno="1063" tvg-id="Tennis.Dummy.us" tvg-name="[Tennis ATP] Tennis ATP Brussels (FAWA)" tvg-logo="https://files.catbox.moe/q8ljra.png" group-title="Live - Tennis",[Tennis ATP] Tennis ATP Brussels (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.59/hls/zzzzzaA.m3u8
+#EXTINF:-1 tvg-chno="1064" tvg-id="Tennis.Dummy.us" tvg-name="[Tennis ATP] Tennis ATP Lyon (FAWA)" tvg-logo="https://files.catbox.moe/q8ljra.png" group-title="Live - Tennis",[Tennis ATP] Tennis ATP Lyon (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 http://193.47.62.59/hls/zzzzza.m3u8
-#EXTINF:-1 tvg-chno="827" tvg-id="Tennis.Dummy.us" tvg-name="[Tennis WTA] Tennis WTA Ningbo/Osaka (FAWA)" tvg-logo="https://files.catbox.moe/q8ljra.png" group-title="Live - Tennis",[Tennis WTA] Tennis WTA Ningbo/Osaka (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-chno="1065" tvg-id="Tennis.Dummy.us" tvg-name="[Tennis] Tennis Channel (DAMITV)" tvg-logo="https://ondemand.st/img/y/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuBEBDXsQZgdgwwRgBOYAU0hDpqxQFZh5Tg0wmJgATMNTTAWkVqNri0LIinbQ61OvHS5CISiCggGIRPzWq0hNTTV5s2AMb6NNFif4h+VFxux5bFLXnk3aASx2PV0+LRRNR0hAtjYUBHZQYkk2JjBHEFsaOxytGFZYSWt5YFIVGOVgeTYOMl5AiCA.webp" group-title="Live - Tennis",[Tennis] Tennis Channel (DAMITV)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=sd-admin~admin-tennis-channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.50/hls/BUUU.m3u8
-#EXTINF:-1 tvg-chno="828" tvg-id="Tennis.Dummy.us" tvg-name="[WTA] Elena Rybakina (KAZ) vs. Leylah Fernandez (CAN) (Final) | Disney+ (TVF90)" tvg-logo="https://files.catbox.moe/q8ljra.png" group-title="Live - Tennis",[WTA] Elena Rybakina (KAZ) vs. Leylah Fernandez (CAN) (Final) | Disney+ (TVF90)
+https://messi.damitv.st/stream/e/zjkPPncxo-Q5tSU22P-sgChn_ChfqAbDuQVu1Qnx7C2KM7zlD9lTTc8ZMhRY0-It/playlist.m3u8?tk=ISf1FSPrRzbrVv1Vhlyj9g&e=1792992607
+#EXTINF:-1 tvg-chno="1066" tvg-id="Tennis.Dummy.us" tvg-name="[WTA] Elena Rybakina (KAZ) vs. Leylah Fernandez (CAN) (Final) | Disney+ (TVF90)" tvg-logo="https://files.catbox.moe/q8ljra.png" group-title="Live - Tennis",[WTA] Elena Rybakina (KAZ) vs. Leylah Fernandez (CAN) (Final) | Disney+ (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/plus1.php?stream=disney22
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://6.ftlly.com:443/disney22/mono.m3u8?token=a714e8c402870bf76df7fcaade59a38181ef28a2-f7-1792946746-1792928746
+https://10.ftlly.com:443/disney22/mono.m3u8?token=dde566312de9f6fa40e8206aea0610ddf6fe2903-38-1792966543-1792948543
