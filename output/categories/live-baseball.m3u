@@ -1,49 +1,21 @@
 #EXTM3U url-tvg="https://s.id/d9sEPG"
-#EXTINF:-1 tvg-chno="83" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB Baseball] Tampa Bay Rays vs Milwaukee Brewers (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live - Baseball",[MLB Baseball] Tampa Bay Rays vs Milwaukee Brewers (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.44/hls/SASASAF.m3u8
-#EXTINF:-1 tvg-chno="84" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Brewers vs Rays (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live - Baseball",[MLB] Brewers vs Rays (WEBCAST)
+#EXTINF:-1 tvg-chno="67" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Brewers vs Rays (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live - Baseball",[MLB] Brewers vs Rays (WEBCAST)
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://webcast-origin.b-cdn.net/bcdn_token=lqAbQlUOPiKW1e0Q1o0SfJczvMYKj9zIxrzl5mMKE6k&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEbtgIBRBXAqii0gVuz_9dr%2F&expires=1793068327/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEbtgIBRBXAqii0gVuz_9dr/115.m3u8
-#EXTINF:-1 tvg-chno="85" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Milwaukee Brewers at Tampa Bay Rays (SPRTSPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live - Baseball",[MLB] Milwaukee Brewers at Tampa Bay Rays (SPRTSPASS)
-#EXTVLCOPT:http-referrer=https://edgesports.cfd/mlb/rays.html
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://bramblestack.s3.eu-north-1.amazonaws.com/rays.m3u8
-#EXTINF:-1 tvg-chno="86" tvg-id="Baseball.Dummy.us" tvg-name="[MLB] Milwaukee Brewers vs Tampa Bay Ray (Final, Game #3) 1 (STP)" tvg-logo="https://files.catbox.moe/vq587e.png" group-title="Live - Baseball",Game #3) 1 (STP)
-#EXTVLCOPT:http-referrer=https://streamx723.sbs/global1.php?channel=espn2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://98.envivosenhd.beer:443/global/espn2/index.m3u8?token=16befc7b93936a01169763cd9fec87971c2557da-06-1793100609-1793046609
-#EXTINF:-1 tvg-chno="87" tvg-id="Baseball.Dummy.us" tvg-name="[MLB] Milwaukee Brewers vs Tampa Bay Ray (Final, Game #3) 2 (STP)" tvg-logo="https://files.catbox.moe/vq587e.png" group-title="Live - Baseball",Game #3) 2 (STP)
-#EXTVLCOPT:http-referrer=https://streamx723.sbs/global1.php?channel=foxdeportes
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://98.envivosenhd.beer:443/global/foxdeportes/index.m3u8?token=f837997cf154ae26a41d80efc3142a4bd22a77c9-e3-1793100609-1793046609
-#EXTINF:-1 tvg-chno="88" tvg-id="Baseball.Dummy.us" tvg-name="[MLB] Milwaukee Brewers vs Tampa Bay Rays | English (STRMGATE)" tvg-logo="https://files.catbox.moe/vq587e.png" group-title="Live - Baseball",[MLB] Milwaukee Brewers vs Tampa Bay Rays | English (STRMGATE)
-#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401908044
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://instreams.xyz/live3/tv401908044/index.m3u8?st=N2LSC_m6Lafd4TbcaqxznQ&e=1793079009
-#EXTINF:-1 tvg-chno="89" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Tampa Bay Rays vs Milwaukee Brewers | Español 1 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live - Baseball",[MLB] Tampa Bay Rays vs Milwaukee Brewers | Español 1 (PLIBRE)
-#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=espn2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://dglvz29s.fubo18.com:443/espn2/mono.m3u8?token=10221c3c9b1a22e53dcf55a1162d2fc239ad9a8d-55-1793076312-1793058312
-#EXTINF:-1 tvg-chno="90" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Tampa Bay Rays vs Milwaukee Brewers | Español 2 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live - Baseball",[MLB] Tampa Bay Rays vs Milwaukee Brewers | Español 2 (PLIBRE)
-#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=disney12
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://eWVz.fubo18.com:443/disney12/mono.m3u8?token=335b18ac69b8f6c30e2b69c788e6e738def4d4fb-6c-1793076313-1793058313
-#EXTINF:-1 tvg-chno="91" tvg-id="Baseball.Dummy.us" tvg-name="[MLB] World Series – Game #3 – Milwaukee Brewers (rival a confirmar) | ESPN 2 (TVF90)" tvg-logo="https://files.catbox.moe/vq587e.png" group-title="Live - Baseball",[MLB] World Series – Game #3 – Milwaukee Brewers (rival a confirmar) | ESPN 2 (TVF90)
+https://webcast-origin.b-cdn.net/bcdn_token=Tu16i7SaeYKaX77ZxhBHTnlzQt1R4CC02i3pTi-EZh4&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEbtgIBRBXAqii0gVuz_9dr%2F&expires=1793102535/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEbtgIBRBXAqii0gVuz_9dr/115.m3u8
+#EXTINF:-1 tvg-chno="68" tvg-id="Baseball.Dummy.us" tvg-name="[MLB] World Series – Game #4 – Milwaukee Brewers (rival a confirmar) | ESPN 2 (TVF90)" tvg-logo="https://files.catbox.moe/vq587e.png" group-title="Live - Baseball",[MLB] World Series – Game #4 – Milwaukee Brewers (rival a confirmar) | ESPN 2 (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=espn2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://4.ftlly.com:443/espn2/mono.m3u8?token=e941c627ab46444ffb674796417546538ecfcae5-f6-1793072718-1793054718
-#EXTINF:-1 tvg-chno="92" tvg-id="Baseball.Dummy.us" tvg-name="[MLB] World Series – Game #3 – Milwaukee Brewers (rival a confirmar) | ESPN 2 | HD (TVF90)" tvg-logo="https://files.catbox.moe/vq587e.png" group-title="Live - Baseball",[MLB] World Series – Game #3 – Milwaukee Brewers (rival a confirmar) | ESPN 2 | HD (TVF90)
+https://11.ftlly.com:443/espn2/mono.m3u8?token=8e60017e370cf643b7a292c2e5ef19c27c79c145-35-1793119528-1793101528
+#EXTINF:-1 tvg-chno="69" tvg-id="Baseball.Dummy.us" tvg-name="[MLB] World Series – Game #4 – Milwaukee Brewers (rival a confirmar) | ESPN 2 | HD (TVF90)" tvg-logo="https://files.catbox.moe/vq587e.png" group-title="Live - Baseball",[MLB] World Series – Game #4 – Milwaukee Brewers (rival a confirmar) | ESPN 2 | HD (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/hd.php?stream=espn2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://4.ftlly.com:443/espn2/mono.m3u8?token=e68ab7c8bdf64ebdacc79f088cd03f82c341541c-84-1793072719-1793054719
-#EXTINF:-1 tvg-chno="93" tvg-id="Baseball.Dummy.us" tvg-name="[MLB] World Series – Game #3 – Milwaukee Brewers (rival a confirmar) | ESPN 2 | OP2 (TVF90)" tvg-logo="https://files.catbox.moe/vq587e.png" group-title="Live - Baseball",[MLB] World Series – Game #3 – Milwaukee Brewers (rival a confirmar) | ESPN 2 | OP2 (TVF90)
+https://7.ftlly.com:443/espn2/mono.m3u8?token=2a2b1336c0f614b41af42214ff921c425dbfb34d-c3-1793119529-1793101529
+#EXTINF:-1 tvg-chno="70" tvg-id="Baseball.Dummy.us" tvg-name="[MLB] World Series – Game #4 – Milwaukee Brewers (rival a confirmar) | ESPN 2 | OP2 (TVF90)" tvg-logo="https://files.catbox.moe/vq587e.png" group-title="Live - Baseball",[MLB] World Series – Game #4 – Milwaukee Brewers (rival a confirmar) | ESPN 2 | OP2 (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/2.php?stream=espn2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://2.ftlly.com:443/espn2/mono.m3u8?token=acfa2fe6432bd8ff16a98dbd4b45d8adf7941e6c-85-1793072719-1793054719
-#EXTINF:-1 tvg-chno="94" tvg-id="Baseball.Dummy.us" tvg-name="[MLB] World Series – Game #3 – Milwaukee Brewers (rival a confirmar) | ESPN 2 | OP3 (TVF90)" tvg-logo="https://files.catbox.moe/vq587e.png" group-title="Live - Baseball",[MLB] World Series – Game #3 – Milwaukee Brewers (rival a confirmar) | ESPN 2 | OP3 (TVF90)
+https://5.ftlly.com:443/espn2/mono.m3u8?token=f420164e257318e344b17e9827448c6224acf7f9-b6-1793119529-1793101529
+#EXTINF:-1 tvg-chno="71" tvg-id="Baseball.Dummy.us" tvg-name="[MLB] World Series – Game #4 – Milwaukee Brewers (rival a confirmar) | ESPN 2 | OP3 (TVF90)" tvg-logo="https://files.catbox.moe/vq587e.png" group-title="Live - Baseball",[MLB] World Series – Game #4 – Milwaukee Brewers (rival a confirmar) | ESPN 2 | OP3 (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/3.php?stream=espn2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://11.ftlly.com:443/espn2/mono.m3u8?token=7771d4b9dad847eaca9a80a235cec3893726701d-fb-1793072719-1793054719
+https://9.ftlly.com:443/espn2/mono.m3u8?token=bfc11205a43b8d2d19cce61b6ce09a3e199a9c3b-dc-1793119529-1793101529
