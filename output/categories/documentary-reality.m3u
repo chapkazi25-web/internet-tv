@@ -25,7 +25,5 @@ http://198.58.104.90:8989/natgeo/index.m3u8
 http://23.237.104.106:8080/USA_NAT_GEO_WILD/index.m3u8
 #EXTINF:-1 tvg-chno="13" tvg-id="Science.Channel.HD.us2" tvg-name="Science Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24282_dark_360w_270h.png" group-title="Documentary & Reality",Science Channel
 http://23.237.104.106:8080/USA_SCIENCE/index.m3u8
-#EXTINF:-1 tvg-chno="14" tvg-id="TLC.HD.(US).us2" tvg-name="TLC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png" group-title="Documentary & Reality",TLC
-http://41.205.93.154/TLC/index.m3u8
-#EXTINF:-1 tvg-chno="15" tvg-id="Vice.HD.us2" tvg-name="VICE TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18822_dark_360w_270h.png" group-title="Documentary & Reality",VICE TV
+#EXTINF:-1 tvg-chno="14" tvg-id="Vice.HD.us2" tvg-name="VICE TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18822_dark_360w_270h.png" group-title="Documentary & Reality",VICE TV
 http://23.237.104.106:8080/USA_VICETV/index.m3u8
