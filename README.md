@@ -1,18 +1,11 @@
 # 📺 IPTV Playlist
 
-## Playlist Log @ 2026-11-01 19:09 UTC
+## Playlist Log @ 2026-11-01 23:51 UTC
 
-### ✅ Active Streams: 285
-❌ Dead Streams: 4
+### ✅ Active Streams: 251
+❌ Dead Streams: 0
 
-_Skipped 523 dead live-event streams — event links expire when the match ends._
-
-| Channel | Category | Error (Code) |
-| --- | --- | --- |
-| [NFL Network](https://cache0.wonvt.st/live/0auxff509zda3k1x9tqd3/master.m3u8) | Sports | HTTP Error (403) |
-| [Sky Sports Main Event](https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c855/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODU1OjE3OTM1NzIyMDQ1MTQ6Y2RubGl2ZXR2LnR2OjlmMjFmYTFhNDMzODk2NzguYTgyODRlZmI4YmFlZjY1NmZkNzExOThhZjg4OGM5ZTRkNWIwZWY1Zjc3MGUwMDYwNTUxOTI2NDZjYmFiZjMzOA) | Sports | HTTP Error (403) |
-| [TNT Sports 2](https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c892/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODkyOjE3OTM1NzIyMDU1Mzg6Y2RubGl2ZXR2LnR2OmM4ZjgwODExNGNlMDgwZDguNWE5MzUzYTFlZjY0Y2ExNGE2NzhiNzNlOGQyNmRlOGMwNWQ4YWMwNDQyOGVlM2RmNTBkOWNlNDZjZmUyZDRkOA) | Sports | HTTP Error (503) |
-| [TNT Sports 3](https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c897/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODk3OjE3OTM1NzIyMDU3NDY6Y2RubGl2ZXR2LnR2OmQzMGE3OGI0M2U0NmNjM2IuNDQ2ZTllYzk3NDQ3NzMyYTExYTFlNmU0OWFhNWRiZmFlMjliMjE2MWNlYmJmYTM0NTY3MDI4YjViZjk5MzY3Mw) | Sports | HTTP Error (503) |
+_Skipped 494 dead live-event streams — event links expire when the match ends._
 
 ---
 
@@ -33,15 +26,15 @@ output/categories/<category>.m3u
 | Documentary & Reality | 16 |
 | Entertainment | 59 |
 | Kids & Family | 10 |
-| Live - American Football | 79 |
-| Live - Basketball | 1 |
-| Live - Hockey | 19 |
-| Live - Other Events | 183 |
-| Live - Soccer | 336 |
-| Movies & Premium | 21 |
+| Live - American Football | 70 |
+| Live - Basketball | 6 |
+| Live - Hockey | 21 |
+| Live - Other Events | 132 |
+| Live - Soccer | 319 |
+| Movies & Premium | 22 |
 | Music | 5 |
-| News & Weather | 29 |
-| Sports | 54 |
+| News & Weather | 30 |
+| Sports | 55 |
 
 ### Sources
 
