@@ -1,31 +1,18 @@
 # 📺 IPTV Playlist
 
-## Playlist Log @ 2026-11-01 09:39 UTC
+## Playlist Log @ 2026-11-01 19:09 UTC
 
-### ✅ Active Streams: 187
-❌ Dead Streams: 17
+### ✅ Active Streams: 285
+❌ Dead Streams: 4
 
-_Skipped 471 dead live-event streams — event links expire when the match ends._
+_Skipped 523 dead live-event streams — event links expire when the match ends._
 
 | Channel | Category | Error (Code) |
 | --- | --- | --- |
-| [History Channel (Alt)](https://tvsen3.aynaott.com/np3JstRE/index.m3u8) | Documentary & Reality | HTTP Error (404) |
-| [Comedy Central](https://tvsen3.aynaott.com/5fUWDMxZ/index.m3u8) | Entertainment | HTTP Error (404) |
-| [Fox](https://tvsen6.aynaott.com/fox5/index.m3u8) | Entertainment | HTTP Error (404) |
-| [FX](https://tvsen3.aynaott.com/jTqkTE8W/index.m3u8) | Entertainment | HTTP Error (404) |
-| [HGTV](https://tvsen3.aynaott.com/Ge23xfY5/index.m3u8) | Entertainment | HTTP Error (404) |
-| [Travel Channel](https://tvsen3.aynaott.com/sFwCR6Fu/index.m3u8) | Entertainment | HTTP Error (404) |
-| [USA Network](https://tvsen3.aynaott.com/dbbcY6NG/index.m3u8) | Entertainment | HTTP Error (404) |
-| [Disney Jr](https://tvsen5.aynaott.com/disney/index.m3u8) | Kids & Family | HTTP Error (404) |
-| [HBO Hits](https://tvsen3.aynaott.com/u3NjUrny/index.m3u8) | Movies & Premium | HTTP Error (404) |
-| [MGM+](https://tvsen3.aynaott.com/Ah3tLAfA/index.m3u8) | Movies & Premium | HTTP Error (404) |
-| [Fox Business](https://tvsen6.aynaott.com/foxbusiness/index.m3u8) | News & Weather | HTTP Error (404) |
-| [Golf Channel](https://tvsen6.aynaott.com/golfchannel/index.m3u8) | Sports | HTTP Error (404) |
-| [NFL Network](https://tvsen6.aynaott.com/nfl/index.m3u8) | Sports | HTTP Error (404) |
-| [Sky Sports Main Event](https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c855/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODU1OjE3OTM1MzQ0MDQ3ODA6Y2RubGl2ZXR2LnR2OjVmODM1NDgzYzM5M2U1NGUuODQ5NWM1OTY0NDVlNWQ1M2Q3MzY4Y2NlZTgwYzVkOGNhYzNhN2MxNWRhZmM1MTY2ZGMzZGYwNzVmNjY0ODg3Yw) | Sports | HTTP Error (503) |
-| [TSN 1](https://tvsen5.aynaott.com/tsn1/index.m3u8) | Sports | HTTP Error (404) |
-| [TSN 2](https://tvsen5.aynaott.com/tsn2/index.m3u8) | Sports | HTTP Error (404) |
-| [TSN 3](https://tvsen5.aynaott.com/tsn3/index.m3u8) | Sports | HTTP Error (404) |
+| [NFL Network](https://cache0.wonvt.st/live/0auxff509zda3k1x9tqd3/master.m3u8) | Sports | HTTP Error (403) |
+| [Sky Sports Main Event](https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c855/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODU1OjE3OTM1NzIyMDQ1MTQ6Y2RubGl2ZXR2LnR2OjlmMjFmYTFhNDMzODk2NzguYTgyODRlZmI4YmFlZjY1NmZkNzExOThhZjg4OGM5ZTRkNWIwZWY1Zjc3MGUwMDYwNTUxOTI2NDZjYmFiZjMzOA) | Sports | HTTP Error (403) |
+| [TNT Sports 2](https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c892/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODkyOjE3OTM1NzIyMDU1Mzg6Y2RubGl2ZXR2LnR2OmM4ZjgwODExNGNlMDgwZDguNWE5MzUzYTFlZjY0Y2ExNGE2NzhiNzNlOGQyNmRlOGMwNWQ4YWMwNDQyOGVlM2RmNTBkOWNlNDZjZmUyZDRkOA) | Sports | HTTP Error (503) |
+| [TNT Sports 3](https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c897/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODk3OjE3OTM1NzIyMDU3NDY6Y2RubGl2ZXR2LnR2OmQzMGE3OGI0M2U0NmNjM2IuNDQ2ZTllYzk3NDQ3NzMyYTExYTFlNmU0OWFhNWRiZmFlMjliMjE2MWNlYmJmYTM0NTY3MDI4YjViZjk5MzY3Mw) | Sports | HTTP Error (503) |
 
 ---
 
@@ -46,15 +33,15 @@ output/categories/<category>.m3u
 | Documentary & Reality | 16 |
 | Entertainment | 59 |
 | Kids & Family | 10 |
-| Live - American Football | 36 |
-| Live - Basketball | 14 |
-| Live - Hockey | 15 |
-| Live - Other Events | 141 |
-| Live - Soccer | 271 |
-| Movies & Premium | 22 |
+| Live - American Football | 79 |
+| Live - Basketball | 1 |
+| Live - Hockey | 19 |
+| Live - Other Events | 183 |
+| Live - Soccer | 336 |
+| Movies & Premium | 21 |
 | Music | 5 |
-| News & Weather | 30 |
-| Sports | 56 |
+| News & Weather | 29 |
+| Sports | 54 |
 
 ### Sources
 
