@@ -1,11 +1,17 @@
 # 📺 IPTV Playlist
 
-## Playlist Log @ 2026-11-01 23:51 UTC
+## Playlist Log @ 2026-11-02 09:54 UTC
 
-### ✅ Active Streams: 251
-❌ Dead Streams: 0
+### ✅ Active Streams: 200
+❌ Dead Streams: 3
 
-_Skipped 494 dead live-event streams — event links expire when the match ends._
+_Skipped 418 dead live-event streams — event links expire when the match ends._
+
+| Channel | Category | Error (Code) |
+| --- | --- | --- |
+| [BBC One](http://176.65.153.4:4001/play/a08e/index.m3u8) | Entertainment | HTTP Error (404) |
+| [ITV1](http://176.65.153.4:4004/play/a07n/index.m3u8) | Entertainment | HTTP Error (404) |
+| [STV](http://176.65.153.4:4007/play/a073/index.m3u8) | Entertainment | HTTP Error (404) |
 
 ---
 
@@ -26,11 +32,11 @@ output/categories/<category>.m3u
 | Documentary & Reality | 16 |
 | Entertainment | 59 |
 | Kids & Family | 10 |
-| Live - American Football | 70 |
-| Live - Basketball | 6 |
-| Live - Hockey | 21 |
-| Live - Other Events | 132 |
-| Live - Soccer | 319 |
+| Live - American Football | 44 |
+| Live - Basketball | 5 |
+| Live - Hockey | 11 |
+| Live - Other Events | 108 |
+| Live - Soccer | 256 |
 | Movies & Premium | 22 |
 | Music | 5 |
 | News & Weather | 30 |
