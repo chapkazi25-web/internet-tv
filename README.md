@@ -1,17 +1,20 @@
 # 📺 IPTV Playlist
 
-## Playlist Log @ 2026-11-02 09:54 UTC
+## Playlist Log @ 2026-11-02 22:52 UTC
 
-### ✅ Active Streams: 200
-❌ Dead Streams: 3
+### ✅ Active Streams: 217
+❌ Dead Streams: 6
 
-_Skipped 418 dead live-event streams — event links expire when the match ends._
+_Skipped 313 dead live-event streams — event links expire when the match ends._
 
 | Channel | Category | Error (Code) |
 | --- | --- | --- |
-| [BBC One](http://176.65.153.4:4001/play/a08e/index.m3u8) | Entertainment | HTTP Error (404) |
-| [ITV1](http://176.65.153.4:4004/play/a07n/index.m3u8) | Entertainment | HTTP Error (404) |
-| [STV](http://176.65.153.4:4007/play/a073/index.m3u8) | Entertainment | HTTP Error (404) |
+| [Discovery Channel](http://212.5.144.156:8080/discovery/index.m3u8) | Documentary & Reality | HTTP Error (403) |
+| [History Channel](http://212.5.144.156:8080/history/index.m3u8) | Documentary & Reality | HTTP Error (403) |
+| [Investigation Discovery](http://212.5.144.156:8080/id/index.m3u8) | Documentary & Reality | HTTP Error (403) |
+| [ACC Digital Network](https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/37d38805-03d5-45f5-b40d-4ec9524040e5/4.m3u8) | Entertainment | HTTP Error (504) |
+| [Disney Channel](http://212.5.144.156:8080/disney/index.m3u8) | Kids & Family | HTTP Error (403) |
+| [Nick Jr](http://212.5.144.156:8080/nickjr/index.m3u8) | Kids & Family | HTTP Error (403) |
 
 ---
 
@@ -29,15 +32,14 @@ output/categories/<category>.m3u
 
 | Category | Channels |
 | --- | ---: |
-| Documentary & Reality | 16 |
-| Entertainment | 59 |
+| Documentary & Reality | 17 |
+| Entertainment | 60 |
 | Kids & Family | 10 |
-| Live - American Football | 44 |
-| Live - Basketball | 5 |
-| Live - Hockey | 11 |
-| Live - Other Events | 108 |
-| Live - Soccer | 256 |
-| Movies & Premium | 22 |
+| Live - American Football | 6 |
+| Live - Hockey | 8 |
+| Live - Other Events | 130 |
+| Live - Soccer | 192 |
+| Movies & Premium | 23 |
 | Music | 5 |
 | News & Weather | 30 |
 | Sports | 55 |
