@@ -1,20 +1,23 @@
 # 📺 IPTV Playlist
 
-## Playlist Log @ 2026-11-02 22:52 UTC
+## Playlist Log @ 2026-11-03 09:58 UTC
 
-### ✅ Active Streams: 217
-❌ Dead Streams: 6
+### ✅ Active Streams: 202
+❌ Dead Streams: 9
 
-_Skipped 313 dead live-event streams — event links expire when the match ends._
+_Skipped 297 dead live-event streams — event links expire when the match ends._
 
 | Channel | Category | Error (Code) |
 | --- | --- | --- |
-| [Discovery Channel](http://212.5.144.156:8080/discovery/index.m3u8) | Documentary & Reality | HTTP Error (403) |
-| [History Channel](http://212.5.144.156:8080/history/index.m3u8) | Documentary & Reality | HTTP Error (403) |
-| [Investigation Discovery](http://212.5.144.156:8080/id/index.m3u8) | Documentary & Reality | HTTP Error (403) |
-| [ACC Digital Network](https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/37d38805-03d5-45f5-b40d-4ec9524040e5/4.m3u8) | Entertainment | HTTP Error (504) |
-| [Disney Channel](http://212.5.144.156:8080/disney/index.m3u8) | Kids & Family | HTTP Error (403) |
-| [Nick Jr](http://212.5.144.156:8080/nickjr/index.m3u8) | Kids & Family | HTTP Error (403) |
+| [History Channel (Alt)](https://tvsen3.aynaott.com/np3JstRE/index.m3u8) | Documentary & Reality | URL Error (timed out) |
+| [Comedy Central](https://tvsen3.aynaott.com/5fUWDMxZ/index.m3u8) | Entertainment | URL Error (timed out) |
+| [FX](https://tvsen3.aynaott.com/jTqkTE8W/index.m3u8) | Entertainment | URL Error (timed out) |
+| [HGTV](https://tvsen3.aynaott.com/Ge23xfY5/index.m3u8) | Entertainment | URL Error (timed out) |
+| [The Travel Channel](https://tvsen3.aynaott.com/sFwCR6Fu/index.m3u8) | Entertainment | URL Error (timed out) |
+| [USA Network](https://tvsen3.aynaott.com/dbbcY6NG/index.m3u8) | Entertainment | URL Error (timed out) |
+| [HBO Hits](https://tvsen3.aynaott.com/u3NjUrny/index.m3u8) | Movies & Premium | URL Error (timed out) |
+| [MGM+](https://tvsen3.aynaott.com/Ah3tLAfA/index.m3u8) | Movies & Premium | URL Error (timed out) |
+| [MS NOW](https://p4.usnlive.com/stream/msnbc.m3u8) | News & Weather | HTTP Error (404) |
 
 ---
 
@@ -32,13 +35,15 @@ output/categories/<category>.m3u
 
 | Category | Channels |
 | --- | ---: |
-| Documentary & Reality | 17 |
+| Documentary & Reality | 18 |
 | Entertainment | 60 |
 | Kids & Family | 10 |
-| Live - American Football | 6 |
-| Live - Hockey | 8 |
-| Live - Other Events | 130 |
-| Live - Soccer | 192 |
+| Live - American Football | 19 |
+| Live - Basketball | 45 |
+| Live - Hockey | 25 |
+| Live - Other Events | 117 |
+| Live - Soccer | 100 |
+| Live - Tennis | 1 |
 | Movies & Premium | 23 |
 | Music | 5 |
 | News & Weather | 30 |
