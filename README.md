@@ -1,23 +1,23 @@
 # 📺 IPTV Playlist
 
-## Playlist Log @ 2026-11-03 09:58 UTC
+## Playlist Log @ 2026-11-03 20:36 UTC
 
-### ✅ Active Streams: 202
+### ✅ Active Streams: 241
 ❌ Dead Streams: 9
 
-_Skipped 297 dead live-event streams — event links expire when the match ends._
+_Skipped 302 dead live-event streams — event links expire when the match ends._
 
 | Channel | Category | Error (Code) |
 | --- | --- | --- |
-| [History Channel (Alt)](https://tvsen3.aynaott.com/np3JstRE/index.m3u8) | Documentary & Reality | URL Error (timed out) |
-| [Comedy Central](https://tvsen3.aynaott.com/5fUWDMxZ/index.m3u8) | Entertainment | URL Error (timed out) |
-| [FX](https://tvsen3.aynaott.com/jTqkTE8W/index.m3u8) | Entertainment | URL Error (timed out) |
-| [HGTV](https://tvsen3.aynaott.com/Ge23xfY5/index.m3u8) | Entertainment | URL Error (timed out) |
-| [The Travel Channel](https://tvsen3.aynaott.com/sFwCR6Fu/index.m3u8) | Entertainment | URL Error (timed out) |
-| [USA Network](https://tvsen3.aynaott.com/dbbcY6NG/index.m3u8) | Entertainment | URL Error (timed out) |
-| [HBO Hits](https://tvsen3.aynaott.com/u3NjUrny/index.m3u8) | Movies & Premium | URL Error (timed out) |
-| [MGM+](https://tvsen3.aynaott.com/Ah3tLAfA/index.m3u8) | Movies & Premium | URL Error (timed out) |
-| [MS NOW](https://p4.usnlive.com/stream/msnbc.m3u8) | News & Weather | HTTP Error (404) |
+| [Nat Geo](http://198.58.104.90:8989/natgeo/index.m3u8) | Documentary & Reality | URL Error (timed out) |
+| [TLC](http://41.205.93.154/TLC/index.m3u8) | Documentary & Reality | HTTP Error (404) |
+| [A&E](http://23.239.31.26:8989/aande/index.m3u8) | Entertainment | URL Error (timed out) |
+| [Bravo](http://41.205.93.154/BRAVO/index.m3u8) | Entertainment | HTTP Error (404) |
+| [Living Faith TV](https://cdn-unified-hls.streamspot.com/ingest1/0b5c0f18e9/chunklist.m3u8?origin=1) | Entertainment | HTTP Error (404) |
+| [Nickelodeon](http://198.58.104.90:8989/nickelodeon/index.m3u8) | Kids & Family | URL Error (timed out) |
+| [Nicktoons](http://41.205.93.154/NICKTOONS/index.m3u8) | Kids & Family | HTTP Error (404) |
+| [AMC](http://23.239.31.26:8989/amc/index.m3u8) | Movies & Premium | URL Error (timed out) |
+| [AXS TV](http://23.239.31.26:8989/axstv/index.m3u8) | Music | URL Error (timed out) |
 
 ---
 
@@ -38,12 +38,12 @@ output/categories/<category>.m3u
 | Documentary & Reality | 18 |
 | Entertainment | 60 |
 | Kids & Family | 10 |
-| Live - American Football | 19 |
-| Live - Basketball | 45 |
-| Live - Hockey | 25 |
-| Live - Other Events | 117 |
-| Live - Soccer | 100 |
-| Live - Tennis | 1 |
+| Live - American Football | 1 |
+| Live - Basketball | 1 |
+| Live - Hockey | 16 |
+| Live - Other Events | 283 |
+| Live - Soccer | 48 |
+| Live - Tennis | 2 |
 | Movies & Premium | 23 |
 | Music | 5 |
 | News & Weather | 30 |
