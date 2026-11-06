@@ -1,29 +1,17 @@
 #EXTM3U url-tvg="https://s.id/d9sEPG"
-#EXTINF:-1 tvg-chno="104" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[Basketball] Miami Heat vs Golden State Warriors (XYZ)" tvg-logo="https://images.grassy-level770.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nba/500/mia.png&logo2=https://a.espncdn.com/i/teamlogos/nba/500/gs.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png&color1=98002e&color2=fdb927&q=65&w=100" group-title="Live - Basketball",[Basketball] Miami Heat vs Golden State Warriors (XYZ)
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/nba-2.html
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://hls.kozow.com/nba2h/mono.ts.m3u8?token=a0bf2bc6e89eed8040c841c794a7386f
-#EXTINF:-1 tvg-chno="105" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[National Basketball Association] Golden State Warriors vs Miami Heat (DAMITV)" tvg-logo="https://damitv.st/img/cards/nba/401909937.jpg?v=ghst2nf" group-title="Live - Basketball",[National Basketball Association] Golden State Warriors vs Miami Heat (DAMITV)
-#EXTVLCOPT:http-referrer=https://damitv.st/embed/?id=espn-401909937
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://messi.damitv.st/live-hls/channel/nba/2026-11-05/mia-gs/playlist.m3u8?tk=mS_PtueTvRWS7rsUKD5JeA&e=1793975406
-#EXTINF:-1 tvg-chno="106" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[National Basketball Association] Phoenix Suns vs Orlando Magic (DAMITV)" tvg-logo="https://damitv.st/img/cards/nba/401909936.jpg?v=ghst2nf" group-title="Live - Basketball",[National Basketball Association] Phoenix Suns vs Orlando Magic (DAMITV)
-#EXTVLCOPT:http-referrer=https://damitv.st/embed/?id=espn-401909936
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://messi.damitv.st/live-hls/channel/nba/2026-11-05/orl-phx/playlist.m3u8?tk=srbJndE3-TKJ952UwWCTKQ&e=1793971806
-#EXTINF:-1 tvg-chno="107" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Basketball] Golden State Warriors vs Miami Heat (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Basketball",[NBA Basketball] Golden State Warriors vs Miami Heat (FAWA)
+#EXTINF:-1 tvg-chno="87" tvg-id="Basketball.Dummy.us" tvg-name="[Basketball Euroleague] Besiktas vs Zalgiris Kaunas (FAWA)" tvg-logo="https://www.euroleaguebasketball.net/images/logo-default.png" group-title="Live - Basketball",[Basketball Euroleague] Besiktas vs Zalgiris Kaunas (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.50/hls/uiiiAA.m3u8
-#EXTINF:-1 tvg-chno="108" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Basketball] Phoenix Suns vs Orlando Magic (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Basketball",[NBA Basketball] Phoenix Suns vs Orlando Magic (FAWA)
+http://193.47.62.41/hls/frfrfrAAAAQQ.m3u8
+#EXTINF:-1 tvg-chno="88" tvg-id="Basketball.Dummy.us" tvg-name="[Basketball Euroleague] Olympiacos vs Crvena Zvezda (FAWA)" tvg-logo="https://www.euroleaguebasketball.net/images/logo-default.png" group-title="Live - Basketball",[Basketball Euroleague] Olympiacos vs Crvena Zvezda (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.50/hls/uiiiA.m3u8
-#EXTINF:-1 tvg-chno="109" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA Men's Basketball] Bethune-Cookman Wildcats vs Texas Tech Red Raiders (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/basketball_bethune-cookman-wildcats-vs-texas-tech-red-raiders_Bethune-Cookman_Wildcats_vs_Te" group-title="Live - Basketball",[NCAA Men's Basketball] Bethune-Cookman Wildcats vs Texas Tech Red Raiders (STRMFREE)
-#EXTVLCOPT:http-referrer=https://streamfree.top
+http://193.47.62.50/hls/LSSSAAAAA.m3u8
+#EXTINF:-1 tvg-chno="89" tvg-id="Basketball.Dummy.us" tvg-name="[Basketball Euroleague] Partizan vs Maccabi Tel Aviv (FAWA)" tvg-logo="https://www.euroleaguebasketball.net/images/logo-default.png" group-title="Live - Basketball",[Basketball Euroleague] Partizan vs Maccabi Tel Aviv (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://streamfree.top/live-cdn/bethune-cookman-wildcats-vs-texas-tech-red-raiders1080p/index.m3u8?_e=1793961006&_n=040a929a26c8b9b3&_t=AYKn4GwrJDqZ0G_eEdreWA
-#EXTINF:-1 tvg-chno="110" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA Men's Basketball] Cal Poly Mustangs vs Arizona Wildcats (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/basketball_cal-poly-mustangs-vs-arizona-wildcats_Cal_Poly_Mustangs_vs_Arizona_W" group-title="Live - Basketball",[NCAA Men's Basketball] Cal Poly Mustangs vs Arizona Wildcats (STRMFREE)
-#EXTVLCOPT:http-referrer=https://streamfree.top
+http://193.47.62.41/hls/ZUIIIAA.m3u8
+#EXTINF:-1 tvg-chno="90" tvg-id="Basketball.Dummy.us" tvg-name="[Basketball Euroleague] Virtus Bologna vs Dubai (FAWA)" tvg-logo="https://www.euroleaguebasketball.net/images/logo-default.png" group-title="Live - Basketball",[Basketball Euroleague] Virtus Bologna vs Dubai (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://streamfree.top/live-externalcdn/cal-poly-mustangs-vs-arizona-wildcats1080p/index.m3u8?_e=1793966407&_n=d0f4dc517db33e23&_t=15aJuKqePz_NHcdXnqpGdw
+http://193.47.62.41/hls/zoooAA.m3u8
