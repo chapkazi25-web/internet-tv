@@ -1,11 +1,15 @@
 # 📺 IPTV Playlist
 
-## Playlist Log @ 2026-11-05 21:11 UTC
+## Playlist Log @ 2026-11-06 09:47 UTC
 
-### ✅ Active Streams: 271
-❌ Dead Streams: 0
+### ✅ Active Streams: 215
+❌ Dead Streams: 1
 
-_Skipped 394 dead live-event streams — event links expire when the match ends._
+_Skipped 270 dead live-event streams — event links expire when the match ends._
+
+| Channel | Category | Error (Code) |
+| --- | --- | --- |
+| [Bravo](http://41.205.93.154/BRAVO/index.m3u8) | Entertainment | HTTP Error (404) |
 
 ---
 
@@ -26,13 +30,11 @@ output/categories/<category>.m3u
 | Documentary & Reality | 17 |
 | Entertainment | 58 |
 | Kids & Family | 10 |
-| Live - American Football | 9 |
-| Live - Basketball | 5 |
-| Live - Hockey | 11 |
-| Live - Other Events | 379 |
-| Live - Racing | 2 |
-| Live - Soccer | 59 |
-| Live - Tennis | 2 |
+| Live - American Football | 18 |
+| Live - Basketball | 7 |
+| Live - Hockey | 42 |
+| Live - Other Events | 138 |
+| Live - Soccer | 83 |
 | Movies & Premium | 23 |
 | Music | 5 |
 | News & Weather | 30 |

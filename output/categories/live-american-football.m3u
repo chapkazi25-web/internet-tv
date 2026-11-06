@@ -1,37 +1,73 @@
 #EXTM3U url-tvg="https://s.id/d9sEPG"
-#EXTINF:-1 tvg-chno="86" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Baltimore Ravens vs Jacksonville Jaguars | ESPN 5 (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Baltimore Ravens vs Jacksonville Jaguars | ESPN 5 (STRMXHD)
+#EXTINF:-1 tvg-chno="86" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] Florida Atlantic vs UTSA (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live - American Football",[NCAA American Football] Florida Atlantic vs UTSA (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.55/hls/feeeaaaaq.m3u8
+#EXTINF:-1 tvg-chno="87" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] Southern Miss vs James Madison (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live - American Football",[NCAA American Football] Southern Miss vs James Madison (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.55/hls/feeeaaaaqq.m3u8
+#EXTINF:-1 tvg-chno="88" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Baltimore Ravens vs Jacksonville Jaguars (FLYEMBD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Baltimore Ravens vs Jacksonville Jaguars (FLYEMBD)
+#EXTVLCOPT:http-referrer=https://ehgembxe.cfd/flyemb/9ltz8n0o-1029
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://tims-001.sytes.net/main/secure/82436551d4422db3416c492eb831e57005f2abfbd026850ff722d2fb5c807aff/1793943008/nfl-401873037.m3u8
+#EXTINF:-1 tvg-chno="89" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Baltimore Ravens vs Jacksonville Jaguars | Español 1 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Baltimore Ravens vs Jacksonville Jaguars | Español 1 (PLIBRE)
+#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=espn5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://YXdlc29tZQ.fubo18.com:443/espn5/mono.m3u8?token=6b49974bd4fc124353ce4f5c88c206e7f545c561-1e-1793940307-1793922307
+#EXTINF:-1 tvg-chno="90" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Baltimore Ravens vs Jacksonville Jaguars | ESPN 5 (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Baltimore Ravens vs Jacksonville Jaguars | ESPN 5 (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.sbs/live1.php?stream=espn5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/espn5/index.m3u8?token=1ba4116dc6059c783c9aedcb565125f0962df48a-3a-1793948416-1793894416
-#EXTINF:-1 tvg-chno="87" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Baltimore Ravens vs Jacksonville Jaguars | Fox Sports 3 AR (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Baltimore Ravens vs Jacksonville Jaguars | Fox Sports 3 AR (STRMXHD)
+https://khala.futlivehd.com/global/espn5/index.m3u8?token=b0cced76050ad483f0ae10eda93d1e692315dfaf-de-1793968207-1793914207
+#EXTINF:-1 tvg-chno="91" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Baltimore Ravens vs Jacksonville Jaguars | Fox Sports 3 AR (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Baltimore Ravens vs Jacksonville Jaguars | Fox Sports 3 AR (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.sbs/live1.php?stream=fox3ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/fox3ar/index.m3u8?token=1874e974a68a5526135429c41308abb902d189e5-56-1793948416-1793894416
-#EXTINF:-1 tvg-chno="88" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Baltimore Ravens vs. Jacksonville Jaguars | ESPN 5 (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Baltimore Ravens vs. Jacksonville Jaguars | ESPN 5 (TVF90)
+https://khala.futlivehd.com/global/fox3ar/index.m3u8?token=91ede488e66afff1580454ecd8a5c2df960183dc-6a-1793968207-1793914207
+#EXTINF:-1 tvg-chno="92" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Baltimore Ravens vs. Jacksonville Jaguars | ESPN 5 (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Baltimore Ravens vs. Jacksonville Jaguars | ESPN 5 (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=espn5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://8.ftlly.com:443/espn5/mono.m3u8?token=e0e7fbb59bf020bd1fbeca3ac2b9ca545271b50e-d0-1793920516-1793902516
-#EXTINF:-1 tvg-chno="89" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Baltimore Ravens vs. Jacksonville Jaguars | ESPN 5 | HD (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Baltimore Ravens vs. Jacksonville Jaguars | ESPN 5 | HD (TVF90)
+https://6.ftlly.com:443/espn5/mono.m3u8?token=517a695d2d12e4132f12ed575e30b9516d8d1e05-22-1793940308-1793922308
+#EXTINF:-1 tvg-chno="93" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Baltimore Ravens vs. Jacksonville Jaguars | ESPN 5 | HD (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Baltimore Ravens vs. Jacksonville Jaguars | ESPN 5 | HD (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/hd.php?stream=espn5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://9.ftlly.com:443/espn5/mono.m3u8?token=e0e7fbb59bf020bd1fbeca3ac2b9ca545271b50e-d0-1793920516-1793902516
-#EXTINF:-1 tvg-chno="90" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Baltimore Ravens vs. Jacksonville Jaguars | ESPN 5 | OP2 (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Baltimore Ravens vs. Jacksonville Jaguars | ESPN 5 | OP2 (TVF90)
+https://4.ftlly.com:443/espn5/mono.m3u8?token=d44d7bc424f18961cc36eab1c4499bb05620ffdb-6-1793940309-1793922309
+#EXTINF:-1 tvg-chno="94" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Baltimore Ravens vs. Jacksonville Jaguars | ESPN 5 | OP2 (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Baltimore Ravens vs. Jacksonville Jaguars | ESPN 5 | OP2 (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/2.php?stream=espn5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://9.ftlly.com:443/espn5/mono.m3u8?token=e9a075bd128c177feea068a92e947ccde69491cf-40-1793920516-1793902516
-#EXTINF:-1 tvg-chno="91" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Baltimore Ravens vs. Jacksonville Jaguars | ESPN 5 | OP3 (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Baltimore Ravens vs. Jacksonville Jaguars | ESPN 5 | OP3 (TVF90)
+https://9.ftlly.com:443/espn5/mono.m3u8?token=b8975824340219d64795bc175cac36d378098517-24-1793940309-1793922309
+#EXTINF:-1 tvg-chno="95" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Baltimore Ravens vs. Jacksonville Jaguars | ESPN 5 | OP3 (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Baltimore Ravens vs. Jacksonville Jaguars | ESPN 5 | OP3 (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/3.php?stream=espn5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://5.ftlly.com:443/espn5/mono.m3u8?token=aa330ce706a3877b553f3c0d350472a46169ea50-f6-1793920516-1793902516
-#EXTINF:-1 tvg-chno="92" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Jaguars vs Ravens (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Jaguars vs Ravens (WEBCAST)
+https://10.ftlly.com:443/espn5/mono.m3u8?token=efcf0d2d70be7e377dd88ca6d2552603e549fe07-5-1793940309-1793922309
+#EXTINF:-1 tvg-chno="96" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Jacksonville Jaguars at Baltimore Ravens (SPRTSPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Jacksonville Jaguars at Baltimore Ravens (SPRTSPASS)
+#EXTVLCOPT:http-referrer=https://streamseast.dad
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://shadyspruce.s3.eu-west-3.amazonaws.com/ravens.m3u8
+#EXTINF:-1 tvg-chno="97" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Jacksonville Jaguars vs Baltimore Ravens (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/football_jacksonville-jaguars-vs-baltimore-ravens_Jacksonville_Jaguars_vs_Baltim" group-title="Live - American Football",[NFL] Jacksonville Jaguars vs Baltimore Ravens (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://streamfree.top/live-externalcdn/jacksonville-jaguars-vs-baltimore-ravens1080p/index.m3u8?_e=1793959207&_n=368192a654674fbc&_t=-Xb8qaOdN76-NV-4MgMiDQ
+#EXTINF:-1 tvg-chno="98" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Jacksonville Jaguars vs Baltimore Ravens | English (STRMGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Jacksonville Jaguars vs Baltimore Ravens | English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401873037
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://instreams.live/live/tv401873037/master.m3u8?st=eJyo6iJW_tb8CKqcuzVTCA&e=1793948408
+#EXTINF:-1 tvg-chno="99" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Jaguars @ Ravens | Main Feed (FUTBOLX)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Jaguars @ Ravens | Main Feed (FUTBOLX)
+#EXTVLCOPT:http-referrer=https://www.futbol-x.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://fup.futx.nx.kg/bal/index.m3u8
+#EXTINF:-1 tvg-chno="100" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Jaguars vs Ravens (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Jaguars vs Ravens (WEBCAST)
 #EXTVLCOPT:http-referrer=https://nflwebcast.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://webcast-origin.b-cdn.net/bcdn_token=6wgtX3Yp085xc1PbsuoH5w6IviDWgW613rVArXNHNY4&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEEdjTgGciGXnWteyv3X0l-%2F&expires=1793910729/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEEdjTgGciGXnWteyv3X0l-/73.m3u8
-#EXTINF:-1 tvg-chno="93" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Jaguars vs Ravens 1 (STP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Jaguars vs Ravens 1 (STP)
+https://webcast-origin.b-cdn.net/bcdn_token=Y49TD2Nv_pwnuUQlpVJ7Jg6AUpljsVMjfPKcoMD2Xvo&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEEdjTgGciGXnWteyv3X0l-%2F&expires=1793935929/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEEdjTgGciGXnWteyv3X0l-/73.m3u8
+#EXTINF:-1 tvg-chno="101" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Jaguars vs Ravens 1 (STP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Jaguars vs Ravens 1 (STP)
 #EXTVLCOPT:http-referrer=https://streamx723.sbs/global1.php?channel=espn5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://98.envivosenhd.beer:443/global/espn5/mono.m3u8?token=8fd18e117f5da718f934c2696b96333af194ae95-42-1793920511-1793902511
-#EXTINF:-1 tvg-chno="94" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Jaguars vs Ravens 2 (STP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Jaguars vs Ravens 2 (STP)
+https://98.envivosenhd.beer:443/global/espn5/mono.m3u8?token=90ce6f4afa95a9944d211e9441ab3628ad4b108b-2a-1793940310-1793922310
+#EXTINF:-1 tvg-chno="102" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Jaguars vs Ravens 2 (STP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Jaguars vs Ravens 2 (STP)
 #EXTVLCOPT:http-referrer=https://streamx723.sbs/global1.php?channel=fox3ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://98.envivosenhd.beer:443/global/fox3ar/mono.m3u8?token=b1e078e3fe86a079b5a96c441a57e49d4ccf542a-2d-1793920511-1793902511
+https://98.envivosenhd.beer:443/global/fox3ar/mono.m3u8?token=8cc19486b67d1707085f0c8f9dbcba4b2fd8db6f-65-1793940310-1793922310
+#EXTINF:-1 tvg-chno="103" tvg-id="Football.Dummy.us" tvg-name="[NFL] NFL Network (iSTRMEAST)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live - American Football",[NFL] NFL Network (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/54923?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://chatgpt.hereisman.net/playlist/54923/load-playlist
