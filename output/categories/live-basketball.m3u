@@ -1,13 +1,13 @@
 #EXTM3U url-tvg="https://s.id/d9sEPG"
-#EXTINF:-1 tvg-chno="89" tvg-id="Live.Event.us" tvg-name="[Basketball Greece League] Lefkadas vs Aris (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Basketball",[Basketball Greece League] Lefkadas vs Aris (FAWA)
+#EXTINF:-1 tvg-chno="104" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[Basketball] Denver Nuggets vs Indiana Pacers (XYZ)" tvg-logo="https://images.grassy-level770.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nba/500/den.png&logo2=https://a.espncdn.com/i/teamlogos/nba/500/ind.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png&color1=0e2240&color2=0c2340&q=65&w=100" group-title="Live - Basketball",[Basketball] Denver Nuggets vs Indiana Pacers (XYZ)
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/nba-1.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://hls.kozow.com/nba1h/mono.ts.m3u8?token=f913011e25a1127e1547fd4db85230fa
+#EXTINF:-1 tvg-chno="105" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[National Basketball Association] Indiana Pacers vs Denver Nuggets (DAMITV)" tvg-logo="https://damitv.st/img/cards/nba/401909938.jpg?v=ghst2nf" group-title="Live - Basketball",[National Basketball Association] Indiana Pacers vs Denver Nuggets (DAMITV)
+#EXTVLCOPT:http-referrer=https://damitv.st/embed/?id=espn-401909938
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/nba/2026-11-07/den-ind/playlist.m3u8?tk=Ne4eyavr684_PHEwGM0vJQ&e=1794130206
+#EXTINF:-1 tvg-chno="106" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Basketball] Indiana Pacers vs Denver Nuggets 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Basketball",[NBA Basketball] Indiana Pacers vs Denver Nuggets 1 (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.44/hls/VVVVA.m3u8
-#EXTINF:-1 tvg-chno="90" tvg-id="Live.Event.us" tvg-name="[Basketball Greece League] PAOK vs Vikos (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live - Basketball",[Basketball Greece League] PAOK vs Vikos (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.44/hls/HYYY.m3u8
-#EXTINF:-1 tvg-chno="91" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA Men's Basketball] Morehead State Eagles vs Louisville Cardinals (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/basketball_morehead-state-eagles-vs-louisville-cardinals_Morehead_State_Eagles_vs_Louis" group-title="Live - Basketball",[NCAA Men's Basketball] Morehead State Eagles vs Louisville Cardinals (STRMFREE)
-#EXTVLCOPT:http-referrer=https://streamfree.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://streamfree.top/live-origin/morehead-state-eagles-vs-louisville-cardinals1080p/index.m3u8?_e=1794103207&_n=66a3a48237b553c0&_t=Jbr4-DTsuL-9kxzK2rgT9w
+http://193.47.62.50/hls/Z999.m3u8
