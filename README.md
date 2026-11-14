@@ -1,23 +1,43 @@
 # 📺 IPTV Playlist
 
-## Playlist Log @ 2026-11-13 20:58 UTC
+## Playlist Log @ 2026-11-14 09:21 UTC
 
-### ✅ Active Streams: 212
-❌ Dead Streams: 9
+### ✅ Active Streams: 184
+❌ Dead Streams: 29
 
-_Skipped 217 dead live-event streams — event links expire when the match ends._
+_Skipped 243 dead live-event streams — event links expire when the match ends._
 
 | Channel | Category | Error (Code) |
 | --- | --- | --- |
-| [Discovery Channel](http://212.5.144.156:8080/discovery/index.m3u8) | Documentary & Reality | HTTP Error (403) |
-| [History Channel](http://212.5.144.156:8080/history/index.m3u8) | Documentary & Reality | HTTP Error (403) |
-| [Investigation Discovery](http://212.5.144.156:8080/id/index.m3u8) | Documentary & Reality | HTTP Error (403) |
-| [Nat Geo](http://212.5.144.156:8080/natgeo/index.m3u8) | Documentary & Reality | HTTP Error (403) |
-| [Disney Channel](http://212.5.144.156:8080/disney/index.m3u8) | Kids & Family | HTTP Error (403) |
-| [Nick Jr](http://212.5.144.156:8080/nickjr/index.m3u8) | Kids & Family | HTTP Error (403) |
-| [NHL Network](https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf44/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZjQ0OjE3OTQ2MDkwMDYwMjg6Y2RubGl2ZXR2LnR2OmVjNGZjYTk5OTE2ODMyZjEuMjFjMGIwMGNiN2M3ZDA1ZGY3YTU2YmNjNDkxZGZjYTc0ZTVmNzlkODU3ZDM0OWRlZWMyMWFlOTUyMDcyYzM1MA) | Sports | HTTP Error (503) |
-| [Space City Home Network](https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363d4b1/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNkNGIxOjE3OTQ2MDkwMDgxNjc6Y2RubGl2ZXR2LnR2OmQzN2RmMTQ1OWNlNzFmODMuYWNmNTRlZjkxNmIxMGU4ZTYyOGMzMGI3MmJiMWUxMTEwM2U1ZWZlMjYwNmMyZDcxNjIwNDU2N2UxZjUwOGU2YQ) | Sports | HTTP Error (503) |
-| [TNT Sports 3](https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c897/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODk3OjE3OTQ2MDkwMDg4ODA6Y2RubGl2ZXR2LnR2OjM2OWE3Nzg0OTY3ZWExNzguMzVmN2YzNWZiZTFhZDcwMmYzMzFlY2QxNmE3YjNmY2RiYmUzMWZjODJkMTViOTkwMjk3NDdhYmJkZmM5ODlkYw) | Sports | HTTP Error (503) |
+| [History Channel (Alt)](https://cache0.wonvt.st/live/00l9cyk0hoy9rx0kp05s0/master.m3u8) | Documentary & Reality | URL Error (timed out) |
+| [ABC](https://cache0.wonvt.st/live/178232v17z1k5v1nckt35/master.m3u8) | Entertainment | URL Error (timed out) |
+| [CBS](https://cache0.wonvt.st/live/0x8kufu0m609fs0hv3gqj/master.m3u8) | Entertainment | URL Error (timed out) |
+| [FETV](https://cache0.wonvt.st/live/1iihbgf0gp1z3m0kzyxf8/master.m3u8) | Entertainment | URL Error (timed out) |
+| [FXX](https://cache0.wonvt.st/live/110fynw1a68kro18sxusr/master.m3u8) | Entertainment | URL Error (timed out) |
+| [Grit](https://cache0.wonvt.st/live/091cvyx0d5ekhm1kkjtwa/master.m3u8) | Entertainment | URL Error (timed out) |
+| [NBC](https://cache0.wonvt.st/live/108kde90atgxpe1b70g4o/master.m3u8) | Entertainment | URL Error (timed out) |
+| [NFL RedZone](https://cache0.wonvt.st/live/1cbg6qo1qp8wpc0vuu0v1/master.m3u8) | Entertainment | URL Error (timed out) |
+| [The Travel Channel](https://cache0.wonvt.st/live/1sfof101ifqzke0fuw3tz/master.m3u8) | Entertainment | URL Error (timed out) |
+| [TV Land](https://cache0.wonvt.st/live/1d9d5fm15shhb30dnkvt0/master.m3u8) | Entertainment | URL Error (timed out) |
+| [TV ONE](https://cache0.wonvt.st/live/1oxx3bw1uf3t3s0datpdp/master.m3u8) | Entertainment | URL Error (timed out) |
+| [Cartoon Network](https://cache0.wonvt.st/live/162nn8p18ljgc71v5dou4/master.m3u8) | Kids & Family | URL Error (timed out) |
+| [Nickelodeon](https://cache0.wonvt.st/live/1ewxgzu023dos60vlh62k/master.m3u8) | Kids & Family | URL Error (timed out) |
+| [Lifetime Movie Network](https://cache0.wonvt.st/live/1t9dc2w00br9sx13nldbm/master.m3u8) | Movies & Premium | URL Error (timed out) |
+| [Paramount+ with Showtime](https://cache0.wonvt.st/live/1az2pv01wqk8zi11yns1c/master.m3u8) | Movies & Premium | URL Error (timed out) |
+| [Starz](https://cache0.wonvt.st/live/16fgsju1pnic1t0n4pa9a/master.m3u8) | Movies & Premium | URL Error (timed out) |
+| [CBS Sports Network](https://cache0.wonvt.st/live/1ht5wwv045ffdr1yt1h5m/master.m3u8) | Sports | URL Error (timed out) |
+| [Fox Sports 2](https://cache0.wonvt.st/live/13r6cob1fh05tc1261qhx/master.m3u8) | Sports | URL Error (timed out) |
+| [MSG](https://cache0.wonvt.st/live/00g9qgg133gtja13nq2hs/master.m3u8) | Sports | URL Error (_ssl.c:994: The handshake operation timed out) |
+| [NBC Sports Bay Area](https://cache0.wonvt.st/live/1l1gsxk1pvtxv00kuywhx/master.m3u8) | Sports | URL Error (timed out) |
+| [NBC Sports Boston](https://cache0.wonvt.st/live/0fpm15a0k4ux2g1tx7fhe/master.m3u8) | Sports | URL Error (timed out) |
+| [NBC Sports California](https://cache0.wonvt.st/live/0iexaqu0xs8ukv01awmpa/master.m3u8) | Sports | URL Error (timed out) |
+| [NHL Network](https://cache0.wonvt.st/live/0nkruul0d8pahi1pz4sjc/master.m3u8) | Sports | URL Error (timed out) |
+| [Space City Home Network](https://cache0.wonvt.st/live/034yveq0x3b43c1q0ycfa/master.m3u8) | Sports | URL Error (timed out) |
+| [Spectrum SportsNet Lakers](https://cache0.wonvt.st/live/0rwqr121hh9q861eel783/master.m3u8) | Sports | URL Error (timed out) |
+| [SportsNet New York](https://cache0.wonvt.st/live/0hiq6c61a1o18r1kmwr4v/master.m3u8) | Sports | URL Error (timed out) |
+| [TSN 2](https://tvsen5.aynaott.com/tsn2/index.m3u8) | Sports | HTTP Error (404) |
+| [TSN 4](https://cache0.wonvt.st/live/0db5oui05zn8xx16swui5/master.m3u8) | Sports | URL Error (timed out) |
+| [TSN 5](https://cache0.wonvt.st/live/0in1i4q11fbx250cx88k4/master.m3u8) | Sports | URL Error (_ssl.c:994: The handshake operation timed out) |
 
 ---
 
@@ -36,18 +56,18 @@ output/categories/<category>.m3u
 | Category | Channels |
 | --- | ---: |
 | Documentary & Reality | 16 |
-| Entertainment | 50 |
-| Kids & Family | 9 |
-| Live - American Football | 1 |
-| Live - Basketball | 3 |
-| Live - Hockey | 9 |
-| Live - Other Events | 181 |
-| Live - Soccer | 68 |
-| Live - Tennis | 1 |
-| Movies & Premium | 13 |
+| Entertainment | 55 |
+| Kids & Family | 10 |
+| Live - American Football | 4 |
+| Live - Basketball | 22 |
+| Live - Hockey | 16 |
+| Live - Other Events | 149 |
+| Live - Soccer | 74 |
+| Live - Tennis | 2 |
+| Movies & Premium | 16 |
 | Music | 5 |
 | News & Weather | 31 |
-| Sports | 51 |
+| Sports | 56 |
 
 ### Sources
 
