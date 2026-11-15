@@ -1,37 +1,29 @@
 #EXTM3U url-tvg="https://s.id/d9sEPG"
-#EXTINF:-1 tvg-chno="141" tvg-id="Basketball.Dummy.us" tvg-name="[Basketball NBL] Brisbane Bullets vs Tasmania JackJumpers (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/04/Basketball-Emoji-1536x864.png" group-title="Live - Basketball",[Basketball NBL] Brisbane Bullets vs Tasmania JackJumpers (FAWA)
+#EXTINF:-1 tvg-chno="200" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[National Basketball Association] Philadelphia 76ers vs Indiana Pacers (DAMITV)" tvg-logo="https://damitv.st/img/cards/nba/401909985.jpg?v=ghst2nf" group-title="Live - Basketball",[National Basketball Association] Philadelphia 76ers vs Indiana Pacers (DAMITV)
+#EXTVLCOPT:http-referrer=https://damitv.st/embed/?id=espn-401909985
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/nba/2026-11-15/ind-phi/playlist.m3u8?tk=DBsfhzDesNK4ThiIesbJIA&e=1794808809
+#EXTINF:-1 tvg-chno="201" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Basketball] Philadelphia 76ers vs Indiana Pacers (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Basketball",[NBA Basketball] Philadelphia 76ers vs Indiana Pacers (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.44/hls/HIIIAa.m3u8
-#EXTINF:-1 tvg-chno="142" tvg-id="Basketball.Dummy.us" tvg-name="[Basketball NBL] Sydney vs New Zealand Breakers (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/04/Basketball-Emoji-1536x864.png" group-title="Live - Basketball",[Basketball NBL] Sydney vs New Zealand Breakers (FAWA)
+http://193.47.62.41/hls/J444AAAA.m3u8
+#EXTINF:-1 tvg-chno="202" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Basketball] Philadelphia 76ers vs Indiana Pacers 2 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Basketball",[NBA Basketball] Philadelphia 76ers vs Indiana Pacers 2 (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.44/hls/HIIIAa.m3u8
-#EXTINF:-1 tvg-chno="143" tvg-id="Live.Event.us" tvg-name="[National Basketball League] Sydney Kings vs New Zealand Breakers (DAMITV)" tvg-logo="https://damitv.st/img/cards/nbl/401875298.jpg?v=3nf" group-title="Live - Basketball",[National Basketball League] Sydney Kings vs New Zealand Breakers (DAMITV)
-#EXTVLCOPT:http-referrer=https://damitv.st/embed/?id=espn-401875298
+https://www.rtmpcdn.com/live/82091001-94e6-46f4-b0bf-7726d28de024.m3u8
+#EXTINF:-1 tvg-chno="203" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA Men's Basketball] Memphis Tigers vs Louisville Cardinals (DAMITV)" tvg-logo="https://damitv.st/img/cards/mens-college-basketball/401918949.jpg?v=3nf" group-title="Live - Basketball",[NCAA Men's Basketball] Memphis Tigers vs Louisville Cardinals (DAMITV)
+#EXTVLCOPT:http-referrer=https://damitv.st/embed/?id=espn-401918949
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://messi.damitv.st/live-hls/channel/nbl/2026-11-15/syd-nzl/playlist.m3u8?tk=u_DJ7D4ZISRVelZjVwjBwg&e=1794756607
-#EXTINF:-1 tvg-chno="144" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Basketball] Cleveland Cavaliers vs Dallas Mavericks 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Basketball",[NBA Basketball] Cleveland Cavaliers vs Dallas Mavericks 1 (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+https://messi.damitv.st/live-hls/channel/cbb/2026-11-15/lou-mem/playlist.m3u8?tk=XGSO5m92TGBbL-FlFzZRVA&e=1794808810
+#EXTINF:-1 tvg-chno="204" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA Men's Basketball] Michigan Wolverines vs William & Mary Tribe (DAMITV)" tvg-logo="https://damitv.st/img/cards/mens-college-basketball/401918453.jpg?v=3nf" group-title="Live - Basketball",[NCAA Men's Basketball] Michigan Wolverines vs William & Mary Tribe (DAMITV)
+#EXTVLCOPT:http-referrer=https://damitv.st/embed/?id=espn-401918453
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.59/hls/JUJUJUQ.m3u8
-#EXTINF:-1 tvg-chno="145" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Basketball] Cleveland Cavaliers vs Dallas Mavericks 2 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Basketball",[NBA Basketball] Cleveland Cavaliers vs Dallas Mavericks 2 (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+https://messi.damitv.st/live-hls/channel/cbb/2026-11-15/wm-mich/playlist.m3u8?tk=oX59G0cNs4vAskY1RkqbuQ&e=1794810608
+#EXTINF:-1 tvg-chno="205" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA Men's Basketball] Nebraska Cornhuskers vs Boise State Broncos (DAMITV)" tvg-logo="https://damitv.st/img/cards/mens-college-basketball/401926063.jpg?v=3nf" group-title="Live - Basketball",[NCAA Men's Basketball] Nebraska Cornhuskers vs Boise State Broncos (DAMITV)
+#EXTVLCOPT:http-referrer=https://damitv.st/embed/?id=espn-401926063
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://www.rtmpcdn.com/live/p-543b46dce52e4c06ab74e32c4054926e.m3u8
-#EXTINF:-1 tvg-chno="146" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Basketball] Memphis Grizzlies vs Brooklyn Nets 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Basketball",[NBA Basketball] Memphis Grizzlies vs Brooklyn Nets 1 (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+https://messi.damitv.st/live-hls/channel/cbb/2026-11-15/bois-neb/playlist.m3u8?tk=_o6DGcCbm-gSU62lTgCPIg&e=1794808811
+#EXTINF:-1 tvg-chno="206" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA Men's Basketball] Texas Longhorns vs Baylor Bears (DAMITV)" tvg-logo="https://damitv.st/img/cards/mens-college-basketball/401906866.jpg?v=3nf" group-title="Live - Basketball",[NCAA Men's Basketball] Texas Longhorns vs Baylor Bears (DAMITV)
+#EXTVLCOPT:http-referrer=https://damitv.st/embed/?id=espn-401906866
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.59/hls/JUJUJUQQ.m3u8
-#EXTINF:-1 tvg-chno="147" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Basketball] Minnesota Timberwolves vs Chicago Bulls (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Basketball",[NBA Basketball] Minnesota Timberwolves vs Chicago Bulls (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.59/hls/JUJUJUQQQQ.m3u8
-#EXTINF:-1 tvg-chno="148" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Basketball] New Orleans Pelicans vs Denver Nuggets 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Basketball",[NBA Basketball] New Orleans Pelicans vs Denver Nuggets 1 (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.59/hls/JUJUJU.m3u8
-#EXTINF:-1 tvg-chno="149" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Basketball] New Orleans Pelicans vs Denver Nuggets 2 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live - Basketball",[NBA Basketball] New Orleans Pelicans vs Denver Nuggets 2 (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://www.rtmpcdn.com/live/p-34247cf3f0cb481cb764b1c2b7dbfa59.m3u8
+https://messi.damitv.st/live-hls/channel/cbb/2026-11-15/bay-tex/playlist.m3u8?tk=yvOvxPRzb_HkRqO8v5WklQ&e=1794814248
