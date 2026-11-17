@@ -1,37 +1,25 @@
 # 📺 IPTV Playlist
 
-## Playlist Log @ 2026-11-16 23:29 UTC
+## Playlist Log @ 2026-11-17 11:03 UTC
 
-### ✅ Active Streams: 183
-❌ Dead Streams: 23
+### ✅ Active Streams: 190
+❌ Dead Streams: 11
 
-_Skipped 227 dead live-event streams — event links expire when the match ends._
+_Skipped 154 dead live-event streams — event links expire when the match ends._
 
 | Channel | Category | Error (Code) |
 | --- | --- | --- |
-| [History Channel (Alt)](https://cache0.wonvt.st/live/00l9cyk0hoy9rx0kp05s0/master.m3u8) | Documentary & Reality | RemoteDisconnected |
-| [CBS](https://cache0.wonvt.st/live/0x8kufu0m609fs0hv3gqj/master.m3u8) | Entertainment | RemoteDisconnected |
-| [Grit](https://cache0.wonvt.st/live/091cvyx0d5ekhm1kkjtwa/master.m3u8) | Entertainment | RemoteDisconnected |
-| [NFL RedZone](https://cache0.wonvt.st/live/1cbg6qo1qp8wpc0vuu0v1/master.m3u8) | Entertainment | RemoteDisconnected |
-| [TV Land](https://cache0.wonvt.st/live/1d9d5fm15shhb30dnkvt0/master.m3u8) | Entertainment | RemoteDisconnected |
-| [TV ONE](https://cache0.wonvt.st/live/1oxx3bw1uf3t3s0datpdp/master.m3u8) | Entertainment | RemoteDisconnected |
-| [Cartoon Network](https://cache0.wonvt.st/live/162nn8p18ljgc71v5dou4/master.m3u8) | Kids & Family | RemoteDisconnected |
-| [Nickelodeon](https://cache0.wonvt.st/live/1ewxgzu023dos60vlh62k/master.m3u8) | Kids & Family | RemoteDisconnected |
-| [Lifetime Movie Network](https://cache0.wonvt.st/live/1t9dc2w00br9sx13nldbm/master.m3u8) | Movies & Premium | RemoteDisconnected |
-| [Paramount+ with Showtime](https://cache0.wonvt.st/live/1az2pv01wqk8zi11yns1c/master.m3u8) | Movies & Premium | RemoteDisconnected |
-| [CBS Sports Network](https://cache0.wonvt.st/live/1ht5wwv045ffdr1yt1h5m/master.m3u8) | Sports | RemoteDisconnected |
-| [MSG](https://cache0.wonvt.st/live/00g9qgg133gtja13nq2hs/master.m3u8) | Sports | RemoteDisconnected |
-| [NBC Sports Bay Area](https://cache0.wonvt.st/live/1l1gsxk1pvtxv00kuywhx/master.m3u8) | Sports | RemoteDisconnected |
-| [NBC Sports Boston](https://cache0.wonvt.st/live/0fpm15a0k4ux2g1tx7fhe/master.m3u8) | Sports | RemoteDisconnected |
-| [NBC Sports California](https://cache0.wonvt.st/live/0iexaqu0xs8ukv01awmpa/master.m3u8) | Sports | RemoteDisconnected |
-| [NHL Network](https://cache0.wonvt.st/live/0nkruul0d8pahi1pz4sjc/master.m3u8) | Sports | RemoteDisconnected |
-| [Space City Home Network](https://cache0.wonvt.st/live/034yveq0x3b43c1q0ycfa/master.m3u8) | Sports | RemoteDisconnected |
-| [Spectrum SportsNet Lakers](https://cache0.wonvt.st/live/0rwqr121hh9q861eel783/master.m3u8) | Sports | RemoteDisconnected |
-| [SportsNet New York](https://cache0.wonvt.st/live/0hiq6c61a1o18r1kmwr4v/master.m3u8) | Sports | RemoteDisconnected |
-| [TNT Sports 3](https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c897/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODk3OjE3OTQ4NzkwMDc5NTg6Y2RubGl2ZXR2LnR2OmQ1ZmFkYmRlMjM1YjllY2MuMjZjYWZhYzgyZjI3NDI4ODRjOWZhZTQ0NTBlYWY5YTUxMzkzOGE2MDFiOTJjZDEzYjI0ZjY2OTQwNzdhYzc0Zg) | Sports | HTTP Error (503) |
-| [TSN 3](https://cache0.wonvt.st/live/165ku6e0bww1fs0ol7svn/master.m3u8) | Sports | RemoteDisconnected |
-| [TSN 4](https://cache0.wonvt.st/live/0db5oui05zn8xx16swui5/master.m3u8) | Sports | RemoteDisconnected |
-| [TSN 5](https://cache0.wonvt.st/live/0in1i4q11fbx250cx88k4/master.m3u8) | Sports | RemoteDisconnected |
+| [Discovery Channel](http://212.5.144.156:8080/discovery/index.m3u8) | Documentary & Reality | HTTP Error (403) |
+| [History Channel](http://212.5.144.156:8080/history/index.m3u8) | Documentary & Reality | HTTP Error (403) |
+| [History Channel (Alt)](https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cfc6/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZmM2OjE3OTQ5MTg2MDQ1OTk6Y2RubGl2ZXR2LnR2OjI2YTliOTI1ZDU1ZGE3N2UuYTM2NjBhN2NiZTgxM2NlYTRmYzIzZGY3MGU4NmYyMzZhMmNiMGQ1NmUyZDE5ZjAwZTdhYzk0OGQyYjRlZWM5Yg) | Documentary & Reality | HTTP Error (503) |
+| [Investigation Discovery](http://212.5.144.156:8080/id/index.m3u8) | Documentary & Reality | HTTP Error (403) |
+| [Nat Geo](http://212.5.144.156:8080/natgeo/index.m3u8) | Documentary & Reality | HTTP Error (403) |
+| [Disney Channel](http://212.5.144.156:8080/disney/index.m3u8) | Kids & Family | HTTP Error (403) |
+| [Nick Jr](http://212.5.144.156:8080/nickjr/index.m3u8) | Kids & Family | HTTP Error (403) |
+| [MSG](https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf32/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZjMyOjE3OTQ5MTg2MDQ5MDM6Y2RubGl2ZXR2LnR2OjY0MjcyZGYxNGM1YWViN2MuZDkwMTQwZmEzMjNhNWRkMzkxMzk2NzA1OTY2YmY2ZDRiNWE3ODI4ZWEyOWY5MzU2NDAxMDZmZDk1YTUwMTRiZQ) | Sports | HTTP Error (503) |
+| [NHL Network](https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf44/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZjQ0OjE3OTQ5MTg2MDUzMTM6Y2RubGl2ZXR2LnR2OmM5MTUxZjE0ZjM5Y2I4MWYuZGJlNTMyZTUxNzE1OGNiOWJlOGRkNmUyMGMyZGYzYmU5M2ViY2U2MzEwMWVlOTI1OWUyM2ExMjU4YWIwNGM1ZQ) | Sports | HTTP Error (503) |
+| [SportsNet New York](https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363d4b3/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNkNGIzOjE3OTQ5MTg2MDc1NjY6Y2RubGl2ZXR2LnR2OmE5MGZjNzRmM2IzN2UwMzAuNWM5Y2M0YTFkYjY4MGQ0YmI4NDJkZGY4ZGM3ODk0MjRlNTc0NzQxNDVjZjkzNzVlMjQ0Y2RlZmQ2MDdhYTMzZA) | Sports | HTTP Error (503) |
+| [TSN 5](https://cdnlivetv.tv/secure/api/v1/6add40b12d4a99e07363ed42/playlist.m3u8?token=NmFkZDQwYjEyZDRhOTllMDczNjNlZDQyOjE3OTQ5MTg2MDkwMDU6Y2RubGl2ZXR2LnR2OmZjMTc2Y2UxODJjMTdhNjIuODE2YTE3MTI0NGFlODkxMTcxMjA4NWUxOGI4MzhhMzg1YjRkMGZiZjM4NmM3MTlmYTA2OTQ0MTUwY2I4ZjljMw) | Sports | HTTP Error (503) |
 
 ---
 
@@ -50,18 +38,18 @@ output/categories/<category>.m3u
 | Category | Channels |
 | --- | ---: |
 | Documentary & Reality | 16 |
-| Entertainment | 56 |
-| Kids & Family | 10 |
-| Live - American Football | 12 |
-| Live - Hockey | 7 |
-| Live - Other Events | 93 |
+| Entertainment | 53 |
+| Kids & Family | 9 |
+| Live - American Football | 18 |
+| Live - Basketball | 20 |
+| Live - Hockey | 12 |
+| Live - Other Events | 52 |
 | Live - Racing | 4 |
-| Live - Soccer | 126 |
-| Live - Tennis | 1 |
-| Movies & Premium | 17 |
+| Live - Soccer | 70 |
+| Movies & Premium | 15 |
 | Music | 5 |
 | News & Weather | 31 |
-| Sports | 55 |
+| Sports | 50 |
 
 ### Sources
 
