@@ -1,27 +1,59 @@
 # 📺 IPTV Playlist
 
-## Playlist Log @ 2026-11-20 21:57 UTC
+## Playlist Log @ 2026-11-21 10:09 UTC
 
-### ✅ Active Streams: 207
-❌ Dead Streams: 13
+### ✅ Active Streams: 169
+❌ Dead Streams: 45
 
-_Skipped 544 dead live-event streams — event links expire when the match ends._
+_Skipped 429 dead live-event streams — event links expire when the match ends._
 
 | Channel | Category | Error (Code) |
 | --- | --- | --- |
-| [Discovery Channel](http://212.5.144.156:8080/discovery/index.m3u8) | Documentary & Reality | HTTP Error (403) |
-| [History Channel](http://212.5.144.156:8080/history/index.m3u8) | Documentary & Reality | HTTP Error (403) |
-| [Investigation Discovery](http://212.5.144.156:8080/id/index.m3u8) | Documentary & Reality | HTTP Error (403) |
-| [Nat Geo](http://212.5.144.156:8080/natgeo/index.m3u8) | Documentary & Reality | HTTP Error (403) |
-| [Disney Channel](http://212.5.144.156:8080/disney/index.m3u8) | Kids & Family | HTTP Error (403) |
-| [Nick Jr](http://212.5.144.156:8080/nickjr/index.m3u8) | Kids & Family | HTTP Error (403) |
-| [Altitude Sports](https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363ced8/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZWQ4OjE3OTUyMjI4MDM1NjI6Y2RubGl2ZXR2LnR2OjBiYjM4OGZiM2ZiYTExZWYuMjBlMTM1ZGY2OTI4ZDY3MmZjY2I0NDZlNzk4MWVmNWM4Zjc1MjIzZTc1NzI0NDY2NDllYmZmNjM5MmIzNmE2Mg) | Sports | HTTP Error (503) |
-| [Chicago Sports Network](https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363d280/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNkMjgwOjE3OTUyMjI4MDQxNzY6Y2RubGl2ZXR2LnR2OjUwN2UxYmZkMDZjODEzYjIuYjRjOTE3YjYwOWNkNzQ3NmM5Y2E0YTRmMjIxYjQ0MmM3NzVkM2NlYWI4YzAxMzFiYjk4MTg0YTViMDJmYzE3Mw) | Sports | HTTP Error (503) |
-| [NHL Network](https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf44/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZjQ0OjE3OTUyMjI4MDUxOTM6Y2RubGl2ZXR2LnR2OjVkMDUzNjFhNWRiYWE4NTguZDE5ZWRmMmI2MjdlYTNlODRlNzk1MDNhZWE0Y2ZhZGIxYmI1YzIxYmFkZDc2ZDA3NWE0MGM4NTNjYjhhNTRkNQ) | Sports | HTTP Error (503) |
-| [Space City Home Network](https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363d4b1/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNkNGIxOjE3OTUyMjI4MDczNTM6Y2RubGl2ZXR2LnR2OjBhYTIwMGJjYTg5MmY1YmIuOTUxMDRjNGQ2MDE2ZTMxZjBkMWQ1Y2VhZGViMzcyNGM5OGJjOWEzMGNhNjg0MjY2ZWY3MDZhYzdmNTMwNmY2YQ) | Sports | HTTP Error (503) |
-| [TNT Sports 3](https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c897/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODk3OjE3OTUyMjI4MDgxNjE6Y2RubGl2ZXR2LnR2OjdhMTg0MTc0ZTU3ZGE1NDkuMjU5NDY3MmI4YmNjZDgyYTg0ZDQ1MTVlNDM5NTkxNDU2ZGE3MzQ0MTljNDY5YjFkMTJkZjNhOTZhZWY0MWFiNQ) | Sports | HTTP Error (503) |
-| [TNT Sports 4](https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c89b/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODliOjE3OTUyMjI4MDgzNzU6Y2RubGl2ZXR2LnR2OjNiZTQ4M2Q2NmIyMWM4MjQuODExMjk5Y2M1MWI2OGFkNWU2MWJlYmM1ODgwOTU2ZGZmNWEyZGNkZmIyMTIwZWJhZWY3ZmY1NTVhMTdlZjFkMg) | Sports | HTTP Error (503) |
-| [TSN 5](https://cdnlivetv.tv/secure/api/v1/6add40b12d4a99e07363ed42/playlist.m3u8?token=NmFkZDQwYjEyZDRhOTllMDczNjNlZDQyOjE3OTUyMjI4MDkyMTk6Y2RubGl2ZXR2LnR2OjcxNDZhNWVkOTk0Mzk3YTguODBlMGZlMWE1MGZiYWUxYTIwNzlkMDM2NWUzYTgyNzc4ZDBjMmI3MDQyNzEyYzc2YjM0ODNmMjQyNTMxMjQ1Mw) | Sports | HTTP Error (503) |
+| [Animal Planet](http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8) | Documentary & Reality | URL Error (timed out) |
+| [Cooking Channel](http://23.237.104.106:8080/USA_COOKING/index.m3u8) | Documentary & Reality | URL Error (timed out) |
+| [Crime & Investigation Network](http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/index.m3u8) | Documentary & Reality | URL Error (timed out) |
+| [Destination America](http://23.237.104.106:8080/USA_DESTINATION_AMERICA/index.m3u8) | Documentary & Reality | URL Error (timed out) |
+| [Food Network](http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8) | Documentary & Reality | URL Error (timed out) |
+| [Nat Geo Wild](http://23.237.104.106:8080/USA_NAT_GEO_WILD/index.m3u8) | Documentary & Reality | URL Error (timed out) |
+| [VICE TV](http://23.237.104.106:8080/USA_VICETV/index.m3u8) | Documentary & Reality | URL Error (timed out) |
+| [American Heroes Channel](http://23.237.104.106:8080/USA_AMERICAN_HEROES/index.m3u8) | Entertainment | URL Error (timed out) |
+| [BBC America](http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8) | Entertainment | URL Error (timed out) |
+| [CMT](http://23.237.104.106:8080/USA_CMT/index.m3u8) | Entertainment | URL Error (timed out) |
+| [CW](http://23.237.104.106:8080/USA_WGN/index.m3u8) | Entertainment | URL Error (timed out) |
+| [E! Entertainment](http://23.237.104.106:8080/USA_E/index.m3u8) | Entertainment | URL Error (timed out) |
+| [IFC](http://23.237.104.106:8080/USA_IFC/index.m3u8) | Entertainment | URL Error (timed out) |
+| [Oprah Winfrey Network](http://23.237.104.106:8080/USA_OWN/index.m3u8) | Entertainment | URL Error (timed out) |
+| [Revolt](http://23.237.104.106:8080/USA_REVOLT/index.m3u8) | Entertainment | URL Error (timed out) |
+| [Syfy](http://23.237.104.106:8080/USA_SYFY/index.m3u8) | Entertainment | URL Error (timed out) |
+| [truTV](http://23.237.104.106:8080/USA_TRUTV/index.m3u8) | Entertainment | URL Error (timed out) |
+| [WE tv](http://23.237.104.106:8080/USA_WE_TV/index.m3u8) | Entertainment | URL Error (timed out) |
+| [Boomerang](http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8) | Kids & Family | URL Error (timed out) |
+| [Cinemax Classics](http://23.237.104.106:8080/USA_5STARMAX/index.m3u8) | Movies & Premium | URL Error (timed out) |
+| [Cinemax Hits](http://23.237.104.106:8080/USA_MOREMAX/index.m3u8) | Movies & Premium | URL Error (timed out) |
+| [Cinemax West](http://23.237.104.106:8080/USA_CINEMAX_WEST/index.m3u8) | Movies & Premium | URL Error (timed out) |
+| [Paramount Network](http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8) | Movies & Premium | URL Error (timed out) |
+| [Showtime FamilyZone](http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8) | Movies & Premium | URL Error (timed out) |
+| [Starz Comedy](http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8) | Movies & Premium | URL Error (timed out) |
+| [Starz Encore Family](http://23.237.104.106:8080/USA_STARZ_FAMILY/index.m3u8) | Movies & Premium | URL Error (timed out) |
+| [Fuse](http://23.237.104.106:8080/USA_FUSE/index.m3u8) | Music | URL Error (timed out) |
+| [MTV](http://23.237.104.106:8080/USA_MTV/index.m3u8) | Music | URL Error (timed out) |
+| [MTV Live](http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8) | Music | URL Error (timed out) |
+| [VH1](http://23.237.104.106:8080/USA_VH1/index.m3u8) | Music | URL Error (timed out) |
+| [HLN](http://23.237.104.106:8080/USA_HLN/index.m3u8) | News & Weather | URL Error (timed out) |
+| [ACC Network](http://23.237.104.106:8080/USA_ACCN/index.m3u8) | Sports | URL Error (timed out) |
+| [Altitude Sports](https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363ced8/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZWQ4OjE3OTUyNjc4MDQwNDk6Y2RubGl2ZXR2LnR2OmI5MGU2ZDNlNDU1MWNmMzkuYzllMWY0YzExMmVkMDE4MmI5MmFkN2ZkYWVmYTJmNzRkNDRkZmE0NTlhNzVmODEyNjZkMTgyMDhmNzY0MTdlNA) | Sports | HTTP Error (503) |
+| [Big Ten Network](http://23.237.104.106:8080/USA_BTN/index.m3u8) | Sports | URL Error (timed out) |
+| [MSG](https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf32/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZjMyOjE3OTUyNjc4MDU0ODE6Y2RubGl2ZXR2LnR2OmY2YmRhZjFlOTRlOGIzZDguMzVjYjYzYzE4ZTI1ZmNmYTBmNDFlNDAxMzhjY2E4YzY2YmRhOTgyNDAzMGNjNDhjMjdjY2RjMTIxZmI0NjQ1ZA) | Sports | HTTP Error (503) |
+| [NBA TV](http://23.237.104.106:8080/USA_NBA/index.m3u8) | Sports | URL Error (timed out) |
+| [NHL Network](https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf44/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZjQ0OjE3OTUyNjc4MDU4ODk6Y2RubGl2ZXR2LnR2OmQ1YmEyM2M5MmJkYjdkYmQuMzI1ZDI3MGUwN2RkMWE0NDgxNjJkZmJlMjM3OWQwOWQ3MDgwYzRmMTVmZTVhYTMzNmQ3ZGE5ZGQ1ZGI2NzkzNQ) | Sports | HTTP Error (503) |
+| [SEC Network](http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8) | Sports | URL Error (timed out) |
+| [Space City Home Network](https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363d4b1/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNkNGIxOjE3OTUyNjc4MDc5MzQ6Y2RubGl2ZXR2LnR2OjAwNTQyMjNjZmNkNzdiYjcuYmI4ZGM5N2RhYjY5N2MwNzIzNDQyMmMwMzdmZDA2YjE3Y2Q0ZjU4OGZiZjc1OTI3OTkyMjJkZTZkZjJjZjMyMw) | Sports | HTTP Error (503) |
+| [SportsNet New York](https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363d4b3/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNkNGIzOjE3OTUyNjc4MDgxMzc6Y2RubGl2ZXR2LnR2OjUzMjFjZDI3ZWQ0NDZjZTguOTEyYjRlYWJkNDI2YmRiOWMzZmNmYWU5NTc3MTJjNTExNzUwYmU3YTY0YjZlYjQwYjkwZDg2NjAwMDJlODlhYg) | Sports | HTTP Error (503) |
+| [Tennis Channel](http://23.237.104.106:8080/USA_TENNIS/index.m3u8) | Sports | URL Error (timed out) |
+| [TNT Sports 3](https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c897/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODk3OjE3OTUyNjc4MDg3NDk6Y2RubGl2ZXR2LnR2OjI4Y2I4MmQyOGRjMTk3OWQuMTc0NmUxMDU1ZTQxNmQ0YzIxZWVjNWQyNTc1NjJmYmRmYTc3MzI4ODgzY2EzZDNiZmRhYjljNjhkMjdhMzc0MA) | Sports | HTTP Error (503) |
+| [TNT Sports 4](https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c89b/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODliOjE3OTUyNjc4MDg5NTg6Y2RubGl2ZXR2LnR2OjgzYTliNTQ1ZTZiNDM5NzYuZjg2M2VkNGQzN2Q1YWM4YWRiMjZhOTk4N2NkZjgyMGY4MDE3ODZkYWZkNjQ5MDFlMDI5ODY3MGU4MjU3OGFiZg) | Sports | HTTP Error (503) |
+| [TSN 5](https://cdnlivetv.tv/secure/api/v1/6add40b12d4a99e07363ed42/playlist.m3u8?token=NmFkZDQwYjEyZDRhOTllMDczNjNlZDQyOjE3OTUyNjc4MDk1ODM6Y2RubGl2ZXR2LnR2OmRkZWMyMjBhODM1ZWQ0YzcuODgyYzIzMDg1YTc4YWVlODg1NmFkNDQ4YjM1NTBhOGZiZjYyYzhmNWNkMzA4NjQxNDY3NWYxYjBmYjc0Y2JmYw) | Sports | HTTP Error (503) |
+| [YES Network](http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8) | Sports | URL Error (timed out) |
 
 ---
 
@@ -39,18 +71,17 @@ output/categories/<category>.m3u
 
 | Category | Channels |
 | --- | ---: |
-| Documentary & Reality | 13 |
-| Entertainment | 47 |
-| Kids & Family | 10 |
-| Live - American Football | 11 |
-| Live - Basketball | 6 |
-| Live - Hockey | 21 |
-| Live - Other Events | 257 |
-| Live - Soccer | 301 |
-| Live - Tennis | 1 |
-| Movies & Premium | 14 |
-| Music | 4 |
-| News & Weather | 30 |
+| Documentary & Reality | 15 |
+| Entertainment | 53 |
+| Kids & Family | 9 |
+| Live - American Football | 17 |
+| Live - Basketball | 14 |
+| Live - Hockey | 14 |
+| Live - Other Events | 213 |
+| Live - Soccer | 207 |
+| Movies & Premium | 16 |
+| Music | 5 |
+| News & Weather | 31 |
 | Sports | 49 |
 
 ### Sources
