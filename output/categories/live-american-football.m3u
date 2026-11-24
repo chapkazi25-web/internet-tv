@@ -1,77 +1,53 @@
 #EXTM3U url-tvg="https://s.id/d9sEPG"
-#EXTINF:-1 tvg-chno="79" tvg-id="NFL.Dummy.us" tvg-name="[American Football] Cincinnati Bengals at Washington Commanders 1 (SPRTSBITE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[American Football] Cincinnati Bengals at Washington Commanders 1 (SPRTSBITE)
-#EXTVLCOPT:http-referrer=https://sportsbite.org
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://sportsbite.org/selfhost/cdn/s-2946cb3fee85f3a5e6e7.m3u8?cdn=1
-#EXTINF:-1 tvg-chno="80" tvg-id="NFL.Dummy.us" tvg-name="[American Football] Cincinnati Bengals at Washington Commanders 2 (SPRTSBITE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[American Football] Cincinnati Bengals at Washington Commanders 2 (SPRTSBITE)
-#EXTVLCOPT:http-referrer=https://sportsbite.org
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://sportsbite.org/selfhost/cdn/s-baa7ef5989ccba5b5560.m3u8?cdn=1
-#EXTINF:-1 tvg-chno="81" tvg-id="NFL.Dummy.us" tvg-name="[American Football] Cincinnati Bengals at Washington Commanders 3 (SPRTSBITE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[American Football] Cincinnati Bengals at Washington Commanders 3 (SPRTSBITE)
-#EXTVLCOPT:http-referrer=https://sportsbite.org
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://sportsbite.org/selfhost/cdn/s-ab1b5b0f38442290dcc7.m3u8?cdn=1
-#EXTINF:-1 tvg-chno="82" tvg-id="NFL.Dummy.us" tvg-name="[American Football] Cincinnati Bengals at Washington Commanders 4 (SPRTSBITE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[American Football] Cincinnati Bengals at Washington Commanders 4 (SPRTSBITE)
-#EXTVLCOPT:http-referrer=https://sportsbite.org
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://sportsbite.org/selfhost/cdn/s-58fd51e14cc55d54086a.m3u8?cdn=1
-#EXTINF:-1 tvg-chno="83" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Bengals vs Commanders (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Bengals vs Commanders (WEBCAST)
+#EXTINF:-1 tvg-chno="79" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Bengals vs Commanders (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Bengals vs Commanders (WEBCAST)
 #EXTVLCOPT:http-referrer=https://nflwebcast.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://webcast-origin.b-cdn.net/bcdn_token=LI7mIDHG7Oul_GtMzit9Kvb4b4jA11-I-9XPb0R2Mgs&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhH96w88dsc5chl0bRbU8C4u%2F&expires=1795478529/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhH96w88dsc5chl0bRbU8C4u/80.m3u8
-#EXTINF:-1 tvg-chno="84" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Cincinnati Bengals at Washington Commanders (SPRTSPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Cincinnati Bengals at Washington Commanders (SPRTSPASS)
+https://webcast-origin.b-cdn.net/bcdn_token=hL9j53d_lGs6ZBxcmjjagOdV6AQURRiezywKNMKQIEI&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhH96w88dsc5chl0bRbU8C4u%2F&expires=1795491127/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhH96w88dsc5chl0bRbU8C4u/80.m3u8
+#EXTINF:-1 tvg-chno="80" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Cincinnati Bengals at Washington Commanders (SPRTSPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Cincinnati Bengals at Washington Commanders (SPRTSPASS)
 #EXTVLCOPT:http-referrer=https://streamseast.dad
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cobblecloud.s3.eu-west-2.amazonaws.com/bengals.m3u8
-#EXTINF:-1 tvg-chno="85" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Cincinnati Bengals vs Washington Commanders (MP66)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Cincinnati Bengals vs Washington Commanders (MP66)
-#EXTVLCOPT:http-referrer=https://nfl24all.ir
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://node-7a1d2f4c.mlb9.com/6b055921.64695806i5c3b601d.19d23.cbcda0b8/free.live.nfl/master.m3u8
-#EXTINF:-1 tvg-chno="86" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Cincinnati Bengals vs Washington Commanders | English (STRMGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Cincinnati Bengals vs Washington Commanders | English (STRMGATE)
+https://cobblecloud.s3.eu-west-2.amazonaws.com/hornets.m3u8
+#EXTINF:-1 tvg-chno="81" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Cincinnati Bengals vs Washington Commanders | English (STRMGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Cincinnati Bengals vs Washington Commanders | English (STRMGATE)
 #EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401873078
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://edge2.candyshop.st/live/tv401873078/master.m3u8?st=ZzfDNwgrrfwsE9e03kCjVg&e=1795492807
-#EXTINF:-1 tvg-chno="87" tvg-id="Football.Dummy.us" tvg-name="[NFL] ManningCast (iSTRMEAST)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live - American Football",[NFL] ManningCast (iSTRMEAST)
+https://edge.candyshop.st/live/tv401873078/master.m3u8?st=OROYdWEWMR5EohLKB7WyXw&e=1795503608
+#EXTINF:-1 tvg-chno="82" tvg-id="Football.Dummy.us" tvg-name="[NFL] ManningCast (iSTRMEAST)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live - American Football",[NFL] ManningCast (iSTRMEAST)
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/60850?ad=111
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://chatgpt.hereisman.net/playlist/60850/load-playlist
-#EXTINF:-1 tvg-chno="88" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Washington Commanders vs Cincinnati Bengals (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Washington Commanders vs Cincinnati Bengals (iSTRMEAST)
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/60847?ad=111
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://chatgpt.hereisman.net/playlist/60847/load-playlist
-#EXTINF:-1 tvg-chno="89" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Washington Commanders vs Cincinnati Bengals | Español 1 (LA18)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Washington Commanders vs Cincinnati Bengals | Español 1 (LA18)
+#EXTINF:-1 tvg-chno="83" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Washington Commanders vs Cincinnati Bengals | Español 1 (LA18)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Washington Commanders vs Cincinnati Bengals | Español 1 (LA18)
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=espn2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://ewvz.fubo18.com:443/espn2/mono.m3u8?token=dfe4d7b053b9a4d649ef0af0fb8f21040ce4f515-cd-1795495512-1795477512
-#EXTINF:-1 tvg-chno="90" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Washington Commanders vs Cincinnati Bengals | Español 2 (LA18)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Washington Commanders vs Cincinnati Bengals | Español 2 (LA18)
+#EXTINF:-1 tvg-chno="84" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Washington Commanders vs Cincinnati Bengals | Español 2 (LA18)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Washington Commanders vs Cincinnati Bengals | Español 2 (LA18)
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=disney20
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://bgvnzw5k.fubo18.com:443/disney20/mono.m3u8?token=0f28e94f8c0782354242d762b659ea03e8fc87e6-8f-1795495513-1795477513
-#EXTINF:-1 tvg-chno="91" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Washington Commanders vs Cincinnati Bengals | Español 3 (LA18)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Washington Commanders vs Cincinnati Bengals | Español 3 (LA18)
+#EXTINF:-1 tvg-chno="85" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Washington Commanders vs Cincinnati Bengals | Español 3 (LA18)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Washington Commanders vs Cincinnati Bengals | Español 3 (LA18)
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=espnmx
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://y2fzdgxl.fubo18.com:443/espnmx/mono.m3u8?token=0b72f02d1966b7a6cc84fea05b2654402f5aa159-75-1795495513-1795477513
-#EXTINF:-1 tvg-chno="92" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Washington Commanders vs Cincinnati Bengals | ESPN 2 (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Washington Commanders vs Cincinnati Bengals | ESPN 2 (STRMXHD)
+#EXTINF:-1 tvg-chno="86" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Washington Commanders vs Cincinnati Bengals | ESPN 2 (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Washington Commanders vs Cincinnati Bengals | ESPN 2 (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.sbs/live1.php?stream=espn2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://khala.futlivehd.com/global/espn2/index.m3u8?token=00c0eafeea8f8beabe739d9e03529ef245a7d308-75-1795523409-1795469409
-#EXTINF:-1 tvg-chno="93" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Washington Commanders vs Cincinnati Bengals | Inglés 1 (LA18)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Washington Commanders vs Cincinnati Bengals | Inglés 1 (LA18)
+#EXTINF:-1 tvg-chno="87" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Washington Commanders vs Cincinnati Bengals | Inglés 1 (LA18)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Washington Commanders vs Cincinnati Bengals | Inglés 1 (LA18)
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=espn_usa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://b2ZmaWNpYWw.fubo18.com:443/espn_usa/mono.m3u8?token=b886360d814e790206bdef33be6c0e6fa97326a3-96-1795495513-1795477513
-#EXTINF:-1 tvg-chno="94" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Washington Commanders vs. Cincinnati Bengals | ESPN 2 (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Washington Commanders vs. Cincinnati Bengals | ESPN 2 (TVF90)
+#EXTINF:-1 tvg-chno="88" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Washington Commanders vs. Cincinnati Bengals | ESPN 2 (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Washington Commanders vs. Cincinnati Bengals | ESPN 2 (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=espn2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://6.ftlly.com:443/espn2/mono.m3u8?token=da4498a952405c0a62aff7e1d8e1ce4cc30c3397-68-1795495516-1795477516
-#EXTINF:-1 tvg-chno="95" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Washington Commanders vs. Cincinnati Bengals | ESPN 2 | HD (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Washington Commanders vs. Cincinnati Bengals | ESPN 2 | HD (TVF90)
+#EXTINF:-1 tvg-chno="89" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Washington Commanders vs. Cincinnati Bengals | ESPN 2 | HD (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Washington Commanders vs. Cincinnati Bengals | ESPN 2 | HD (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/hd.php?stream=espn2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://8.ftlly.com:443/espn2/mono.m3u8?token=b47f0d70fc831ad820290b5105ffd98cfcffe6bf-3f-1795495517-1795477517
-#EXTINF:-1 tvg-chno="96" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Washington Commanders vs. Cincinnati Bengals | ESPN 2 | OP2 (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Washington Commanders vs. Cincinnati Bengals | ESPN 2 | OP2 (TVF90)
+#EXTINF:-1 tvg-chno="90" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Washington Commanders vs. Cincinnati Bengals | ESPN 2 | OP2 (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Washington Commanders vs. Cincinnati Bengals | ESPN 2 | OP2 (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/2.php?stream=espn2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://11.ftlly.com:443/espn2/mono.m3u8?token=7de4a19b854e2d65ea654e36fc53a270dd8553d9-5b-1795495517-1795477517
-#EXTINF:-1 tvg-chno="97" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Washington Commanders vs. Cincinnati Bengals | ESPN 2 | OP3 (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Washington Commanders vs. Cincinnati Bengals | ESPN 2 | OP3 (TVF90)
+#EXTINF:-1 tvg-chno="91" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Washington Commanders vs. Cincinnati Bengals | ESPN 2 | OP3 (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live - American Football",[NFL] Washington Commanders vs. Cincinnati Bengals | ESPN 2 | OP3 (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/3.php?stream=espn2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://8.ftlly.com:443/espn2/mono.m3u8?token=255685ecac8e1e34be983abfa3265928fbbff490-d1-1795495517-1795477517
