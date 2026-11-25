@@ -1,119 +1,119 @@
 #EXTM3U url-tvg="https://s.id/d9sEPG"
-#EXTINF:-1 tvg-chno="508" tvg-id="ACC.Network.us2" tvg-name="ACC Network" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s111871_dark_360w_270h.png" group-title="Sports",ACC Network
+#EXTINF:-1 tvg-chno="349" tvg-id="ACC.Network.us2" tvg-name="ACC Network" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s111871_dark_360w_270h.png" group-title="Sports",ACC Network
 http://23.237.104.106:8080/USA_ACCN/index.m3u8
-#EXTINF:-1 tvg-chno="509" tvg-id="Altitude.Sports.us2" tvg-name="Altitude Sports" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s44263_dark_360w_270h.png" group-title="Sports",Altitude Sports
+#EXTINF:-1 tvg-chno="350" tvg-id="Altitude.Sports.us2" tvg-name="Altitude Sports" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s44263_dark_360w_270h.png" group-title="Sports",Altitude Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363ced8/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZWQ4OjE3OTU1NzU2MDMxMDI6Y2RubGl2ZXR2LnR2OmI3YmM0MzFkZDIxNTUxYTMuMjNlYWM5YTBjNjJkNDlkNGExYjg2MDY4ZDQ1OWZiYmY4YTkwMGRiZGIyZjk0YTdiNGEzYTQ3MDkyODI2ODNjMQ
-#EXTINF:-1 tvg-chno="510" tvg-id="beIN.Sports.USA.HD.us2" tvg-name="beIN Sports USA" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s91308_dark_360w_270h.png" group-title="Sports",beIN Sports USA
+https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363ced8/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZWQ4OjE3OTU2MjA2MDM3NjU6Y2RubGl2ZXR2LnR2OmJkOTdiZGRkZmFkNTkyYjMuZWQwOTkxNGMxMmFjN2YwOTg2OGRlMzQ5MjcxYmQzMWM3ZTM2MTNhODQzNTA1NmEyMjkzNWY3OTAwN2FmYTA0Yw
+#EXTINF:-1 tvg-chno="351" tvg-id="beIN.Sports.USA.HD.us2" tvg-name="beIN Sports USA" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s91308_dark_360w_270h.png" group-title="Sports",beIN Sports USA
 https://tvsen6.aynaott.com/beinsports/index.m3u8
-#EXTINF:-1 tvg-chno="511" tvg-id="plex.tv.beIN.SPORTS.XTRA.plex" tvg-name="beIN Sports XTRA" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s113143_dark_360w_270h.png" group-title="Sports",beIN Sports XTRA
+#EXTINF:-1 tvg-chno="352" tvg-id="plex.tv.beIN.SPORTS.XTRA.plex" tvg-name="beIN Sports XTRA" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s113143_dark_360w_270h.png" group-title="Sports",beIN Sports XTRA
 https://bein-xtra-bein.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-chno="512" tvg-id="Big.Ten.Network.HD.us2" tvg-name="Big Ten Network" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s56783_dark_360w_270h.png" group-title="Sports",Big Ten Network
+#EXTINF:-1 tvg-chno="353" tvg-id="Big.Ten.Network.HD.us2" tvg-name="Big Ten Network" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s56783_dark_360w_270h.png" group-title="Sports",Big Ten Network
 http://23.237.104.106:8080/USA_BTN/index.m3u8
-#EXTINF:-1 tvg-chno="513" tvg-id="CBS.Sports.Golazo.Network.us2" tvg-name="CBS Sports Golazo Network" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s133691_dark_360w_270h.png" group-title="Sports",CBS Sports Golazo Network
+#EXTINF:-1 tvg-chno="354" tvg-id="CBS.Sports.Golazo.Network.us2" tvg-name="CBS Sports Golazo Network" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s133691_dark_360w_270h.png" group-title="Sports",CBS Sports Golazo Network
 https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
-#EXTINF:-1 tvg-chno="514" tvg-id="CHSN.Chicago.Sports.Network.us2" tvg-name="Chicago Sports Network" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s166708_dark_360w_270h.png" group-title="Sports",Chicago Sports Network
+#EXTINF:-1 tvg-chno="355" tvg-id="CHSN.Chicago.Sports.Network.us2" tvg-name="Chicago Sports Network" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s166708_dark_360w_270h.png" group-title="Sports",Chicago Sports Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363d280/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNkMjgwOjE3OTU1NzU2MDM3MTI6Y2RubGl2ZXR2LnR2OjA2Y2EwZTQ3ZWRiMDIzMGMuMDExY2E4MjY3MTc3OGE5ZjhjYjVjZWE0MmNjYmRjMjNkYzE5YzNiMjQyOWZmYTBmNGM0YWIyZGI2ODhjMjYzMQ
-#EXTINF:-1 tvg-chno="515" tvg-id="ESPN.HD.us2" tvg-name="ESPN" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s10179_dark_360w_270h.png" group-title="Sports",ESPN
+https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363d280/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNkMjgwOjE3OTU2MjA2MDQzODI6Y2RubGl2ZXR2LnR2OjE4YzJiZTE3NjA4NzUzNmMuMDk4NThmNzc1YTNkYWZmY2UwYWY1NWZmYzNmOGNhMGJhM2E5YzY4YTM4ZmQ5MWMzMGExMDAxYjQ4MGEwY2M0Mw
+#EXTINF:-1 tvg-chno="356" tvg-id="ESPN.HD.us2" tvg-name="ESPN" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s10179_dark_360w_270h.png" group-title="Sports",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
-#EXTINF:-1 tvg-chno="516" tvg-id="ESPN.Deportes.HD.us2" tvg-name="ESPN Deportes" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s25595_dark_360w_270h.png" group-title="Sports",ESPN Deportes
+#EXTINF:-1 tvg-chno="357" tvg-id="ESPN.Deportes.HD.us2" tvg-name="ESPN Deportes" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s25595_dark_360w_270h.png" group-title="Sports",ESPN Deportes
 http://154.12.107.98:8000/play/a08s
-#EXTINF:-1 tvg-chno="517" tvg-id="ESPN2.HD.us2" tvg-name="ESPN2" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s12444_dark_360w_270h.png" group-title="Sports",ESPN2
+#EXTINF:-1 tvg-chno="358" tvg-id="ESPN2.HD.us2" tvg-name="ESPN2" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s12444_dark_360w_270h.png" group-title="Sports",ESPN2
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
-#EXTINF:-1 tvg-chno="518" tvg-id="ESPNU.HD.us2" tvg-name="ESPNU" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s45654_dark_360w_270h.png" group-title="Sports",ESPNU
+#EXTINF:-1 tvg-chno="359" tvg-id="ESPNU.HD.us2" tvg-name="ESPNU" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s45654_dark_360w_270h.png" group-title="Sports",ESPNU
 http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
-#EXTINF:-1 tvg-chno="519" tvg-id="Fanduel.Racing.us" tvg-name="FanDuel Racing" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s32258_dark_360w_270h.png" group-title="Sports",FanDuel Racing
+#EXTINF:-1 tvg-chno="360" tvg-id="Fanduel.Racing.us" tvg-name="FanDuel Racing" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s32258_dark_360w_270h.png" group-title="Sports",FanDuel Racing
 https://d3ehq1uaxory6w.cloudfront.net/out/v1/35c05f080f4e49a4b4eb031b5a14e505/TVG2index_2.m3u8
-#EXTINF:-1 tvg-chno="520" tvg-id="Flo.Events.Dummy.us" tvg-name="FloRacing 24/7" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/GNLZZGG002D2HJP.png_white_360w_270h.png" group-title="Sports",FloRacing 24/7
+#EXTINF:-1 tvg-chno="361" tvg-id="Flo.Events.Dummy.us" tvg-name="FloRacing 24/7" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/GNLZZGG002D2HJP.png_white_360w_270h.png" group-title="Sports",FloRacing 24/7
 https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-chno="521" tvg-id="FS1.HD.us2" tvg-name="Fox Sports 1" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s82541_dark_360w_270h.png" group-title="Sports",Fox Sports 1
+#EXTINF:-1 tvg-chno="362" tvg-id="FS1.HD.us2" tvg-name="Fox Sports 1" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s82541_dark_360w_270h.png" group-title="Sports",Fox Sports 1
 http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
-#EXTINF:-1 tvg-chno="522" tvg-id="FS2.HD.us2" tvg-name="Fox Sports 2" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s33178_dark_360w_270h.png" group-title="Sports",Fox Sports 2
+#EXTINF:-1 tvg-chno="363" tvg-id="FS2.HD.us2" tvg-name="Fox Sports 2" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s33178_dark_360w_270h.png" group-title="Sports",Fox Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf26/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZjI2OjE3OTU1NzU2MDQxMTc6Y2RubGl2ZXR2LnR2OmMxOTc1Njg3N2UxNzQ5ZWMuZWVhYTNmYTg2MjljYzc4MmM4NjQ1YWJkZmY5YzcyNjczMGVmYjNlNzM1MGEwM2IyZTQxNDQ5NzI4YmNmNjlmMQ
-#EXTINF:-1 tvg-chno="523" tvg-id="Golf.Channel.HD.us2" tvg-name="Golf Channel" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002RFQBE.png?w=360&h=270" group-title="Sports",Golf Channel
+https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf26/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZjI2OjE3OTU2MjA2MDQ3OTA6Y2RubGl2ZXR2LnR2OmJlMDg3MTJkY2ZhYTdjMWUuN2U4ZDgyY2ZmMDc2YzlhM2YxZmEzMDkwNTQ1MWI5ZWY1NjQ3MjM1YzAwM2JiNTk5YjIxMGQ5YTkyOTJjNzQwYg
+#EXTINF:-1 tvg-chno="364" tvg-id="Golf.Channel.HD.us2" tvg-name="Golf Channel" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002RFQBE.png?w=360&h=270" group-title="Sports",Golf Channel
 https://tvsen6.aynaott.com/golfchannel/index.m3u8
-#EXTINF:-1 tvg-chno="524" tvg-id="MSG.National.us2" tvg-name="MSG" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s10979_dark_360w_270h.png" group-title="Sports",MSG
+#EXTINF:-1 tvg-chno="365" tvg-id="MSG.National.us2" tvg-name="MSG" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s10979_dark_360w_270h.png" group-title="Sports",MSG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf32/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZjMyOjE3OTU1NzU2MDQ3MzI6Y2RubGl2ZXR2LnR2OmFkYjJhOTZkODQzYWZlNGUuOWU0N2FkMTljZWUzOTkwOGJkYTljOTM4MGMxYWMzOTAwZWIwMjQ0NWI3NjhiOTRkZDI4OTMzZTQyOTJiNmZmZg
-#EXTINF:-1 tvg-chno="525" tvg-id="NBA.TV.HD.us2" tvg-name="NBA TV" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s32281_dark_360w_270h.png" group-title="Sports",NBA TV
+https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf32/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZjMyOjE3OTU2MjA2MDU0MDQ6Y2RubGl2ZXR2LnR2OjY4NDViYjQ3NzI0NDVjNGYuMzM1MmNiZTk0OTM1NTlkZWQ5MDA4NWU3Y2VlYTUxNjQ2ZGYzNDZjMDYyZGNiY2VjZTY2NGMyYWUxMDc3ZmI2MQ
+#EXTINF:-1 tvg-chno="366" tvg-id="NBA.TV.HD.us2" tvg-name="NBA TV" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s32281_dark_360w_270h.png" group-title="Sports",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
-#EXTINF:-1 tvg-chno="526" tvg-id="plex.tv.NBC.Sports.NOW.plex" tvg-name="NBC Sports NOW" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s114140_dark_360w_270h.png" group-title="Sports",NBC Sports NOW
+#EXTINF:-1 tvg-chno="367" tvg-id="plex.tv.NBC.Sports.NOW.plex" tvg-name="NBC Sports NOW" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s114140_dark_360w_270h.png" group-title="Sports",NBC Sports NOW
 https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008
-#EXTINF:-1 tvg-chno="527" tvg-id="NBC.Sports.Philadelphia.HD.us2" tvg-name="NBC Sports Philadelphia" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s32571_dark_360w_270h.png" group-title="Sports",NBC Sports Philadelphia
+#EXTINF:-1 tvg-chno="368" tvg-id="NBC.Sports.Philadelphia.HD.us2" tvg-name="NBC Sports Philadelphia" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s32571_dark_360w_270h.png" group-title="Sports",NBC Sports Philadelphia
 http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
-#EXTINF:-1 tvg-chno="528" tvg-id="NFL.Network.HD.us2" tvg-name="NFL Network" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s34710_dark_360w_270h.png" group-title="Sports",NFL Network
+#EXTINF:-1 tvg-chno="369" tvg-id="NFL.Network.HD.us2" tvg-name="NFL Network" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s34710_dark_360w_270h.png" group-title="Sports",NFL Network
 https://tvsen6.aynaott.com/nfl/index.m3u8
-#EXTINF:-1 tvg-chno="529" tvg-id="NHL.Network.HD.us2" tvg-name="NHL Network" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s58570_dark_360w_270h.png" group-title="Sports",NHL Network
+#EXTINF:-1 tvg-chno="370" tvg-id="NHL.Network.HD.us2" tvg-name="NHL Network" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s58570_dark_360w_270h.png" group-title="Sports",NHL Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf44/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZjQ0OjE3OTU1NzU2MDUyNDI6Y2RubGl2ZXR2LnR2OmNmOWNiNGE3ZDhjY2Y0OTEuMWQ0MjM1NWExMWNlMWU3OGFlOTllOTQ5NTZkNTkwZTY5YTU0NWRhOWU5YzRlZjc3ZTRiYzIwZGZiYjE1YWM1MQ
-#EXTINF:-1 tvg-chno="530" tvg-id="SEC.Network.HD.us2" tvg-name="SEC Network" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s89535_dark_360w_270h.png" group-title="Sports",SEC Network
+https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf44/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZjQ0OjE3OTU2MjA2MDU4MTM6Y2RubGl2ZXR2LnR2OjBlMDQxOTUxOGU3M2ZlZTIuNmY5NjFhYjEwZTQ2YWU0YjdiODVlNDhiMDcwZWQ5YjBjOTIyMzRmNWFiNjE2NTg0ZTRmNWYyZGQ3ZDY3NDE5ZA
+#EXTINF:-1 tvg-chno="371" tvg-id="SEC.Network.HD.us2" tvg-name="SEC Network" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s89535_dark_360w_270h.png" group-title="Sports",SEC Network
 http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8
-#EXTINF:-1 tvg-chno="531" tvg-id="SkySp.Action.uk" tvg-name="Sky Sports Action" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-action-icon-uk.png" group-title="Sports",Sky Sports Action
+#EXTINF:-1 tvg-chno="372" tvg-id="SkySp.Action.uk" tvg-name="Sky Sports Action" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-action-icon-uk.png" group-title="Sports",Sky Sports Action
 http://stream.bottledesk.net/p/AQNASgYGemc/index.m3u8
-#EXTINF:-1 tvg-chno="532" tvg-id="SkySp.Cricket.uk" tvg-name="Sky Sports Cricket" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-cricket-icon-uk.png" group-title="Sports",Sky Sports Cricket
+#EXTINF:-1 tvg-chno="373" tvg-id="SkySp.Cricket.uk" tvg-name="Sky Sports Cricket" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-cricket-icon-uk.png" group-title="Sports",Sky Sports Cricket
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c860/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODYwOjE3OTU1NzU2MDU4Njg6Y2RubGl2ZXR2LnR2OmJkM2M5MmI1ZDZkYTExYWMuZTgyYWMwNjJmZmRlYThkYTQ2MjRmNGMwZjQzMWM3MTkyMmM5OTVlZTk5YjI0YmQxZTcxZGY5YjlkYWYwZjRkZg
-#EXTINF:-1 tvg-chno="533" tvg-id="SkySp.F1.uk" tvg-name="Sky Sports F1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-f1-icon-uk.png" group-title="Sports",Sky Sports F1
+https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c860/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODYwOjE3OTU2MjA2MDY0Mjc6Y2RubGl2ZXR2LnR2Ojg3YjVlYTM2Yzc1NzhlZTcuMzkyNjhlYWMyNWFlYzBkYTM2YTE0M2YyYmUzMWZhMzE0MWUwYmY2NDM5N2E0ZmQ3OGYxNThiMGJjOGEwZmRkNw
+#EXTINF:-1 tvg-chno="374" tvg-id="SkySp.F1.uk" tvg-name="Sky Sports F1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-f1-icon-uk.png" group-title="Sports",Sky Sports F1
 http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
-#EXTINF:-1 tvg-chno="534" tvg-id="SkySp.Fball.uk" tvg-name="Sky Sports Football" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-football-icon-uk.png" group-title="Sports",Sky Sports Football
+#EXTINF:-1 tvg-chno="375" tvg-id="SkySp.Fball.uk" tvg-name="Sky Sports Football" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-football-icon-uk.png" group-title="Sports",Sky Sports Football
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c88c/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODhjOjE3OTU1NzU2MDYwNTk6Y2RubGl2ZXR2LnR2OjJmMTI4ODcwZGU0ZjZmYmMuMzgyMmE3ZjBhOGM3N2IzNzQ0MjMyYmM2NjkzMTFhYTUzYWM1MGIyOTA1ZmUzMGZmMjhkZGYyNzAyNjIxODZjOQ
-#EXTINF:-1 tvg-chno="535" tvg-id="SkySp.Golf.uk" tvg-name="Sky Sports Golf" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-golf-icon-uk.png" group-title="Sports",Sky Sports Golf
+https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c88c/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODhjOjE3OTU2MjA2MDY2MzI6Y2RubGl2ZXR2LnR2OjJjNDc2YmI2OThjMDQ4MWYuMGQ5MDg0OWQwZjZmMTg0YmIyZDc4OTYxOWE1ZDUzYTBmY2ViMDk0YTBkOWY1ZjFkYWQyMjM1ZmNhZjhiNGMxYw
+#EXTINF:-1 tvg-chno="376" tvg-id="SkySp.Golf.uk" tvg-name="Sky Sports Golf" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-golf-icon-uk.png" group-title="Sports",Sky Sports Golf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c864/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODY0OjE3OTU1NzU2MDYyNzE6Y2RubGl2ZXR2LnR2OjBiZDBkYmY0ZDlkZjc2YjAuMjk4YjNjYzQwMmE3ZGI4OTExOWFiZTMwMDljNzk1NDg0ZjYzMmZhYzQxNmFiN2Y4MTMzZDQ2Y2ExNTM2ZDVhOQ
-#EXTINF:-1 tvg-chno="536" tvg-id="SkySpMainEvHD.uk" tvg-name="Sky Sports Main Event" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-main-event-icon-uk.png" group-title="Sports",Sky Sports Main Event
+https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c864/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODY0OjE3OTU2MjA2MDY4Mzc6Y2RubGl2ZXR2LnR2OmJiM2M4NjMyNTc2NTAxMDguNmU1MzFjMmY4OTM0ZjRhYThiYjI0YmY4Zjk4Zjg4YjY5OTAyOTcyZTU4ZGIwZjZiYWYzOGZkNGVmNDllNGZmNQ
+#EXTINF:-1 tvg-chno="377" tvg-id="SkySpMainEvHD.uk" tvg-name="Sky Sports Main Event" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-main-event-icon-uk.png" group-title="Sports",Sky Sports Main Event
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c855/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODU1OjE3OTU1NzU2MDY0MjI6Y2RubGl2ZXR2LnR2OjJlZmY4NmQ3MDdmNTFhNWMuYmM0NzkyOWQ4NWY1NGMxYmY0MzhkNTI1MDJmODRiNzY3NzY4MzUwZGRhYWUxMTA2ZmFhYmFhZGVlMzhiMTc0Ng
-#EXTINF:-1 tvg-chno="537" tvg-id="SkySp.Mix.HD.uk" tvg-name="Sky Sports Mix" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-mix-icon-uk.png" group-title="Sports",Sky Sports Mix
+https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c855/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODU1OjE3OTU2MjA2MDcwNDI6Y2RubGl2ZXR2LnR2OmI0MDU1YjZmNGQ3MGJiMTQuODM2ZjZiMzMzZjE2MmZkNTUzMzIxNzM1ZDhkM2NmOGRlMWFlZTk1ODIwNzdjNDUwMDE5MmRkNWExODI1NGE1Yg
+#EXTINF:-1 tvg-chno="378" tvg-id="SkySp.Mix.HD.uk" tvg-name="Sky Sports Mix" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-mix-icon-uk.png" group-title="Sports",Sky Sports Mix
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c873/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODczOjE3OTU1NzU2MDY1NzI6Y2RubGl2ZXR2LnR2OmJmMzZhZjY1ZTk3NjI3ZWQuNjg3YjViYjMwMjk5MWQ1YzhlZWNkYTE5OGY4YzdmODAyOGM3MjQ5NTRlNjY3ODYwODhlYWMyODAzZGE3NWQ3Mg
-#EXTINF:-1 tvg-chno="538" tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-premier-league-icon-uk.png" group-title="Sports",Sky Sports Premier League
+https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c873/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODczOjE3OTU2MjA2MDcyNTA6Y2RubGl2ZXR2LnR2OmIwNGQxMmMwZDg5YTJmNWQuYjk3Yjc1ZGU4ZmIwNGQ1Y2ZlMzIzNzNlOTI1NWQ5OTNjNTgzNTIyMWZmOTJlZjE2MDk3N2U0ZmI0OGMzMjQ4NA
+#EXTINF:-1 tvg-chno="379" tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-premier-league-icon-uk.png" group-title="Sports",Sky Sports Premier League
 http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
-#EXTINF:-1 tvg-chno="539" tvg-id="SkySp.Racing.HD.uk" tvg-name="Sky Sports Racing" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-racing-icon-uk.png" group-title="Sports",Sky Sports Racing
+#EXTINF:-1 tvg-chno="380" tvg-id="SkySp.Racing.HD.uk" tvg-name="Sky Sports Racing" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-racing-icon-uk.png" group-title="Sports",Sky Sports Racing
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c87b/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODdiOjE3OTU1NzU2MDY3Nzg6Y2RubGl2ZXR2LnR2OmYzMTc3ZDU3NGI4ZWUwNDUuMzgyNTIwMjA2ZDI0MzlhZDcyMDBmNTQ4OWU3ZWFkYTJjM2VmNjZhNDNlYWMxZjk0MTI1OTFkY2Q4MTE3ZTVmZg
-#EXTINF:-1 tvg-chno="540" tvg-id="SkySp.Tennis.HD.uk" tvg-name="Sky Sports Tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-tennis-icon-uk.png" group-title="Sports",Sky Sports Tennis
+https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c87b/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODdiOjE3OTU2MjA2MDc0NDk6Y2RubGl2ZXR2LnR2OjMzOGE0ZWQ4YzFmYmZlNTEuY2NiZWU2NWE1NWJhYjZlNjNmOWNmMjdlZWJlZjQ3NGVlYjg1YTNhYzNiYTdmOTg1YTYwY2MyYjhkYTZhZjNjNg
+#EXTINF:-1 tvg-chno="381" tvg-id="SkySp.Tennis.HD.uk" tvg-name="Sky Sports Tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-tennis-icon-uk.png" group-title="Sports",Sky Sports Tennis
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c867/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODY3OjE3OTU1NzU2MDY5OTA6Y2RubGl2ZXR2LnR2Ojc4ZmRmNTY2Y2JlZjc4MTYuODAzMTU4MmZjNDZhODQ2ZTM3MzU0ZGFlYTA4NTdmMWUzOTU4OGI1NDkwYzJkOTA2MGQ1MzE2NTAzZGFmM2ZmZg
-#EXTINF:-1 tvg-chno="541" tvg-id="Space.City.Home.Network.HD.us2" tvg-name="Space City Home Network" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s77744_dark_360w_270h.png" group-title="Sports",Space City Home Network
+https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c867/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODY3OjE3OTU2MjA2MDc2NTU6Y2RubGl2ZXR2LnR2OjZkNTdlODRkNjc4OTAyNjYuNjc0MDA0NjQyNTM5NzA2MGFhNTc5ZjdkYjc4MWMzOTU4YjRmYTNjOTk5YTFlNDg4NjkxZjFlMWNjODMzNWIyOA
+#EXTINF:-1 tvg-chno="382" tvg-id="Space.City.Home.Network.HD.us2" tvg-name="Space City Home Network" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s77744_dark_360w_270h.png" group-title="Sports",Space City Home Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363d4b1/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNkNGIxOjE3OTU1NzU2MDcxODc6Y2RubGl2ZXR2LnR2OjE3YWU4MmQ3MTVhYzlkNDIuOTUwNjI1MzdlNzQ4NzU3ZGFhYWNjZGE4ODY5ZThlYzMyODk1NjY4ZDAxZTUzOGI1Yjk5OGRlOGI1MWVmY2U2NA
-#EXTINF:-1 tvg-chno="542" tvg-id="SNY.SportsNet.New.York.HD.us2" tvg-name="SportsNet New York" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s50038_dark_360w_270h.png" group-title="Sports",SportsNet New York
+https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363d4b1/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNkNGIxOjE3OTU2MjA2MDc4Njg6Y2RubGl2ZXR2LnR2Ojc3Nzk5YTBlZmEzMDAzNmQuODAzMTllN2U3ZDQyMmZkMGZlMzdjNDc0YWY1OTEwY2Y2NGE1YzNjODdkZTY0MWYxNzNmYTdkZDk2OGYyNTY4NQ
+#EXTINF:-1 tvg-chno="383" tvg-id="SNY.SportsNet.New.York.HD.us2" tvg-name="SportsNet New York" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s50038_dark_360w_270h.png" group-title="Sports",SportsNet New York
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363d4b3/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNkNGIzOjE3OTU1NzU2MDczOTU6Y2RubGl2ZXR2LnR2OmEyODE4YzBjMGU1NDdhNjMuMDA1ZDVlZTdmMTFkYmE5MjU5ZDkxYTE5NmRkYWYzYzk2NjgwNzQzODMwZWVhOGVmNTc3ZDI1NDJiOTIxZDljYQ
-#EXTINF:-1 tvg-chno="543" tvg-id="Tennis.Channel.HD.us2" tvg-name="Tennis Channel" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s60316_dark_360w_270h.png" group-title="Sports",Tennis Channel
+https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363d4b3/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNkNGIzOjE3OTU2MjA2MDgwNzI6Y2RubGl2ZXR2LnR2OjAyMWI3YzNkYjY0NDY4MWEuZjhiMWFjYTEwZjEyOWU2ODU3Y2FhZjY4OGYwYzAzNDU1YzBmNGJmZWFhZTZiYjgyYzIzMDUyN2Q0MjE3ZDRiZg
+#EXTINF:-1 tvg-chno="384" tvg-id="Tennis.Channel.HD.us2" tvg-name="Tennis Channel" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s60316_dark_360w_270h.png" group-title="Sports",Tennis Channel
 http://23.237.104.106:8080/USA_TENNIS/index.m3u8
-#EXTINF:-1 tvg-chno="544" tvg-id="plex.tv.Tennis.Channel.2.plex" tvg-name="Tennis Channel 2" tvg-logo="https://image.xumo.com/v1/channels/channel/99951389/500x500.webp?type=color_onBlack" group-title="Sports",Tennis Channel 2
+#EXTINF:-1 tvg-chno="385" tvg-id="plex.tv.Tennis.Channel.2.plex" tvg-name="Tennis Channel 2" tvg-logo="https://image.xumo.com/v1/channels/channel/99951389/500x500.webp?type=color_onBlack" group-title="Sports",Tennis Channel 2
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/c7dbf944-ca35-4a39-a52a-5ecfbcc83dda/4.m3u8
-#EXTINF:-1 tvg-chno="545" tvg-id="TNT.Sports.1.HD.uk" tvg-name="TNT Sports 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-1-uk.png" group-title="Sports",TNT Sports 1
+#EXTINF:-1 tvg-chno="386" tvg-id="TNT.Sports.1.HD.uk" tvg-name="TNT Sports 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-1-uk.png" group-title="Sports",TNT Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c88f/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODhmOjE3OTU1NzU2MDc1OTY6Y2RubGl2ZXR2LnR2OmI4OTNkNTdjZTNkZGMwNjEuNDMwODA2ZjAwMGU3NTc4NWZiYTI3ZWRhNjJiZDJiZGRkMDlmYmJmMTI1YTA3ZmMyNDE2YzQ3OWFjYzI5ZDQ2OA
-#EXTINF:-1 tvg-chno="546" tvg-id="TNT.Sports.2.HD.uk" tvg-name="TNT Sports 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-2-uk.png" group-title="Sports",TNT Sports 2
+https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c88f/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODhmOjE3OTU2MjA2MDgyNzE6Y2RubGl2ZXR2LnR2OjAyMDI0Nzg0YWZiM2UxYjAuNDc3ODg4YWEyNTcyYTA1Y2M0ZjJmMDYzMmUzZmNlZDBmNDk3YTQxOGFiYmUyODRkOWY5MDJhODU0MmIxOGEwMA
+#EXTINF:-1 tvg-chno="387" tvg-id="TNT.Sports.2.HD.uk" tvg-name="TNT Sports 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-2-uk.png" group-title="Sports",TNT Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c892/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODkyOjE3OTU1NzU2MDc4MDY6Y2RubGl2ZXR2LnR2OmQ2YWRiNTJkZTBhMDk4YjcuNjc0M2I1YWQ3NzI2YWQxMmIyM2FiYWE1ODdiNDk0ZDYzODE5MWI2YWVhMmQzNDJhYWIxYmVhN2JiNWRlY2JjOA
-#EXTINF:-1 tvg-chno="547" tvg-id="TNT.Sports.3.HD.uk" tvg-name="TNT Sports 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-3-uk.png" group-title="Sports",TNT Sports 3
+https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c892/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODkyOjE3OTU2MjA2MDg0NzM6Y2RubGl2ZXR2LnR2OjI3MzY0M2RkMjJhNmQ5YjkuNDVhYThjM2M4NTRhYjQ5MTM5YTk5ZTE1MWFlMjhkZTdkMTk4MDM4Zjc1ODEwNjU3ZTNlYzMxYTQzMTBlNGZjZA
+#EXTINF:-1 tvg-chno="388" tvg-id="TNT.Sports.3.HD.uk" tvg-name="TNT Sports 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-3-uk.png" group-title="Sports",TNT Sports 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c897/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODk3OjE3OTU1NzU2MDgwMDg6Y2RubGl2ZXR2LnR2OjRkZGVkZGRlMTZmYmFjZjEuMjZhYzU3ZmFiYjU0NDdlZDU5OWFjNWUxMDE0ZWVmNGU4YTA5MzY0MTk0NTAzYjU0NTUxMDI0NDZjYjk5NWI3Ng
-#EXTINF:-1 tvg-chno="548" tvg-id="TNT.Sports.4.HD.uk" tvg-name="TNT Sports 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-4-uk.png" group-title="Sports",TNT Sports 4
+https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c897/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODk3OjE3OTU2MjA2MDg2Nzc6Y2RubGl2ZXR2LnR2OmZhNDgxNDliOGRlODFlZTAuY2UyYzg5ZGM4ZmU4NGRhODlmM2U0M2YzMDczNDQ1OWQzOWY0MWFiMGYwY2M2M2RhMDFmYWM5MjJmZDU3MjljOA
+#EXTINF:-1 tvg-chno="389" tvg-id="TNT.Sports.4.HD.uk" tvg-name="TNT Sports 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-4-uk.png" group-title="Sports",TNT Sports 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c89b/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODliOjE3OTU1NzU2MDgyMzA6Y2RubGl2ZXR2LnR2OjA1ZmM4Y2E4MzQzYmYxZWQuZjFkZTBhMGE4NDQ4OTEzZjMwZGZiZTMyZmU5NGM2YmNhNTNiNjA5ZTJhNTAzYjE3YWNiMDgyY2ZjZGY0NWIxOA
-#EXTINF:-1 tvg-chno="549" tvg-id="TSN.1.ca2" tvg-name="TSN 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-1-ca.png" group-title="Sports",TSN 1
+https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c89b/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODliOjE3OTU2MjA2MDg4ODM6Y2RubGl2ZXR2LnR2OjcyZjE0YTNkMTA2NTBhMTMuYmExN2Y3N2RhMGQ2ZjA1NjVmN2EyZmI0MjJkYjRmMzA3YjdlNWQ0YzJiYWJlZDJkMDM0OTQwNDBjZDlhNTNiZA
+#EXTINF:-1 tvg-chno="390" tvg-id="TSN.1.ca2" tvg-name="TSN 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-1-ca.png" group-title="Sports",TSN 1
 https://tvsen5.aynaott.com/tsn1/index.m3u8
-#EXTINF:-1 tvg-chno="550" tvg-id="TSN.2.ca2" tvg-name="TSN 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-2-ca.png" group-title="Sports",TSN 2
+#EXTINF:-1 tvg-chno="391" tvg-id="TSN.2.ca2" tvg-name="TSN 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-2-ca.png" group-title="Sports",TSN 2
 https://tvsen5.aynaott.com/tsn2/index.m3u8
-#EXTINF:-1 tvg-chno="551" tvg-id="TSN.3.ca2" tvg-name="TSN 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-3-ca.png" group-title="Sports",TSN 3
+#EXTINF:-1 tvg-chno="392" tvg-id="TSN.3.ca2" tvg-name="TSN 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-3-ca.png" group-title="Sports",TSN 3
 https://tvsen5.aynaott.com/tsn3/index.m3u8
-#EXTINF:-1 tvg-chno="552" tvg-id="TSN.4.ca2" tvg-name="TSN 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-4-ca.png" group-title="Sports",TSN 4
+#EXTINF:-1 tvg-chno="393" tvg-id="TSN.4.ca2" tvg-name="TSN 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-4-ca.png" group-title="Sports",TSN 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6add40b12d4a99e07363ed3f/playlist.m3u8?token=NmFkZDQwYjEyZDRhOTllMDczNjNlZDNmOjE3OTU1NzU2MDg2MzQ6Y2RubGl2ZXR2LnR2OjY5NTE3ZTEzN2ZhMDhkMjIuMTliYWIzMDMzMjVkZjMyYjRlZTQ2NGJlMDhmYWI0YzBmY2UwMjI1YWI4ZGM5N2E1N2UwMWUyN2YxOGM5ZDgzMQ
-#EXTINF:-1 tvg-chno="553" tvg-id="TSN.5.ca2" tvg-name="TSN 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-5-ca.png" group-title="Sports",TSN 5
+https://cdnlivetv.tv/secure/api/v1/6add40b12d4a99e07363ed3f/playlist.m3u8?token=NmFkZDQwYjEyZDRhOTllMDczNjNlZDNmOjE3OTU2MjA2MDkzMDQ6Y2RubGl2ZXR2LnR2OjQ3OTFkODJhZDc2MWI2NjIuYTUxZjljNzUyZDkwNmUwOGU0MDlmOWY3OGIzMTMzZDYxNzMyZTkxNGE3ZjFhNTliMmE4OWRmYTE4NmRkZTYwMw
+#EXTINF:-1 tvg-chno="394" tvg-id="TSN.5.ca2" tvg-name="TSN 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-5-ca.png" group-title="Sports",TSN 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6add40b12d4a99e07363ed42/playlist.m3u8?token=NmFkZDQwYjEyZDRhOTllMDczNjNlZDQyOjE3OTU1NzU2MDg4MzQ6Y2RubGl2ZXR2LnR2OjkyMGYwMTc3YzQ4N2UyYmEuYjE3ODk5MDhlNmNiZmExYTFlYWU4NzYzZjE2NDQwYzI4NjY3NTYzZTEwN2JkZDVmYTE5OWYyMmYzMTJjNDhlYg
-#EXTINF:-1 tvg-chno="554" tvg-id="TUDN.us2" tvg-name="TUDN" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s75176_dark_360w_270h.png" group-title="Sports",TUDN
+https://cdnlivetv.tv/secure/api/v1/6add40b12d4a99e07363ed42/playlist.m3u8?token=NmFkZDQwYjEyZDRhOTllMDczNjNlZDQyOjE3OTU2MjA2MDk1MTA6Y2RubGl2ZXR2LnR2OjBiN2JiZjZiYWQ1ZjQ0MTkuYmI2NDFjNGNhMWExNTk4Y2MwMmFkMDcyOThiZDE1MjM5M2NiZjBmMTcyMjZkODY1NmZlMzYyOTNiODM4MjM3Yg
+#EXTINF:-1 tvg-chno="395" tvg-id="TUDN.us2" tvg-name="TUDN" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s75176_dark_360w_270h.png" group-title="Sports",TUDN
 https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
-#EXTINF:-1 tvg-chno="555" tvg-id="plex.tv.Willow.Sports.plex" tvg-name="Willow Sports" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s164602_dark_360w_270h.png" group-title="Sports",Willow Sports
+#EXTINF:-1 tvg-chno="396" tvg-id="plex.tv.Willow.Sports.plex" tvg-name="Willow Sports" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s164602_dark_360w_270h.png" group-title="Sports",Willow Sports
 https://amg01269-amg01269c1-distrotv-us-5379.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-distrotvus/playlist.m3u8
-#EXTINF:-1 tvg-chno="556" tvg-id="Yes.Network.us2" tvg-name="YES Network" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s30017_dark_360w_270h.png" group-title="Sports",YES Network
+#EXTINF:-1 tvg-chno="397" tvg-id="Yes.Network.us2" tvg-name="YES Network" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s30017_dark_360w_270h.png" group-title="Sports",YES Network
 http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
