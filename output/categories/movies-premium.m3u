@@ -1,33 +1,31 @@
 #EXTM3U url-tvg="https://s.id/d9sEPG"
-#EXTINF:-1 tvg-chno="539" tvg-id="AMC.HD.us2" tvg-name="AMC" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s10021_dark_360w_270h.png" group-title="Movies & Premium",AMC
-https://tvsen6.aynaott.com/amc/index.m3u8
-#EXTINF:-1 tvg-chno="540" tvg-id="Cinemax.Classics.us2" tvg-name="Cinemax Classics" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cinemax-classics-us.png" group-title="Movies & Premium",Cinemax Classics
+#EXTINF:-1 tvg-chno="503" tvg-id="Cinemax.Classics.us2" tvg-name="Cinemax Classics" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cinemax-classics-us.png" group-title="Movies & Premium",Cinemax Classics
 http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
-#EXTINF:-1 tvg-chno="541" tvg-id="Cinemax.Hits.us2" tvg-name="Cinemax Hits" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cinemax-hits-us.png" group-title="Movies & Premium",Cinemax Hits
+#EXTINF:-1 tvg-chno="504" tvg-id="Cinemax.Hits.us2" tvg-name="Cinemax Hits" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cinemax-hits-us.png" group-title="Movies & Premium",Cinemax Hits
 http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
-#EXTINF:-1 tvg-chno="542" tvg-id="Cinemax.HD.(Pacific).us2" tvg-name="Cinemax West" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cinemax-us.png" group-title="Movies & Premium",Cinemax West
+#EXTINF:-1 tvg-chno="505" tvg-id="Cinemax.HD.(Pacific).us2" tvg-name="Cinemax West" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cinemax-us.png" group-title="Movies & Premium",Cinemax West
 http://23.237.104.106:8080/USA_CINEMAX_WEST/index.m3u8
-#EXTINF:-1 tvg-chno="543" tvg-id="FX.Movie.Channel.HD.us2" tvg-name="FX Movie Channel" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s70253_dark_360w_270h.png" group-title="Movies & Premium",FX Movie Channel
+#EXTINF:-1 tvg-chno="506" tvg-id="FX.Movie.Channel.HD.us2" tvg-name="FX Movie Channel" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s70253_dark_360w_270h.png" group-title="Movies & Premium",FX Movie Channel
 http://89.187.179.148:826/1368/gXwiagaXda/29312
-#EXTINF:-1 tvg-chno="544" tvg-id="Hallmark.Channel.HD.us2" tvg-name="Hallmark Channel" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s11221_dark_360w_270h.png" group-title="Movies & Premium",Hallmark Channel
+#EXTINF:-1 tvg-chno="507" tvg-id="Hallmark.Channel.HD.us2" tvg-name="Hallmark Channel" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s11221_dark_360w_270h.png" group-title="Movies & Premium",Hallmark Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363ce10/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZTEwOjE3OTU2NTY2MDUzMTg6Y2RubGl2ZXR2LnR2OjUwNTg2MGU3NTBkY2QwOTMuNDc4M2QxMWM1NjY4ZTEyNDgxNWRhMzQzZTJjYjBlMTc2OGJjMDY1NWU3NTJlMGVkMTdjM2IyYTJlOWRlMzU5OA
-#EXTINF:-1 tvg-chno="545" tvg-id="plex.tv.Hallmark.Movies.&.More.plex" tvg-name="Hallmark Movies & More" tvg-logo="https://images.vizio.com/api/imageid/1648021508/600/130?quality=80" group-title="Movies & Premium",Hallmark Movies & More
+https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363ce10/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZTEwOjE3OTU2OTk4MDUwNTI6Y2RubGl2ZXR2LnR2OmRkNzhiOWQ5ZjU5MWUxNDMuNWYxODYzNWNiZGM3YjYxZjY3YjA4MzBhYmQ4ODAwMTAxZDViZTcxZGUwMTk0MTc0NTliZjQ2MGM4YTU2YmIwNw
+#EXTINF:-1 tvg-chno="508" tvg-id="plex.tv.Hallmark.Movies.&.More.plex" tvg-name="Hallmark Movies & More" tvg-logo="https://images.vizio.com/api/imageid/1648021508/600/130?quality=80" group-title="Movies & Premium",Hallmark Movies & More
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/bf3f1b07-6a0a-4e5b-8eb9-9ba0de5b9e45/5.m3u8
-#EXTINF:-1 tvg-chno="546" tvg-id="Paramount.Network.HD.us2" tvg-name="Paramount Network" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s11163_dark_360w_270h.png" group-title="Movies & Premium",Paramount Network
+#EXTINF:-1 tvg-chno="509" tvg-id="Paramount.Network.HD.us2" tvg-name="Paramount Network" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s11163_dark_360w_270h.png" group-title="Movies & Premium",Paramount Network
 http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
-#EXTINF:-1 tvg-chno="547" tvg-id="ReelzChannel.HD.us2" tvg-name="Reelz Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/reelz-us.png" group-title="Movies & Premium",Reelz Channel
+#EXTINF:-1 tvg-chno="510" tvg-id="ReelzChannel.HD.us2" tvg-name="Reelz Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/reelz-us.png" group-title="Movies & Premium",Reelz Channel
 https://cdn.katapy.io/cache/stream/reelztv/reelztv/playlist.m3u8
-#EXTINF:-1 tvg-chno="548" tvg-id="Showtime.Extreme.HD.us2" tvg-name="Showtime Extreme" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s18086_dark_360w_270h.png" group-title="Movies & Premium",Showtime Extreme
+#EXTINF:-1 tvg-chno="511" tvg-id="Showtime.Extreme.HD.us2" tvg-name="Showtime Extreme" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s18086_dark_360w_270h.png" group-title="Movies & Premium",Showtime Extreme
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363d28c/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNkMjhjOjE3OTU2NTY2MDY0MDQ6Y2RubGl2ZXR2LnR2OmMzNzkxMTI0MGRhNjg5ODMuODgzZDBhYWQxYTU5ZmRiZmJjODU0OTUzNzBiMTk0MjUxZjE1NjNiNTJiNzAzN2FjNWI2NjdiMzQwNTE5ZDJkZA
-#EXTINF:-1 tvg-chno="549" tvg-id="Showtime.Familyzone.HD.us2" tvg-name="Showtime FamilyZone" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s25274_dark_360w_270h.png" group-title="Movies & Premium",Showtime FamilyZone
+https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363d28c/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNkMjhjOjE3OTU2OTk4MDY0OTA6Y2RubGl2ZXR2LnR2OjRkNDVkMmQ4YzYxNzc3OTAuOWRkZWU0MzQzYzFiMDZhZjc3NTQyYWJlOGQ2OTYyYjUxMzI5YjY2ODU2OTQ5ZGYzMjZiNDkxYjFmYjIyNTlmZA
+#EXTINF:-1 tvg-chno="512" tvg-id="Showtime.Familyzone.HD.us2" tvg-name="Showtime FamilyZone" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s25274_dark_360w_270h.png" group-title="Movies & Premium",Showtime FamilyZone
 http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8
-#EXTINF:-1 tvg-chno="550" tvg-id="Starz.HD.us2" tvg-name="Starz" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s12719_dark_360w_270h.png" group-title="Movies & Premium",Starz
+#EXTINF:-1 tvg-chno="513" tvg-id="Starz.HD.us2" tvg-name="Starz" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s12719_dark_360w_270h.png" group-title="Movies & Premium",Starz
 http://89.187.179.148:826/1368/gXwiagaXda/1271
-#EXTINF:-1 tvg-chno="551" tvg-id="Starz.Comedy.HD.us2" tvg-name="Starz Comedy" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s34901_dark_360w_270h.png" group-title="Movies & Premium",Starz Comedy
+#EXTINF:-1 tvg-chno="514" tvg-id="Starz.Comedy.HD.us2" tvg-name="Starz Comedy" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s34901_dark_360w_270h.png" group-title="Movies & Premium",Starz Comedy
 http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
-#EXTINF:-1 tvg-chno="552" tvg-id="Starz.Encore.Family.SD.us2" tvg-name="Starz Encore Family" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/starz-encore-family-us.png" group-title="Movies & Premium",Starz Encore Family
+#EXTINF:-1 tvg-chno="515" tvg-id="Starz.Encore.Family.SD.us2" tvg-name="Starz Encore Family" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/starz-encore-family-us.png" group-title="Movies & Premium",Starz Encore Family
 http://23.237.104.106:8080/USA_STARZ_FAMILY/index.m3u8
-#EXTINF:-1 tvg-chno="553" tvg-id="Turner.Classic.Movies.HD.us2" tvg-name="Turner Classic Movies" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s12852_dark_360w_270h.png" group-title="Movies & Premium",Turner Classic Movies
+#EXTINF:-1 tvg-chno="516" tvg-id="Turner.Classic.Movies.HD.us2" tvg-name="Turner Classic Movies" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s12852_dark_360w_270h.png" group-title="Movies & Premium",Turner Classic Movies
 https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
