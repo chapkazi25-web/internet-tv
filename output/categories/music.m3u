@@ -1,9 +1,9 @@
 #EXTM3U url-tvg="https://s.id/d9sEPG"
-#EXTINF:-1 tvg-chno="517" tvg-id="Fuse.HD.us2" tvg-name="Fuse" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s14929_dark_360w_270h.png" group-title="Music",Fuse
+#EXTINF:-1 tvg-chno="505" tvg-id="Fuse.HD.us2" tvg-name="Fuse" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s14929_dark_360w_270h.png" group-title="Music",Fuse
 http://23.237.104.106:8080/USA_FUSE/index.m3u8
-#EXTINF:-1 tvg-chno="518" tvg-id="MTV.-.Music.Television.HD.us2" tvg-name="MTV" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s10986_dark_360w_270h.png" group-title="Music",MTV
+#EXTINF:-1 tvg-chno="506" tvg-id="MTV.-.Music.Television.HD.us2" tvg-name="MTV" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s10986_dark_360w_270h.png" group-title="Music",MTV
 http://23.237.104.106:8080/USA_MTV/index.m3u8
-#EXTINF:-1 tvg-chno="519" tvg-id="MTVLIVE.us2" tvg-name="MTV Live" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s74635_dark_360w_270h.png" group-title="Music",MTV Live
+#EXTINF:-1 tvg-chno="507" tvg-id="MTVLIVE.us2" tvg-name="MTV Live" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s74635_dark_360w_270h.png" group-title="Music",MTV Live
 http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
-#EXTINF:-1 tvg-chno="520" tvg-id="VH1.HD.us2" tvg-name="VH1" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s11218_dark_360w_270h.png" group-title="Music",VH1
+#EXTINF:-1 tvg-chno="508" tvg-id="VH1.HD.us2" tvg-name="VH1" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s11218_dark_360w_270h.png" group-title="Music",VH1
 http://23.237.104.106:8080/USA_VH1/index.m3u8
